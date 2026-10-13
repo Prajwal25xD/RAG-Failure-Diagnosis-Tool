@@ -1,0 +1,353 @@
+1 | P a g e  
+ 
+ 
+Corrigendum-1 dated 21/07/2026 
+ 
+ 
+Request for Proposal (RFP) for Empanelment of Service Providers / 
+Publishers for supply, licensing and access of e-Books for public 
+libraries, Government of Gujarat 
+RFP# GIL/e-Gov/2026/e-Books  
+GeM Bid No:- GEM/2026/B/7581031 
+ 
+Please find the pre-BID queries responses 
+ 
+(All bidders are advised to carefully read and consider all Pre-Bid Queries and Responses.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For more details, visit www.gil.gujarat.gov.in & www.gem.gov.in 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+
+2 | P a g e  
+ 
+Pre-Bid Queries Responses of Request for Proposal (RFP) for Empanelment of Service 
+Providers / Publishers for supply, licensing and access of e-Books for public libraries, 
+Government of Gujarat 
+RFP# GIL/e-Gov/2026/e-Books  
+GeM Bid No:- GEM/2026/B/7581031 
+ 
+Sr No 
+RFP reference 
+Content/Clause of RFP 
+requiring Clarification 
+Clarification 
+Sought/Suggestion 
+Responses 
+1 
+Turnover of the 
+bidder 
+[2.A.2] 
+The RFP requests the 
+average annual turnover 
+for the financial years 
+2022-23, 2023-24, and 
+2024-25 
+As this tender is published in 
+June 2026, the immediately 
+preceding completed 
+financial year is FY 2025-26. 
+According to standard public 
+procurement guidelines and 
+rules, the turnover of the 
+most recent financial year 
+(FY 2025-26) must be taken 
+into consideration to reflect 
+the current financial 
+capability of the bidders. 
+● Since finalized and audited 
+financial statements for FY 
+2025-26 might still be under 
+process for some vendors at 
+this time of the year, the 
+department should allow 
+bidders to submit a Turnover 
+Certificate issued by a 
+Chartered Accountant (CA) 
+for FY 2025-26. 
+● To safeguard the 
+department's interests, a 
+condition can be 
+incorporated stating that 
+selected vendors must 
+submit their final Audited 
+Balance Sheet and Profit & 
+Loss statement within 3 
+months of empanelment, 
+failing which their 
+empanelment and any 
+placed orders shall stand 
+cancelled. 
+The financial years shall 
+be revised to FY 2023-
+24, FY 2024-25 & FY 
+2025-26 or FY 2022-23, 
+FY 2023-24 & FY 2024-
+25, if FY 2025-26 is 
+unaudited. 
+2 
+Turnover of the 
+bidder 
+[2.A.2] 
+As this is the very first time 
+the Department is floating 
+a tender for E-books/E-
+Therefore, under the term 
+"Related Business Activities", 
+the department must 
+Turnover from the 
+supply/sale of physical 
+books, library books, 
+
+
+3 | P a g e  
+ 
+content in the state, the 
+local language publishing 
+market is traditionally 
+based on printed materials. 
+It is practically impossible 
+for local language vendors 
+to possess an exclusive 
+turnover of INR 1.68 Crore 
+solely from pure digital e-
+books over the previous 
+financial years. 
+explicitly clarify and allow 
+the turnover generated from 
+the supply/sale of Physical 
+Books, Library Books, and 
+Printed Educational 
+Materials to be considered 
+valid for eligibility. 
+Restricting it strictly to digital 
+services will disqualify 
+almost all veteran local 
+publishers and language 
+experts. 
+printed educational 
+materials, and e-
+books/e-content shall 
+be considered under 
+related business 
+activities. 
+3 
+Turnover of the 
+bidder 
+[2.A.2] 
+Unjustified Turnover 
+Criteria vs Divided 
+Empanelment Categories 
+Page 19 (Clause 1.1.8) 
+specifies that the 
+empanelment is divided into 
+two separate categories: (1) 
+Competitive categories and 
+(2) Non-competitive 
+categories. The scope also 
+mandates a minimum of 50% 
+competitive books and 70% 
+content in the local Gujarati 
+language. Since the orders 
+will be distributed across 
+categories and won't go to a 
+single party, demanding a 
+double turnover criteria (INR 
+1.68 Crore against an 84 
+Lakh bid value) restricts local 
+vendors and violates 
+competitive GeM 
+procurement policies. 
+The minimum average 
+annual turnover 
+requirement has been 
+revised from ₹1.68 
+crore to ₹1.50 crore to 
+encourage wider 
+competition while 
+ensuring adequate 
+financial and 
+operational capability of 
+bidders. All other terms 
+and conditions of the 
+bid shall remain 
+unchanged. 
+4 
+Annexure-1 
+Objection to "Total Value 
+Wise Evaluation" Method 
+A Total Value-Wise 
+Evaluation is technically 
+flawed for e-books. Books 
+are intellectual property, not 
+standard commercial 
+commodities. Every 
+book/content source is 
+unique in terms of page 
+count, quantity-wise utility, 
+content quality, author’s 
+brand value, and publisher 
+credibility. Awarding the 
+tender strictly to the lowest 
+total bidder (L1) means 
+cheaper, lower-quality 
+The evaluation 
+methodology shall be as 
+specified in the RFP. 
+Bidders are advised to 
+submit the list of 
+available e-
+books/content as 
+Annexure-1 in 
+accordance with the 
+scope of work and other 
+requirements 
+prescribed in the bid 
+document. The existing 
+provision shall remain 
+unchanged. 
+
+
+4 | P a g e  
+ 
+content will outprice 
+premium educational and 
+local Gujarati literature. 
+5 
+2.3.1 
+Request to Remove 
+"Positive Net Worth" and 
+"API Integration" Clauses 
+If a bidder can successfully 
+deliver the required e-book 
+subscriptions, historical net 
+worth is irrelevant and acts 
+as an entry barrier for local 
+startups. Furthermore, 
+forcing API single-window 
+integration at this 
+preliminary subscription 
+stage is impractical and 
+should be handled 
+independently in future 
+technical bids. 
+Positive Net Worth-  
+As per RFP. No change 
+in the Positive Net 
+Worth criterion. 
+ 
+API / EPUB Access Key-  
+The requirement to 
+provide API/EPUB 
+Access Key may be 
+made optional. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+22 | P a g e  
+ 
+Corrigendum in Pre-Qualification Criteria in Section 2 
+ 
+Section 
+Criteria 
+Required Document as per 
+Existing RFP 
+Updated Required Document 
+as 
+Section-2 
+Turnover of the bidder  
+ 
+The bidder must have an 
+average annual turnover of 
+at least INR 1.68 Crore for FY 
+2022-23, 2023-24 and 2024-
+25.  
+The turnover should be from 
+e-Content/ Digital Services or 
+related business activities. 
+ 
+ 
+• Audited and Certified 
+Balance Sheet & Profit/ Loss 
+Account of last 3 Financial 
+Years.  
+• CA certificate clearly 
+certifying the turnover 
+requirements as per the 
+clause.  
+The bidder must have an average 
+annual turnover of at least INR 
+1.50 Crore for FY 2023-24, FY 
+2024-25 & FY 2025-26 or FY 
+2022-23, FY 2023-24 & FY 2024-
+25, if FY 2025-26 is unaudited. 
+The turnover should be from e-
+Content/ Digital Services or 
+related business activities, i.e. 
+turnover from the supply/sale of 
+physical books, library books, 
+printed educational materials, 
+and e-books/e-content etc. 
+ 
+• Audited and Certified Balance 
+Sheet & Profit/ Loss Account of 
+FY 2023-24, FY 2024-25 & FY 
+2025-26 or FY 2022-23, FY 2023-
+24 & FY 2024-25, if FY 2025-26 is 
+unaudited. 
+ 
+• CA certificate clearly certifying 
+the turnover requirements as per 
+the clause. 
+ 
+ 
+ 
+ 
+ 
+    *******************************END********************************** 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1100 @@
+S.No RFP
+Document
+Reference(s)
+(Clause
+&
+Page
+Number(s))
+Content   of   RFP   requiring
+Clarification(s)
+Points of
+clarification
+Responses to the Queries
+1
+Page No. 22
+Choice of Agency (item category wise Empanelment)
+o 2 Agencies (L1, L2) with a minimum of 2 different OEMs shall be identified for
+Empanelment subject to match the L1 rate.
+o Once the L1 bidder is identified, bidders at L2 position shall be invited to match
+the discovered L1 rate.
+Upon their acceptance, two agencies shall be finalized for empanelment, subject to
+the requirement of empanelment of two different OEMs
+o If the L2 bidder declines to match the L1 rate, the next lowest financial bidder
+representing a different OEM will be invited to match the L1 rate. This process shall
+continue until two agencies representing two different OEMs are identified for
+empanelment.
+o In case any agencies are not willing to match the L1 rate, empanelment shall
+proceed with the available
+L1 agency.
+We request the committee to consider distributing the order allocation among L1, L2, and L3
+bidders (rather than limiting it strictly to L1 and L2) to ensure wider participation and better
+project execution.  
+No Change. As per RFP.
+2
+TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop &
+Page no.18, Desktop 1
+Desktop-1
+Processor: 14th Generation Intel core i5 14400 series or higher / AMD Ryzen 5
+8500G series or higher and
+PC should have been Manufactured in the year 2025 or thereafter.
+Kindly help to amend the clause "Processor: 14th Generation Intel core i5 14400 series or higher /
+AMD Ryzen 5 8500G series or higher with Neural Processing unit (NPU enabled Processor) with AI
+TOPS and PC should have been Manufactured in the year 2025 or thereafter".
+No Change. As per RFP.
+3
+TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop &
+Page no.18, Desktop 2
+Desktop-2
+Processor: 14th Generation Intel core i7 14700 series or higher / AMD Ryzen 7
+8700G series or higher and
+PC should have been Manufactured in the year 2025 or thereafter.
+Kindly help to amend the clause "Processor: 14th Generation Intel core i7 14700 series or higher /
+AMD Ryzen 7 8700G series or higher with Neural Processing unit (NPU enabled Processor) with AI
+TOPS and PC should have been Manufactured in the year 2025 or thereafter".
+No Change. As per RFP.
+4
+TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop &
+Page
+no.19,
+All-in-one
+Desktop 1
+All-in-One Desktop-1
+Processor: 14th Generation Intel core i5 14400 series or higher / AMD Ryzen 5
+8500G series or higher and
+PC should have been Manufactured in the year 2025 or thereafter
+Kindly help to amend the clause "Processor: 14th Generation Intel core i5 14400 series or higher /
+AMD Ryzen 5 8500G series or higher with Neural Processing unit (NPU enabled Processor) with AI
+TOPS and PC should have been Manufactured in the year 2025 or thereafter".
+No Change. As per RFP.
+5
+TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop &
+Page
+no.19,
+All-in-one
+Desktop 2
+All-in-One Desktop-2
+ü Processor: 14th Generation Intel core i5 14400 series or higher / AMD Ryzen 5
+8500G series or higher and
+PC should have been Manufactured in the year 2025 or thereafter.
+Kindly help to amend the clause "Processor: 14th Generation Intel core i7 14400 series or higher /
+AMD Ryzen 5 8500G series or higher with Neural Processing unit (NPU enabled Processor) with AI
+TOPS and PC should have been Manufactured in the year 2025 or thereafter".
+No Change. As per RFP.
+6
+TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop &
+Page no.21, Laptop
+Laptop
+Processor: 13th Generation Intel core i5 1334U series or higher / AMD Ryzen 5
+7535U series or higher and
+Laptop should have been manufactured in the year 2025 or thereafter.
+Kindly help to amend the clause as " Processor: 13th Generation Intel core i5 1334U series or
+higher / AMD Ryzen 5 7535U series or higher with Neural Processing unit (NPU enabled
+Processor) with AI TOPS and Laptop should have been manufactured in the year 2025 or
+thereafter.
+No Change. As per RFP.
+7
+TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop &
+Page no.21, Laptop
+Laptop
+RAM Size (GB): 16 GB DDR5 or higher (Single Module) with 1 DIMM slot free.
+Should support expansion up
+to 32 GB
+Kindly help to remove additional 1 DIMM slot and amend the clause as "16 GB DDR5 or higher
+(Single Module)" 
+No Change. As per RFP.
+8
+Existing Provision:
+"2 Agencies (L1, L2) with a minimum of 2 different OEMs shall be identified for
+Empanelment subject to match the L1 rate.
+Up to three (3) technically qualified agencies, preferably representing different OEMs, may be
+empaneled for each item category, subject to matching the discovered L1 rate and complying
+with all eligibility requirements prescribed in the tender.
+The quantity allocation may be considered in any suitable ratio as deemed appropriate
+No Change. As per RFP.
+9
+Past Performance (OEM) The OEM (themselves or through resellers) must have supplied same or similar
+category products within the last seven (7) years before the bid opening date. Work
+orders either directly by the OEM or through its authorized resellers will be
+considered. Cumulative quantities of all such work orders during the last seven (7)
+years will be considered for evaluation. Experience of any OEM other than the
+quoted OEM shall not be considered.
+Kindly amend the clause to specify that the qualifying work orders may be executed for any
+Central Government Organization, State Government Organization, Public Sector Undertaking
+(PSU), Public Listed Company, or Higher Educational Institution established under an Act of
+Parliament/State Legislature or recognized by UGC, within India. The cumulative quantities of
+such work orders executed during the last seven (7) years may be considered for evaluation. This
+amendment will recognize the execution capability of OEMs across reputed Government, Public
+Sector, Educational and Listed Private Sector organizations while ensuring broader participation
+and healthy competition without compromising quality or performance.
+No Change. As per RFP.
+10 Non-Make
+in
+India
+Products
+For all categories.
+Kindly consider eligibility of Non-Make in India products OEMs ranked among the "Top 5 IDC PC
+Vendors" (latest IDC PC Tracker / equivalent IDC report) for technical and commercial evaluation.
+This will ensure participation of established OEMs with proven product quality, strong financial
+stability, robust service infrastructure, continuous technology investments, and long-term
+product support, thereby safeguarding the interests of the purchaser throughout the product
+lifecycle.
+No Change. As per RFP.
+11 Earnest Money Deposit
+(EMD) - Page no : 12
+8. EMD as mentioned above, shall be submitted in the form of Demand Draft/
+through NEFT OR in the form of an unconditional Bank Guarantee (which should be
+valid up to validity of Bid + 90 days) of All Nationalized Bank including the public
+sector bank or banks (operating in India having branch
+at Ahmedabad/
+Gandhinagar) as per the GR. No: FD/MSM/e-file/4/2024/2859/DMO Dated:
+01/05/2025 issued by Finance Department or further instruction issued by Finance
+department time to time in the name of “Gujarat Informatics Ltd.” payable at
+Gandhinagar (as per prescribed format given at as per prescribed format given at
+Annexure A) and must be submitted along with the covering letter.
+we request to accept the EMD also in the form of Insurance Surety Bond. 
+No Change. As per RFP.
+Responses of pre-bid queries (23.07.2026)
+
+
+S.No RFP
+Document
+Reference(s)
+(Clause
+&
+Page
+Number(s))
+Content   of   RFP   requiring
+Clarification(s)
+Points of
+clarification
+Responses to the Queries
+12 Performance
+Bank
+Guarantee          Page 14
+Selected empaneled bidders has to submit Performance Bank Guarantee @ 5% of
+total order value within 15 days from the date of issue of order (for warranty
+period + extra 2 months) from Any Nationalized Bank including the public sector
+bank or banks (operating in India having branch at Ahmedabad/ Gandhinagar) as
+per the GR. No: FD/MSM/e-file/4/2024/2859/DMO Dated: 01/05/2025 issued by
+Finance Department or further instruction issued by Finance department time to
+time as per the draft attached herewith in the name of Indenting Department.
+Further the contract management will be done by department / office.
+Selected empaneled bidders has to submit Performance Bank Guarantee @ 3% of total order
+value within 45 days from the date of issue of order (for warranty period + extra 2 months) from
+Any Nationalized Bank including the public sector bank or banks (operating in India having branch
+at Ahmedabad/ Gandhinagar) as per the GR. No: FD/MSM/e-file/4/2024/2859/DMO Dated:
+01/05/2025 issued by Finance Department or further instruction issued by Finance department
+time to time as per the draft attached herewith in the name of Indenting Department. Further
+the contract management will be done by department / office.
+No Change. As per RFP.
+13 Performance
+Bank
+Guarantee
+Selected empaneled bidders has to submit Performance Bank Guarantee @ 5% of
+total order value within 15 days from the date of issue of order (for warranty
+period + extra 2 months) from Any Nationalized Bank including the public sector
+bank or banks (operating in India having branch at Ahmedabad/ Gandhinagar) as
+per the GR. No: FD/MSM/e-file/4/2024/2859/DMO Dated: 01/05/2025 issued by
+Finance Department or further instruction issued by Finance department time to
+time as per the draft attached herewith in the name of Indenting Department.
+Further the contract management will be done by department / office.
+Selected empaneled bidders has to submit Performance Bank Guarantee OR Insurance Surety
+Bond@ 3% of total order value within 45 days from the date of issue of order (for warranty
+period + extra 2 months) from Any Nationalized Bank including the public sector bank or banks
+(operating in India having branch at Ahmedabad/ Gandhinagar) as per the GR. No: FD/MSM/e-
+file/4/2024/2859/DMO Dated: 01/05/2025 issued by Finance Department or further instruction
+issued by Finance department time to time as per the draft attached herewith in the name of
+Indenting Department. Further the contract management will be done by department / office.
+No Change. As per RFP.
+14 Choice of Agency (item
+category
+wise
+Empanelment) : Page No
+22
+2 Agencies (L1, L2) with a minimum of 2 different OEMs shall be identified for
+Empanelment subject to match the L1 rate.
+3 encies (L1, L2,L3) with a minimum of 3 different OEMs shall be identified for Empanelment
+subject to match the L1 rate.
+No Change. As per RFP.
+15
+OEM Past Performance Criteria; Request to change as The OEM (themselves or through re-
+sellers) must have successfully supplied the same or similar category product to Central
+Government Departments, State Government Departments, PSUs, Public Sector Banks, Public
+Listed Companies, or Higher Educational Institutions recognized by UGC or established under an
+Act of the Central/State Government, within the last 7 years before the bid opening date. Work
+orders executed either directly by the OEM or through its authorized resellers shall be
+considered. Cumulative quantities of all such work orders during the last 7 years shall be
+considered for evaluation. Experience of any OEM other than the quoted OEM shall not be
+considered.
+No Change. As per RFP.
+16
+Microsoft Hardware Certification: Request to include a clause The quoted Desktop, All-in-One
+Desktop, and Laptop models must be Microsoft Hardware Certified. The bidder shall submit the
+Microsoft Hardware Certification along with the verification link from the official Microsoft
+Hardware Compatibility website as part of the bid.
+No Change. As per RFP.
+17
+Make in India Allocation Ratio: Request to revise the current allocation ratio from 80:20 to 60:40
+in favour of Make in India OEMs. This will provide greater encouragement to Indian
+manufacturers and MSMEs, create additional employment opportunities, strengthen the
+domestic electronics manufacturing ecosystem, and further support the Government of India's
+Make in India initiative.
+No Change. As per RFP.
+18 Past Performance (OEM)
+Eligibility Criteria – Non-
+Make
+in
+India
+OEM
+Products
+Page 4
+The OEM (themselves or through re-sellers) must have supplied same or similar
+category product within the last 7 years before the bid opening date. Work orders
+either directly by OEM or through its resellers will be considered. Cumulative
+quantities of all such work orders during the last 7 years will be considered for
+evaluation. Experience of any OEM other than the quoted OEM shall not be
+considered.
+As the RFP scope includes execution in Gujarat state, request the department to consider below
+to have a completely compliant product/OEM.
+The OEM (themselves or through re-sellers) must have supplied same or similar category product
+within the last 7 years before the bid opening date. The work orders should be from any Central /
+State Government Organization / PSU/ Higher Educational Institutions recognized by UGC or Act
+of Central or State Govt in India. Cumulative quantities of all such work orders during the last 7
+years will be considered for evaluation. Experience of any OEM other than the quoted OEM shall
+not be considered.
+No Change. As per RFP.
+19 IDC Ranking
+Eligibility Criteria – Non-
+Make
+in
+India
+OEM
+Products
+Page 4
+Additional Suggestion - The OEM should be in top 5 IDC, as per last two quarters
+As the RFP scope involves deployment of sizeable quantity of machines, it’s imperative that OEMs
+capacity to supply is also taken into consideration in the current challenging times.
+ 
+The OEM should be in top 5 IDC, as per last two quarters
+No Change. As per RFP.
+20 TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop
+Page 18-21
+Regulatory Certifications: BEE/Energy Star 7.0 or higher, EPR, RoHS or any other
+relevant Indian Certificates
+Request the department to incorporate EPEAT Gold (India) certification to procure a more robust
+product and create a level playing field among the OEMs.
+Regulatory Certifications: BEE/Energy Star 7.0 or higher, EPR, EPEAT Gold (India), RoHS or any
+other relevant Indian Certificates
+No Change. As per RFP.
+
+
+S.No RFP
+Document
+Reference(s)
+(Clause
+&
+Page
+Number(s))
+Content   of   RFP   requiring
+Clarification(s)
+Points of
+clarification
+Responses to the Queries
+21 TECHNICAL
+MINIMUM
+SPECIFICATIONS
+of
+all
+Desktops,
+All
+in
+One
+Desktops and Laptop
+Desktop-1 & Desktop-2
+Page 18 & 19
+Additional suggestion - Power Supply
+Request the below change to enable our participation.
+"Power Supply: 180W EPEAT Gold India with 90% efficiency or better"
+Having this change would benefit all the departments from overall power efficiency and longevity
+of the machine and provide a level playing field for all OEMs.
+Link for Advantages of a more efficient power supply: https://www.velocitymicro.com/blog/what-
+is-psu-efficiency-and-why-is-it-important/
+Link to calculate Power Supply Efficiency calculator: https://vectorization.eu/psu-efficiency-
+calculator/
+No Change. As per RFP.
+22 Page No. 2 Bidder Turn
+Over
+Criteria
+The minimum average annual
+financial turnover of the bidder during the Asked turnover is 168Cr in last three
+years (FY 2022-23, FY 2023-24, FY 2024-25).
+We hereby request the department to kindly consider an Average Annual Turnover of ₹60 Crore
+during the last three (3) financial years, as this would encourage broader participation from
+technically competent and financially sound bidders while ensuring healthy competition.
+No Change. As per RFP.
+23 Page
+no
+3.
+Past
+Performance
+(Bidder)
+The bidder must have successfully executed /completed work orders for the same
+or similar item category product within the last 7 years before the bid opening date
+For Desktop-1: 9,600 qty
+We respectfully request the department to kindly consider allowing the past performance of
+either the Bidder or the quoted OEM to be considered for meeting the eligibility criteria.
+Alternatively, the department may kindly consider reducing the required cumulative quantity to
+7,000 units for meeting the past performance requirement. This will encourage wider
+participation from technically qualified bidders while ensuring healthy competition without
+compromising the project objectives.
+No Change. As per RFP.
+24 Past Performance (OEM)
+Eligibility Criteria – Non-
+Make
+in
+India
+OEM
+Products
+Page 4
+The OEM (themselves or through re-sellers) must have supplied same or similar
+category product within the last 7 years before the bid opening date. Work orders
+either directly by OEM or through its resellers will be considered. Cumulative
+quantities of all such work orders during the last 7 years will be considered for
+evaluation. Experience of any OEM other than the quoted OEM shall not be
+considered.
+We respectfully request the department to kindly consider revising the OEM past performance
+criteria to facilitate wider participation of technically competent OEMs while maintaining the
+required quality standards.
+Proposed Clause:
+The quoted OEM (themselves or through their authorized resellers/channel partners) should
+have supplied the same or similar category of products within the last seven (7) years preceding
+the bid opening date. Such supplies should have been made to Central Government
+Departments, State Government Departments, PSUs, Autonomous Bodies, or Higher Educational
+Institutions recognized by UGC or established under an Act of Parliament/State Legislature in
+India. The cumulative quantity of such supplies during the last seven (7) years shall be considered
+for evaluation. Experience of any OEM other than the quoted OEM shall not be considered.
+This amendment will encourage wider participation from reputed OEMs, enhance competition,
+and provide the department with a broader choice of technically qualified solutions without
+compromising the quality or execution capability.
+No Change. As per RFP.
+25 Page No. 15 Warranty
+Comprehensive onsite warranty for 5 years from OEM from the date of installation
+of all items.
+We respectfully request the department to kindly amend the warranty clause as follows:
+"The successful bidder shall provide a comprehensive onsite OEM warranty for a period of five
+(5) years from the date of installation and successful commissioning of all items. However, if the
+installation is delayed due to site readiness or any reasons attributable to the Indenting
+Department/Consignee, the warranty shall commence after a maximum period of thirty (30) days
+from the date of delivery of the equipment."
+This amendment will safeguard the warranty period from being impacted due to delays beyond
+the bidder's control while ensuring timely supply and installation of the equipment.
+No Change. As per RFP.
+26 Page no 15. Point o 12:
+Payment
+100% payment after successful inspection of GIL, and after completion certificate of
+delivery &
+installation of the ordered goods by indenting Dept. In case site is not ready,
+Department /
+Office may release the payment at its discretion.
+We respectfully request the department to kindly amend the payment clause as follows:
+"100% payment shall be released within 30 days after successful inspection by GIL and
+submission of the completion certificate for delivery and installation of the ordered goods by the
+Indenting Department. However, if the installation is delayed due to site readiness or any reasons
+attributable to the Indenting Department/Consignee, the department may release 100%
+payment after successful delivery, inspection, and submission of the delivery certificate, without
+awaiting installation."
+This amendment will ensure timely payment for supplies completed by the bidder while
+safeguarding the interests of both the department and the successful bidder in cases where
+installation is delayed due to reasons beyond the bidder's control.
+No Change. As per RFP.
+
+
+S.No RFP
+Document
+Reference(s)
+(Clause
+&
+Page
+Number(s))
+Content   of   RFP   requiring
+Clarification(s)
+Points of
+clarification
+Responses to the Queries
+27 Choice of Agency (Item
+Category-wise 
+Empanelment)
+Eligibility Criteria – Non-
+Make
+in
+India
+OEM
+Products
+Page 22–23
+2 Agencies (L1, L2) with a minimum of 2 different OEMs shall be identified for
+empanelment subject to match the L1 rate.
+We respectfully request the department to consider empanelling a minimum of three (3) OEMs
+for each item/category instead of limiting the empanelment to two OEMs.
+Considering the current industry-wide supply chain constraints, component shortages, and
+extended lead times for critical hardware, empanelling multiple OEMs will mitigate supply risks,
+ensure uninterrupted project execution, and enhance competition while maintaining quality
+standards.
+Proposed Amendment:
+"A minimum of three (3) agencies/OEMs may be empanelled for each item/category, subject to
+meeting the technical eligibility criteria and matching the L1 rates, wherever applicable."
+This amendment will provide the department with greater flexibility in procurement, reduce
+dependency on a limited number of OEMs, and help ensure timely project implementation.
+Relevant industry references on global supply chain challenges and component shortages can be
+furnished, if required, in support of this request.
+No Change. As per RFP.
+28 Quantity Clause Page 10 Quantities are only indicative and no order quantity is guaranteed.
+Reconsider high Past Performance requirements for an empanelment tender with no guaranteed
+procurement.
+No Change. As per RFP.
+29 Choice of Agency
+Order allocation 70:30 between L1 and second empanelled agency.
+Modify allocation to 60:40 or 50:50 subject to satisfactory performance.
+No Change. As per RFP.
+30 Choice of Agency
+Fixed allocation methodology.
+Permit departments to procure from either empanelled OEM based on delivery, availability and
+service performance.
+No Change. As per RFP.
+31 Processor
+Specification
+(Desktop/AIO/Laptop) 
+Pages 18–21
+Intel 14th Gen / AMD Ryzen 8000 series and older laptop processors specified.
+update Intel Core Ultra Series 2 / Intel Core Ultra vPro / AMD Ryzen AI 300 Series / Ryzen AI PRO
+Series or equivalent/higher AI-enabled processors.
+No Change. As per RFP.
+32 Desktop
+Cabinet
+Size
+Pages 18–20
+Cabinet restricted to 7L–18L.
+Update all standard desktop form factors including Mini PC, SFF, DMT, Mid Tower and Tower
+provided all technical specifications are met.
+No Change. As per RFP.
+33 Desktop
+&
+AIO
+Processor Platform
+Pages 18–20
+Desktop systems should not have mobile processors.
+Update equivalent or better energy-efficient processor platforms meeting or exceeding the
+prescribed performance, warranty and reliability requirements.
+No Change. As per RFP.
+34 Laptop Memory Page 21 16 GB DDR5 with one DIMM slot free and expandable to 32 GB.
+Update 16 GB DDR5/LPDDR5/LPDDR5X onboard or socketed RAM. Remove mandatory RAM
+expansion requirement.
+No Change. As per RFP.
+35 Laptop Processor Page
+21
+Intel Core i5-1334U / AMD Ryzen 5 7535U.
+Update Intel Core Ultra 5/Ultra 7 Series 2, Intel Core Ultra vPro, AMD Ryzen AI 300 Series / Ryzen
+AI PRO Series or equivalent AI-enabled processors.
+No Change. As per RFP.
+36 Eligibility Criteria – Make
+in India OEM Products –
+Past
+Performance
+(Bidder), Page 7
+Bidder must have supplied minimum cumulative quantity (Desktop-1: 2,400 Qty,
+Laptop: 80 Qty etc.) within last 7 years.
+Request exemption or suitable relaxation of Bidder/OEM Past Performance for DPIIT-recognized
+Startups and Gujarat-based Micro & Small Enterprise (MSE) manufacturers. Alternatively, reduce
+the prescribed quantity by at least 75% for eligible Startup/MSME OEMs.
+No Change. As per RFP.
+37 Eligibility Criteria – Make
+in India OEM Products –
+Past
+Performance
+(OEM), Page 7-8
+OEM must have supplied minimum cumulative quantity (Desktop-1: 7,500 Qty,
+Laptop: 250 Qty etc.) during last 7 years.
+Request exemption or substantial reduction in OEM Past Performance requirement for DPIIT-
+recognized Startup OEMs. Alternatively, allow qualification through Manufacturing Capability,
+Factory Infrastructure, BIS/BEE Certifications, Production Capacity and Service Infrastructure.
+No Change. As per RFP.
+38 Bidder
+Turnover
+Exemption Note, Page
+12
+Tender provides Turnover Exemption to Startup/MSME but specifically excludes
+Past Performance exemption.
+Kindly extend similar relaxation to Past Performance criteria for eligible Startup/MSME OEMs
+under the Make in India category.
+No Change. As per RFP.
+39 Eligibility Criteria – Make
+in India OEM
+Products
+Eligibility is based mainly on historical supply quantities.
+Permit qualification based on Manufacturing Capability, Factory Inspection, BIS Registration, BEE
+Registration,
+ISO
+Certifications,
+Production
+Capacity,
+Service
+Infrastructure
+and
+OEM
+Performance Undertaking.
+No Change. As per RFP.
+40 Eligibility Criteria – Make
+in India OEM
+Products
+Same eligibility criteria applicable to established multinational OEMs and newly
+established Indian OEMs.
+Create a separate eligibility framework for DPIIT-recognized Startup OEMs and Gujarat-based
+Local Manufacturers participating under Make in India  category.
+No Change. As per RFP.
+41
+Eligibility Criteria – Past
+Performance
+Existing clause requires experience irrespective of age of the company.
+OEMs incorporated within the last five years may be permitted to qualify based on
+manufacturing capability, financial strength, statutory registrations and service infrastructure
+instead of historical supply quantities.
+No Change. As per RFP.
+42 General Eligibility
+No provision for evaluating local manufacturing ecosystem.
+Consider Local Value Addition, Gujarat Manufacturing Facility, Local Employment Generation,
+R&D Investment and Service Infrastructure as additional qualification criteria.
+No Change. As per RFP.
+43 Terms & Conditions –
+Quantity Clause,
+Page 10
+Tender clearly states that quantities are indicative, notional and no order quantity
+is guaranteed.
+Since this is only an empanelment and there is no guaranteed procurement, kindly reconsider the
+high Past Performance requirements or permit qualification based on manufacturing capability
+and technical compliance.
+No Change. As per RFP.
+44 Choice
+of
+Agency
+/
+Empanelment –
+Order Allocation Ratio
+Orders are proposed to be allocated in the ratio of 70% to L1 and 30% to the
+second empaneled agency.
+Request GIL to consider a more balanced allocation such as 60:40 or 50:50
+between the two empaneled agencies, subject to satisfactory performance.
+No Change. As per RFP.
+45 Choice
+of
+Agency
+/
+Empanelment
+Two agencies are empaneled at L1 matched price.
+Request that departments may have flexibility to place orders with either empaneled agency
+based on delivery performance, stock availability and service response, instead of only fixed
+allocation.
+No Change. As per RFP.
+46 Eligibility
+Criteria
+–
+Startup & MSME
+No preference specifically provided to Gujarat- based Startup OEMs.
+Request procurement preference or evaluation benefit for Gujarat-based Startup OEMs and
+Local Manufacturers in accordance with Gujarat State Procurement Policy-2024 wherever
+applicable.
+No Change. As per RFP.
+47 Technical Qualification
+Qualification primarily depends upon previous supply quantity.
+Request GIL to consider Factory Visit/Factory Audit as an alternative qualification method for
+Startup OEMs.
+No Change. As per RFP.
+48 Technical Qualification
+No consideration for investment made in manufacturing  infrastructure.
+Request that investment in manufacturing facilities, testing laboratories, quality control systems
+and after-sales infrastructure may also be considered for Startup OEM qualification.
+No Change. As per RFP.
+49 OEM Qualification
+Current criteria favour established OEMs with large legacy supplies.
+Request introduction of a "New Make in India OEM" category for Indian manufacturers
+established within the last five years.
+No Change. As per RFP.
+
+
+S.No RFP
+Document
+Reference(s)
+(Clause
+&
+Page
+Number(s))
+Content   of   RFP   requiring
+Clarification(s)
+Points of
+clarification
+Responses to the Queries
+50 General
+Participation barriers for new Indian manufacturers remain high.
+Kindly review eligibility conditions to maximize participation of Indian OEMs while retaining
+technical compliance, inspection, warranty obligations, Performance Bank Guarantee and
+contractual penalties.
+No Change. As per RFP.
+51 Processor Specification
+(Desktop/AIO/Laptop) 
+Pages 18–21
+Intel 14th Gen  / AMD Ryzen 8000 series and older laptop processors specified.
+Update Processer Intel Core Ultra Series 2 / Intel Core Ultra vPro / AMD Ryzen AI 300 Series /
+Ryzen AI PRO Series or equivalent/higher AI-enabled processors.
+No Change. As per RFP.
+52 Desktop
+Cabinet
+Size
+Pages 18–20
+Cabinet restricted to 7L–18L.
+Update all standard desktop form factors including Mini PC, SFF, DMT, Mid Tower and Tower
+provided all technical specifications are met.
+No Change. As per RFP.
+53 Desktop
+&
+AIO
+Processor Platform
+Pages 18–20
+Desktop systems should not have mobile processors.
+Update equivalent or better energy-efficient processor platforms meeting or exceeding the
+prescribed performance, warranty and reliability requirements.
+No Change. As per RFP.
+54 Laptop Memory Page 21 16 GB DDR5 with one DIMM slot free and expandable to 32 GB.
+Update 16 GB DDR5/LPDDR5/LPDDR5X onboard or socketed RAM. Remove mandatory RAM
+expansion requirement.
+No Change. As per RFP.
+55 Laptop Processor Page
+21
+Intel Core i5-1334U / AMD Ryzen 5 7535U.
+Update Intel Core Ultra 5/Ultra 7 Series 2, Intel Core Ultra vPro, AMD Ryzen AI 300 Series / Ryzen
+AI PRO Series or equivalent AI-enabled processors.
+No Change. As per RFP.
+56 Eligibility Criteria – Make
+in India OEM Products –
+Past
+Performance
+(Bidder), Page 7
+Bidder must have supplied minimum cumulative quantity (Desktop-1: 2,400 Qty,
+Laptop: 80 Qty etc.) within last 7 years.
+Request exemption or suitable relaxation of Bidder/OEM Past Performance for DPIIT-recognized
+Startups and Gujarat-based Micro & Small Enterprise (MSE) manufacturers. Alternatively, reduce
+the prescribed quantity by at least 75% for eligible Startup/MSME OEMs.
+No Change. As per RFP.
+57 Eligibility Criteria – Make
+in India OEM Products –
+Past
+Performance
+(OEM), Page 7-8
+OEM must have supplied minimum cumulative quantity (Desktop-1: 7,500 Qty,
+Laptop: 250 Qty etc.) during last 7 years.
+Request exemption or substantial reduction in OEM Past Performance requirement for DPIIT-
+recognized Startup OEMs. Alternatively, allow qualification through Manufacturing Capability,
+Factory Infrastructure, BIS/BEE Certifications, Production Capacity and Service Infrastructure.
+No Change. As per RFP.
+58 Bidder
+Turnover
+Exemption Note, Page
+12
+Tender provides Turnover Exemption to Startup/MSME but specifically excludes
+Past Performance exemption.
+Kindly extend similar relaxation to Past Performance criteria for eligible Startup/MSME OEMs
+under the Make in India category.
+No Change. As per RFP.
+59 Eligibility Criteria – Make
+in India OEM
+Products
+Eligibility is based mainly on historical supply quantities.
+Permit qualification based on Manufacturing Capability, Factory Inspection, BIS Registration, BEE
+Registration,
+ISO
+Certifications,
+Production
+Capacity,
+Service
+Infrastructure
+and
+OEM
+Performance Undertaking.
+No Change. As per RFP.
+60 Eligibility Criteria – Make
+in India OEM
+Products
+Same eligibility criteria applicable to established multinational OEMs and newly
+established Indian OEMs.
+Create a separate eligibility framework for DPIIT-recognized Startup OEMs and Gujarat-based
+Local Manufacturers participating under Make in India  category.
+No Change. As per RFP.
+61
+Eligibility Criteria – Past
+Performance
+Existing clause requires experience irrespective of age of the company.
+OEMs incorporated within the last five years may be permitted to qualify based on
+manufacturing capability, financial strength, statutory registrations and service infrastructure
+instead of historical supply quantities.
+No Change. As per RFP.
+62 General Eligibility
+No provision for evaluating local manufacturing ecosystem.
+Consider Local Value Addition, Gujarat Manufacturing Facility, Local Employment Generation,
+R&D Investment and Service Infrastructure as additional qualification criteria.
+No Change. As per RFP.
+63 Terms & Conditions –
+Quantity Clause,
+Page 10
+Tender clearly states that quantities are indicative, notional and no order quantity
+is guaranteed.
+Since this is only an empanelment and there is no guaranteed procurement, kindly reconsider the
+high Past Performance requirements or permit qualification based on manufacturing capability
+and technical compliance.
+No Change. As per RFP.
+64 Choice
+of
+Agency
+/
+Empanelment –
+Order Allocation Ratio
+Orders are proposed to be allocated in the ratio of 70% to L1 and 30% to the
+second empaneled agency.
+Request GIL to consider a more balanced allocation such as 60:40 or 50:50 between the two
+empaneled agencies, subject to satisfactory performance.
+No Change. As per RFP.
+65 Choice
+of
+Agency
+/
+Empanelment
+Two agencies are empaneled at L1 matched price.
+Request that departments may have flexibility to place orders with either empaneled agency
+based on delivery performance, stock availability and service response, instead of only fixed
+allocation.
+No Change. As per RFP.
+66 Eligibility
+Criteria
+–
+Startup & MSME
+No preference specifically provided to Gujarat- based Startup OEMs.
+Request procurement preference or evaluation benefit for Gujarat-based Startup OEMs and
+Local Manufacturers in accordance with Gujarat State Procurement Policy-2024 wherever
+applicable.
+No Change. As per RFP.
+67 Technical Qualification
+Qualification primarily depends upon previous supply quantity.
+Request GIL to consider Factory Visit/Factory Audit as an alternative qualification method for
+Startup OEMs.
+No Change. As per RFP.
+68 Technical Qualification
+No consideration for investment made in manufacturing  infrastructure.
+Request that investment in manufacturing facilities, testing laboratories, quality control systems
+and after-sales infrastructure may also be considered for Startup OEM qualification.
+No Change. As per RFP.
+69 OEM Qualification
+Current criteria favour established OEMs with large legacy supplies.
+Request introduction of a "New Make in India OEM" category for Indian manufacturers
+established within the last five years.
+No Change. As per RFP.
+70 General
+Participation barriers for new Indian manufacturers remain high.
+Kindly review eligibility conditions to maximize participation of Indian OEMs while retaining
+technical compliance, inspection, warranty obligations, Performance Bank Guarantee and
+contractual penalties.
+No Change. As per RFP.
+71 Processor Specification
+(Desktop/AIO/Laptop) 
+Pages 18–21
+Intel 14th Gen  / AMD Ryzen 8000 series and older laptop processors specified.
+Update Processer Intel Core Ultra Series 2 / Intel Core Ultra vPro / AMD Ryzen AI 300 Series /
+Ryzen AI PRO Series or equivalent/higher AI-enabled processors.
+No Change. As per RFP.
+72 Desktop
+Cabinet
+Size
+Pages 18–20
+Cabinet restricted to 7L–18L.
+Update all standard desktop form factors including Mini PC, SFF, DMT, Mid Tower and Tower
+provided all technical specifications are met.
+No Change. As per RFP.
+73 Desktop
+&
+AIO
+Processor Platform
+Pages 18–20
+Desktop systems should not have mobile processors.
+Update equivalent or better energy-efficient processor platforms meeting or exceeding the
+prescribed performance, warranty and reliability requirements.
+No Change. As per RFP.
+74 Laptop Memory Page 21 16 GB DDR5 with one DIMM slot free and expandable to 32 GB.
+Update 16 GB DDR5/LPDDR5/LPDDR5X onboard or socketed RAM. Remove mandatory RAM
+expansion requirement.
+No Change. As per RFP.
+75 Laptop Processor Page
+21
+Intel Core i5-1334U / AMD Ryzen 5 7535U.
+Update Intel Core Ultra 5/Ultra 7 Series 2, Intel Core Ultra vPro, AMD Ryzen AI 300 Series / Ryzen
+AI PRO Series or equivalent AI-enabled processors.
+No Change. As per RFP.
+76 Eligibility Criteria – Make
+in India OEM Products –
+Past
+Performance
+(Bidder), Page 7
+Bidder must have supplied minimum cumulative quantity (Desktop-1: 2,400 Qty,
+Laptop: 80 Qty etc.) within last 7 years.
+Request exemption or suitable relaxation of Bidder/OEM Past Performance for DPIIT-recognized
+Startups and Gujarat-based Micro & Small Enterprise (MSE) manufacturers. Alternatively, reduce
+the prescribed quantity by at least 75% for eligible Startup/MSME OEMs.
+No Change. As per RFP.
+77 Eligibility Criteria – Make
+in India OEM Products –
+Past
+Performance
+(OEM), Page 7-8
+OEM must have supplied minimum cumulative quantity (Desktop-1: 7,500 Qty,
+Laptop: 250 Qty etc.) during last 7 years.
+Request exemption or substantial reduction in OEM Past Performance requirement for DPIIT-
+recognized Startup OEMs. Alternatively, allow qualification through Manufacturing Capability,
+Factory Infrastructure, BIS/BEE Certifications, Production Capacity and Service Infrastructure.
+No Change. As per RFP.
+
+
+S.No RFP
+Document
+Reference(s)
+(Clause
+&
+Page
+Number(s))
+Content   of   RFP   requiring
+Clarification(s)
+Points of
+clarification
+Responses to the Queries
+78 Bidder
+Turnover
+Exemption Note, Page
+12
+Tender provides Turnover Exemption to Startup/MSME but specifically excludes
+Past Performance exemption.
+Kindly extend similar relaxation to Past Performance criteria for eligible Startup/MSME OEMs
+under the Make in India category.
+No Change. As per RFP.
+79 Eligibility Criteria – Make
+in India OEM
+Products
+Eligibility is based mainly on historical supply quantities.
+Permit qualification based on Manufacturing Capability, Factory Inspection, BIS Registration, BEE
+Registration,
+ISO
+Certifications,
+Production
+Capacity,
+Service
+Infrastructure
+and
+OEM
+Performance Undertaking.
+No Change. As per RFP.
+80 Eligibility Criteria – Make
+in India OEM
+Products
+Same eligibility criteria applicable to established multinational OEMs and newly
+established Indian OEMs.
+Create a separate eligibility framework for DPIIT-recognized Startup OEMs and Gujarat-based
+Local Manufacturers participating under Make in India  category.
+No Change. As per RFP.
+81
+Eligibility Criteria – Past
+Performance
+Existing clause requires experience irrespective of age of the company.
+OEMs incorporated within the last five years may be permitted to qualify based on
+manufacturing capability, financial strength, statutory registrations and service infrastructure
+instead of historical supply quantities.
+No Change. As per RFP.
+82 General Eligibility
+No provision for evaluating local manufacturing ecosystem.
+Consider Local Value Addition, Gujarat Manufacturing Facility, Local Employment Generation,
+R&D Investment and Service Infrastructure as additional qualification criteria.
+No Change. As per RFP.
+83 Terms & Conditions –
+Quantity Clause,
+Page 10
+Tender clearly states that quantities are indicative, notional and no order quantity
+is guaranteed.
+Since this is only an empanelment and there is no guaranteed procurement, kindly reconsider the
+high Past Performance requirements or permit qualification based on manufacturing capability
+and technical compliance.
+No Change. As per RFP.
+84 Choice
+of
+Agency
+/
+Empanelment –
+Order Allocation Ratio
+Orders are proposed to be allocated in the ratio of 70% to L1 and 30% to the
+second empaneled agency.
+Request GIL to consider a more balanced allocation such as 60:40 or 50:50 between the two
+empaneled agencies, subject to satisfactory performance.
+No Change. As per RFP.
+85 Choice
+of
+Agency
+/
+Empanelment
+Two agencies are empaneled at L1 matched price.
+Request that departments may have flexibility to place orders with either empaneled agency
+based on delivery performance, stock availability and service response, instead of only fixed
+allocation.
+No Change. As per RFP.
+86 Eligibility
+Criteria
+–
+Startup & MSME
+No preference specifically provided to Gujarat- based Startup OEMs.
+Request procurement preference or evaluation benefit for Gujarat-based Startup OEMs and
+Local Manufacturers in accordance with Gujarat State Procurement Policy-2024 wherever
+applicable.
+No Change. As per RFP.
+87 Technical Qualification
+Qualification primarily depends upon previous supply quantity.
+Request GIL to consider Factory Visit/Factory Audit as an alternative qualification method for
+Startup OEMs.
+No Change. As per RFP.
+88 Technical Qualification
+No consideration for investment made in manufacturing  infrastructure.
+Request that investment in manufacturing facilities, testing laboratories, quality control systems
+and after-sales infrastructure may also be considered for Startup OEM qualification.
+No Change. As per RFP.
+89 OEM Qualification
+Current criteria favour established OEMs with large legacy supplies.
+Request introduction of a "New Make in India OEM" category for Indian manufacturers
+established within the last five years.
+No Change. As per RFP.
+90 General
+Participation barriers for new Indian manufacturers remain high.
+Kindly review eligibility conditions to maximize participation of Indian OEMs while retaining
+technical compliance, inspection, warranty obligations, Performance Bank Guarantee and
+contractual penalties.
+No Change. As per RFP.
+91 Processor Specification
+(Desktop/AIO/Laptop) 
+Pages 18–21
+Intel 14th Gen  / AMD Ryzen 8000 series and older laptop processors specified.
+Update Processer Intel Core Ultra Series 2 / Intel Core Ultra vPro / AMD Ryzen AI 300 Series /
+Ryzen AI PRO Series or equivalent/higher AI-enabled processors.
+No Change. As per RFP.
+92 Desktop
+Cabinet
+Size
+Pages 18–20
+Cabinet restricted to 7L–18L.
+Update all standard desktop form factors including Mini PC, SFF, DMT, Mid Tower and Tower
+provided all technical specifications are met.
+No Change. As per RFP.
+93 Desktop
+&
+AIO
+Processor Platform
+Pages 18–20
+Desktop systems should not have mobile processors.
+Update equivalent or better energy-efficient processor platforms meeting or exceeding the
+prescribed performance, warranty and reliability requirements.
+No Change. As per RFP.
+94 Laptop Memory Page 21 16 GB DDR5 with one DIMM slot free and expandable to 32 GB.
+Update 16 GB DDR5/LPDDR5/LPDDR5X onboard or socketed RAM. Remove mandatory RAM
+expansion requirement.
+No Change. As per RFP.
+95 Laptop Processor Page
+21
+Intel Core i5-1334U / AMD Ryzen 5 7535U.
+Update Intel Core Ultra 5/Ultra 7 Series 2, Intel Core Ultra vPro, AMD Ryzen AI 300 Series / Ryzen
+AI PRO Series or equivalent AI-enabled processors.
+No Change. As per RFP.
+96 Processor
+Specification
+(Desktop/AIO/Laptop) 
+Pages 18
+Intel 14th Gen / AMD Ryzen 8000 series and older laptop processors specified.
+Update to Intel Core Ultra Series 2 / Intel Core Ultra vPro / AMD Ryzen AI 300 Series / Ryzen AI
+PRO Series or equivalent/higher AI-enabled processors.
+No Change. As per RFP.
+97 Desktop
+Cabinet
+Size
+Pages 18
+Cabinet restricted to 7L to18L.
+Update all standard desktop form factors including Mini PC, SFF, DMT, Mid Tower and Tower
+provided all technical specifications are met.
+No Change. As per RFP.
+98 Desktop
+&
+AIO
+Processor
+Platform
+Pages 18
+Desktop systems should not have mobile processors.
+Update equivalent or better energy-efficient processor platforms meeting or exceeding the
+prescribed performance, warranty, and reliability requirements.
+No Change. As per RFP.

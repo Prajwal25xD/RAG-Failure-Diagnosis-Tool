@@ -1,0 +1,2000 @@
+P a g e 1 | 37 
+ 
+ 
+ 
+ 
+GUJARAT INFORMATICS LIMITED 
+Block No: 2, 2nd Floor, Karmayogi Bhavan, 
+C & D Wing, Sector-10, Gandhinagar: 382 010 
+Phone No: 23256022, Fax No: 23238925 
+https://www.gil.gujarat.gov.in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnest Money Deposit: Rs. 1,68,000 /- (One Lac Sixty-Eight Thousand only).  
+(Bidders can also submit the EMD with Payment online through RTGS / internet banking in 
+Beneficiary name Gujarat Informatics Ltd., Account No. 50200010918090, IFSC Code 
+HDFC0000190, Bank Name HDFC Bank Ltd. Branch address Sector-16, Gandhinagar Branch) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Request for Proposal (RFP) for Empanelment of 
+Service Providers / Publishers for supply, licensing 
+and access of e-Books for public libraries, 
+Government of Gujarat 
+RFP# GIL/e-Gov/2026/e-Books  
+GeM Bid No:- GEM/2026/B/7581031 
+
+
+P a g e 2 | 37 
+ 
+ 
+Abbreviation 
+ 
+Abbreviation 
+Meaning 
+RFP 
+Request for Proposal 
+SoW 
+Scope of Work 
+TQ 
+Technical Qualification 
+SLA 
+Service Level Agreement 
+MIS 
+Management Information System 
+SPoC 
+Single Point of Contact 
+OS 
+Operating System 
+E-Book 
+Electronic Book 
+ISBN 
+International Standard Book Number 
+GoG 
+Government of Gujarat 
+DoL 
+Director of Libraries 
+INR 
+Indian Rupees 
+IT 
+Information Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+P a g e 3 | 37 
+ 
+Contents 
+GUJARAT INFORMATICS LIMITED ......................................................................................................................................... 1 
+SECTION 1: INVITATION FOR BIDS ........................................................................................................................................ 5 
+SECTION 2: INSTRUCTIONS TO BIDDERS .............................................................................................................................. 7 
+A. 
+INTRODUCTION ....................................................................................................................................................... 7 
+Pre-Qualification Criteria.............................................................................................................................................. 7 
+Cost of Bidding ............................................................................................................................................................. 8 
+B. 
+BIDDING DOCUMENTS ............................................................................................................................................ 8 
+Contents of Bidding Documents .................................................................................................................................. 8 
+Clarification of Bidding Documents .............................................................................................................................. 9 
+Amendment of Bidding Documents ............................................................................................................................. 9 
+C. 
+PREPARATION OF BIDS ............................................................................................................................................ 9 
+Language of Bid ............................................................................................................................................................ 9 
+Documents Comprising the Bid .................................................................................................................................... 9 
+Bid Form ..................................................................................................................................................................... 10 
+Terms of Payment .............................................................................................................................................................. 10 
+Period of Validity Bids ................................................................................................................................................ 10 
+Format and Signing of Bid .......................................................................................................................................... 10 
+D. 
+SUBMISSION OF BIDS ............................................................................................................................................ 10 
+Sealing and Marking of Bids ....................................................................................................................................... 10 
+Deadline for Submission of Bids ................................................................................................................................. 10 
+Late Bids ..................................................................................................................................................................... 10 
+Modification and Withdrawal of Bids ........................................................................................................................ 10 
+SECTION 3: TENDER PROCESSING AND EVALUATION ........................................................................................................ 11 
+3. Tender Processing and Evaluation ............................................................................................................................. 11 
+3.1 Eligibility and Pre-Qualification Stage ...................................................................................................................... 11 
+3.2 Empanelment of Bidders .......................................................................................................................................... 11 
+3.3 Clarifications and Post-Evaluation Interactions ....................................................................................................... 12 
+3.4 Validity period of empanelment (initially two (2) years, extendable at the discretion of The Director of Libraries.)
+ ........................................................................................................................................................................................ 12 
+3.5 Work Allocation Mechanism .................................................................................................................................... 12 
+3.6 Review, Suspension, and Removal of Empaneled Agencies ..................................................................................... 13 
+SECTION 4: GENERAL CONDITION CONTRACT ................................................................................................................... 14 
+4.1 Earnest Money Deposited (EMD) ......................................................................................................................... 14 
+4.2 Performance Security/Performance Bank Guarantee (PBG)................................................................................ 14 
+4.3 Delivery and Documents ...................................................................................................................................... 15 
+4.4 Incidental Services ................................................................................................................................................ 15 
+4.5 Prices .................................................................................................................................................................... 15 
+4.6 Assignment ........................................................................................................................................................... 15 
+4.7 Delays in the Service Provider’s Performance...................................................................................................... 15 
+4.8 
+Termination for Default or otherwise............................................................................................................... 16 
+4.9 
+Force Majeure................................................................................................................................................... 16 
+
+
+P a g e 4 | 37 
+ 
+4.10 Termination for Insolvency ................................................................................................................................ 16 
+4.11 Termination for Convenience ............................................................................................................................. 17 
+4.12 Resolution of Disputes ....................................................................................................................................... 17 
+4.13 Governing Language ........................................................................................................................................... 17 
+4.14 Applicable Law ................................................................................................................................................... 17 
+4.15 Taxes and Duties ................................................................................................................................................ 17 
+4.16 Binding Clause .................................................................................................................................................... 17 
+4.17 GIL/DIRECTOR OF LIBRARIES, Gandhinagar, reserves the right: - ...................................................................... 18 
+SECTION 5: SCOPE OF WORK ............................................................................................................................................. 19 
+1. Objective ................................................................................................................................................................ 19 
+2. Scope of Services .................................................................................................................................................... 19 
+Annexure- 1: Format for Submission of e-Book Title Details ............................................................................................. 23 
+Form- 2: Proposal Covering Letter ..................................................................................................................................... 24 
+Annexure-3: Bidder Details ................................................................................................................................................ 25 
+FORM 4: Non-Disclosure Agreement ................................................................................................................................. 26 
+FORM 5: FORMAT OF EARNEST MONEY DEPOSIT IN FORM OF BANK GUARANTEE .......................................................... 29 
+FORM 7: PERFORMANCE BANK GURANTEE ....................................................................................................................... 31 
+FORM 8: Declaration Letter ................................................................................................................................................. 2 
+SECTION 9: SELF DECLARATION ........................................................................................................................................... 3 
+Form-10: On letterhead of Bidder ........................................................................................................................................ 5 
+Annexure – 11 undertaking by bidder 
+ 
+ 
+
+
+P a g e 5 | 37 
+ 
+SECTION 1: INVITATION FOR BIDS 
+Gujarat Informatics Limited, on behalf Director of Libraries invites online bids for “Empanelment of 
+Service Providers / Publishers for supply, licensing and access of e-Books for public libraries, 
+Government of Gujarat” 
+Actual award of contract will follow the conditions as per this document. This document is given for 
+enabling the bidders to know the tender conditions so as to guide them in filling up the technical bid 
+and financial bid for the said work. 
+1. The bidders may download the tender document from the website of Gujarat Informatics Limited 
+(https://gil.gujarat.gov.in) as well as from https://gem.gov.in.  
+2. This RFP document is not transferable. 
+3. No Consortium will be allowed. 
+4. Bidders shall submit EMD of Rs. 1,68,000/- in the form of Demand Draft OR in the form of an 
+unconditional Bank Guarantee (which should be valid for 12 months from the last date of bid 
+submission) of any Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative Banks and Rural Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2024/2859/DMO  dated 
+01.05.2025 issued by Finance Department or further instruction issued by Finance department 
+time to time; in the name of “Gujarat Informatics Ltd.” payable at Gandhinagar and must be 
+submitted along with the covering letter. EMD exemption is applicable as per GeM GTC.  
+OR  
+Bidders can also submit the EMD with Payment Online through RTGS/internet banking in 
+Beneficiary name Gujarat Informatics Ltd., Account No. 50200010918090, IFSC Code 
+HDFC0000190, Bank Name HDFC Bank Ltd. Branch address Sector-16, Gandhinagar Branch. 
+5. The sealed cover should be super scribe as “EMD for the Request for Proposal for “Empanelment 
+of Service Providers / Publishers for supply, licensing and access of e-Books for public libraries, 
+Government of Gujarat” Bidder to submit AFFIDAVIT PHYSICALLY as per the prescribed format 
+(To be submitted IN ORIGINAL on Non-Judicial Stamp Paper of Rs. 100/- duly attested by First 
+Class Magistrate/ Notary public) along with the sealed cover. Bidder who have submitted EMD 
+online has to follow the above process for Affidavit. 
+ 
+6. Important Information 
+ 
+Sl. No. 
+Information 
+Details 
+1.  
+Tender No:-  
+GeM Bid no:- GEM/2026/B/7581031 
+RFP#  GIL/e-Gov/2026/e-Books 
+2.  
+Contract Period 
+2 (Two) year (extendable at the discretion of 
+The Director of Libraries) 
+3.  
+Earnest 
+Money 
+Deposit 
+(refundable) 
+Rs. 1,68,000/- 
+in the name of Gujarat Informatics Limited 
+payable at Gandhinagar (in case of DD) 
+For RTGS; 
+Beneficiary name: 
+Gujarat 
+Informatics 
+Limited, Account No:50200010918090 
+
+
+P a g e 6 | 37 
+ 
+IFSC Code: HDFC0000190 
+Bank Name: HDFC Bank 
+Branch address: Sector 16 Gandhinagar. For 
+Bank Guarantee Format: Follow ‘Form 5’ 
+4.  
+Email id for submission of written 
+queries for clarification as per 
+predefined format.  
+Email:  
+dgmapp-gil[at]gujarat[dot]gov[dot]in 
+manager-egov[at]gujarat[dot]gov[dot]in  
+exe1-egov-gil[at]gujarat[dot]gov[dot]in 
+tse1-egov-gil[at]gujarat[dot]gov[dot]in 
+5.  
+Pre-bid meeting Date, Time and 
+Venue. 
+DD.MM.2026 at 1500 hrs. at GIL. 
+ 
+Venue: Gujarat Informatics Ltd. 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogi 
+Bhavan, 
+Sector 
+- 
+10 
+A, 
+Gandhinagar – 382010, Gujarat. 
+Pre-bid queries must be submitted on or 
+before 
+pre-bid 
+meeting 
+date 
+only…Clarifications will be received after 
+pre-bid meeting will not be considered. 
+6.  
+Last Date and Time for the 
+Submission of Proposal (Online 
+on GeM Portal) 
+DD.MM.2026 at 1500 hrs.  
+7.  
+Validity of Tender 
+180 days. 
+8.  
+Contact person for queries 
+(I/C) GM – Software Procurement 
+e-Governance Division  
+Gujarat Informatics Limited  
+Email: 
+dgmapp-gil[at]gujarat[dot]gov[dot]in 
+ 
+EMD shall be submitted in the form of Demand Draft or an unconditional Bank Guarantee (which 
+should be valid for 12 months from the last date of bid submission) of any Nationalized Bank 
+(operating in India having branch at Ahmedabad/ Gandhinagar) in the name of “Gujarat 
+Informatics Ltd.” payable at Gandhinagar (as per prescribed format given at Form-5) and it must 
+be submitted along with the covering letter. Also, the bidder must submit the PoA (Power of 
+Attorney) in physically form to the GIL before the due time of bid opening. 
+ 
+ Interested 
+bidders 
+may 
+download 
+the 
+RFP 
+document 
+from 
+the 
+website 
+https://gem.gov.in.  Portal OR www.gil.gujarat.gov.in. 
+ This RFP document is not transferable. 
+ If any specified date for submission or opening of bid is declared as a holiday for GIL office 
+than the next working day should be considered as the appointed day with the same time 
+schedule. 
+ 
+ 
+
+
+P a g e 7 | 37 
+ 
+SECTION 2: INSTRUCTIONS TO BIDDERS 
+ 
+A. INTRODUCTION 
+ 
+Objectives: 
+The objective of this Request for Proposal (RFP) is for Empanelment of Service Providers / 
+Publishers for supply, licensing and access of e-Books for public libraries, Government of Gujarat 
+under the Director of Libraries, Government of Gujarat.  
+The empanelled agency shall provide a centralized, secure, scalable and user-friendly digital platform 
+to enable seamless access to quality digital reading material across the State of Gujarat.  
+The initiative aims to enhance digital access to quality reading resources, promote multilingual 
+learning, and support both competitive as well as non-competitive readership across public libraries 
+in Gujarat. 
+Pre-Qualification Criteria 
+The agency/firm/company meeting the following eligibility criteria will be considered for further 
+evaluation. 
+ 
+Sr. 
+No. 
+Basic 
+Requirement 
+Specific Requirement 
+Documents Required 
+1 
+Legal Entity & 
+Registration 
+Status 
+The bidder must be a legally 
+registered entity in India for at 
+least the last three financial years 
+(as on 31st March 2025). The 
+entity can be: 
+a. Company under Companies 
+Act, 1956 / 2013 
+b. LLP under LLP Act, 2008 
+c. Partnership 
+under 
+Indian 
+Partnership Act, 1932 
+d. Registered 
+Co-operative 
+Society 
+under 
+Societies 
+Registration Act, 1860 
+e. Valid Shop and Establishment 
+Registration 
+Certificate 
+/ 
+Trade License / Gumasta 
+License (as applicable) issued 
+by 
+the 
+competent 
+Local 
+Authority 
+/ 
+Municipal 
+Corporation / Urban Local 
+Body / State Government 
+Authority. 
+ 
+The bidder must have valid PAN 
+and GST registration in the name of 
+the bidding entity. 
+a) Certificate of Incorporation/ 
+Registration or  
+ 
+b) Copies of Articles of Association 
+(in case of company) or 
+c) Partnership deed (in case of 
+partnership firm) or  
+d) Self-Certificate in Letter Head in 
+case of Proprietorship along with 
+GSTIN certificate or 
+ 
+e) Bye laws and certificate of 
+registration (in case of registered 
+co-operative societies) or 
+f) Copy of valid Shop & 
+Establishment Registration 
+Certificate / Gumasta License / 
+Business Registration Certificate 
+issued by the competent authority. 
+ 
+and 
+b) Copy of PAN card  
+and 
+c) Copy of GST registration 
+
+
+P a g e 8 | 37 
+ 
+Sr. 
+No. 
+Basic 
+Requirement 
+Specific Requirement 
+Documents Required 
+2 
+Turnover of the 
+bidder 
+The bidder must have an average 
+annual turnover of at least INR 
+1.68 Crore for FY 2022-23, 2023-
+24 and 2024-25. 
+ 
+The turnover should be from e-
+Content/ 
+Digital 
+Services 
+or 
+related business activities. 
+• Audited and Certified Balance 
+Sheet & Profit/ Loss Account of 
+last 3 Financial Years. 
+• CA certificate clearly certifying 
+the turnover requirements as 
+per the clause. 
+3 
+Content 
+& 
+Catalogue 
+eligibility 
+compliance 
+Submission of Category Selection 
+Form and detailed list of proposed 
+e-Book titles with rates for the 
+category/categories applied. 
+Duly filled Annexure-1 on Bidder’s 
+official letterhead and signed by 
+Authorized Signatory. (separate for 
+each category applied) 
+4 
+Positive 
+Net 
+Worth  
+ 
+The bidder must have Positive Net 
+worth for 2022-23, 2023-24, 2024-
+25.  
+ 
+Certificate 
+from 
+the 
+Statutory 
+Auditor on positive net worth (i.e. FY 
+2022-23 and FY 2023-24, FY 2024-
+25)  
+ 
+5 
+Self- 
+Declaration 
+from 
+blacklisted/ 
+debarred 
+Bidder 
+should 
+not 
+be 
+blacklisted/debarred 
+by 
+any 
+Ministry of Government of India or 
+by Government of any State in 
+India or by  any  central/state  
+Government Body’s/PSUs at the 
+time of bidding. 
+Self-declaration on the bidder’s 
+official letterhead. 
+6 
+Consortium 
+No Consortium will be allowed.  
+Self-declaration 
+ 
+Note: In case if Tenderer finds that submitted documents are insufficient then Bidder is expected 
+to give additional documents to confirm eligibility based on request from Tenderer. 
+ 
+All Supporting Documents are to be uploaded on GeM portal https://gem.gov.in 
+ 
+Cost of Bidding 
+1.1.1 
+The Bidder shall bear all the costs associated with the preparation and submission of its bid, 
+and GIL will in no case be responsible or liable for these costs, regardless of conduct or 
+outcome of bidding process. 
+ 
+B. BIDDING DOCUMENTS 
+Contents of Bidding Documents 
+1.1.2 
+The bid must be submitted online on GeM portal https://gem.gov.in. 
+1.1.3 
+The Bidder is expected to examine all instructions, forms, terms and specifications in the 
+bidding documents. Failure to furnish all information required by the bidding documents in 
+format or submission of a bid not substantially responsive to the bidding documents in every 
+respect will be at the Bidder’s risk and may result in rejection of its bid. 
+ 
+
+
+P a g e 9 | 37 
+ 
+Clarification of Bidding Documents 
+1.1.4 
+A prospective bidder requiring any clarification of the bidding documents may seek 
+clarification of his/her query on the date indicated on the RFP clause of this document. 
+GIL/Director of Libraries will respond to any request for the clarification of any bidding 
+documents, which it receives during the meeting on the date mentioned on the RFP clause 
+of this document  
+1.1.5 
+The Bidders will have to ensure that their queries for pre-bid meeting should reach to Name, 
+Address, and email id of the officer mentioned by post, facsimile or email on or before pre 
+bid meeting. 
+ 
+Bidder’s Request for Clarification 
+Name of Organization 
+submitting request 
+Name & position of person 
+submitting request: 
+Address of organization 
+including phone, fax, email 
+points of contact 
+Sr. 
+No. 
+Bidding 
+Document 
+Reference  
+(Clause /page) 
+Content of RFP requiring 
+clarification 
+Points of Clarification required 
+1 
+ 
+ 
+ 
+ 
+GIL/Director of Libraries shall not be responsible for ensuring that the bidder’s queries have 
+been received by them. Any requests for clarifications post pre-bid meeting date and time 
+may not be entertained by the GIL/DIRECTOR OF LIBRARIES. 
+ 
+Amendment of Bidding Documents 
+1.1.6 
+At any time prior to the deadline for submission of bids, GIL/Director of Libraries may, for 
+any reason, whether on its own initiative or in response to the clarification may change their 
+biding document by amendment; the amendment will be uploaded online through 
+https://gil.gujarat.gov.in & https://gem.gov.in . 
+1.1.7 
+In order to allow prospective bidders reasonable time to consider the amendments while 
+preparing their bids, GIL/Director of Libraries at its discretion, may extend the deadline for 
+submission of bids. 
+1.1.8 
+At any time prior to the last date for receipt of bids, GIL may for any reason, whether at its 
+own initiative or in response to a clarification requested by a prospective bidder, modify the 
+RFP document by a corrigendum with prior approval of the Director of Libraries. 
+1.1.9 
+Any such corrigendum shall be deemed to be incorporated into this RFP. 
+ 
+C. PREPARATION OF BIDS 
+ 
+Language of Bid 
+1.1.10 The proposal prepared by the bidder, as well as all correspondence and documents relating 
+to the bid exchanged by the bidder and GIL shall be in English language. Supporting 
+documents and printed literature furnished by the bidder may be in another language 
+provided they are accompanied by an appropriate translation of the relevant document in 
+the English language and in such a case, for purpose of interpretation of the Bid, the 
+translation shall govern. 
+Documents Comprising the Bid 
+1.1.11 The bid prepared by the Bidder shall comprise of the following documents: 
+a. Cover of EMD and Affidavit (Physically at GIL office, Gandhinagar) 
+b. Technical Bid completed in accordance with ITB Clauses   
+
+
+P a g e 10 | 37 
+ 
+1.1.12 The bid documents and addendums (if any) together shall be considered as final and self-
+contained bid documents notwithstanding any previous correspondence or document issued 
+by GIL/DIRECTOR OF LIBRARIES. 
+Bid Form 
+1.1.13 The Bidder shall complete the Technical Bid furnished with this document giving details as 
+per the format mentioned on the GeM Portal https://gem.gov.in.  
+Terms of Payment 
+This RFP is for empanelment only. No payment terms apply at this stage. No advance payment is 
+admissible unless approved by competent authority 
+ 
+Period of Validity Bids 
+1.1.14 Bids shall be valid for 180 days after the date of bid opening. The GIL/Director of Libraries 
+shall reject a bid valid for a shorter period as non-responsive. 
+1.1.15 In exceptional circumstances, the tendering authority may solicit the bidder’s consent to an 
+extension of the period of validity. The request and the responses thereto shall be made in 
+writing.   
+Format and Signing of Bid 
+1.1.16 Bidders have to submit the bids on the GeM portal website https://gem.gov.in. All supporting 
+documents in the form of scanned copies submitted online should have sign and seal of the 
+bidder.  
+1.1.17 Before filling in any of the details asked, bidders should go through the entire bid document 
+and get the required clarifications from GIL/Director of Libraries during the pre-bid 
+conference. 
+ 
+D. SUBMISSION OF BIDS 
+Sealing and Marking of Bids 
+1.1.18 All bids must be submitted online through GeM portal https://gem.gov.in as per the formats 
+mentioned therein. 
+1.1.19 Telex, cable, e-mailed or facsimile bids will be rejected. 
+ 
+Deadline for Submission of Bids 
+1.1.20 Bids must be submitted online not later than the time and date specified in the Invitation for 
+Bids (Section I). In the event of the specified date for the submission of Bids being declared 
+as a holiday for GIL, the bids will be received up to the appointed time on the next working 
+day.  
+1.1.21 GIL may, at its discretion, extend this deadline for submission of bids by amending the bid 
+documents in accordance with ITB, in which case all rights and obligations of GIL and Bidders 
+previously subject to the deadline will thereafter be subject to the deadline as extended. 
+ 
+Late Bids 
+1.1.22 Any bid received by GIL after the deadline for submission of bids prescribed by GIL will be 
+rejected and /or returned unopened to the bidder. 
+ 
+Modification and Withdrawal of Bids 
+1.1.23 The bidder may modify or withdraw his bid before the last date of submission of bids through 
+the GeM portal website https://gem.gov.in 
+1.1.24 No bid may be modified subsequent to the deadline for submission of the bids. 
+
+
+P a g e 11 | 37 
+ 
+1.1.25 No bid may be withdrawn in the interval between the deadline for submission of bids and 
+the expiry period of the bid validity specified by the bidder on the bid form. Withdrawal of a 
+bid during this interval shall result in the bidder’s forfeiture of its bid security. 
+ 
+SECTION 3: TENDER PROCESSING AND EVALUATION 
+ 
+3. Tender Processing and Evaluation 
+The selection and empanelment process under this RFP shall be conducted in a fair, transparent, 
+objective, and systematic manner. All bids shall be evaluated strictly in accordance with the 
+provisions, eligibility conditions, and requirements specified in this RFP. 
+This Empanelment RFP does not involve commercial/financial bidding at this stage. Accordingly, 
+evaluation shall be based solely on: 
+ 
+Compliance with prescribed Category criteria 
+ 
+Fulfilment of Technical Qualification (TQ) requirements 
+ 
+Completeness and correctness of submitted documentation 
+ 
+Validation of experience, credentials, certifications, and statutory compliance 
+ 
+Adherence to RFP conditions without material deviation 
+Any bid containing material deviation from the RFP conditions shall be liable for rejection. 
+3.1 Eligibility and Pre-Qualification Stage 
+1. All submitted bids shall be scrutinized to verify compliance with the eligibility and pre-
+qualification criteria specified in this RFP. 
+2. Bids that are: 
+o Incomplete, 
+o Not supported with requisite documents, or 
+o Non-compliant with mandatory eligibility criteria 
+shall be summarily rejected. 
+3. Only those bidders who fully satisfy the eligibility and pre-qualification requirements shall be 
+considered for empanelment. 
+3.2 Empanelment of Bidders 
+1. Upon successful evaluation, eligible agencies shall be empanelled under the respective 
+Category and approved Domains, as applicable. 
+2. An official Empanelment Notification shall be issued specifying: 
+o Name of the Empanelled Agency 
+o Category and Domain(s) of empanelment 
+o Empanelment validity period 
+3. Empanelment shall not: 
+o Confer any vested right for award of work, 
+o Guarantee issuance of any work order, or 
+o Ensure any minimum business or revenue commitment. 
+
+
+P a g e 12 | 37 
+ 
+Empanelment merely qualifies the agency to participate in future requirement-specific selections. 
+3.3 Clarifications and Post-Evaluation Interactions 
+At its sole discretion, Gujarat Informatics Limited (GIL) may invite a bidder for: 
+ 
+Clarification of submitted documents 
+ 
+Submission of additional supporting evidence 
+ 
+Rectification of minor non-material discrepancies 
+ 
+Demonstration / Proof of capability 
+Such interaction shall not be construed as negotiation of commercial terms, as no financial bidding 
+is involved under this empanelment process. 
+Failure to provide satisfactory clarification within the stipulated time may result in rejection. 
+3.4 Validity period of empanelment (initially two (2) years, extendable at the discretion of The 
+Director of Libraries.) 
+1. Agencies meeting all prescribed requirements shall be issued a Letter of Empanelment (LoA) 
+by GIL. 
+2. The LoA shall include: 
+o Legal name and registered details of the firm 
+o Approved Category and Domain(s) 
+o Validity period of empanelment (initially two (2) years, extendable at the discretion 
+of Department) 
+3. No financial engagement or commercial obligation shall arise at the time of empanelment. 
+4. Work allocation, if any, shall be carried out separately through requirement-specific 
+processes. 
+3.5 Work Allocation Mechanism 
+1. For specific project requirements, GIL/Concerned Department may issue: 
+o Limited RFP 
+o Term of Reference (ToR) 
+o Domain-specific requirement document to empanelled agencies. 
+2. Selection among empanelled agencies may be conducted through: 
+o QCBS (Quality-cum-Cost Based Selection) 
+o LCS (Least Cost Selection) 
+o Nomination Basis (for urgent, specialized, or niche requirements) 
+3. Department reserves the right to: 
+o Seek technical presentations or demos, 
+o Evaluate methodology and capability, 
+o Reject any or all proposals without assigning reasons. 
+4. Non-responsiveness, non-participation, or repeated unsatisfactory performance may lead to 
+suspension from future invitations. 
+5. The Director of Libraries reserves the right to take final decision regarding work allocation. 
+
+
+P a g e 13 | 37 
+ 
+3.6 Review, Suspension, and Removal of Empaneled Agencies 
+1. The Director of Libraries reserves the right to periodically review the performance and 
+participation of empanelled agencies. 
+2. An agency may be considered for suspension or removal in cases including, but not limited 
+to: 
+o Failure to respond to three (3) consecutive invitations 
+o Submission of non-compliant proposals on more than two (2) occasions 
+o Unsatisfactory service delivery 
+o Delays attributable to the agency 
+o Misrepresentation or breach of contractual obligations 
+o Any other circumstance deemed detrimental to public interest or project 
+implementation 
+3. Prior to removal, a Show-Cause Notice shall be issued, and the agency shall be provided 
+reasonable opportunity to respond. 
+4. The decision of The Director of Libraries shall be final and binding. 
+5. The Director of Libraries reserves the right to take final decision regarding review, suspension 
+and removal of empanelled agencies. 
+ 
+ 
+
+
+P a g e 14 | 37 
+ 
+SECTION 4: GENERAL CONDITION CONTRACT 
+In this Contract, unless the context otherwise requires: 
+ “Client” / “Department” shall mean the Director of Libraries, Government of Gujarat. 
+ “Project Owner” shall mean the Director of Libraries (DoL), Government of Gujarat, which is 
+the administrative authority for implementation of the project. 
+ “GIL” shall mean Gujarat Informatics Limited, acting as the implementing/technical agency 
+or procurement support agency, wherever applicable. 
+ “Service Provider” / “Publisher” / “Agency” shall mean the firm, company, partnership, LLP, 
+or legal entity empanelled and/or selected through the prescribed bidding process for 
+providing the Services under this Contract, and shall include its permitted successors and 
+assigns. 
+ “Selected Bidder” shall mean the bidder whose proposal has been accepted and to whom 
+the Letter of Award (LoA) and/or Work Order has been issued. 
+ “Contract” shall mean the agreement entered into between the Client and the Selected 
+Bidder, including the RFP, Scope of Work (SoW), Letter of Award (LoA), Work Order(s), all 
+annexures, schedules, appendices, corrigenda, amendments, and any document 
+incorporated therein by reference. 
+ “Services” shall mean all obligations, deliverables, duties, activities, content supply, licensing, 
+platform management, reporting, support, and any other responsibilities to be performed by 
+the Service Provider in accordance with the Scope of Work and the terms of this Contract. 
+ “Work Order (WO)” shall mean the formal written authorization issued by GIL and/or the 
+Director of Libraries to the Selected Bidder for commencement of specific Services under this 
+Contract. The Work Order shall specify the scope, duration, and other applicable terms for 
+execution of the Services. 
+4.1 Earnest Money Deposited (EMD) 
+1.1.1 
+The bidder shall furnish, as part of its bid, an Earnest Money Deposit as asked in the bid.  
+1.1.2 
+Proposals not accompanied by EMD shall be rejected as non-responsive. 
+1.1.3 
+The successful bidder’s EMD will be discharged from GIL only after the signing of the contract 
+and submission of performance security. 
+1.1.4 
+Unsuccessful bidder’s EMD will be discharged / refunded as promptly as possible, but not 
+later than 30 days of the validity period of the bid.  
+1.1.5 
+The EARNEST MONEY DEPOSIT shall be forfeited: 
+1.1.5.1 
+If a bidder withdraws its bid during the period of bid validity specified by the 
+bidder on the bid form; 
+1.1.5.2 
+Or in case of a successful Bidder, if the Bidder fails to sign the Contract; or to 
+furnish the performance security. 
+1.1.5.3 
+Exemption from submission of EMD shall be applicable only to eligible 
+bidders as per the prevailing GeM General Terms & Conditions (GTC). No 
+other exemption shall be permitted 
+4.2 Performance Security/Performance Bank Guarantee (PBG) 
+1.1.6 
+The successful Bidder has to furnish a security deposit so as to guarantee his/her (Bidder) 
+performance of the contract.  
+1.1.7 
+The Successful bidder has to submit Performance Bank Guarantee @ 5% of total order value 
+within 15 days from the receipt of notification of award/Contract signing for the duration of 
+warranty/contract 
+period 
+from 
+banks 
+(operating 
+in 
+India 
+having 
+branch 
+at 
+
+
+P a g e 15 | 37 
+ 
+Ahmedabad/Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2024/2859/D.M.O. dated 
+01.05.2025 issued by Finance Department or further instruction issued by Finance 
+department time to time.  (The draft of Performance Bank Guarantee is as per From-6).  
+1.1.8 
+The Performance Security shall be in the form of Bank Guarantee valid till 12 months from 
+the date of contract expiry. 
+1.1.9 
+The proceeds of the performance security shall be payable to the GIL/DIRECTOR OF 
+LIBRARIES as compensation for any loss resulting from the Service provider’s failure to 
+complete its obligations under the Contract. 
+1.1.10 The Performance Security will be discharged by GIL/DIRECTOR OF LIBRARIES and returned to 
+the Bidder on completion of the bidder’s performance obligations under the contract. 
+1.1.11 No interest shall be payable on the Performance Bank Guarantee amount. GIL/DIRECTOR OF 
+LIBRARIES may invoke the above bank guarantee for any kind of recoveries, in case; the 
+recoveries from the bidder exceed the amount payable to the bidder. 
+ 
+4.3 Delivery and Documents 
+1.1.12 Delivery of the Goods shall be made by the Service Provider in accordance with the terms 
+specified by GIL/DIRECTOR OF LIBRARIES in the Notification of Award.  
+ 
+4.4 Incidental Services 
+1.1.13 The Service Provider is required to provide the following services, including additional 
+services, if any. 
+1.1.14 Performance or supervision of the on-site assembly of the supplied Goods; 
+1.1.15 furnishing of tools required for assembly and/or maintenance of the supplied Goods; 
+1.1.16 furnishing of detailed operations and maintenance manual for each appropriate unit of 
+supplied Goods; 
+1.1.17 Performance or supervision or maintenance and/or repair of the supplied Goods, for the 
+period of time mentioned in the tender notification. 
+ 
+4.5 Prices 
+1.1.18 Prices payable to the service provider as state in the contract shall be fixed during the 
+performance of the contract. 
+ 
+4.6 Assignment 
+1.1.19 The service provider shall not assign, in whole or in part, its obligations to perform under the 
+Contract, except with prior written consent of Director of Libraries. 
+ 
+4.7 Delays in the Service Provider’s Performance 
+1) Delivery of the Goods and performance of the Services shall be made by the Service Provider 
+in accordance with the time schedule specified by GIL/DIRECTOR OF LIBRARIES. 
+2) If at any time during performance of the Contract, the Service Provider or his sub-
+contractor(s) should encounter conditions impeding timely delivery of the Goods and 
+performance of Services, the Service Provider shall promptly notify GIL/DIRECTOR OF 
+LIBRARIES in writing of the fact of the delay, its likely duration and its cause(s). As soon as 
+practicable after receipt of the Service Provider’s notice, GIL/DIRECTOR OF LIBRARIES shall 
+evaluate the situation and may, at its discretion, extend the Service Provider’s time for 
+performance with or without a penalty, in which case the extension shall be ratified by the 
+parties by amendment of the Contract. 
+3) The bidders shall read & understand the requirements thoroughly & shall adhere to the 
+schedule strictly.  
+
+
+P a g e 16 | 37 
+ 
+ 
+4.8 Termination for Default or otherwise 
+4.8.1 GIL/DIRECTOR OF LIBRARIES may, without prejudice to any other remedy for breach of 
+contract, by written notice of default sent to the service provider, terminate the Contract in 
+whole or part: 
+a) if the service provider fails to deliver any or all of the services within the period(s) 
+specified in the Contract, or within any extension thereof granted by Director of Libraries; 
+or 
+b) If the service provider fails to perform any other obligation(s) under the Contract. 
+c) If the service provider, in the judgment of GIL/DIRECTOR OF LIBRARIES has engaged in 
+corrupt or fraudulent practices in competing for or in executing the Contract. 
+For the purpose of this Clause: 
+ 
+“Corrupt practice” means the offering, giving, receiving or soliciting of anything of value 
+to influence the action of a public official in the procurement process or in contract 
+execution. 
+“Fraudulent practice: a misrepresentation of facts in order to influence a procurement 
+process or the execution of a contract to the detriment of the Borrower, and includes 
+collusive practice among Bidders (prior to or after bid submission) designed to establish 
+bid prices at artificial non-competitive levels and to deprive the Borrower of the benefits 
+of free and open competition;”   
+d) If the Service Provider fails to conform to the quality requirement laid down/third party 
+inspection/consultants opinion. 
+4.8.2 If Bidder has violated / infringement of any Indian or foreign trademark, patent, registered 
+design or other intellectual property rights. Certificate/affidavit regarding non-violation / 
+infringement of any Indian or foreign trademark, patent, registered design or other 
+intellectual property rights. 
+ 
+4.9 Force Majeure 
+4.9.1 Notwithstanding anything contained in the tender, the SP shall not be liable for   
+liquidated damages or termination for default, if and to the extent that, it’s delay in 
+performance or other failures to perform its obligations under the agreement is the 
+result of an event of Force Majeure. 
+4.9.2 For purposes of this clause, “Force Majeure” means an event beyond the control of 
+the service provider and not involving the service provider’s fault or negligence and 
+not foreseeable.  Such events may include, but are not limited to, acts of the Purchase 
+either in its sovereign or contractual capacity, wars or revolutions, fires, floods, 
+epidemics, quarantine restrictions and freight embargoes. 
+4.9.3 If a force Majeure situation arises, the service provider shall promptly notify to 
+GIL/DIRECTOR OF LIBRARIES in writing within 10 days of such conditions and the 
+cause thereof.  Unless otherwise directed by GIL/DIRECTOR OF LIBRARIES in writing, 
+the service provider shall continue to perform its obligations under the Contract as 
+far as it is reasonably practical, and shall seek all reasonable alternative means for 
+performance not prevented by the Force Majeure. 
+ 
+4.10 Termination for Insolvency 
+GIL/DIRECTOR OF LIBRARIES may at any time terminate the Contract by giving written 
+notice to the Supplier / service provider, if the Supplier / service provider becomes 
+bankrupt or otherwise insolvent.  In this event, termination will be without 
+
+
+P a g e 17 | 37 
+ 
+compensation to the Supplier / service provider, provided that such termination will 
+not prejudice or affect any right of action or remedy which has accrued or will accrue 
+thereafter to Director of Libraries. 
+4.11 Termination for Convenience 
+4.11.1 GIL/DIRECTOR OF LIBRARIES by written notice sent to the service provider, may 
+terminate the Contract, in whole or in part, at any time for its convenience.  The notice of 
+termination shall specify that termination is for Director of Libraries’ convenience, the 
+extent to which performance of the service provider under the Contract is terminated, and 
+the date upon which such termination becomes effective. 
+4.11.2 The services / software that is complete and ready for rendering / deployment within 
+30 days after the service provider’s receipt of notice of termination shall be accepted by 
+GIL/DIRECTOR OF LIBRARIES at the Contract terms and prices.  For the remaining services, 
+GIL/DIRECTOR OF LIBRARIES may elect: 
+a) 
+To have any portion completed and delivered at the Contract terms and prices; 
+and/or 
+b) 
+To cancel the remainder and pay to the service provider an agreed amount for 
+partially completed services / software and for services / software previously 
+procured by the service provider. 
+ 
+4.12 Resolution of Disputes 
+In this regard GIL/DIRECTOR OF LIBRARIES doesn’t go for any arbitration on dispute and 
+Director of Libraries’ decision will be final and binding on the service provider. 
+ 
+4.13 Governing Language 
+The contract shall be written in English language. All correspondence and other documents 
+pertaining to the Contract, which are exchanged by the parties, shall be written in the same 
+language. 
+ 
+4.14 Applicable Law 
+The Contract shall be interpreted in accordance with the laws of the Union of India and that 
+of the State of Gujarat. 
+ 
+4.15 Taxes and Duties 
+Service providers shall be entirely responsible for all taxes, duties, license fees, octroi, road 
+permits, etc., incurred until delivery of the contracted software/ services to Director of 
+Libraries. However, GST in respect of the transaction between GIL/DIRECTOR OF LIBRARIES 
+and the service provider shall be payable extra as on actual at the time of invoicing. 
+ 
+4.16 Binding Clause 
+All decisions taken by GIL/ The Director of Libraries regarding the processing of this tender 
+and award of contract shall be final and binding on all parties concerned.  
+ 
+ 
+Confidential Information, Security and Data: -  
+ 
+The selected bidder will promptly on the commencement of the exit management period supply to 
+GIL/DIRECTOR OF LIBRARIES, Gujarat or its nominated agencies the following: 
+a. Documentation relating to Intellectual Property Rights; 
+
+
+P a g e 18 | 37 
+ 
+b. Project related data and confidential information; 
+c. All current and updated data as is reasonably required for purposes of GIL/DIRECTOR 
+OF LIBRARIES, Gujarat or its nominated agencies transitioning the services to its 
+replacement selected bidder in a readily available format nominated by 
+GIL/DIRECTOR OF LIBRARIES, Gujarat or its nominated agencies; and 
+d. All other information (including but not limited to documents, records and 
+agreements) relating to the services reasonably necessary to enable GIL/DIRECTOR 
+OF LIBRARIES, Gujarat or its nominated agencies, or its replacement operator to carry 
+out due diligence in order to transition the provision of the services to GIL/DIRECTOR 
+OF LIBRARIES, Gujarat or its nominated agencies, or its replacement operator (as the 
+case may be). 
+e. Before the expiry of the exit management period, the selected bidder shall deliver to 
+GIL/DIRECTOR OF LIBRARIES, Gujarat or its nominated agencies all new or up-dated 
+materials from the categories set out above and shall not retain any copies thereof, 
+except that the selected bidder shall be permitted to retain one copy of such 
+materials for archival purposes only. 
+ 
+4.17 GIL/DIRECTOR OF LIBRARIES, Gandhinagar, reserves the right: - 
+ 
+4.17.1 To vary, modify, revise, amend or change any of the terms and conditions mentioned above; 
+or  
+4.17.2 To reject any or all the tender/s without assigning any reason whatsoever thereof or may 
+terminate the tender process midway without assigning any reason.   
+4.17.3 The decision regarding acceptance of tender by GIL/DIRECTOR OF LIBRARIES will be full and 
+final. 
+4.17.4 Conditional tenders shall be summarily rejected. 
+4.17.5 GIL/DIRECTOR OF LIBRARIES is free to phase out the work if it feels it necessary. 
+ 
+ 
+ 
+
+
+P a g e 19 | 37 
+ 
+SECTION 5: SCOPE OF WORK 
+ 
+1. Objective 
+The objective of this Request for Proposal (RFP) is to empanel qualified and experienced Service 
+Providers / Publishers for the supply, licensing and access of e-Books for public libraries under the 
+Director of Libraries, Government of Gujarat.  
+The empanelled agency shall provide a centralized, secure, scalable, and user-friendly digital 
+platform to enable seamless access to quality digital reading material across the State of Gujarat. 
+The initiative aims to enhance digital access to quality reading resources, promote multilingual 
+learning, and support both competitive as well as non-competitive readership across public libraries 
+in Gujarat. 
+2. Scope of Services 
+2.1 Supply of e-Books Content 
+ 
+The selected Service Provider shall supply a comprehensive and high-quality collection of e-Books.  
+a) Content Categories: The e-Book collection shall cover, minimum 50% of the competitive exams 
+books as the government is promoting the same and it should be minimum 70% in local language 
+(Gujarati) because, many libraries are located at remote and tribal areas of the state.  
+The empanelment will be in both categories separately. 
+(1) Competitive categories 
+(2) Non- competitive categories 
+The Publisher/Service Providers shall submit the list of titles for both (1) Competitive Examination 
+Preparation and (2) Non- Competitive/ General reading categories in a single prescribed format as 
+per Annexure–1. The Publisher/Service Providers shall be bound to provide subscription of the e-
+Books at the rates quoted by them in Annexure–1 throughout the empanelment period. The quoted 
+rates shall remain valid and applicable for all procurements made during the validity of 
+empanelment. 
+The Publisher/Service providers will be empanelled which is able to provide compulsory e-Books 
+titles for subject as mentioned compulsory subjects in the sub-section 2.2 below. The agency will be 
+empanelled in the relevant category/ categories as it provides the list of e-Books as per Annexure-1. 
+Further, whenever required by Director of Libraries, the Publisher/Service Providers shall submit the 
+list of updated, revised, or newly published e-Books in the same prescribed format of Annexure–1. 
+2.2 Competitive Examination Preparation  
+1. Compulsory Titles: The Subjects for Competitive Category in local Language:   
+o Mathematics/ Quantitative Aptitude  
+o Reasoning  
+o Gujarati  
+
+
+P a g e 20 | 37 
+ 
+o English 
+o General Knowledge & Current Affairs Magazine  
+o General Knowledge & Current Affairs Books 
+ 
+Note- In competitive e-books latest edition required. 
+ 
+2. Non-Competitive / General Reading  
+Compulsory Titles: The Subjects for Non- Competitive Category (any 4 of below): 
+o Literature  
+o Academic Enrichment  
+o Skill Development  
+o Gujarati  
+o English  
+o Motivation  
+o Religious  
+o Fiction  
+o Travel  
+o Social Science 
+o History 
+o Philosophy 
+o Children’s Literature 
+o Novel 
+o Popular Science 
+o Geography 
+ 
+The content shall be curated author-wise and include different authors, academicians, subject-
+matter experts, and domain specialists. All titles must be current, relevant, academically reliable, 
+and free from copyright infringement. The Service Provider shall ensure that all necessary publishing, 
+distribution, and licensing rights are valid and legally compliant. 
+2.3 Licensing & Access Rights  
+ E-Books shall be provided on a Service Provider/Agency basis.  
+ License Validity: One (1) year subscription, extendable based on requirement and 
+performance.  
+ 
+The e-Books shall be provided on a Service Provider/Agency basis for a subscription period of one 
+(1) year, which may be extended based on departmental requirements and satisfactory 
+performance.  
+The license shall permit multi-user access as per agreed concurrency norms and shall not impose 
+hidden restrictions or additional costs beyond the approved contract value. The Service Provider 
+shall ensure uninterrupted access during the license validity period.  
+2.3.1 API / EPUB Access Key 
+
+
+P a g e 21 | 37 
+ 
+Bidder shall provide API access credentials, metadata feed, discovery service integration, ONIX/ 
+MARC records, EPUB access keys, or any equivalent industry-standard mechanism required for 
+integration with the Departments’ Single Window Library Platform. 
+2.4 Digital Platform 
+The Service Provider shall provide and maintain a secure, centralized, web-based digital platform for 
+accessing the e-Books.  
+a) Platform Requirements 
+ 
+Web-based platform compatible with Windows OS. 
+b) Functional Features The platform shall support: 
+ 
+Online reading 
+ 
+Offline reading (where applicable) 
+ 
+Basic E Books search options  
+The system shall ensure reliable uptime and seamless performance throughout the license period. 
+2.5 Report 
+The Service Provider shall provide a monthly MIS report to the Director of Libraries. 
+2.6 Support & Maintenance 
+The Service Provider shall ensure continuous technical and operational support during the entire 
+contract period.  
+ 
+Single Point of Contact (SPoC) for technical and operational support. 
+ 
+Helpdesk support through email/phone during working hours. 
+ 
+Issue resolution as per defined SLA. 
+2.7 Service Level Agreement (SLA) & Penalty Clauses 
+The Publisher/ Service Provider shall adhere to the Service Levels specified under this Contract. In 
+case of non-compliance or failure to meet the prescribed timelines and performance standards, the 
+following penalties shall be applicable: 
+Sl. 
+No. 
+Non-Compliance 
+Penalty 
+1 
+Delay in deployment of digital platform 
+as per SoW beyond agreed timeline 
+0.5% of the applicable Work Order value per 
+week of delay, subject to maximum 10% of the 
+Work Order value 
+2 
+Delay in making approved e-Book 
+content available 
+0.5% of the affected content value per week of 
+delay, subject to maximum 10% of the 
+respective Work Order value 
+
+
+P a g e 22 | 37 
+ 
+3 
+Platform downtime beyond agreed SLA 
+uptime (excluding approved 
+maintenance window) 
+Pro-rata deduction calculated based on 
+monthly subscription value for the affected 
+period 
+4 
+Failure to submit Monthly MIS Report 
+within prescribed timeline 
+INR 5,000 per instance of delay 
+5 
+Repeated SLA Breach (three or more 
+instances in a quarter) 
+Additional penalty up to 5% of quarterly 
+invoice value and/or issuance of Warning 
+Notice 
+6 
+Non-compliance with data security, 
+confidentiality, or unauthorized sharing 
+of user data 
+Penalty up to 10% of Work Order value and 
+may lead to termination of contract 
+Additional Conditions: 
+1. The cumulative penalty in any contract year shall not exceed 10% of the annual contract 
+value. 
+2. Penalties shall be recovered from pending payments or Performance Security, if applicable. 
+3. Imposition of penalty shall not relieve the Service Provider of its contractual obligations. 
+4. Continued or material breach of SLA obligations may result in: 
+o Suspension of services 
+o Blacklisting as per Government norms 
+o Termination of Contract 
+The decision of the Director / GIL regarding computation and imposition of penalty shall be final 
+and binding. 
+2.8 Contract Period 
+The empanelment shall remain valid for an initial period of two (2) years from the date of execution 
+of the agreement. Based on satisfactory performance, compliance with SLA requirements, continued 
+departmental need, and mutual consent of both parties, the contract may be extendable at the 
+discretion of The Director of Libraries. 
+The Director reserves the right to terminate the contract in case of unsatisfactory performance, 
+breach of terms, or failure to comply with contractual obligations. 
+ 
+
+
+P a g e 23 | 37 
+ 
+Annexure- 1: Format for Submission of e-Book Title Details 
+(To be submitted on the Bidder’s Official Letterhead) 
+RFP No.: __________________________ 
+Name of Bidder: __________________________ 
+ 
+Category Applied For (Tick ✓): 
+☐ Competitive Category 
+☐ Non-Competitive Category 
+Part- A: e-Book Title Details 
+ 
+Sr. 
+No. 
+Book Title 
+Book Subject 
+Book Category 
+(Competitive / Non-
+Competitive) 
+Price (INR) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instructions to Bidders: 
+1. Separate Annexure shall be submitted for each category applied. 
+2. Subjects must strictly comply with the compulsory subject requirements mentioned in the RFP. 
+3. Prices quoted shall remain valid during the empanelment period. 
+4. The bidder shall ensure legal rights and licensing compliance for all submitted titles. 
+Declaration 
+I/We hereby declare that the above details are true and correct and that the listed titles are legally 
+licensed and available for supply as per the terms of the RFP. 
+Signature of Authorized Signatory: _____________________ 
+Name: _____________________ 
+Designation: _____________________ 
+Company Seal & Stamp: _____________________ 
+Date: _____________________ 
+ 
+
+
+P a g e 24 | 37 
+ 
+Form- 2: Proposal Covering Letter 
+ 
+(To be on the Bidder’s letterhead duly Signed by Authorized Signatory)  
+Tender Ref No: 
+To 
+(I/C) GM – Software Procurement 
+e-Governance Division, 
+Gujarat Informatics Ltd. 
+Block no. 2, 2nd floor, Karmayogi 
+Bhavan, Sector 10-A, Gandhinagar. 
+ 
+Ref: Request for Proposal (RFP) for <<>>> 
+Dear Sir, 
+ 
+We …………………………. (Name of the bidder) hereby submit our proposal in response to notice 
+inviting tender date ……………. And GEM bid no. xxxxxxxxxx Dated: dd/mm/yyyy and confirm that: 
+ 
+1. All information provided in this proposal and in the attachments, is true and correct to the 
+best of our knowledge and belief. 
+2. We shall make available any additional information if required to verify the correctness of 
+the above statement. 
+3. Certified that the period of validity of bids is 180 days from the last date of submission of 
+proposal, and 
+4. We are quoting for all the items (including services) as per the price bid format Section-VII 
+as mentioned in the RFP. 
+5. We the Bidder are not under a declaration of Ineligibility for corrupt or fraudulent practices 
+or blacklisted by any of the Government agencies. 
+6. We have an office in the state and relevant documents for the same are attached. We undertake 
+that if the local presence is not there in the state, that we shall establish an office at Gandhinagar/ 
+Ahmedabad, within 30 days from the date of the award of contract. 
+7. Gujarat Informatics Limited may contact the following person for further Information 
+regarding this tender: - 
+a. Name & Designation: 
+b. Full address of office 
+c. Email ID & Contact No. 
+8. We are uploading our Response to the RFP (Eligibility, technical and financial bid documents) 
+as per the instructions set out in this RFP. 
+Yours Sincerely, 
+ 
+(Signature) 
+Name of Authorized Signatory: 
+Designation: 
+Date: 
+Name of the bidder: 
+
+
+P a g e 25 | 37 
+ 
+Annexure-3: Bidder Details 
+ 
+Particulars 
+Details 
+Name of the Bidder 
+ 
+Registered Address 
+ 
+Contact Person 
+ 
+Email / Phone No. 
+ 
+GST Registration No. 
+ 
+PAN No. 
+ 
+ 
+ 
+ 
+ 
+
+
+P a g e 26 | 37 
+ 
+FORM 4: Non-Disclosure Agreement 
+ 
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT 
+ 
+THIS CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT (the "Agreement") 
+Made this  
+day of  ,  
+(the  "Effective  Date")  by  and  between  a 
+  
+Corporation, and  
+a  
+corporation, (collectively, 
+the "Parties" and each individually a "Party"). 
+ 
+The Parties are exploring the possibility of engaging in one or more mutually beneficial 
+business relationships (collectively, the "Business Relationship"). The Parties recognize that 
+in the course of their discussions to further the Business Relationship, it will be necessary 
+for each Party to disclose to the other certain Confidential Information (as defined below). 
+Each Party desires to set forth the terms that apply to such Confidential Information. 
+ 
+NOW, THEREFORE, for and in consideration of the foregoing, of the promises and covenants 
+set forth herein, and for other good and valuable consideration, the receipt and sufficiency 
+of which are · hereby acknowledged, the Parties do hereby agree as follows: 
+ 
+1. The Parties shall (i) use reasonable efforts to maintain the confidentiality of the 
+information and materials, whether oral, written or in any form whatsoever, of the other that 
+may be reasonably understood, from legends, the nature of such information itself and/or 
+the circumstances of such information's disclosure, to be confidential and/or proprietary 
+thereto or to third parties to which either of them owes a duty of nondisclosure (collectively, 
+"Confidential Information"); (ii) take reasonable action in connection therewith, including 
+without limitation at least the action that each takes to protect the confidentiality of its 
+comparable proprietary assets; (iii) to the extent within their respective possession and/or 
+control, upon termination of this Agreement for any reason, immediately return to the 
+provider thereof all Confidential Information not licensed or authorized to be used or 
+enjoyed after termination or expiration hereof, and (iv) with respect to any person to which 
+disclosure is contemplated, require such person to execute an agreement providing for the 
+treatment of Confidential Information set forth in clauses (i) through (iii). The foregoing shall 
+not require separate written agreements with employees and agents already subject to 
+written agreements substantially conforming to the requirements of this Section nor with 
+legal counsel, certified public accountants, or other professional advisers under a 
+professional obligation to maintain the confidences of clients. 
+ 
+2. Notwithstanding the foregoing, the obligation of a person to protect the confidentiality 
+of any information or materials shall terminate as to any information or materials which: (i) 
+are, or become, public knowledge through no act or failure to act of such person; (ii) are 
+publicly disclosed by the proprietor thereof; (iii) are lawfully obtained without obligations of 
+confidentiality by such person from a third party after reasonable inquiry regarding the 
+authority of such third party to possess and divulge the same; (iv) are independently 
+developed by such person from 
+
+
+P a g e 27 | 37 
+ 
+Sources or through persons that such person can demonstrate had no access to Confidential 
+Information; or (v) are lawfully known by such person at the time of disclosure other than 
+by reason of discussions with or disclosures by the Parties. 
+ 
+3. All Confidential Information delivered pursuant to this Agreement shall be and remain 
+the property of the disclosing Party, and any documents containing or reflecting the 
+Confidential Information, and all copies thereof, shall be promptly returned fo the disclosing 
+Party upon written request, or destroyed at the disclosing Party's option. Nothing herein 
+shall be construed as granting or conferring any rights by license or otherwise, express or 
+implied, regarding any idea made, conceived or acquired prior to or after the Effective Date, 
+nor as granting any right with respect to the use or marketing of any product or service. The 
+Parties shall use the Confidential Information only for the Business Relationship. 
+The obligations of the Parties under this Agreement shall continue and survive the 
+completion or abandonment of the Business Relationship and shall remain binding for a 
+period of three (03) years with extended contract period (if applicable) from the Effective 
+Date. 
+ 
+4. As a violation by either Party of this Agreement could cause irreparable injury to the 
+other Party and as there is no adequate remedy at law for such violation, the non-breaching 
+Party may, in addition to any other remedies available to it at law or in equity, enjoin the 
+breaching Party in a court of equity for violating or threatening to violate this Agreement. In 
+the event either Party is required to enforce this Agreement through legal action, then it will 
+be entitled to recover from the other Party all costs incurred thereby, including without 
+limitation, reasonable attorney's fees. 
+ 
+5. Neither Party makes any representation or warranty with respect to any Confidential 
+Information disclosed by it, nor shall either Party or any of their respective representatives 
+have any liability here under with respect to the accuracy or completeness of any 
+Confidential Information or the use thereof. 
+ 
+6. Any provision of this Agreement held or determined by a court ( or other legal authority) 
+of competent jurisdiction to be illegal, invalid, or unenforceable in any jurisdiction shall be 
+deemed separate, distinct and independent, and shall be ineffective to the extent of such 
+holding or determination without (i) invalidating the remaining provisions of this Agreement 
+in that jurisdiction or (ii) affecting the legality, validity or enforceability of such provision in 
+any other jurisdiction. 
+ 
+7. Any notice required or permitted to be given here under shall be (a) in writing, 
+(b) effective on the first business day following the date of receipt, and (c) delivered by one of 
+the following means: (i) by personal delivery; (ii) by prepaid, overnight package delivery or 
+courier service; or (iii) by the United States Postal Service, first class, certified mail, return 
+receipt requested, postage prepaid. All notices given under this Agreement shall be 
+addressed to the addresses stated at the outset of this Agreement, or to new or additional 
+addresses as the Parties may be advised in writing. 
+ 
+8. This Agreement is to be governed by and construed in accordance with the laws 
+of the state of Neither Party shall be deemed to waive any of its rights, powers or remedies 
+here under unless such waiver is in writing and signed by said Party. This 
+
+
+P a g e 28 | 37 
+ 
+Agreement is binding upon and inure to the benefit of the Parties and their successor and 
+assigns. 
+ 
+9. This Agreement constitutes the entire agreement and understanding of the Parties with 
+respect to the subject matter hereof and is intended as the Parties' final expression and 
+complete and exclusive statement of the terms thereof, superseding all prior or 
+contemporaneous agreements, representations, promises and understandings, whether 
+written or oral for the said subject matter. Neither Party is to be bound by any pre-printed 
+terms appearing in the other Party's form documents, tariffs, purchase orders, quotations, 
+acknowledgments, invoices, or other instruments. This Agreement may be amended or 
+modified only by an instrument in writing signed by both Parties. 
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their 
+duly authorized officers on the day and year first above written. 
+By: 
+By: 
+Name: 
+Name: 
+ 
+Title: 
+Title: 
+ 
+ 
+ 
+
+
+P a g e 29 | 37 
+ 
+ 
+FORM 5: FORMAT OF EARNEST MONEY DEPOSIT IN FORM OF BANK GUARANTEE 
+ 
+Ref: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank Guarantee No. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 
+ 
+To, 
+(I/C) GM – Software Procurement 
+e-Governance Division, 
+Gujarat Informatics Limited 
+Block no. 2, 2nd Floor, Karmayogi Bhavan 
+Sector-10A, Gandhinagar-382017, 
+Gujarat, India 
+ 
+Whereas ------------------------------------------------------------ (here in after called "the Bidder") has 
+submitted its bid dated ---------------- in response to the GeM Bid no: GEM/XXXX/B/XXXXX dated 
+XX.XX.XXXX for RFP for “Request for Proposal (RFP) for Empanelment of Service Providers / 
+Publishers for supply, licensing and access of e-Books for public libraries, Government of Gujarat”  
+KNOW ALL MEN by these presents that WE --------------------------------------------------------------- ----------
+---------------------------------------- having our registered office at ------------ ----------------------- --------------
+-------------- (hereinafter called "the Bank") are bound unto the ______________, Gujarat Informatics 
+Limited  in the sum of ---------------------- for which payment well and truly to be made to Gujarat 
+Informatics Limited , the Bank binds itself, its successors and assigns by these presents. Sealed with 
+the Common Seal of the said Bank this --------------day of ----------------------- ----2026. 
+THE CONDITIONS of this obligation are: 
+1. The E.M.D. may be forfeited: 
+ 
+ 
+a. if a Bidder withdraws its bid during the period of bid validity  
+b. Does not accept the correction of errors made in the tender document;  
+c. In case of a successful Bidder, if the Bidder fails: 
+ 
+ 
+(i) To sign the Contract as mentioned above within the time limit stipulated by purchaser 
+or 
+ 
+(ii) To furnish performance bank guarantee as mentioned above or 
+ 
+ 
+ 
+(iii) If the bidder is found to be involved in fraudulent practices. 
+(iv)If the bidder fails to submit the copy of purchase order & acceptance thereof. 
+ 
+We undertake to pay to the GIL/Purchaser up to the above amount upon receipt of its first written 
+demand, without GIL/ Purchaser having to substantiate its demand, provided that in its demand GIL/ 
+Purchaser will specify that the amount claimed by it is due to it owing to the occurrence of any of 
+the above mentioned conditions, specifying the occurred condition or conditions.  
+ 
+This guarantee will remain valid up to 12 months from the last date of bid submission. The Bank 
+undertakes not to revoke this guarantee during its currency without previous consent of the 
+OWNER/PURCHASER and further agrees that the guarantee herein contained shall continue to be 
+enforceable till the OWNER/PURCHASER discharges this guarantee 
+ 
+The Bank shall not be released of its obligations under these presents by any exercise by the 
+OWNER/PURCHASER of its liability with reference to the matters aforesaid or any of them or by 
+
+
+P a g e 30 | 37 
+ 
+reason or any other acts of omission or commission on the part of the OWNER/PURCHASER or any 
+other indulgence shown by the OWNER/PURCHASER or by any other matter or things. 
+ 
+The Bank also agree that the OWNER/PURCHASER at its option shall be entitled to enforce this 
+Guarantee against the Bank as a Principal Debtor, in the first instance without proceeding against 
+the SELLER and notwithstanding any security or other guarantee that the OWNER/PURCHASER may 
+have in relation to the SELLER’s liabilities. 
+ 
+Dated at _______________ on this _________ day of ___________2025. 
+ 
+____________________ 
+ 
+Signed and delivered by 
+_____________________ 
+ 
+ For & on Behalf of  
+ 
+ 
+ 
+Name of the Bank & Branch & 
+Its official Address 
+ 
+ 
+ 
+ 
+ 
+ 
+Approved Bank: Any Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative Banks and Rural Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2024/2859/D.M.O. dated 
+01.05.2025 issued by Finance Department or further instruction issued by Finance department time 
+to time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+P a g e 31 | 37 
+ 
+ 
+FORM 7: PERFORMANCE BANK GURANTEE 
+(To be stamped in accordance with Stamp Act) 
+           Ref: 
+Bank Guarantee No.                                                       Date: 
+To, 
+(I/C) GM – Software Procurement 
+e-Governance Division 
+Gujarat Informatics Limited 
+2nd  Floor, Block No. 2, Karmayogi Bhavan, C&D Wing, Sector 10-A, Gandhinagar - 382010 
+Gujarat, India 
+ 
+Dear Sir, 
+ 
+In consideration of Name & Address of the Purchaser/Indenter, Government of Gujarat, 
+Gandhinagar (hereinafter referred to as the OWNER/PURCHASER which expression shall 
+unless repugnant to the context or meaning thereof include successors, administrators and 
+assigns) having awarded to M/s. 
+………………………………………………………………………………………………………………having 
+Principal Office at ......................................................................... (hereinafter referred 
+to as the “SELLER” which expression shall unless repugnant to the context or meaning thereof 
+include their respective successors, administrators, executors and assigns) the supply of  by 
+issue of Purchase Order No… 
+Dated 
+………… issued by Gujarat Informatics Ltd. ,Gandhinagar for and on behalf of the 
+OWNER/PURCHASER and the same having been accepted by the SELLER resulting into 
+CONTRACT for supplies of materials/equipment as mentioned in the said purchase order and 
+the SELLER having agreed to provide a Contract Performance and Warranty Guarantee for 
+faithful performance of the aforementioned contract and warranty quality to the 
+OWNER/PURCHASER,  
+ 
+ 
+ 
+having 
+Head 
+Office at (hereinafter referred to as the ‘Bank’ which expressly shall, unless repugnant to the 
+context or meaning thereof include successors, administrators, executors and assigns)  do  
+hereby  guarantee  to  undertake  to  pay  the  sum  of  Rs.  (Rupees  ) 
+to  
+ the 
+OWNER/PURCHASER on demand at any time up to  
+ 
+ 
+without 
+a 
+reference to the SELLER. Any such demand made by the OWNER/PURCHASER on the Bank 
+shall be conclusive and binding notwithstanding any difference between Tribunals, Arbitrator, 
+or any other authority. 
+The Bank undertakes not to revoke this guarantee during its currency without previous 
+consent of the OWNER/PURCHASER and further agrees that the guarantee herein contained 
+shall continue to be enforceable till the OWNER/PURCHASER discharges this guarantee. 
+OWNER/PURCHASER shall have the fullest liberty without affecting in any way the liability of 
+the Bank under this guarantee from time to time to extend the time for performance by the 
+SELLER of the aforementioned CONTRACT. The OWNER/ PURCHASER shall have the fullest 
+liberty, without affecting this guarantee, to postpone from time to time the exercise of any 
+powers vested in them or of any right which they might have against the SELLER, and to 
+exercise the same at any time in any manner, and either to enforce to forebear to enforce any 
+covenants contained or implied, in the aforementioned CONTRACT between the 
+OWNER/PURCHASER and the SELLER or any other course of or remedy or security available to 
+the OWNER/PURCHASER. 
+
+
+P a g e 1 | 37 
+ 
+The Bank shall not be released of its obligations under these presents by any exercise by 
+the OWNER/PURCHAER of its liability with reference to the matters aforesaid or any of 
+them or by reason or any other acts of omission or commission on the part of the 
+OWNER/PURCHASER or any other indulgence shown by the OWNER/PURCHASER or by any 
+other matter or things. 
+The Bank also agree that the OWNER/PUCHASER at its option shall be entitled to enforce 
+this Guarantee against the Bank as a Principal Debtor, in the first instance without 
+proceeding against the SELLER and not withstanding any security or other guarantee that 
+the OWNER/PURCHASER may have in relation to the SELLER’s liabilities. 
+Notwithstanding anything contained herein above our liability under this Guarantee is 
+restricted to Rs.  
+(Rupees  
+ 
+) and it 
+shall remain in force up to and including  
+and shall be extended 
+from time to time for such period as may be desired by the SELLER on whose behalf this 
+guarantee has been given. 
+Dated at  
+on this  
+day of  
+2025. 
+ 
+Signed and delivered by 
+ 
+For & on Behalf of 
+Name of the Bank & Branch & Its official Address 
+ 
+List of approved Banks: 
+ 
+All Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. No. EMD/10/2020/42/DMO dated 
+19.10.2020 issued by Finance Department or further instruction issued by Finance 
+department time to time. 
+ 
+ 
+
+
+P a g e 2 | 37 
+ 
+FORM 8: Declaration Letter 
+(Physical submission on Company’s letter head) 
+ 
+Date : <<dd-mm-yyyy>>  
+To, 
+(I/C) GM – Software Procurement 
+e-Governance Division 
+Gujarat Informatics Ltd. 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, 
+Sector-10A, Gandhinagar – 382010, Gujarat 
+ 
+Subject: DECLARATION OF NOT BANNED/BLACKLISTED/DEBARRED 
+ 
+Dear Sir, 
+ 
+With reference to the “Request for Proposal (RFP) for Empanelment of Service Providers / 
+Publishers for supply, licensing and access of e-Books for public libraries, Government of 
+Gujarat”, I, undersigned <<Name of Signatory>>, in the capacity of <<Designation of 
+Signatory>> certify that, our Company <<Name of the bidder>> is not banned or 
+blacklisted or debarred by any Central/State Government Authority/Institution. 
+Signature :   
+ Name :   
+  Designation :   
+_ 
+Name 
+of 
+the 
+Company 
+: 
+____________________________  
+Date :  
+/  
+/ 2026 
+Place :  
+. 
+ 
+ 
+ 
+
+
+P a g e 3 | 37 
+ 
+SECTION 9: SELF DECLARATION 
+ 
+(TO BE SUBMITTED PHYSICALLY ALONG WITH EMD) 
+ 
+I/We, ___________________________, age______ years residing at ______________________ 
+in capacity of _______________________M/s. ___________________________________ 
+hereby solemnly affirm that 
+ 
+All General Instructions, General Terms and Conditions, as well as Special Terms & Conditions 
+laid down on all the pages of the Tender Form, have been read carefully and understood properly 
+by me which are completely acceptable to me and / agree to abide by the same. 
+ 
+I/ We have submitted following Certificates / Documents for T.E. as required as per General 
+Terms & Conditions as well as Special Terms & Conditions of the tender 
+ 
+Sr. No. 
+Name of the Document 
+1 
+ 
+2 
+ 
+ 
+All the Certificates / Permissions / Documents / Permits / Affidavits are valid and current as on 
+date and have not been withdrawn / cancelled by the issuing authority. 
+ 
+It is clearly and distinctly understood by me that the tender is liable to be rejected if on scrutiny 
+at any time, any of the required Certificates / Permissions / Documents / Permits / Affidavits is / 
+are found to be invalid / wrong / incorrect / misleading / fabricated / expired or having any defect. 
+ 
+I / We further undertake to produce on demand the original Certificate / Permission / Documents 
+/ Permits for verification at any stage during the processing of the tender as well as at any time 
+asked to produce. 
+ 
+I / We also understand that failure to produce the documents in "Prescribed Performa" 
+(wherever applicable) as well as failure to give requisite information in the prescribed Performa 
+may result in to rejection of the tender. 
+ 
+My / Our firm has not been banned / debarred / black listed at least for three years (excluding 
+the current financial year) by any Government Department / State Government / Government of 
+India / Board / Corporation / Government Financial Institution in context to purchase procedure 
+through tender. 
+ 
+I / We confirm that I / We have meticulously filled in, checked and verified the enclosed 
+documents / certificates / permissions / permits / affidavits / information etc. from every aspect 
+and the same are enclosed in order (i.e. in chronology) in which they are supposed to be 
+enclosed. Page numbers are given on each submitted document. Important information in each 
+document is "highlighted" with the help of "marker pen" as required. 
+ 
+
+
+P a g e 4 | 37 
+ 
+The above certificates/ documents are enclosed separately and not on the Proforma printed from 
+tender document. 
+ 
+I / We say and submit that the Permanent Account Number (PAN) given by the Income Tax 
+Department 
+is 
+____________________, 
+which 
+is 
+issued 
+on 
+the 
+name 
+of 
+___________________________ [Kindly mention here either name of the Proprietor (in case of 
+Proprietor Firm) or name of the tendering firn;1, whichever is applicable]. 
+ 
+I / We understand that giving wrong information on oath amounts to forgery and perjury, and 
+I/We am/are aware of the consequences thereof, In case any information provided by us are 
+found to be false or incorrect, you have right to reject our bid at any stage including forfeiture of 
+our EMD/PBG/cancel the award of contract. In this event, this office reserves the right to take 
+legal action on me/us. 
+ 
+I / We have physically signed & stamped all the above documents along with copy of tender 
+documents (page no. ---- to -- ). 
+ 
+I / We hereby confirm that all our quoted items meet or exceed the requirement and are 
+absolutely compliment with specification mentioned in the bid document. 
+ 
+I / Our Company has not filed any Writ Petition, Court matter and there is no court matter filed 
+by State Government and its Board Corporation, is pending against our company. 
+ 
+I / We hereby commit that we have paid all outstanding amounts of dues/ taxes/ cess/ charges/ 
+fees with interest and penalty. 
+ 
+In case of breach of any tender terms and conditions or deviation from bid specification other 
+than already specified as mentioned above, the decision of Tender Committee for disqualification 
+will be accepted by us. 
+ 
+Whatever stated above is true and correct to the best of my knowledge and belief. 
+ 
+Date:  
+ 
+ 
+ 
+ 
+ 
+ 
+Stamp & Sign of the Tenderer 
+ 
+Place:  
+                                                                     (Signature and seal of the Notary) 
+ 
+ 
+ 
+ 
+
+
+P a g e 5 | 37 
+ 
+Form-10: On letterhead of Bidder 
+ 
+(To be submitted on the Bidder’s letterhead, duly signed by Authorized Representative) 
+ 
+ 
+Undertaking as per guidelines published by Ministry of Finance, Dept. of Expenditure, Public 
+Procurement division dated 23.07.2020. 
+ 
+I, the undersigned, authorized representative of M/s <>, hereby certify that I have read and 
+understood the clause regarding restrictions on procurement from a bidder of a country 
+which shares a land border with India, as per guidelines issued by the Ministry of Finance, 
+Department of Expenditure, Public Procurement Division dated 23.07.2020. 
+I further certify that <>: 
+ 
+Is not from such a country, OR 
+ 
+If from such a country, has been registered with the Competent Authority and will not 
+sub-contract any work to a contractor from such countries unless such contractor is also 
+registered with the Competent Authority. 
+I hereby confirm that <> fulfills all requirements in this regard and is eligible to be considered for 
+the tender “Request for Proposal (RFP) for Empanelment of Service Providers / Publishers for 
+supply, licensing and access of e-Books for public libraries, Government of Gujarat” 
+[Where applicable, evidence of valid registration by Competent Authority shall be attached.] 
+If the information provided herein is found to be false, it shall be treated as grounds for 
+immediate termination of the contract and initiation of legal action in accordance with law. 
+ 
+ 
+(Signature) 
+Authorized Representative of <> 
+Name & Designation: 
+Date: 
+Seal of the Bidder 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+P a g e 6 | 37 
+ 
+ANNEXURE – 11 
+UNDERTAKING BY BIDDER 
+Acceptance of Final Authority of the Director of Libraries, Government of Gujarat 
+ 
+Name of Bidder / 
+Organisation: 
+ 
+Date: 
+ 
+ 
+I / We, the undersigned Authorised Signatory of the above-named bidding entity, in response to the Request for 
+Proposal issued by Gujarat Informatics Limited (GIL) on behalf of the Director of Libraries, Government of Gujarat, 
+do hereby solemnly undertake and declare as follows: 
+1.  SOLE AUTHORITY — The Director of Libraries, Government of Gujarat, is the sole and final competent authority 
+for all decisions relating to issuance, modification, suspension, or cancellation of Work Order(s); grant or 
+revocation of empanelment; evaluation, acceptance, or rejection of bids; interpretation of RFP / Contract 
+terms; imposition of penalties, deductions, or recoveries; and any other administrative, operational, or 
+contractual decision under this RFP. Decisions communicated by GIL in its capacity as implementing agency 
+shall be deemed decisions of the Director of Libraries. 
+2.  BINDING DECISIONS — All decisions of the Director of Libraries shall be final, conclusive, and binding upon us. 
+We shall not challenge or contest any such decision except where expressly permitted under the applicable 
+laws of India and the State of Gujarat. 
+3.  NO VESTED RIGHT — Empanelment under this RFP does not confer upon us any vested right, entitlement, or 
+guarantee of Work Order, award of contract, or minimum business or revenue. The Director of Libraries retains 
+absolute discretion in work allocation and is not obligated to assign reasons for any decision. 
+4.  WORK ORDER & CANCELLATION — We explicitly accept the right of the Director of Libraries to issue, hold, modify, 
+or cancel any Work Order at any stage without obligation to provide justification. We waive all claims for 
+damages, loss of profit, or compensation arising from non-issuance or discretionary cancellation of a Work 
+Order. 
+5.  COMPLIANCE & DISPUTE RESOLUTION — We shall comply promptly with all instructions, notices, and orders 
+issued by the Director of Libraries or GIL. In the event of any dispute, the decision of the Director of Libraries 
+shall be the first and preferred mode of resolution. The courts at Gandhinagar / Ahmedabad shall have exclusive 
+jurisdiction over all disputes arising from this RFP or any contract thereunder, governed by the laws of the Union 
+of India and the State of Gujarat. 
+6.  CONSEQUENCES OF MISREPRESENTATION — We understand that any misrepresentation, suppression of facts, 
+or submission of false documentation shall entitle the Director of Libraries to cancel our empanelment, forfeit 
+our EMD / Performance Bank Guarantee, and initiate legal proceedings as applicable. 
+7.  SUSPENSION / REMOVAL — We accept that non-responsiveness to invitations, unsatisfactory performance, or 
+any conduct detrimental to the interest of the Director of Libraries may result in suspension or permanent 
+removal from the empanelment panel after a Show-Cause Notice, and such decision shall be final and binding. 
+I / We hereby confirm that the above undertaking has been given voluntarily, with full knowledge of its legal 
+implications, and that the contents hereof are true and correct to the best of my / our knowledge and belief. 
+ 
+Signature of Authorised Signatory 
+Name:  _______________________________ 
+Designation:  ________________________ 
+PAN of Entity:  ______________________ 
+Place:  ______________________________ 
+Company Seal & Stamp 
+ 
+ 
+(Affix seal here) 
+To be submitted on Bidder's official letterhead, signed & sealed, and uploaded on GeM Portal (https://gem.gov.in) along with other bid 
+documents. 
+ 

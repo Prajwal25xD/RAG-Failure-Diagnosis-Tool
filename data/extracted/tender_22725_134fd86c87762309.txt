@@ -1,0 +1,1055 @@
+Sr No
+Document 
+Reference
+Page no & Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+1
+Display technology 
+-
+ COB / SMD or better
+COB or Better
+COB is better technology
+COB is better technology
+No Change as per RFP
+2
+Resolution 
+1080P 30fps
+4K 30FPS
+Recomanded letest technology
+Recomanded letest technology
+No Change as per RFP
+3
+Zoom Range - 
+12X Zoom
+20X Optical
+We have done the site survey, room is too big so request you to go for 20X to cover 
+entire room
+We have done the site survey, room is too big so request you to go for 20X 
+to cover entire room
+No Change as per RFP
+4
+Additional Feature
+Camera , Codec,mic & remote  From Same OEM .Should support Laptop/PC 
+to join
+ any Cloud Based VC platform application like Team,Zoom, Webex, Google 
+meet.
+Recomanded letest technology
+Recomanded letest technology
+Additional Feature s 
+Bidder can provide
+5
+Type of 
+microphone - 
+table top
+Ceiling mic
+As per survey we recommanded you to go for ceiling mic to cover entitre room.room 
+does not have conference  table . Room has horizontalwise seating arrangement .so  
+For complete coverage  ceiling mic is recommanded Buttons:8 wireless buttons 
+system should support up to
+ 40 buttons Connectivity for Push button:through Wireless (RF Buttons) Panel 
+features: Adjusts Pan/Tilt/Zoom/Focus, Iris with Rated Joystick & Switches. Preset 
+Control : Up to 60 preset for camera and lens positions can be programmed for 
+immediate recall. 
+As per survey we recommanded you to go for ceiling mic to cover entitre 
+room.room does not have conference  table . Room has horizontalwise 
+seating arrangement .so  For complete coverage  ceiling mic is 
+recommanded Room has horizontal line wise seating arrangement. By 
+adding wireless look at me button ,can cover person 
+we so ever is speaking during VC call
+NO change as per RFP
+6
+Page number – 17
+GEM Documents,
+ 
+Buyer Added Bid Specific 
+Terms and Conditions
+Eligibility Evaluation Criteria:Bidder Past Experience: The bidder must have 
+successfully executed/completed at least one single order of Rs. 54.40 Lacs of 
+estimated bid value or 2 Orders each of Rs. 34 Lacs of estimated bid value or 
+3 Orders each of Rs.27.20 Lacs of estimated bid value for similar 
+products/services in the last 3 years to any central/ state Government / PSU/ 
+Listed Company.
+Request for revise this clause and consider add Private organizations work order, as 
+below. Bidder Past Experience: The bidder must have successfully 
+executed/completed at least one single order of Rs. 54.40 Lacs of estimated bid value 
+or 2 Orders each of Rs. 34 Lacs of estimated bid value or 3 Orders each of Rs.27.20 
+Lacs of estimated bid value for similar products/services in the last 3 years to any 
+central/ state Government / PSU/ Listed Company/ Private organizations.
+NO change as per RFP
+7
+ATC Documents
+Page. 9
+Point -13
+13. Manpower: The bidder is required to provide dedicated skilled technical 
+personnel with expertise in VC (Video Conferencing) solutions, videowall 
+solutions, and related technologies during contract period.
+Request for Kindly clarify, for Manpower required as on-site engineer for 3-years. 
+Specifically, please confirm whether the bidder is required to:Deploy a dedicated on-
+site engineer for the entire 3-year contract period, or Provide engineering support on 
+an as-needed (on-call) basis for installation, preventive maintenance, and fault 
+resolution as per the prescribed SLA.
+We request your clarification to ensure an accurate technical and commercial 
+submission.
+On site engineer for 3 
+years
+8
+Other Ports: 
+Wireless microphone input, 3.5 mm audio connector, monitor headphone 
+interface (3.5 mm connector).
+Kindly amend the specification to require Phoenix connectors for audio input/output 
+interfaces instead of 3.5 mm audio connectors (except the monitor headphone 
+interface, if required), or allow "Phoenix connector or equivalent professional-grade 
+balanced audio interface."
+The Audio DSP is intended for use in a professional Command & Control 
+Centre environment, where Phoenix connectors are the industry-standard 
+interface for audio connectivity. Phoenix connectors provide secure cable 
+termination, superior signal integrity, enhanced reliability, reduced signal 
+loss, and seamless integration with structured AV installations. In contrast, 
+3.5 mm connectors are primarily consumer-grade interfaces and are more 
+prone to accidental disconnection and signal degradation. The requested 
+amendment will ensure a robust, scalable, and reliable professional AV 
+solution while encouraging wider participation from reputed OEMs 
+without compromising the intended functionality.
+No Change as per RFP
+9
+Sr No-5
+Sr. No. 5 – Channels:
+2 stereo output channels 
+1 or 2 Stereo Output Channels
+1 or 2 Stereo Output Channels.
+Please refer 
+Corrigendum
+10
+Sr no 7
+Sr. No. 7 – Line Input:
+1 × Stereo line input (RCA or 3.5 mm) 
+1 × Stereo Line Input, supporting RCA, 3.5 mm, or an Equivalent Audio Interface
+1 × Stereo Line Input, supporting RCA, 3.5 mm, or an Equivalent Audio 
+Interface
+Please refer 
+Corrigendum
+11
+Sr No 8
+Sr. No. 8 – Line Output:
+1 × Stereo line output (RCA or 3.5 mm) 
+1 × Stereo Line Output, supporting RCA, 3.5 mm, or an Equivalent Audio Interface
+1 × Stereo Line Output, supporting RCA, 3.5 mm, or an Equivalent Audio 
+Interface
+Please refer 
+Corrigendum
+Response to Pre-Bid Queries
+Gem Representation for the Bid no. GEM/2026/B/7796056 Dated: 20-07-2026
+
+
+Corrigendum-1 in Tender no. GEM/2026/B/7796056 dated 20.07.2026 
+ 
+Please read 
+ 
+Revision in Technical Criteria: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr.No. 
+Requirement as per 
+tender terms 
+Amendment in tender terms 
+1 
+Sr. No. 5 – Channels: 
+2 stereo output channels  
+ 
+1 or 2 Stereo Output 
+Channels 
+2 
+Sr. No. 7 – Line Input: 
+1 × Stereo line input 
+(RCA or 3.5 mm)  
+ 
+1 × Stereo Line Input, 
+supporting RCA, 3.5 mm, or 
+an Equivalent Audio 
+Interface 
+ 
+ 
+ 
+3 
+Sr. No. 8 – Line Output: 
+1 × Stereo line output 
+(RCA or 3.5 mm)  
+ 
+1 × Stereo Line Output, 
+supporting RCA, 3.5 mm, or 
+an Equivalent Audio 
+Interface 
+
+
+Scope of Work and Additional Terms & Conditions 
+ 
+The Bidder under the scope of work in this GeM bid is envisaged to design the solution including but 
+not limited to Supply, Installation, and Commissioning of Equipment’s/hardware, the software 
+required for the successful Implementation of Command Control Centre at Office of the 
+Commissioner of Geology and Mining, Gandhinagar (hereinafter referred to as the “SITE”), on behalf 
+of Office of the Commissioner of Geology and Mining, Gandhinagar (hereinafter referred to as the 
+“TENDERER”) as per the functional and technical specifications, the scope of work mentioned in this 
+GeM Bid. The bidder shall be responsible for the implementation of the work as defined in the GeM 
+bid. 
+ 
+Bidder is also responsible for all the components like installation of the Command Control Centre for 
+03 Years and any other devices/accessories like mounting frames, Wooden ply, Decorative sheet on 
+ply etc. required for the successful running of envisaging solution. 
+ 
+The Bidder is responsible for any other components inadvertently missed out but it is required as per 
+the proposed solution of the bidder and is essential for an overall solution to successfully run during 
+the entire project duration than bidder has to consider the same in his proposed solution. TENDERER 
+will not be liable for payment of any additional cost outside of Financial bid. 
+ 
+The location for the installation at site will be finalised in consultation with the respective officer of at 
+Office of the Commissioner of Geology and Mining, Block No.15, Dr Jivraj Mehta Bhavan, Sector-10, 
+Gandhiangar 382010. 
+ 
+The complete scope of work would broadly be: design, engineering, supply, testing, installation, 
+Commissioning & warranty support of all project deliverables. 
+ 
+Quoted item is required to be offered with a 3 (Three) year OEM warranty. All equipment including 
+material to be installed by the Bidder shall be new and the product should not be declared end of 
+support for 3 (Three) years. A certificate to that effect should be furnished from OEM on its 
+letterhead confirming the same. All equipment shall conform to the codes, standards and regulations 
+applicable and benefit from the usual manufacturer’s guarantees. 
+ 
+Under the GeM portal, while creating bid some of the items seems 2 years & 3 years warranty. 
+However, tenderer require 3 years warranty for each items (excluding cables & accessories). Bidders 
+shall quote the price accordingly for each items considering 3 years warranty support. 
+ 
+Primary Product & OEM Turnover for evaluation: Video Wall will be considered as Primary product 
+for Experience, past performance and OEM Turnover evaluation. 
+ 
+The Successful bidder has to submit Performance Bank Guarantee @ 5% of total order value within 
+15 days from the date of issue of order by Department (for warranty period + extra 2 months) (from 
+banks operating in India having branch at Ahmedabad/ Gandhinagar) as per the G.R. issued by 
+Finance Department or further instruction issued by Finance department time to time in the name of 
+Purchasing Department & submit copy of the same at GIL. 
+ 
+Clarification regarding this Tender: Bidders can seek written clarifications up to 2 days before Bid 
+submission date by email to dgmTech-gil@gujarat.gov.in & mgrhn-itcon@gujarat.gov.in. 
+ 
+ 
+
+
+ 
+ 
+1. Scope of work for Command Control Center: 
+ 
+1. The Scope of complete work would broadly include Design, Engineering, Supply, Testing, Installation, 
+Commissioning, Site Acceptance Test, Warranty and Maintenance during the contract period. 
+2. All the items cannot bunch in the GeM. However, bidder should refer the all the items along with the 
+specifications mentioned in (Annexure A) and provide all the products as a part of Video wall Solution 
+with Support & Service till warranty period. 
+3. The bidder will have to provide on-site service, maintenance and, support and warranty of the supplied 
+equipment’s for the warranty period of 3 years from the date of successful installation & commissioning. 
+4. The scope is to Supply, Installation, Testing and Commissioning of the entire system end-to-end. The 
+Successful Bidder will be responsible for making the system entirely operational for its intended use, by 
+the addition of components specific to its make/model, even if not specifically mentioned in the BoQ.  
+5. This shall include suitable brackets for mounting the display, weather-proof enclosures, fixtures, cables, 
+connectors & any other devices/ peripherals required for the proper functioning of installed solution. 
+6. All the licenses procured and deployed by the bidder for this GeM bid should be in the name of 
+TENDERER and valid for life. 
+7. The bidder should prepare the as-built documentation for the overall system. The as-built 
+documentation will contain at least the following:  
+ 
+• 
+As-built cable diagrams and route diagrams in require format.  
+• 
+Control scheme as required  
+• 
+Training whenever require in warranty Period. 
+ 
+ 
+2. The bidder has to provide an on-site 3-year warranty for all equipment as mentioned in RFP. 
+ 
+3. Instruction to Bidders 
+ 
+ 
+1. The large full HD video wall display can be used for presentations, HD Video, Contain Satellite TV 
+display, etc. Video walls have the flexibility for viewing many images or have an edge to enlarge a 
+few images as required. 
+ 
+2. Mounting kit & other accessories should be provided by the bidder as per site conditions.  
+ 
+3. Installation should be neat and clean, and cabling should be done in a structural manner. 
+ 
+4. The bidder should own the responsibility of maintaining the System during the warranty period. 
+This involves comprehensive maintenance of all installed hardware & software covered under the 
+warranty, which includes repairing, replacement of faulty parts, modules, sub-modules, assemblies, 
+sub-assemblies, spares etc. with genuine OEM components to make the system functional/ 
+operational as per RFP as well as The Bidder shall also be responsible for executing software 
+updates when necessary.  
+5. Back-to-back OEM support should be available for the maintenance, support, replacement, 
+upgradation, vulnerabilities assessment based on periodic patches issued by the OEM during the 
+warranty period. 
+6. Bidder shall also provide a helpdesk number and email address so that the end-user may report 
+problems/complaints, if any, using any of the available methods. 
+7. The Bidder is expected to make a site visit to obtain for itself all information that may be necessary 
+for preparing the bid and entering into a contract. 
+ 
+8. Further, necessary electrification work will be in bidder’s scope. 
+
+
+ 
+ 
+4. The successful bidder will have to offer the inspection in the manner as decided by GIL before delivering to 
+the respective site or at customer sites. The cost of the same has to be borne by the supplier. Any deviation 
+found in the specification of the produced goods from the bid specification will lead to the cancellation of 
+the order. GIL/GoG will not be responsible for any time delay which may arise due to any deviation from 
+the bid technical specification found at the time of inspection and the bidder has to deliver and install the 
+ordered goods within prescribed time limit. At the time of inspection, bidder is required to produce OEM’s 
+confirmation on OEM’s letter head for back to back warranty support as per bid terms & conditions. 
+5. Bidder will have to submit OEM Authorization on OEM letter head with bid number for Quoted Product. 
+6. As per GeM GTC Clause 26 regarding Restrictions on procurement from a bidder of a country which shares 
+a land border with India, bidder has to Submit Compliance Letter on OEM’s and Bidder’s letterhead with 
+Quoted Make and Model List in the prescribed format. Non-submission of the same or any false declaration 
+and non-compliance of this would be a ground for disqualification/immediate termination of the contract 
+and further legal action in accordance with the laws (Undertaking attached at Annexure B). 
+ 
+7. Service Terms: 
+The understanding of the comprehensive maintenance under warranty period is as follows. 
+a) 
+In case of failure, the successful bidder needs to repair or replace the faulty 
+part/component/device to restore the services at the earliest. 
+b) 
+The cost of the repairing or replacement of faulty part/component/device has to be entirely borne 
+by the Vendor. 
+c) 
+All expenses related to part/component/device, including hiring of specialized technical expertise, 
+in case required, has to be borne by the Vendor as part of comprehensive maintenance. 
+d) 
+The Vendor also needs to make alternate arrangement in case of major failure happens, due to 
+which services may be effecting for longer period. 
+e) 
+After repairing or replacement of the part/component/device, the Vendor needs to put the same 
+into operation. 
+ 
+ 
+8. 
+Additional document to be submitted:  
+ 
+In the technical bid section of GeM, the bidder is also required to upload following documents;  
+• 
+Brochure and OEM Compliance of the Offered product on OEM Letter head.  
+• 
+Compliance of the SoW, SLA and Payment terms etc. as uploaded as part of the GeM Bid on 
+bidder’s letterhead.  
+• 
+Undertaking as per guidelines published by Ministry of Finance, Dept. of Expenditure, Public 
+Procurement division dated 23.07.2020 in the given format by Bidder as well as OEM 
+(undertaking attached at Annexure C).  
+ 
+9. Payment terms, penalty terms and Implementation time lime  
+ 
+ 
+1. Delivery of the material shall be done within 30 working days from the date of confirmed purchase 
+order.  
+2. Installation shall be completed within 15 days from the date of delivery of the material. 
+ 
+T0 = date of issue of work order & Days means calendar days 
+Note: In the bid document (created on GeM), delivery time is mentioned as 60 days. However, this is to 
+clarify that, successful bidder has to complete supply, installation, commissioning within the time limit 
+of 60 days. 
+ 
+
+
+Penalty:  
+1. If the bidder fails to deliver and install the requisite hardware and software within time limit given, 
+then a sum equivalent to one percent (1%) of the total contract value shall be deducted from the 
+payment for each calendar week of delay or part thereof.  
+2. Delay in excess of 8 weeks will be sufficient to cause for termination of the contract. In that case the 
+Performance Bank Guarantee of the bidder will be forfeited.  
+3. During warranty period, if the complaint is not resolved within 48 hrs the penalty of Rs. 2000 per 
+day for Video wall Display, Video wall Processor, Input and Output Matrix, Relay Controller, Video 
+Data Scaler, HD Extension with Power output, HD Extension with Power Input and 1000 per day for all 
+other type of complaints (including software complaints) and other peripherals will be levied. 
+However, if the complaints not resolved within 7 days then from 8th day to 14th day, penalty would 
+be levied @ 150% and from 15th day onwards penalty @ 200% of the above rates would be levied. 
+The amount of penalty will be recovered from the Performance bank guarantee during warranty 
+period.  
+4. In case of not repairable, the bidder will be required to arrange for an immediate replacement of 
+the same within the stipulated time period.  
+5. The amount of penalty (liquidated damages) shall be subject to a maximum limit of 10% of total 
+contract value. 
+Payment Terms:  
+ 
+1. No advance payment will be made.  
+2. 70% payment after successful Delivery, inspection at the customer location, Inspection will be done 
+by GIL.  
+3. 30% against Installation of BOQ at Office of the Commissioner of Geology and Mining,  and 
+User training. The inspection will be done by GIL. 
+ 
+ 
+10. Operational/Warranty period Penalty:  
+ 
+During warranty period, if the complaint is not resolved within 48 hrs the penalty of Rs. 1000 per day for 
+Product will be levied. However, if the complaints not resolved within 7 days then from 8th day to 14th 
+day, penalty would be levied @ 150% and from 15th day onwards penalty @ 200% of the above rates 
+would be levied. The amount of penalty will be recovered from the Performance bank guarantee during 
+warranty period. 
+ 
+The amount of Operational/Warranty period Penalty shall be subject to a maximum limit of 10% of the 
+total contract value. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+11. BoQ: 
+         
+Sr. 
+No. 
+Requirement 
+Total Qty 
+1 
+Video wall – Active LED 1.25 Pixel Pitch (4300 mm × 1680 mm) 
+with Controller 
+1 
+2 
+12 Channel Audio DSP 
+1 
+3 
+Amplifier 
+1 
+4 
+Wall Mount Speaker 
+4 
+5 
+Wireless Microphone 
+1 
+6 
+12X PTZ Camera with 4K Codec for Video Conference 
+1 
+7 
+Desktop Computer 
+13 
+8 
+Headphone with Mic 
+4 
+9 
+Manpower 
+1 
+ 
+Note: The above items are as per Tenderer requirements. However, the bidder should provide all the hardware required for 
+completion of the entire solution. 
+ 
+ 
+ 
+12. Make and Model list 
+ 
+SR NO 
+ITEM DESCRIPTION 
+MAKE & Model 
+1 
+Videowall – Active LED 1.25 Pixel Pitch 
+(4300 mm × 1680 mm) with Controller 
+  
+2 
+12 Channel Audio DSP 
+  
+3 
+Amplifier 
+  
+4 
+Wall Mount Speaker 
+  
+5 
+Wireless Microphone 
+  
+6 
+12X PTZ Camera with 4K Codec for Video 
+Conference 
+  
+7 
+Desktop Computer 
+  
+8 
+Headphone with Mic 
+  
+ 
+Note: The Bidder may quote only one option (i.e. one Make and Model can be quoted) against each item. 
+Bidders are required to mention Make and Model of the product (Do not write “OEM” against items). Bidders 
+are expected to give make and model of the product. Ensure that all equipment including material to be 
+installed by the Bidder shall be new and the product should not be de-supported or declared end of life during 
+the next 5 years. If quoted model is not available, bidder should supply higher model/upgraded model. 
+ 
+ 
+
+
+Annexure A 
+SPECIFICATION OF COMMAND CONTROL CENTER 
+BIS: Only BIS Marked Catalogs and should be Make in India product 
+ 
+Sr. 
+No. 
+Parameter 
+Specification 
+1. Active LED 1.25 Pixel Pitch – Video Wall 
+1 
+Video Wall Size 
+Approx. 4300 mm (W) × 1680 mm (H), ±5% variation 
+acceptable 
+2 
+Display Technology 
+COB / SMD Active LED or better 
+3 
+Pixel Pitch 
+≤ 1.25 mm 
+4 
+Native Resolution 
+Minimum 2400 × 1300 pixels 
+5 
+Aspect Ratio 
+16:9 or equivalent 
+6 
+Cabinet Size 
+Standard modular cabinets (OEM standard) 
+7 
+Cabinet Resolution 
+As per OEM standard, suitable for required wall resolution 
+8 
+Processing 
+≥ 12-bit 
+9 
+Viewing Angle (H/V) 
+≥ 160° 
+10 
+Refresh Rate 
+≥ 3840 Hz 
+11 
+Brightness 
+≥ 600 cd/m² 
+12 
+Contrast Ratio 
+≥ 4000:1 
+13 
+Color Temperature 
+Adjustable 
+14 
+Frame Rate Support 
+≥ 60 Hz 
+15 
+Operating Mode 
+24 × 7 continuous operation 
+16 
+Operating Conditions 
+Suitable for indoor operation 
+17 
+LED Lifetime 
+≥ 80,000 hours 
+18 
+Maintenance 
+Front-access, easy module replacement 
+19 
+Certifications 
+BIS, CE, FCC, RoHS (any equivalent global certification 
+acceptable) 
+20 
+Mounting Structure 
+MS / Aluminium structure suitable for wall size 
+21 
+Spare Requirement 
+10% spare LED modules and controller cards 
+22 
+Warranty 
+3 Years 
+2. Video Wall Controller 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Form Factor 
+Rack-mountable (1U / 2U acceptable) 
+2 
+Input Cards 
+Minimum 2 
+3 
+Input Channels 
+Minimum 8 
+4 
+Output Ports 
+RJ45 / Fiber (OEM standard) 
+5 
+Loading Capacity 
+≥ 20 million pixels 
+6 
+Layers 
+≥ 16 
+7 
+Input Interfaces 
+HDMI, DP (other formats acceptable via cards) 
+8 
+Max Input Resolution 
+≥ 4K @ 60 Hz 
+9 
+Control Interfaces 
+TCP/IP and/or RS-232 
+10 
+Device Management 
+Web-based control, multi-user collaboration, real-time 
+monitoring, firmware updates 
+
+
+11 
+Multi-Screen Capability 
+Must support 4 HDMI inputs and provide 4 split screens on a 
+single active LED display with real-time seamless switching 
+and scaling capability 
+12 
+Power Supply 
+100–240V AC 
+13 
+Operating Temperature 
+0°C to 45°C 
+14 
+Accessories 
+Required input/output cards and sending cards to be 
+supplied from Day 1 
+15 
+Warranty 
+3 Years 
+3. Video Conference System 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Type of Camera 
+PTZ with Codec 
+2 
+Type of Endpoint 
+Point to Point 
+3 
+Video Codec shall support 16:9 
+format 
+Yes 
+4 
+VC Camera should support 
+software VC Solution like 
+Webex, Google Meet, Teams 
+etc. 
+Yes 
+5 
+Resolution 
+1080p, 30fps 
+6 
+Zoom Range 
+Optical 12X 
+7 
+Camera Positioning System 
+Preset 
+8 
+Input/Output Port 
+HDMI, USB 3.0 
+9 
+System components (Codec, 
+Camera, Microphones, Remote 
+Control, Data sharing, 
+Necessary Cables) from same 
+OEM 
+Yes 
+10 
+Warranty (Years) 
+3 
+4. Microphone with Echo Cancellation 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Omni Directional 
+Yes 
+2 
+Digital Signal Processing (DSP) 
+technology 
+Yes 
+3 
+Number of Microphones 
+2 
+4 
+Mute/Unmute Button 
+Yes 
+5 
+Connectivity 
+USB 
+6 
+On Site OEM Warranty (Year) 
+3 
+5. Desktop Computer 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Processor 
+14th Generation Intel Core i5 or higher / AMD Ryzen 5 8000 
+series or higher 
+2 
+RAM Size (GB) 
+16 GB or higher with 1 DIMM slot free 
+3 
+Operating System 
+Windows 11 Professional or higher (Factory Pre-Loaded) 
+4 
+Total Internal Storage 
+1 TB NVMe 
+5 
+Cabinet Type 
+Any Value 
+6 
+Inbuilt Wireless & Bluetooth 
+Yes 
+
+
+Connectivity 
+7 
+Graphics Type 
+Integrated 
+8 
+Keyboard Connectivity 
+Wired 
+9 
+Mouse Connectivity 
+Wired 
+10 
+LED Backlit Monitor Size 
+21.5 inches or higher 
+11 
+Number of Ethernet Ports 
+1 (10/100/1000 on board Integrated Gigabit Port) 
+12 
+USB Ports 
+2 nos. USB 3.0 Port & 1 HDMI & DP Port 
+13 
+On Site OEM Warranty (Year) 
+3 
+6. Headphone with Mic 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Type 
+Over-ear or On-ear (closed back preferred) 
+2 
+Directionality 
+Omni-directional 
+3 
+Connector 
+3.5 mm TRRS Jack 
+4 
+Cable Length 
+1.5 – 2.0 meters 
+5 
+Inline Controls 
+Volume Up / Down, Microphone Mute 
+6 
+Warranty 
+3 Years 
+7. Wall Mount Speaker 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Type 
+Wall Mount 
+2 
+Enclosure Material 
+ABS Plastic 
+3 
+Connectors 
+Standard speaker terminals or push-in connectors 
+4 
+Power Handling (RMS) 
+≥ 30 W 
+5 
+Warranty 
+3 Years 
+8. Amplifier 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Gain Control 
+Mic gain control available 
+2 
+Indicator 
+LED for power/signal status 
+3 
+Frequency Response 
+50 Hz – 20 kHz 
+4 
+Amplifier Type 
+Class-D / Digital amplifier with basic Bass/Treble control 
+5 
+Channels 
+2 stereo output channels 
+6 
+Power Rating 
+200 Watts @ 8 Ohms 
+7 
+Line Input 
+1 × Stereo line input (RCA or 3.5 mm) 
+8 
+Line Output 
+1 × Stereo line output (RCA or 3.5 mm) 
+9 
+Mic Input 
+1–2 mic inputs (Phoenix or 6.5 mm), with gain control 
+10 
+Control Port 
+Optional RS-232 or remote control 
+11 
+Form Factor 
+19-inch rack-mountable or tabletop 
+12 
+Warranty 
+3 Years 
+9. 12 Channel Audio DSP 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Type 
+12-channel audio processor 
+2 
+Mic Inputs 
+8 or more Microphones input interface 
+3 
+Other Ports 
+Wireless microphone input, 3.5mm audio connector, 
+monitor headphone interface (3.5mm connector) 
+4 
+Control Port 
+1×RS232 for connection to control terminal, Phoenix 
+
+
+connector 
+5 
+Ethernet 
+At least one Ethernet port for Configuration/Control 
+interface, RJ45 connector 
+6 
+Software Features 
+Cancellation configuration, NLP Setting, Noise Reduction 
+Setting, AGC Setting, Dereverberation Setting, High-Pass 
+Filter Setting, Low-Pass Filter Setting, Parameter Equalizer 
+Setting, Leveler Setting, Auto Mixer Setting, Level Control 
+Setting, Matrix Mixer Setting 
+7 
+Warranty 
+3 Years 
+10. Wireless Microphone 
+Sr. 
+No. 
+Parameter 
+Specification 
+1 
+Wireless Microphone System 
+2 Wireless Handheld Microphones 
+2 
+Output 
+1 Mixed Output 
+3 
+Frequency Band 
+UHF frequency band 
+4 
+Mount 
+1 Rack unit height with ability to mount in rack 
+5 
+Microphone Element 
+Dynamic, Cardioid 
+6 
+Warranty 
+3 Years 
+ 
+ 
+13. Manpower: 
+ 
+The bidder is required to provide dedicated skilled technical personnel with expertise in VC (Video 
+Conferencing) solutions, videowall solutions, and related technologies during contract period. 
+                        
+ 
+Please Note:  
+1. Bidder should supply all the required accessories, hardware, cable, adaptor, mounting kit, 
+require for the solution.  
+2. All the above mentioned hardware should have 3 years warranty & onsite support. 
+3. The bidder will have to provide service centres in one major cities of GUJARAT. 
+4. The Bidder will offer for inspection/FAT for Interactive Panel with OPS Solutions for locations 
+and functions requirement and also for each additional requirement. 
+5. Bidder shall provide a comprehensive on site free support for 3 years from the date of FAT for 
+respective components/applications if any additional order for requirement. 
+6. The successful bidder should responsible to configure and installed the supplied hardware. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Annexure – B 
+On Letterhead of Bidder 
+ 
+ 
+Please submit the undertaking letter as per Ministry of Finance Memorandum No.: F. 
+No.6/18/2019-PPD dated 23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated 
+08.02.2021 as per Performa given below on OEM letterhead as well as on bidder’s letterhead. 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 & 23.02.2023 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that shares a 
+land border with India. I certify that we as a bidder and quoted product from the following OEMs are 
+not from such a country or if from such a country, these quoted products OEM has been registered 
+with the competent authority. I hereby certify that these quoted product & its OEM fulfills all 
+requirements in this regard and is eligible to be considered for procurement for Bid 
+number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority, otherwise GIL/End user Dept. reserves 
+the right to take legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Annexure - C 
+On Letterhead of OEM 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 & 23.02.2023 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that shares a 
+land border with India. I certify that our quoted product and our company are not from such a 
+country, or if from such a country, our quoted product and our company have been registered with 
+the competent authority. I hereby certify that these quoted products and our company fulfills all 
+requirements in this regard and is eligible to be considered for procurement for Bid 
+number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. reserves 
+the right to take legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Bidder Information 
+Name 
+ 
+Designation 
+ 
+Company Address 
+ 
+Telephone No 
+ 
+Mobile No 
+ 
+E-mail 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

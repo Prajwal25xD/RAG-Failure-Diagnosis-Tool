@@ -1,0 +1,3066 @@
+Sr. No
+Page No./Section No./ Clause 
+No.
+Tender Description
+Origional Clause of Tender
+Bidder Queries
+Final Response 
+1
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance of
+Website and Mobile application of 
+Tourism Corporation of Gujarat 
+Limited,
+Gandhinagar, Govt. of Gujarat
+Page no . 26. & II. Pre-
+Qualification Criteria 2- 
+Financial Capability
+The Bidder should have an average annual turnover from IT 
+Software
+related services (Software Development/ Website 
+Development/
+Software Customization or Implementation/ Operation &
+Maintenance Support of Software Application/ Software 
+Product
+Development/ Mobile App Development) of at least Rs. 20 
+Crore
+during the last three financial years (2021-22, 2022-23 and 
+2023-24).
+Note: Turnover from the following activities shall not be 
+considered:
+• Hardware supply and maintenance• Manpower outsourcing • 
+Non-IT services.
+The Bidder should have an average annual turnover from IT-ITeS of at least Rs. 20 Crore during the 
+last three financial years (2021-22, 2022-23 and 2023-24).
+Note: Turnover from the following activities shall not be considered:
+• Hardware supply and maintenance• Manpower outsourcing • Non-IT services.
+Justification:
+The term IT Software related services is restrictive and excludes firms providing broader IT-ITeS 
+solutions. Expanding to IT-ITeS will ensure wider participation of competent and financially strong 
+bidders without compromising service quality.
+As per RFP
+2
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance of
+Website and Mobile application of 
+Tourism Corporation of Gujarat 
+Limited,
+Gandhinagar, Govt. of Gujarat
+Page no . 27. & II. Pre-
+Qualification Criteria 3-
+Relevant Experience in 
+Software/ Web/ Mobile App 
+Projects
+The Bidder should have successfully executed, at least 03 
+Software/ Website/ Mobile App Development projects in 
+Central Govt. (Departments/ Boards/ Corporations/ 
+Companies/ Agencies)/ State Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector 
+Banks/ Scheduled Commercial Banks/ NSE Listed Companies 
+during last 5 years as on date of submission of bids in which 
+each project cost should not be less than INR 1 Crore each with 
+project completion certificate.
+The Bidder should have successfully executed, at least 03 Software/ Website/Web Portal/ Mobile 
+App Development projects in Central Govt. (Departments/ Boards/ Corporations/ Companies/ 
+Agencies)/ State Govt. (Departments/ Boards/ Corporations/ Companies/ Agencies)/ PSU/ Public 
+Sector Banks/ Scheduled Commercial Banks/ NSE Listed Companies during last 5 years as on date of 
+submission of bids in which each project cost should not be less than INR 1 Crore.
+Justification:
+Including Web Portal projects allows participation from technically strong firms with relevant 
+experience in similar government projects. The requirement for project completion certificates may 
+be relaxed to also accept client confirmation or ongoing project certificates, as many large 
+government projects are long-term and still under maintenance or operational phase.
+Web Portal projects shall be considered. For ongoing projects, the 
+agency shall submit a certificate or an official email from the client 
+confirming that the User Acceptance Testing (UAT) of the project has 
+been successfully completed.
+3
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+Page no . 27. & II. Pre-
+Qualification Criteria 4-
+Experience inTourism and 
+Allied SubSectors
+The bidder should have successfully executed at least 1 project 
+in the
+Tourism domain or its allied sectors (e.g., event tourism, eco-
+tourism,
+cultural promotion, hospitality platforms, seminar/marketing 
+and promotion related IT Application/ event management 
+platform, or related tourism-tech initiatives) in Central Govt. 
+(Departments/ Boards/ Corporations/ Companies/ Agencies)/ 
+State Govt. (Departments/ Boards/ Corporations/ Companies/ 
+Agencies)/ PSU/ Public Sector Banks/ Scheduled Commercial 
+Banks/ NSE Listed Companies in the last 5 years. Project must 
+have a minimum value of INR 50 Lakhs.
+Kindly remove this clause.
+Justification: Restricting experience to the Tourism domain limits competition and excludes capable 
+IT firms with vast project experience in other government sectors. The focus should be on technical 
+capability rather than domain-specific experience to ensure better participation and innovative 
+solutions.
+Pre-Qualification Criteria No. 4 pertaining to ‘Experience in Tourism 
+and Allied Sub-Sectors’ has been removed.
+4
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+Page no .30. & III. Technical 
+Evaluation
+The Bidder should have an average annual turnover from IT 
+Software related services (Software Development/ Website 
+Development/ Software Customization or Implementation/ 
+Operation & Maintenance Support of Software Application/ 
+Software Product Development/ Mobile App Development) of 
+at least Rs. 20 Crore during last three financial years (2021- 22, 
+2022-23 and 2023-24) Note: Turnover from the following 
+activities shall not be considered:• Hardware supply and 
+maintenance • Manpower outsourcing • Non-IT services.- 
+Average annual turnover
+INR 20 Crore - 05 Marks
+Average turnover >INR
+20 Crore<= 30 Crore- 10 Marks
+Average turnover > 30
+Crore - 15 Marks
+The Bidder should have an average annual turnover from IT-ITeS of at least Rs. 20 Crore during last 
+three financial years (2021- 22, 2022-23 and 2023-24) 
+Note: Turnover from the following activities shall not be considered:• Hardware supply and 
+maintenance • Manpower outsourcing • Non-IT services.- 
+Average annual turnover
+INR 20 Crore - 05 Marks
+Average turnover >INR
+20 Crore<= 30 Crore- 10 Marks
+Average turnover > 30
+Crore - 15 Marks
+Justification:
+The clause currently restricts eligible bidders to only IT software development services, excluding IT-
+enabled service providers with relevant experience. Expanding the scope to IT-ITeS will allow fair 
+competition among capable firms while maintaining project standards. Moreover, turnover from IT-
+ITeS can be validated through audited financial statements and project completion certificates, 
+ensuring transparency and credibility.
+As per RFP
+Corrigendum and Response to the pre-bid queries in Tender for Selection of Agency for Design, Development, Operation and Maintenance of Website and Mobile application of Tourism Corporation of Gujarat 
+Limited, Gandhinagar, Govt. of Gujarat (Bid Number: GEM/2025/B/6746143 dated 01.10.2025)
+
+
+5
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+Page no .30. & III. Technical 
+Evaluation
+The Bidder should have successfully executed, at least 03 
+Software/ Website/ Mobile App Development projects during 
+last 5 years as on date of submission of bids in which each 
+project cost should not be less than INR 1 Crore each with 
+project completion certificate. Experience of 03 projects (of 
+value not less than 1 Crore
+each) = 05 Marks Experience of 05 projects (of value not
+less than 1 Crore each) = 10 Marks
+• Experience of more than 05 projects (of value not less than 1 
+Crore each) = 15 Marks
+The Bidder should have successfully executed, at
+least 03 Software/ Website/Web Portal/ Mobile App Development
+projects during last 5 years as on date of submission of bids in which each project cost should not 
+be less than INR 1 Crore each. 
+• Experience of projects more than 1 Crore value each = 05 Marks
+• Experience of projects more than 1.25 Crore value each = 10 Marks
+• Experience of projects more than 1.50 Crore value each = 15 Marks
+Justification:
+The proposed marking criteria give fair weightage to project size and complexity. The requirement 
+for project completion certificates may be made flexible to accept go-live or maintenance 
+certificates, as some projects remain under operation and are not yet formally closed. This will 
+ensure fair evaluation of ongoing successful implementations.
+Please refer the Query No. 02
+6
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+V. Scope of Work (Page 44)
+"No separate change requests will be entertained during the 
+implementation or O&M phases." The vendor must deploy 
+dedicated resources.
+Please clarify the boundary between the initial scope of work (Implementation Phase) and the 
+continuous development required during O&M. Is any feature/module mentioned in the RFP's 
+Scope but not explicitly delivered in 6 months considered "continuous development"?
+The bidder must complete the scope of work outlined in the RFP 
+within the specified timelines. After Go-Live, resources will be 
+required to support ongoing development and to carry out tasks 
+assigned by TCGL
+7
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+V. Scope of Work, Cl. 23 
+(Page 45)
+AI-powered recommendation engine, NLP-based chatbot, 
+Predictive analytics.
+Please clarify the extent and format of the historical tourism data (e.g., booking logs, visitor 
+demographics, trend data) that will be provided by TCGL for training the proposed AI/ML models.
+TCGL will provide the necessary to train the model to the selected 
+bidder
+8
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+V. Scope of Work, Cl. 18.2 
+(Page 43)
+Migration support and environment setup, and "Coordination 
+with GSDC for deployment and hosting."
+What level of shell/root access will be provided by GSDC to the Service Provider's deployment 
+team? Will GSDC provide dedicated technical support for troubleshooting OS/network issues 
+specific to the application deployment?
+GSDC will extend network support within its defined boundary; 
+however, the bidder shall be responsible for addressing all issues 
+encountered during deployment.
+No dedicated technical support team will be provided by GSDC.
+9
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+XI. Financial Bid Note 3 (Page 
+58)
+TCGL shall provide the production environment infrastructure 
+(OS, DB Licenses, Enterprise Support, servers, hosting, etc.) at 
+the GSDC only.
+For the UAT, Staging, and Pre-production environments, is the Bidder expected to provide, manage, 
+and pay for all necessary infrastructure (servers, OS, DB, etc.) for the entire contract duration?
+As per RFP
+10
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+V. Scope of Work, Cl. 18.1 
+(Page 43)
+Security testing and VAPT by CERT-IN empanelled agency.
+Who will bear the cost for the mandatory CERT-IN empanelled agency VAPT audit during the 
+Implementation Phase (pre-Go-Live)? Is this cost to be included in the implementation price (Sr. No. 
+1 in Financial Bid)?
+The bidder shall bear the cost of the security audit for both the 
+website and the mobile application until they are hosted at GSDC. 
+After hosting the website and mobile application at GSDC, the cost of 
+security audits will be borne by TCGL.
+11
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+V. Scope of Work, Cl. 14 
+(Page 40)
+Develop cross-platform mobile applications using native or 
+hybrid frameworks like Flutter/React Native.
+Does TCGL have a preference for Native (Kotlin/Swift) vs. Hybrid (Flutter/React Native) development 
+for performance reasons, especially considering the extensive GIS and AI features?
+There is no specific technology preference. The bidder may use 
+industry-best technologies to develop the website and mobile app; 
+however, the solution must be built using open-source technology.
+12
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+XI. Financial Bid Note 4 (Page 
+58)
+"No additional cost shall be payable by TCGL beyond the 
+quoted amounts... including but not limited to... 
+enhancements... in line with the continuous development 
+model."
+Please clarify the process and costing mechanism for a major, unforeseen enhancement (e.g., 
+integration with a new, large, mandatory GoG system) which requires efforts significantly exceeding 
+the allocated O&M Man-Months.
+The bidder is required to provide manpower during the O&M period 
+post Go-Live as specified in the RFP. The deployed resource shall also 
+be capable of developing any additional requirements, if needed, by 
+TCGL.
+
+
+13
+Tender for Selection of Agency for 
+Design, Development, Operation and 
+Maintenance ofWebsite and Mobile 
+application of Tourism Corporation 
+of Gujarat Limited,Gandhinagar, 
+Govt. of Gujarat
+V. Scope of Work, Cl. 12 
+(Page 39)
+The agency shall be responsible for data migration from the 
+current website (https://www.gujarattourism.com) to the new 
+system.
+Please provide an estimate of the volume (GB/number of records) of content (e.g., text, images, 
+videos) and transactional data to be migrated, and confirm if TCGL will provide a structured dump 
+of the existing database/CMS.
+Tentatively 600 GB data to be migrated in new platform.
+14
+Tender timelines
+The deadline for submission of proposals -27.10.2025
+It is requested to extend the RFP submission deadline by minimum two more weeks. The interested 
+bidders shall require more time to prepare a relevant response
+for the opportunity
+As per Crrigendum
+15
+Section II – Pre-Ǫualification Criteria 
+/p. 27
+Experience in Tourism and Allied Sub- Sectors :
+The bidder must submit completion certificates from clients for 
+similar projects executed.
+Work Order / Project Agreement and Project Completion 
+Certificate issued by the client mentioning scope, 
+sector/domain relevance, and project value.
+It is requested that the requirement for completion certificates be relaxed to allow client 
+letters/self certification for completion or partial completion/ work orders/ agreements as 
+acceptable proof of experience and ongoing projects be considered with work order and CA 
+certificate of payment received
+Please refer the responsed of he Query No. 02
+16
+III. Technical Evaluation/ 30
+The Bidder should have an average annual turnover from IT 
+Software related services (Software Development/ Website 
+Development/ Software Customization or Implementation/ 
+Operation
+& Maintenance Support of Software Application/ Software 
+Product Development/ Mobile App Development) of at least Rs. 
+20 Crore during last
+three financial years (2021- 22, 2022-23 and 2023-24)
+It is requested to increase the average annual turnover requirement to at least INR 100 Crore. This 
+shall be in- line with the scope and term of the assignment and shall attract better competition and 
+quality of services being offered.
+As per RFP
+17
+Section V – Scope of Work (p. 38)
+Support for global tourists via additional languages like 
+Spanish, French, German, Arabic, Chinese, etc.
+Please clarify whether translation into these additional languages is expected to be manually done 
+through translators or through BHASHINI/ similar translation services. Additionally, kindly clarify 
+whether the service provider is required to procure the translation services/ license for the project.
+BHASHINI services will be provided by TCGL and must be integrated 
+by the bidder for Indian languages. For foreign languages, the bidder 
+is required to procure and integrate the necessary language services.
+18
+Section II – Pre-Ǫualification Criteria 
+(p 28)
+PF and Professional Tax Challan of last one year along with 
+certificate from HR
+As these contain personal information, it is requested that the bidder can provide a certificate from 
+HR department confirming compliance and the number of employees covered under PF and 
+Professional Tax registrations.
+As per RFP
+19
+Section V - Scope of Work 7. AI 
+powered Functionalities
+Smart Itinerary Builder: Suggest travel plans based on budget, 
+interests, available time, past behaviour, and current 
+crowd/weather conditions.
+- Please clarify the data source or mechanism expected for obtaining real-time or historical crowd 
+information. Is TCGL planning to provide access to footfall data, ticketing APIs, or CCTV analytics
+- We understand that the APIs for external data sources (e.g., weather or crowd analytics) will be
+provided by TCGL. Kindly clarify.
+It is to be managed by bidder.
+20
+Section V - Scope of Work 7. AI 
+powered Functionalities
+Chatbot & Smart Assistant: Provide 24/7 multilingual assistance 
+via AI chatbot integrated with web, mobile app, and WhatsApp
+We understand that the TCGL will procure and provide the WhatsApp Business API and preferred 
+chatbot platform license for the service provider to integrate. Kindly clarify
+The cost pertaining to the number of requests / calls to API shall be borne by the Authority or the 
+service provider.
+Please refer the corigendum
+
+
+21
+Section V - Scope of Work 7.1 
+Provision to capture Virtual Reality 
+(VR) based experience
+Provision to capture Virtual Reality (VR) based experience
+- 360° Virtual Tours of major attractions like Rann of Kutch, Gir 
+Forest, Sabarmati Ashram.
+- AI-powered digital walkthroughs of Gujarat’s ancient heritage 
+sites.
+Please clarify whether TCGL already possesses existing VR/360° content and data to be integrated 
+into the new platform. Since the creation and production of new VR experiences (filming, stitching, 
+editing) is usually done by a specialized creative agency with the right equipment. Request you to 
+kindly clarify whether there would be a creative agency or the TCGL providing the said 
+information as input to the service provider.
+TCGL may provide the VR video for integration into the website and 
+mobile application.
+22
+Section V - Scope of Work 7.1 
+Provision to capture Virtual Reality 
+(VR) based experience
+VR live-streaming of events like Navratri, International Kite 
+Festival, Rann Utsav
+We understand that the live-streaming infrastructure (e.g., on-ground VR setup, permissions, and 
+logistics) will be managed by TCGL and provisioned to the service provider. Could the authority 
+kindly confirm the
+same.
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+23
+Section V - Scope of Work 9. Smart 
+Map-Based Navigation & Geo-
+Intelligence
+Smart Map-Based Navigation & Geo-Intelligence
+A rich, interactive map experience should be developed across 
+both platforms
+Please confirm whether TCGL will share existing GIS data and shapefiles for integration, or if the 
+bidder is required to develop and manage all geospatial layers including tourist sites, routes, and 
+facilities as part of
+the project.
+The bidder is required to develop and manage all geospatial 
+layers—including tourist sites, routes, and facilities—using Google or 
+any other suitable platform as part of the project.
+24
+Section V - Scope of Work 8. Tourism 
+Directory and Thematic Content Hub
+Smart Tagging: Dynamic content tagging and filtering based on 
+category, region, season, activity, and accessibility
+Please clarify whether content tagging will be done by the TCGL team or is expected to be 
+performed by the bidder, and if any existing tagging taxonomy or metadata standards will be 
+provided.
+It will be performed by the bidder
+25
+Section V - Scope of Work 9. Smart 
+Map-Based Navigation & Geo-
+Intelligence
+Map Functionality:
+-Pan, zoom, rotate, direction, route plotting, and “Nearby 
+Places”
+-Distance/time estimations from current location
+-Local transport overlays (Metro, GSRTC, Taxis, e-Rickshaws)
+-Hyperlinks to Indian Railways and Airline sites
+Please confirm whether TCGL expects real-time navigation features (e.g., live traffic, distance/time 
+calculation, and route optimization) to be implemented directly within the app through for ex. 
+Google Maps API integration or by redirecting users to Google Maps for navigation.
+Further request GIL for clarify whether the cost for each API request/call by the users for 
+navigation/ other map services is chargeable and shall be borne by the Authority or the bidder. We 
+understand that the costs for these services shall be borne by the Authority so that the goal of 
+achieving more users does not disincentivize the bidder. Kindly clarify the same.
+Please refer the corigendum
+26
+Section V - Scope of Work 10. 
+Booking and E- Commerce 
+Capabilities
+Real-time room availability, multiple pricing models Bus 
+(GSRTC) integration
+Payment Gateway Integration, Support for UPI, debit/credit 
+cards, wallets
+Aadhar based user aunthentication
+We understand that the APIs would need to be integrated to successfully operate this module. 
+Could you please clarify whether the costs associated to the usage of services through APIs would 
+be borne by the Authority or the bidder.
+We understand that the information on room inventory, pricing models shall be shared by the 
+Authority to the bidder. Kindly clarify the same.
+Please refer the corigendum
+27
+Section V - Scope of Work 10. 
+Booking and E- Commerce 
+Capabilities
+Future readiness to integrate with ONDC, Invoice generation, e-
+GST compliance, and dyamic pricing
+Could you kindly clarify what elements entail readiness to integrate with ONDC.
+Additionally, could you kindly clarify whether e-GST filing/processes and costs associated with it 
+shall be carried out by TCGL and only the Compliance/documentation shall be maintained by the 
+bidder. Kindly clarify the same.
+As per RFP
+28
+Section V - Scope of Work 14.1. User 
+Registration & Authentication
+Aadhaar-based authentication for Indian users
+We understand that the Aadhar API shall be required to be implemented. We understand that the 
+API shall be facilitated by the Authority (TCGL/GIL), and any associated costs pertaining to number 
+of usage/ requests for the service shall be borne by the Authority.
+Kindly clarify.
+Please refer the corigendum
+29
+Section V - Scope of Work 11. User 
+Profiles & Personalization
+AI Powered personalization:
+Behavioral pattern analysis to suggest itineraries
+We understand that the behavioural pattern analysis as a use-case of AI would require time to 
+mature as the model training planning and execution would take significant time to mature to give 
+the desired output, which could go beyond the said 6 months of implementation. Could the 
+authority clarify what level of AI/ML modelling would be required for this envisioned functionality 
+as per the requirement as the use case can be quite extensive if not defined properly.
+The bidder will suggest be industry practicing model. It will be 
+mutually decided by bidder & TCGL
+30
+Section V - Scope of Work 14.8 Live 
+Transport Tracking
+GSRTC bus tracking integration
+• Hyperlinking to Indian Railways and Metro systems
+• Display of estimated arrival times and connections
+Could the Authority kindly clarify whether the Authority shall be provisioning the integration with 
+GSRTC, Railways and Metro systems for the information to be relayed in the developed system. For 
+the same to be real-time, appropriate costs would be incurred for calling the API in real-time 
+periodically. Could the Authority clarify whether the cost of the same shall be borne by the 
+Authority.
+Please refer the corigendum
+31
+Section V - Scope of Work 18.1 
+Testing Types
+Security testing and VAPT by CERT-IN empanelled agency
+Could the Authority kindly clarify whether the cost of the VAPT, security audit shall be borne by the 
+Authority or the bidder.
+Please refer the responsed of he Query No. 10
+
+
+32
+Section V - Scope of Work 21. 
+Content Management & Campaign 
+Support
+6 themes and campaigns per year (minimum)
+• Ǫuarterly verification of factual data, including opening 
+hours, festival schedules, emergency contacts, etc.
+We understand that the Authority would need support for the content management, We seek 
+clarification regarding the content generation required for the campaigns and other activities, that 
+the same shall be the provided by the Authority to the bidder for further processing in the CMS as 
+there is no mention of Content Managers/SEO resources in the team
+deployment section.
+TCGL will provide the required content for the campaings and other 
+related acctivites. Howevver, bidder has to provide content in a 
+formated way which can be published in Social Media or Websites or 
+as required by the TCGL.
+33
+Section V - Scope of Work
+22. SEO & Performance Optimization
+The platform must be SEO-optimized from day one. This 
+includes:
+• Meta tags, page titles, structured schema, sitemaps, and 
+canonical URLs
+• Integration with Google Search Console, Bing Webmaster
+• Optimized page speed with lazy loading, minification, CDN 
+integration
+• Real-time SEO scoring system for content authors
+• Use of Progressive Web App (PWA) architecture for faster 
+mobile experiences
+We understand that the Authority would need support for the SEO and performance optimization, 
+We seek clarification regarding the costs incurred for SEO, that the same shall be the borne by the 
+Authority as there is no mention of Content Managers/SEO resources in the team deployment 
+section.
+The bidder is required to perform SEO for both the website and the 
+mobile application.
+34
+Section I - GCC Change Requests pg. 
+20
+1.1.69 During the contract period, any change in scope of work, 
+or in design and development shall not be construed as change 
+Request order and instead will become part of scope of work 
+accompanying this bid document.
+1.1.70 TCGL may, at any time, by written order given to the SP 
+make changes within the general scope of the Contract in any 
+one or more of the following:
+o Designs, specifications, requirements of which software or 
+service to be provided under the Contract are to be specifically 
+developed / rendered for TCGL;
+o The place of delivery; and/or the Services to be provided by 
+the SP. o The bidder should be responsible for changes in the 
+software system user Interface and due to change of 
+legal/statutory/GR/Any ACT etc. changes issued by govt. time 
+to time during the contract period.
+1.1.71 Once the change request is developed and implemented, 
+it will become the part of the Software application without any 
+additional cost to TCGL.
+1.1.72 Training of personnel of the TCGL in terms of 
+hours/subjects will be without any
+additional cost.
+We understand that this is a milestone based project, and not a T&M based project. Change 
+requests in these cases which might incur significant costs would be a challenge to be implemented 
+as there is no clause to protect the interests of the bidder as change requests as per the said clause 
+are told to be considered a part  of the scope and incur no cost to the Authority.
+Therefore, we request the Authority to modify the change request clause considering there should 
+be a limitation to the liabilities of the bidder as well.
+As per RFP
+35
+Sec X
+Service Level Agreement (SLA) - pg. 
+55-58
+(3) Please Refer to SLA section X in RFP pg. 55-58
+Upon assessing the lack of limitation of liability clause in the RFP as per standard RFP language, 
+EY's legal team has suggested inclusion of the following two clauses in the said SLA section in the 
+RFP.
+1. "TCGL/GIL (and any others for whom Services are provided) may not recover from Service 
+Provider, in contract or tort, under statute or otherwise, aggregate damages in excess of the fees 
+actually paid for the Services that directly caused the loss in connection with claims arising out of 
+this Agreement or otherwise relating to the Services.”
+2. “Neither party will be responsible for any amount with respect to loss of profit, data or goodwill, 
+or any other consequential, incidental, indirect, exemplary, punitive or special damages in 
+connection with claims arising out of this agreement or otherwise relating to the services, whether 
+or not the likelihood of such loss or damage was contemplated.”
+As per RFP
+36
+1.1.68 (pg. 19)
+The Service Provider shall indemnify TCGL/GIL against all third-
+party claims of infringement of copyright, patent, trademark or 
+industrial design rights arising from use of the Goods or any 
+part thereof in India.
+Upon examination by our legal team, it has been observed that inclusion of any indemnity 
+obligation is not in alignment with EY’s standard contracting and business policies. It is therefore 
+requested that the Authority may kindly consider deletion of the said clause from the RFP.
+As per RFP
+
+
+37
+Pg 18,19, 1.1.65
+Pg 23, 1.2.15
+Any document, other than the Contract itself, enumerated in 
+GCC Clause 5.1 shall remain the property of TCGL and shall be 
+returned (in all copies) to TCGL on completion of the service 
+provider’s performance under the Contract if so required by 
+TCGL.
+If Bidder has violated / infringement of any Indian or foreign 
+trademark, patent, registered design or other intellectual 
+property rights. Certificate/affidavit regarding
+non-violation / infringement of any Indian or foreign 
+trademark, patent, registered design or other intellectual 
+property rights.
+The Authority is requested to add the following clause in the RFP for protection of the pre-existing 
+IP with the service provider in addition to the clauses added for IP “Each party retains its rights in its 
+pre-existing intellectual property. Except as explicitly agreed in writing between parties, any 
+intellectual property developed by Service Provider, and any working papers compiled in 
+connection with the Services (but not TCGL/GIL’s Information provided by TCGL/GIL contained in 
+them which shall remain TCGL/GIL’s property), shall be the property of Service Provider.”
+The Authority is also requested to modify the clause
+1.1.65 on page 18,19 as
+“ Any document, other than the Contract itself, enumerated in GCC Clause 5.1 shall remain the 
+property of TCGL and subject to retention of professional records by Service Provider, shall be 
+returned (in all copies) to TCGL on completion of the service provider’s performance under the 
+Contract if so required by TCGL.”
+As per RFP
+38
+General
+General
+We understand that the service provider in the course of the project shall prepare multiple reports 
+and share with the client, in order to maintain standard business protection of report sharing 
+limitations, the following language is requested to be inserted into the RFP/contract:
+“Parties agree that all communication/ deliverables/ reports provided by Service Provider herein are 
+intended for TCGL/GIL’s internal use only and not for any unauthorized sharing with third parties or 
+reliance by third parties without Service Provider’s written consent.”
+As per RFP
+39
+1.1.66, pg. 18,19
+The Service Provider shall permit TCGL/GIL to inspect the 
+service providers accounts and records relating to performance 
+of the service provider with regards to this contract and to have 
+them audited by auditors appointed by TCGL/GIL, if so required 
+by TCGL/GIL.
+We understand that the said clause in the RFP grants open ended audit rights to the Authority, and 
+EY needs to maintain client confidentiality to all clients.
+Therefore, we request the Authority to append to the said clause the follows:
+"Notwithstanding the above any audit conducted shall be restricted to the physical files in relation 
+to this Agreement only and shall be subject to TCGL/GIL agreeing to maintain confidentiality of 
+these documents. No access to Service Provider’s systems or hands on or intrusive testing will be 
+permitted. Any third parties employed by TCGL/GIL to conduct such audit shall not be a competitor 
+of Service Provider and shall agree to confidentiality obligations with Service Provider.”
+As per RFP
+40
+1.2.14, 1.2.15, 1.2.19, 1.2.20 clauses
+pg. 22,23
+Clauses pertaining to termination 1.2.14, 1.2.15, 1.2.19, 1.2.20 
+clauses
+The clauses on termination describe the cases and instances of termination by the Authority, we 
+request that the Authority addends the clauses by the below mentioned clause for the service 
+provider to have the right to terminate the contract in cases where it can no longer provide services 
+in accordance with applicable law or its professional obligations.
+"the Service Provider may terminate this Contract or any particular services immediately upon 
+written notice to TCGL/GIL, if Service Provider reasonably determines that it can no longer provide 
+the services in accordance with applicable law or its professional obligations.”
+As per RFP
+41
+i. Section IX. Payment Terms and 
+Schedule (Page 54-55)               
+The Table mentioned above states that the payment for the O&M shall be made by the Authority in 
+parts of 25% for each of the three (03) years of O&M. This totals upto 75% of the total O&M cost. 
+Request your kind clarification on the remaining 25% of the total O&M cost. 
+The payment will be released in four quarters of the 1st year as per 
+the financial bid.
+The payment will be released in four quarters of the 2nd year as per 
+the financial bid.
+The payment will be released in four quarters of the 3rd year as per 
+the financial bid.
+42
+i. Section IX. Payment Terms and 
+Schedule (Page 54-55)               
+ In the table given above, for each of the three (03) years of O&M, the resources mentioned in the 
+Remarks column will be deployed onsite or will the deployment be as per the table provided in 
+Section VII. 1. B. During Continuous Development and O&M. (Table appended below for reference).
+RFP is self explanatory
+43
+Timeline Extension
+A 14-day extension to the submission timeline would enable us to prepare a more comprehensive 
+and well-aligned proposal.
+As per Crrigendum
+44
+Page no 20 , Point no # 1.1.77.3 
+No exemption for submitting the EMD will be given to any 
+agency. 
+Request: Allow exemption from EMD submission for MSME-certified agencies, as per standard 
+government tendering rules. EMD amount should be calculated as a percentage of the total project 
+cost.
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted.
+45
+Page no 27, Point #4
+Experience  in Tourism and Allied Sub-Sectors 
+Request: Extend the experience evaluation period from the last 5 years to 7–9 years, to enable 
+inclusion of more relevant project experience.
+As per RFP
+
+
+46
+Page no 30, Point # 1
+The Bidder should have an average annual turnover 
+from IT Software related services (Software Development/ 
+Website 
+Development/ Software Customization  or Implementation/ 
+Operation & Maintenance Support of Software    Application/ 
+Software Product Development/ Mobile App Development) of 
+at least Rs. 20 Crore during last three financial years (2021- 
+22, 2022-23 and 2023-24) 
+Note: Turnover from the following activities shall not 
+be considered: 
+• Hardware supply and maintenance 
+• Manpower outsourcing 
+• Non-IT services.
+Reference: Gujarat State Procurement Policy 2024 – Clause on Turnover of the Bidder
+Existing Provision:
+“The minimum average annual financial turnover or actual production of the bidder, during the last 
+three years ending on 31st March of the previous financial year, should be at least twice the bid 
+value.”
+(This clause is also applicable for tenders processed through GeM.)
+As per the above clause, the minimum average annual turnover requirement becomes twice the 
+estimated tender value. Considering the estimated project value and to ensure wider participation 
+from technically qualified bidders while maintaining financial capability, we request to reduce the 
+turnover requirement to align with the estimated project value.
+As per RFP
+47
+Page no 30, Point # 2
+The Bidder should have successfully executed, at least 03 
+Software/ Website/ Mobile App Development  projects during 
+last 5 years as on date of submission of 
+bids in which each project cost should not be less than INR 1 
+Crore each with project completion certificate. 
+Mentioned is "Work Order / Project Contract Document / Agreement along with Project Completion 
+Certificate issued by the client with details of project "
+Request:
+Modify clause to consider Work Order / Project Agreement OR Completion Certificate issued by the 
+client that specifies scope, sector/domain relevance, and project value. 
+This will allow inclusion of projects that are live and operational but ongoing. 
+Also, extend the project completion period from 5 years to 7–9 years.
+Please refer the Query No. 02
+48
+Page no 31, Point # 3
+The bidder should have successfully executed at 
+least 1 project in the Tourism domain or its allied 
+sectors (e.g., event tourism, eco-tourism, cultural promotion, 
+hospitality  platforms, seminar/marketing and promotion 
+related IT Application/   event management platform, or 
+related tourism-tech  initiatives) in the last 5 years. Each project 
+must have a minimum value of INR 50 Lakhs. 
+Request: As above — accept Work Order / Project Agreement OR Go Live Certificate OR Completion 
+Certificate from client with relevant details. Extend timeline to 7–9 years for broader experience 
+inclusion.
+For Go-Live certificate - Please refer the Query No. 02 
+No change in Extension of timeline to 7–9 years for broader 
+experience inclusion.
+49
+Page no 37 , Point #7.1
+VR live-streaming of events like Navratri, International Kite 
+Festival, Rann Utsav.
+Clarification Required: Kindly confirm if the expectation is limited to live streaming of events or 
+includes Virtual Reality (VR) experience development. If VR is required, please elaborate on the 
+technical scope, content type (360° video / interactive VR), and deliverables.
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+50
+Page no 37 , Point #7.1
+AI-powered digital walkthroughs of Gujarat’s ancient heritage 
+sites.
+Clarification Required: Please provide details regarding the scope — expected deliverables (e.g., 3D 
+models, AR/VR integration, voice-assisted tours), data sources, and AI functional requirements.
+website or software should be capable enough to demonstrate all 
+this functionalities however required internet bandwidth and 
+necessary hardware will not be a part of system integration scope
+51
+General
+User Type
+1. Total how many types of users will be using this portal / mobile application?
+2. Estimated how many users per user type will be accessing this portal / mobile application?
+3. What is the estimated peak concurrent user load for web and mobile platforms?
+1.The portal and mobile application will be available for use by 
+citizens.
+2.Citizens can access and use the portal as well as the mobile 
+application.
+3.TCGL will furnish the necessary information to the selected bidders
+52
+6. Important Information
+Page #6
+4. Last Date and Time for the Submission of Proposal (Technical 
+and Commercial) (Online on GeM Portal) 27.10.2025 up to 
+1500 hrs.
+1. Considering the upcoming festive season, we kindly request that a minimum of 12-14 working 
+days (excluding festival holidays) be provided to all bidders for the preparation and submission of 
+their bids after the publication of comprehensive responses to the bidders’ queries. Kindly consider.
+As per RFP
+53
+Change Request
+Page #20
+1.1.69 During the contract period, any change in scope of work, 
+or in design and development shall not be construed as change 
+Request order and instead will become part of scope of work 
+accompanying this bid document.
+1. Instead of keeping this open-ended, we recommend you to ask bidders to include the Change 
+Request (CR) cost in the commercial bid based on 100 predefined hours. These hours can then be 
+utilized and billed on a pro-rata basis, based on the actual effort consumed and post TCGL approval. 
+This approach will help control and optimize the overall project cost, as leaving CRs unlimited may 
+lead bidders to add excessive padding to their quotes, resulting in inflated commercial bids. Kindly 
+consider. Below is the table that we recommend to be added in commercial bid.
+As per RFP
+
+
+54
+Incidental Services
+Page #22
+1.2.7 The Service Provider is required to provide the following 
+services, including additional services, if any.
+1.2.8 Performance or supervision of the on-site assembly 
+and/or start-up of the supplied Goods;
+1.2.9 furnishing of tools required for assembly and/or 
+maintenance of the supplied Goods;
+1.2.10 furnishing of detailed operations and maintenance 
+manual for each appropriate unit of supplied Goods;
+1.2.11 Performance or supervision or maintenance and/or 
+repair of the supplied Goods, for the period of time mentioned 
+in the tender notification.
+1. As this is a software development project, these incidental services are not applicable in this 
+context. We therefore request the removal of this clause from the RFP. Kindly consider.
+As per RFP
+55
+II. Pre-Qualification Criteria
+Page #27
+4 Experience in Tourism and Allied Sub- Sectors
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism, cultural promotion, hospitality platforms, ..... in 
+the last 5 years. Project must have a minimum value of INR 50
+Lakhs.
+1. With reference to the eligibility criteria stating that “The bidder should have successfully 
+executed at least one project in the Tourism domain or its allied sectors (e.g., event tourism, eco-
+tourism, cultural promotion, hospitality platforms, seminar/marketing and promotion-related IT 
+applications, event management platforms, or related tourism-tech initiatives)”, we request further 
+clarification on the following:
+1.1. Could you please elaborate on the types of projects or organizations that would be considered 
+under the allied sectors such as event tourism, eco-tourism, cultural promotion, and hospitality 
+platforms?
+1.2. Specifically, in the context of cultural promotion, please clarify whether projects related to 
+cultural heritage digitization, museum or art promotion platforms, or festival/event management 
+systems would qualify.
+1.3 If possible, kindly share a few indicative examples or references of eligible project types for 
+better understanding.
+Please refer the query No. 03
+56
+II. Pre-Qualification Criteria
+Page #27
+4 Experience in Tourism and Allied Sub- Sectors
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism, cultural promotion, hospitality platforms, ..... in 
+the last 5 years. Project must have a minimum value of INR 50
+Lakhs.
+1. To get more participation we request below cange in this clause. Kindly consider.
+The bidder should have successfully executed at least 1 project in the Tourism domain or its allied 
+sectors (e.g., event tourism, eco-tourism, cultural promotion, hospitality platforms, ..... in the last 5 
+years. Project must have a minimum value of INR 10 Lakhs .
+As per RFP
+57
+III. Technical Evaluation
+Page #31
+6 Technical presentation - Capabilities, Approach and 
+Methodology for execution of project.
+1. Please provide marking for each point / agenda of technical presentation.
+2. We request clarification on the type of evidence or supporting material expected under the 
+section “Benchmarking analysis of other similar national and international websites and 
+recommendations.” Kindly elaborate on the specific deliverables or format required.
+Please refer to page 30 of the RFP document; the marking benchmark 
+has already been provided
+58
+V. Scope of Work
+Page #35
+Study the current https://www.gujarattourism.com website to 
+understand existing features and incorporate all relevant 
+functionalities into the new platform.
+1. What is the total size of the existing data that needs to be migrated to the new platform?
+2. How many tables will be involved in the migration process in total?
+3. We assume that the data will be provided in soft copy (Excel format) only. Kindly confirm.
+4. We assume that there is no requirement for scanning of physical documents during the migration 
+process. Kindly confirm. If scanning is required, please share the total number of pages to be 
+scanned, along with their size specifications.
+5. We assume that there is no requirement for data entry activities during the migration process. 
+Kindly confirm. If data entry is required, please share the total number of forms and the number of 
+records per form.
+Approximatly more than 600 GB data are available for migration. 
+TCGL will provide the required data to selected bidder as per 
+available formats.
+59
+6. Multilingual and Multicultural 
+Integration
+Page # 36
+Support for global tourists via additional languages like 
+Spanish, French, German, Arabic, Chinese, etc.
+1. We assume that the base content in English will be provided by TCGL. Kindly confirm.
+2. Considering the language support requirements, we assume that the design will need to be 
+developed to support both LTR and RTL text orientations. Please confirm.
+3. We assume that TCGL is aware of the accuracy limitations of AI-powered real-time translation 
+and that it is acceptable. Kindly confirm.
+4. We assume that only static text and labels will be multilingual, while user-entered data will be in 
+English only. Please confirm.
+5. Please provide exact list of all languages that need to be integrated within the platform.
+1. Content in English/Gujarati will provide by TCLG however it's 
+accuracy, meaning , target audience of content must be verified by 
+bidder.
+2. It will be informed to Successul bidder
+3.Bidder may use best possible solution
+4. Trasalation will be for all contents in each dynemic page.
+5. The bidder is required to integrate Bhashini for all indian language 
+& API will be provided by TCGL but for foriegn languages, bidder 
+needs to procure and integrte.
+
+
+60
+V. Scope of Work
+7. AI-Powered Functionalities
+Page # 37
+Chatbot & Smart Assistant: Provide 24/7 multilingual assistance 
+via AI chatbot integrated with web, mobile app, and WhatsApp.
+1. We assume that Business API for WhatsApp integration will be provided by TCGL. Please confirm.
+Please refer the corigendum
+61
+V. Scope of Work
+7. AI-Powered Functionalities
+Page # 37
+7.1 Provision to capture Virtual Reality (VR) based experience
+i. VR-Based Immersive Tourism Experience
+• 360° Virtual Tours of major attractions like Rann of Kutch, Gir 
+Forest, Sabarmati Ashram.
+1. We assume TCGL will provide all high-quality source content (360° photos/videos, live stream 
+feeds) required to develop the VR/360° experiences. Please confirm.
+2. We assume that any hardware, software, or APIs required to support the 360° Virtual Tours will 
+be procured by TCGL. Please confirm.
+3. Total how many 360° tour will need to be implemented?
+The website or software should be capable of demonstrating all 
+these functionalities; however, the required internet bandwidth and 
+necessary hardware will not fall within the scope of system 
+integration.
+62
+V. Scope of Work
+7. AI-Powered Functionalities
+Page # 37
+7.1 Provision to capture Virtual Reality (VR) based experience
+i. VR-Based Immersive Tourism Experience
+• VR live-streaming of events like Navratri, International Kite 
+Festival, Rann Utsav.
+1. We assume that all necessary hardware, software, and tools required for capturing, encoding, 
+and streaming the content will be procured or provisioned by TCGL. Kindly confirm.
+2. The agency’s responsibility will be limited to integrating the VR live-streaming link within the 
+website and mobile application. Please confirm.
+3. What are your expectation of VR Live-streaming on user's device? Please elaborate with sample 
+and use cases.
+4. On which devices you are planning to do VR live streaming? PC, Laptop, Mobile Device or any 
+specific VR device.
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+63
+V. Scope of Work
+7. AI-Powered Functionalities
+Page # 37
+7.1 Provision to capture Virtual Reality (VR) based experience
+i. VR-Based Immersive Tourism Experience
+• AI-powered digital walkthroughs of Gujarat’s ancient heritage 
+sites.
+1. We assume that all necessary hardware, software, or tools required for capturing, encoding, and 
+streaming the content will be procured or provisioned by TCGL. Kindly confirm.
+The website or software should be capable of demonstrating all 
+these functionalities; however, the required internet bandwidth and 
+necessary hardware will not fall within the scope of system 
+integration.
+64
+V. Scope of Work
+8. Tourism Directory and Thematic 
+Content Hub
+Page # 37
+The website and mobile application shall serve as a 
+comprehensive tourism information hub, offering detailed and 
+categorized information on:
+• Content Types:
+o Overview, history, significance, visiting hours, entry fees
+o Photo and video galleries
+o How to reach, local tips, weather, festivals
+o Contact details and emergency information
+1. We assume that all content, in all required formats, for the Tourism Directory and Thematic 
+Content Hub will be created and uploaded by TCGL. Kindly confirm.
+The content will be provided by TCGL to the successful bidder.
+65
+V. Scope of Work
+9. Smart Map-Based Navigation & 
+Geo-Intelligence
+Page # 37
+A rich, interactive map experience should be developed across 
+both platforms. Key features include:
+1. We assume that the rich and interactive map to be used in this module will be provisioned and 
+provided by TCGL. Kindly confirm.
+2. We assume that all the data including master data (e.g., Hotels, Resorts, Events, Attractions, etc.) 
+will be entered and managed by TCGL. The bidder will have no role in data collection or data entry 
+into the system. Kindly confirm.
+1.The bidder will be responsible for developing this rich and 
+interactive functionality
+2.It is the bidder’s responsibility, in consultation with the TCGL office
+66
+V. Scope of Work
+9. Smart Map-Based Navigation & 
+Geo-Intelligence
+Page # 38
+• Indoor Navigation:
+o Indoor maps for large venues (e.g., museums, palaces, 
+fairgrounds)
+1. We assume that the required indoor navigation maps will be provided or provisioned by TCGL. 
+Kindly confirm.
+2. Please specify your preferred indoor mapping service (if any).
+3. We further assume that the selected indoor mapping service will be procured and provisioned by 
+TCGL, and the agency’s responsibility will be limited to integrating and implementing the provided 
+API within the website and mobile application. Kindly confirm.
+It is removed from Scope of work
+
+
+67
+V. Scope of Work
+10. Booking & E-Commerce 
+Capabilities (as per the existing 
+website scope)
+Page # 38
+Hotel & Resort Reservations:
+o Real-time room availability
+o Multiple pricing models
+o Offers, coupons, and cashback
+o Guest ratings and reviews
+1. Will 100% of the bookings be processed exclusively through this portal? If a certain percentage of 
+bookings will also take place outside the system, kindly clarify how real-time room availability will 
+be managed. Please share more details regarding the process for external or third-party bookings.
+2. Please share sample data illustrating the various pricing models that need to be supported.
+3. Kindly elaborate on how you intend to manage cashback mechanisms within the system.
+4. We assume that no third-party booking engines (e.g., SITA, Amadeus, etc.) are required to be 
+integrated into the website or mobile application. Kindly confirm.
+5. In case third-party booking engine integration is required, please share the complete list of such 
+engines to be implemented. Additionally, please confirm that all associated costs (including setup, 
+subscription, and usage/transaction charges) will be borne by TCGL. Kindly confirm.
+6. Is there any existing systems (booking engines, ticketing portals) that need integrated? If yes, 
+then please share list.
+1. 100% booking will be through booking portal only. 
+2. Pricing model will be decided by TCGL however bidder needs to 
+develop the complete system.
+3. It will be shared with successfull bidder by TCGL.
+4,5. The bidder may use it-open source technology, however TCGL 
+will not pay the additional price of it.
+68
+V. Scope of Work
+10. Booking & E-Commerce 
+Capabilities (as per the existing 
+website scope)
+Page # 38
+• Transport Booking:
+o Bus (GSRTC integration), taxis/cabs, local rentals
+1. How you are envisaging to implement transport booking? Will it be through web service API or it 
+will be 3rd party hard link only?
+2. If through API then please elaborate your requirement and confirm that all those required APIs 
+will be provided by the department. 
+Please refer the corigendum
+69
+V. Scope of Work
+10. Booking & E-Commerce 
+Capabilities (as per the existing 
+website scope)
+Page # 38
+Payment Gateway Integration:
+o Payment gateway integration
+o Support for UPI, Net Banking, Credit/Debit Cards, Wallets
+o Aadhaar-based user verification during bookings (optional)
+1. We assume that required API for payment gateway and Aadhaar will be procured / provisioned 
+by TCGL. The agency’s responsibility will be limited to integrating and implementing this API within 
+the website and mobile application only. Kindly confirm.
+Please refer the corigendum
+70
+V. Scope of Work
+11. User Profiles & Personalization
+Page # 39
+• User Account Creation:
+o Options for login via Mobile OTP, Gmail, Aadhaar-based eKYC
+1. We assume that required API for Aadhaar eKYC will be procured / provisioned by TCGL. Please 
+confirm.
+Please refer the corigendum
+71
+V. Scope of Work
+12. Event Management and Live 
+Updates
+Page # 39
+• Live Streaming:
+o Integrated video streaming for events like Rann Utsav, Kite 
+Festival, and cultural parades
+1. We assume that all required hardware, software and networking required for live steaming will 
+be provided / provisioned by TCGL. Please confirm.
+2. We assume that Live Streaming will be managed by TCGL. Please confirm.
+3. The agency’s responsibility will be limited to integrating the live-streaming link within the website 
+and mobile application. Please confirm.
+It is removed from Scope of work
+72
+V. Scope of Work
+12. Event Management and Live 
+Updates
+Page # 39
+• Weather Alerts:
+o Integration with Indian Meteorological Department APIs
+1. We assume that required API for integration with IMD will be provided / provisioned by TCGL. 
+Please confirm.
+2. Please share list of all IMD APIs for better understanding.
+Please refer the corigendum
+73
+V. Scope of Work
+14. Mobile Application Features
+Page # 41
+14.7 Real-Time Location Services
+• Live location sharing with group travelers
+1. We assume that the API for live location sharing among group travelers will be procured or 
+provisioned by TCGL. The agency’s responsibility will be limited to integrating and implementing this 
+API within the website and mobile application only. Kindly confirm.
+2. Do you have any preferred live location sharing service to be implemented? If yes, then please let 
+us know the same.
+Please refer the corigendum
+74
+V. Scope of Work
+16. Integration with Government 
+and Third-Party Systems (but not 
+limited to)
+Page # 41
+1. We assume TCGL will facilitate coordination with respective government departments for 
+integration approvals and technical support. Please confirm.
+TCGL shall provide the requisite support for the successful execution 
+of the work.
+
+
+75
+16. Integration with Government 
+and Third-Party Systems (but not 
+limited to)
+Page #42
+1. We assume that TCGL will be responsible for provisoning and providing all required API and its 
+associated cost. The agency’s responsibility will be limited to integrating and implementing this API 
+within the website and mobile application only. Kindly confirm.
+Please refer the corigendum
+76
+23. AI, Chatbots, and Emerging 
+Technologies
+Page #44
+AI/ML Features to be Implemented
+Image recognition/QR scanning for cultural/historical 
+information
+1. Are there specific cultural/historical images or QR codes that need to be pre-mapped for 
+recognition?
+2. Should AI generate textual, audio, or both forms of descriptions for scanned images?
+1. Yes, 
+2. No
+77
+V. Scope of Work
+26. Technology Stack Requirements 
+(Open-Source Technology Stack 
+Preferred)
+Page # 46
+1. We assume bidders are allowed to propose a suitable open-source technology stack that may 
+differ from the listed examples. Please confirm.
+The bidder may utilize open-source technologies, provided they meet 
+the project’s security and performance requirements.
+78
+V. Scope of Work
+28. Final Deliverables
+Page # 47
+Training for TCGL staff
+1. Total how many users need to be trained?
+2. What will be the average batch size?
+3. We assume that training will need to be provided ONLINE only. Please confirm.
+4. If above is not the case then please share location(s) where training will be imparted.
+5. We assume that only ONE time training will be required to be provided. If not, then please share 
+total how many times training will need to be provided during entire project duration.
+Training shall be provided to TCGL staff at Gandhinagar. The bidder is 
+required to propose a detailed training schedule as part of the 
+Technical Bid.
+79
+V. Scope of Work
+30. Creation of dynamic page on 
+demand with design
+Page # 47
+• Add - Create a dynamic page from the provided content in 
+scope of work to easy the creation process.
+1. What is referred here by Dynamic Page? We assume that it will be CMS based static content 
+pages only and not data driven pages. Please confirm.
+2. If above is not the case then please provide clarity on dynamic page creation.
+3. If possible, please share few samples of dynamic pages.
+As Per RFP
+80
+VI. Implementation and Operations 
+Timeline
+Page #48
+• Hosting setup at GSDC and CERT-IN security clearance
+1. We assume that CERT-In Security Clearance will be required for Application Software (Website 
+and Mobile application) only and not for the hardware / hosting environment. Please confirm.
+2. If above is not the case then please share detailed BoM for the hosting environment for which 
+CERT-In Security Clearance is required.
+Please refer the responsed of he Query No. 10
+81
+VII. Resource Deployment Matrix
+Page #50
+1. We assume that necessary infrastructure for onsite resources — including PCs/Laptops, seating 
+arrangements, office space, and internet connectivity — will be provided by TCGL. Kindly confirm.
+TCGL shall provide seating and internet connectivity. The bidder will 
+be responsible for arranging all other required items.
+82
+X. Service Level Agreement (SLA)
+Page #55
+B. Response and Resolution Times
+1. The response and resolution times mentioned in the table appear to be highly aggressive and 
+may not be feasible under a standard deployment model. Achieving these timelines would require a 
+significantly large team and result in substantial additional cost. In light of this, we respectfully 
+propose the following revised timelines for your consideration. We request you to kindly review and 
+consider the same.
+Severity - Level - Description - Response Time - Resolution Time
+Critical (P1) - Complete application down / Security breach - 4 hour  - 12 hours
+High (P2) - Core module malfunction (e.g., booking failure) - 8 hours - 24 hours
+Medium (P3) - Minor feature issue, UI bug - 12 hours - 48 hours
+Low (P4) - Content formatting, spelling,layout - 16 hours - 6 Business Days
+2. We assume that above mentioned hours are business hours only. Please confirm.
+As per RFP
+83
+C. Enhancement Response Timeline
+Page #56
+New Feature within Scope - Max. 15 business days from 
+approval
+1. TCGL must understand that the development timeline for new features will depend on the scope 
+and complexity of the requirements. In certain cases, it may take more than 15 business days to 
+implement. We trust that TCGL is aware of this and agreeable to the same. Kindly confirm.
+As per the RFP, However in complex cases the timeline for new 
+features will be mutually decided between TCGL and the successful 
+bidder.  
+
+
+84
+X. Service Level Agreement (SLA)
+Page #56
+A. Uptime Penalty
+1. We assume that uptime penalties will apply only to the downtime of the website and mobile 
+application working. Any downtime arising from hosting infrastructure or server-related issues or 
+infrasturcture provided by TCGL will not be considered while calculating uptime penalties. Kindly 
+confirm.
+Penalty will not be applicable if the downtime pertains to the hosting 
+infrastructure provided by TCGL.
+85
+X. Service Level Agreement (SLA)
+Page #56
+B. Delay in Resolution Penalty
+1. We suggest you to update this table as per our suggestion above (B. Response and Resolution 
+Times). Kindly consider.
+As per RFP
+86
+X. Service Level Agreement (SLA)
+Page #56
+C. Penalty for Delays in Enhancement Response Timeline 
+(Continuous Development)
+1. TCGL should understand that the turnaround time for the activities listed in this clause will 
+depend on several factors, including the complexity of the scope of work (new features and 
+analytical reports), reliance on department as well as third-party support, and the complexity of 
+new page requirements. In light of these variables, imposing a penalty on the bidder would be 
+unfair. The turnaround time should instead be determined based on mutually agreed timelines. We 
+therefore request the removal of this penalty clause. Kindly consider.
+please refer the rsponse of the Query no: 84
+87
+E. Capping of Penalties
+Page #58
+• Penalties shall be capped at 15% of the total contract 
+value/implementation- phase milestone-based payments/ 
+quarterly O&M payable amount
+1. The proposed 15% penalty cap is considerably high. As per the standard industry practice, we 
+suggest reducing the penalty cap to 5%. Kindly consider.
+As per RFP
+88
+General
+Real-Time Notification
+1. We assume that SMS Gateway and WhatsApp API will be procured and provisioned by TGCL. 
+Agency will only be responsible for the integration part. Kindly confirm.
+Please refer the corigendum
+89
+General
+CV
+1. We assume that submission of CVs is not required at the time of bid submission. Kindly confirm.
+2. If CVs are required at the time of bid submission, then please share below details.
+2.1. List of resource type
+2.2. Number CVs required for each resource type
+CVs are required at the time of bid submission.
+2.1.2.2 The list of resources is already mentioned in the RFP; 
+however, since these resources constitute the proposed team for 
+executing the Scope of Work (SOW), their CVs are expected.
+90
+General
+Training Data
+1. Will TCGL provide historical tourism data, event attendance, and booking records for AI model 
+training?
+2. Should itineraries consider real-time factors like transport availability, traffic, and crowd density?
+3. Are there predefined rules for prioritizing certain tourist spots or events? If yes, then please 
+share.
+1.TCGL will provide the data available with them
+2.No
+3.there are no predefined rules regarding the priority of any specific 
+sport
+91
+General
+Conversation Context
+1. How many conversation turns should the chatbot retain for context?
+2. Should fallback to human agents need to be made available for complex queries?
+3. Should voice search support multiple regional accents and dialects?
+4. Are there preferred cloud providers or on-prem hosting requirements for AI/ML and backend 
+services?
+1. As decided by TCGL. However as per general practice minimum 4 
+conversational context should be avaiable.
+2. Yes. If answer is not avaiable , the query should be avaialbe in 
+feedback/grievance module for admin users to reply.
+3. For indian lanaguges, bhashini API will be provied by TCGL, for 
+other foriegn lanauge, bidder may provide solution.
+4. Meity empannled CSPs.
+92
+General
+Pre-Bid Meeting
+We kindly request to consider conducting the pre-bid meeting through an online (VC) mode to 
+enable wider participation from all interested bidders. Kindly consider.
+Yes
+93
+Section 1: SECTION 1: INVITATION 
+FOR BIDS
+Point 4
+Page No. 6
+vs
+Section I. General Condition of 
+Contract
+Clause 9: Earnest Money Deposited 
+(EMD)
+Point 1.1.77.3
+Page No. 21
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only &
+MSME Certificate having code Division 62: Computer 
+programming, consultancy and related activities will only be 
+exempted.
+vs
+No exemption for submitting the EMD will be given to any 
+agency.
+Kindly confirm EMD exemption applicability for MSME bidders who are OEM or fully developing the 
+software in-house with Udyam Division 62, as stated in Section 1 (p.7), and reconcile with Clause 
+1.1.77.3 (p.21) which currently reads ‘No exemption…’. Please clarify the operative clause
+MSME is Exempted only when
+MSME unit is OEM or bidder to developing end to end software by 
+themselves only &
+MSME Certificate having code Division 62: Computer programming, 
+consultancy and
+related activities will only be exempted
+94
+Section V: SCOPE OF WORK
+Clause 16 - Integration with 
+Government and Third-Party 
+Systems (but not limited to)
+Page No. 42
+The platform must be designed with an integration-first 
+approach. Required integrations include:
+Google Maps / Apple Maps: Navigation, routing, POI overlays
+Kindly clarify the responsibility for procuring and paying for third-party map services (Google Maps 
+Platform / Apple MapKit, or equivalent) for both the website and Android/iOS apps. Will TCGL/GIL 
+provide state-owned API keys under centralized billing, or should the bidder provision keys and 
+absorb all usage/overage charges within the quoted price?
+Please refer the corigendum
+
+
+95
+Section II. Pre-Qualification Criteria
+Point 4: Experience in Tourism and 
+Allied SubSectors
+Page No 27 
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism, cultural promotion, hospitality platforms, 
+seminar/marketing and promotion related IT Application/event 
+management platform, or related tourism-tech initiatives) in 
+Central Govt. (Departments/ Boards/ Corporations/ 
+Companies/ Agencies)/ State Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector 
+Banks/ Scheduled Commercial Banks/ NSE Listed Companies in 
+the last 5 years. Project must have a minimum value of INR 50 
+Lakhs.
+Kindly confirm the exhaustive list (or guiding criteria) of Government ‘allied sectors’ acceptable for 
+eligibility evaluation. Specifically, please clarify whether projects executed for the following 
+Central/State Ministries/Departments/PSUs and their autonomous bodies will qualify as ‘tourism or 
+allied sectors’ like Ministry of Culture (including ASI, national/state museums), Ministry of Railways 
+etc.
+Pre-Qualification Criteria No. 4 pertaining to ‘Experience in Tourism 
+and Allied Sub-Sectors’ has been removed.
+96
+7
+Last  date  and  time  for  submission  of EMD in GIL physically 
+along with original Affidavit      of      Self      Declaration:      - 
+27.10.2025 up to 1500 hrs.
+Please  allow  the  bidder  2-3  more  working days after the deadline for submission of the bid  for  
+BG  Submission  in  hardcopy  as  the courier   process   for   submitting   the   BG   in hardcopy to 
+the destination location will take more time for the bidders who are outside of
+the state.
+Yes, the bidder may submit physical copy of EMD within 5 working 
+days from the bid end date. [Follow GEM Policy]
+97
+7
+Last Date and Time for the Submission of Proposal   (Technical   
+and   Commercial) (Online on GeM Portal): - 27.10.2025 up
+to 1500 hrs.
+Request you to please give at least 4 weeks’ time  for  bid  submission  from  the  date  of publishing  
+of  the  corrigendum  and  response
+to pre-bid queries.
+Corrigendum updated
+98
+20
+During the contract period, any change in   scope   of   work,   
+or   in   design   and development shall not be construed as 
+change  Request  order  and  instead  will become     part     of     
+scope     of     work accompanying this bid document.
+If  any  change  or  enhancement  is  required, such   as   a   modification   in   functionality,   it 
+typically  involves multiple skill  sets including Solution  Architect,  Tester,  UI/UX  Designer, 
+Developer,    Business    Analyst,    DBA,    and DevOps    Engineer.    As    the    current    O&M 
+manpower     includes     only     a     Developer, Business Analyst, and Technical Manager.
+We  understand that if any such changes are requested, the department will bear the cost of 
+additional skill sets not included in the RFP, based on the estimated effort. Otherwise, we
+request that this clause be removed.
+As per RFP
+99
+27
+The   bidder   should   have   successfully executed   at   least   1  
+project   in   the Tourism   domain   or   its   allied   sectors (e.g.,  
+event     tourism,     eco-tourism, cultural          promotion,          
+hospitality platforms,      seminar/marketing      and promotion 
+related IT Application/ event
+management     platform,     or     related tourism-tech 
+initiatives) in Central Govt. (Departments/   Boards/   
+Corporations/ Companies/    Agencies)/    State    Govt. 
+(Departments/   Boards/   Corporations/ Companies/    
+Agencies)/    PSU/    Public Sector   Banks/   Scheduled   
+Commercial Banks/ NSE Listed Companies in the last 5  years. 
+Project  must  have  a minimum value of INR 50
+Lakhs.
+We  request  to  amend  this  clause  for  better participant to: -
+The bidder should have successfully executed at least 1 project in the Tourism domain or its allied    
+sectors    (e.g.,    event    tourism,   eco- tourism,     cultural     promotion,     hospitality platforms, 
+seminar/marketing and promotion related  IT  Application/  event  management platform,  or  
+related  tourism-tech  initiatives) in    Central    Govt.    (Departments/    Boards/ Corporations/  
+Companies/  Agencies)/  State Govt.  (Departments/  Boards/  Corporations/ Companies/   
+Agencies)/   PSU/   Public   Sector Banks/   Scheduled   Commercial   Banks/   NSE Listed Companies 
+in the last 10 years. Project must have a minimum value of INR 50
+Lakhs.
+As per RFP
+100
+31
+The  bidder  should  have  successfully executed   at   least   1   
+project   in   the Tourism  domain  or  its  allied  sectors (e.g., 
+event tourism, eco-tourism, cultural promotion,
+hospitality                                platforms, seminar/marketing    
+and    promotion related       IT       Application/       event 
+management    platform,    or    related tourism-tech  initiatives)  
+in  the  last  5 years.   Each   project   must   have   a minimum 
+value of
+INR 50 Lakhs.
+    1  qualifying  tourism-  sector  or  its allied  sectors  project  
+with  a  value 50 Lakhs: 5 Marks
+    2 or more qualifying tourism-sector or its allied sectors 
+projects with a value 50 Lakhs: 10 Marks
+We  request  to  amend  this  clause  for  better participant to: -
+The     bidder     should     have     successfully executed  at  least  1  project  in  the  Tourism domain   
+or   its   allied   sectors   (e.g.,   event tourism, eco-tourism,
+cultural promotion,
+hospitality   platforms,   seminar/marketing and promotion related IT Application/ event 
+management platform, or related tourism- tech  initiatives)  in  the  last  10  years.  Each project 
+must have a minimum value of
+INR 50 Lakhs.    1 qualifying tourism- sector or its allied sectors project with a value 50 Lakhs or more: 5 Marks     1 qualifying tourism  -sector or its allied
+sectors  projects  with  a  value  1.5  Cr  or more: 10 Marks
+As per RFP
+101
+37
+Provision to capture Virtual Reality (VR) based experience: - VR-
+Based Immersive Tourism Experience
+We understand that the provision for the VR- based    immersive    tourism    experience    is limited 
+to integration.
+Content development activities, and that the development,  supply,  or  implementation  of any  
+specialized  VR  hardware,  platform,  or related software components is not within the
+bidder’s scope.
+The website or software should be capable of demonstrating all 
+these functionalities; however, the required internet bandwidth and 
+necessary hardware will not fall within the scope of system 
+integration.
+
+
+102
+43
+Ticket-based  support  system  with  SLA adherence (L1, L2, L3)
+We  request  clarification  on  how  the  bidder will    be    compensated    for    providing    the 
+required  ticketing  infrastructure, manpower, and  SLA  monitoring.  Since  setting  up  and 
+managing  an  SLA-driven  support  mechanism involves additional software tools, resources, and   
+reporting   efforts,   clarity   on   the   cost
+component  is  essential  to  ensure  accurate financial quoting.
+As per RFP
+103
+46
+Technology Stack Requirements (Open- Source Technology 
+Stack Preferred): - *If required,    client    may    ask    to    use 
+proprietary AI Tool/model also.
+Kindly clarify whether, in such a case, the cost of   the   proprietary   AI   tool/model   license, 
+subscription, will be borne by the Department
+Bidder shal proposed only open source AI tool/model 
+104
+58
+Penalties shall be capped at 15% of the total    contract    
+value/implementation- phase      milestone-based      payments/ 
+quarterly O&M payable amount
+In   most   government   and   PSU   projects   of similar nature and scale, the standard industry 
+practice is to limit the cumulative penalty to a maximum  of  10%  of  the  applicable  contract value 
+or milestone amount. A higher ceiling of 15%  significantly  impacts  the  financial  risk
+exposure of the bidder
+As per RFP
+105
+49
+Phase III: Extension Period (Optional) – 1 Year  +  1  Year:  -  If  
+the  Operations  & Maintenance (O&M) period is extended to  
+the 5th  and/or 6th year,  the  annual rate applicable for the 
+4th year of O&M shall  remain  unchanged  and  shall  be 
+applicable   for   each   of   the   extended
+years.
+In      line      with      prevailing      Government organization   norms,   we   kindly   request   an 
+inclusion of a minimum 8% annual increment for an extended period in the quoted rates.
+As per RFP
+106
+52
+Project  Inception  Report:  -  Within  15 days of LoI
+Once  LOI  is  received  there  are  multiple  task (like acceptance, PBG submission, agreement 
+signing etc) which take almost 30-45  working, hence   project   timeline   should   start   after
+signing of agreement.
+As per RFP
+107
+General
+We understand that the SI will bear the cost of development and testing environment and cost of 
+rest of all other environment such as UAT, Stagging & Production will be borne by
+department
+As per RFP
+108
+Page no. 14
+b. THE TENDERER right to vary requirements at time of award: 
+GoG reserves the right at the time of award to increase or 
+decrease quantity for the requirements originally specified in 
+the document without any change in Bid rate or other terms 
+and conditions.
+we request for the changes as follows:
+1. increase or decrease the quantity of items shall be capped at ten percent (10%) of the originally 
+specified requirement, at the same unit rates and terms.
+2. In case of any variation for more than ten (10) percent, the delivery schedule and payment 
+milestones shall be adjusted proportionately by mutual agreement.
+As per RFP
+109
+Page no. 19
+Inspection/Testing
+We request for changes as follows:
+(i) a defined timeframe for TCGL to review and approve audit/test results, clear acceptance 
+acceptance mechanism; 
+(ii) limitation that SP’s rework obligation applies only to non-conforming portions attributable to SP; 
+(iii) exclusion of downtime due to TCGL, third-party systems, or force majeure from uptime 
+calculation.
+1 and 2,  As per RFP.
+3. Downtime not attributable to the bidder will not be considered for 
+penalty calculation.
+110
+Page no. 20
+Change Request
+We request you to kindly:
+1. Define “Change Request” distinctly and provide a formal change control procedure, impact 
+assessment (cost and time), and mutual agreement before implementation.
+2. Permit cost and schedule adjustments for changes due to new features, or expanded scope 
+beyond the original specifications.
+No change in RFP, Change request committee will be form out define 
+the process.
+111
+Page no. 21
+1.2.2 The proceeds of the performance security shall be 
+payable to the TCGL as compensation for any loss resulting 
+from the Service provider’s failure to complete its obligations 
+under the Contract.
+We request you to kindly:
+1. Include a provision for prior written notice and reasonable opportunity to cure before invoking 
+the performance security.
+2. Clarify that encashment shall be limited to the actual, quantifiable loss or damage suffered by 
+TCGL due to the Service Provider’s default.
+As per RFP
+
+
+112
+Page no.22
+Delays in the Service Provider’s Performance
+1. a 60 days  cure period before penalties or termination are applied, 
+2. No liability of the Service Provider for reasons out of its control (force majeure, statutory delays, 
+etc.).
+As per RFP
+113
+Page no.22
+Termination for Default or otherwise
+We request for changes as follows:
+1. termination should be preceded by written notice specifying the default and 60 days opportunity 
+to cure.
+2. termination for quality issues should be based on objective, documented assessment to avoid 
+ambiguity.
+As per RFP
+114
+Page no.24
+Termination for Convenience
+We request for changes as follows:
+1. Min. 90 days written notice shall be given to SP for termination for convenience.
+2. termination shall not affect accrued rights, obligations, or liabilities prior to the termination date.
+As per RFP
+115
+Page no.24
+Resolution of Disputes
+1.2.1
+In this regard TCGL doesn’t go for any arbitration on dispute 
+and TCGL’s decision will be final and binding on the service 
+provider.
+The Parties shall endeavour to resolve any disputes amicable before submitting it to courts. The 
+courts in Ahmedabad shall have the jurisdiction to entertain the matters arising out of this 
+tender/contract.
+As per RFP
+116
+Page no. 31
+III. Technical Evaluation
+S.No. 3 - The bidder should have successfully executed at least 
+1 project in the Tourism domain or its allied sectors (e.g., event 
+tourism, eco-tourism,
+cultural promotion,
+hospitality platforms, seminar/marketing and promotion 
+related IT Application/ event management platform, or related 
+tourism-tech initiatives) in the last 5 years. Each project must 
+have a minimum value of
+INR 50 Lakhs.
+•
+1 qualifying tourism- sector or its allied sectors project with a 
+value 50 Lakhs: 5 Marks
+•
+2 or more qualifying tourism-sector or its allied sectors projects 
+with a value 50 Lakhs: 10 Marks
+We Request you to kindly amend the clause as bellow to allow us to participate in the bid 
+S.No. 3 - The bidder should have successfully executed at least 1 project in the Tourism domain or 
+its allied sectors (e.g., event tourism, eco-tourism,
+cultural promotion, hospitality platforms, seminar/marketing and promotion related IT Application/ 
+event management platform, or related tourism-tech initiatives) in the last 5 years. Each project 
+must have a minimum value of INR 50 Lakhs. 
+• 1 qualifying tourism- sector or its allied sectors project with a value 50 Lakhs: 5 Marks
+• 1 qualifying tourism-sector or its allied sectors projects with a value 1 Crore : 10 Marks
+As per RFP
+117
+Page no. 49
+3. Phase III: Extension Period (Optional) – 1 Year + 1 Year
+Based on performance and mutual agreement, TCGL reserves 
+the right to extend the O&M contract for:
+•Year 4 (1st Extension): 12 months
+•Year 5 (2nd Extension): 12 months
+The agency shall be obligated to continue providing support 
+and continuous development under the same terms and 
+conditions, including resource deployment, SLA compliance, 
+and periodic reporting.
+The decision to extend the contract lies solely with TCGL and 
+will be based on performance assessment, quality of 
+deliverables, and compliance with service requirements.
+If the Operations & Maintenance (O&M) period is extended to 
+the 5th and/or 6th year, the annual rate applicable for the 4th 
+year of O&M shall remain unchanged and shall be applicable 
+for each of the extended years.
+We request for a reasonable annual escalation of 5% or the relevant CPI (whichever is higher) shall 
+be applicable during the extended period.
+As per RFP
+118
+Page no. 54
+IX. Payment Terms and Schedule
+1. kindly provide clear acceptance/signoff parameters and the applicable timelines. Any acceptance 
+delayed beyond the agreed timelines shall be considered to be 'deemed accepted'.
+2. material feature additions or third-party integrations shall be treated as formal change requests 
+with cost and schedule implications.
+3. Payments shall be released within 30 days of the date of invoice. 
+As per RFP
+
+
+119
+Page no. 56
+Penalty Clauses
+We request to consider the bellow mentioned points :
+1. total penalties shall not exceed 10% of cumulative payments released to date.
+2. The timeline for response and resolution shall start after the issue is acknowledged and accepted 
+by both parties.
+3. Invocation of Performance Bank Guarantee should be reserved for material breach or continued 
+SLA failure after formal notice and cure period.
+4. Please confirm that SLA penalties will not apply to downtime which are not attributable to 
+bidder. i.e. infra failures, force majeure events, or third-party service provider outages.
+5. Please Under no circumstances either Party shall be liable to the other party for direct, indirect, 
+incidental, consequential, special or exemplary damages, losses or claims arising from this 
+Agreement, even if the other party has been advised of the possibility of such damages, losses or 
+claims, such as, but not limited to, loss of revenue or anticipated profits or lost business
+As per RFP
+120
+Page no. 58
+X. Service Level Agreement (SLA)
+E. Capping of Penalties
+• Penalties shall be capped at 15% of the total contract 
+value/implementation- phase milestone-based payments/ 
+quarterly O&M payable amount
+We Request to kindly amend the clause as : 
+Penalties shall be capped at 10% of respective milestone in implementation phase and capped at 
+10% of respective O&M quarter payment. 
+As per RFP
+121
+Pre-Qualification Criteria, Point 4: 
+Experience in Tourism and Allied 
+SubSectors, Page no 27
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism,  cultural promotion, hospitality platforms, 
+Seminar/marketing and promotion related IT Application/ 
+event management platform, or related tourism-tech 
+initiatives) in Central Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ State Govt. 
+(Departments/ Boards/  Corporations/ Companies/ Agencies)/ 
+PSU/ Public Sector Banks/ Scheduled Commercial Banks/ NSE 
+Listed Companies in the last 5 years. Project 
+must have a minimum value of INR 50 Lakhs.
+We respectfully request the bid authority to kindly remove the clause OR consider including 
+consultancy services within the eligibility criteria for this project. 
+While our organization possesses substantial experience in implementing large-scale software 
+applications across diverse domains, the current restriction to IT application development 
+specifically within the tourism sector limits our ability to participate.
+By allowing consultancy experience in the criteria, the client would benefit from both:
+1) Proven domain expertise in the tourism sector, and
+2) Robust experience in software implementation.
+This broader inclusion would encourage participation from capable firms and enhance the overall 
+quality and competitiveness of the project.
+Please refer the query no 3
+122
+Technical Evaluation Criteria, Point 
+3, Page no 31
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism,  cultural promotion, hospitality platforms, 
+Seminar/marketing and promotion related IT Application/ 
+event management platform, or related tourism-tech 
+initiatives) in Central Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ State Govt. 
+(Departments/ Boards/  Corporations/ Companies/ Agencies)/ 
+PSU/ Public Sector Banks/ Scheduled Commercial Banks/ NSE 
+Listed Companies in the last 5 years. Project 
+must have a minimum value of INR 50 Lakhs.
+• 1 qualifying tourism sector or its allied sectors project with a 
+value 50 Lakhs: 5 Marks
+• 2 or more qualifying tourism-sector or its allied sectors 
+projects with a value 50 Lakhs: 10 Marks
+We respectfully request the bid authority to kindly remove the clause OR consider including 
+consultancy services within the eligibility criteria for this project. 
+While our organization possesses substantial experience in implementing large-scale software 
+applications across diverse domains, the current restriction to IT application development 
+specifically within the tourism sector limits our ability to participate.
+By allowing consultancy experience in the criteria, the client would benefit from both:
+1) Proven domain expertise in the tourism sector, and
+2) Robust experience in software implementation.
+This broader inclusion would encourage participation from capable firms and enhance the overall 
+quality and competitiveness of the project.
+As per RFP
+
+
+123
+III. Pre-Qualification Criteria: 
+Relevant Experience in Software/ 
+Web/ Mobile App Projects
+Work Order / Project Contract Document / Agreement along 
+with Project Completion Certificate issued by the client with 
+details of project value and scope.
+We kindly request the bid authority to also accept the  Go-Live certificate issued by the client in 
+place of Project Completion certificate. 
+Justification:
+Software Development Projects are executed into Two parts - Implementation & O&M. Project 
+Completion certificate are generally issued after completion of O&M period. Most of our projects 
+are successfully Implemented and in under O&M phase. Hence Requesting authority to accept the 
+Go-Live certificate & CA Certificate statement for Project Value.
+Go-live certificate is accepted only in case of project live and subject 
+to verification with client.
+124
+IV. Technical Evaluation: The Bidder 
+should have successfully executed, 
+at least 03 Software/ Website/ 
+Mobile App Development projects 
+during last 5 years as on date of 
+submission of bids in which each 
+project cost should not be less than 
+INR 1 Crore each with project 
+completion certificate.
+Work Order / Project Contract Document / Agreement along 
+with Project Completion Certificate issued by the client with 
+details of project value and scope.
+We kindly request the bid authority to also accept the  Go-Live certificate issued by the client in 
+place of Project Completion certificate. 
+Justification:
+Software Development Projects are executed into Two parts - Implementation & O&M. Project 
+Completion certificate are generally issued after completion of O&M period. Most of our projects 
+are successfully Implemented and in under O&M phase. Hence Requesting authority to accept the 
+Go-Live certificate & CA Certificate statement for Project Value.
+Go-live certificate is accepted only in case of project live and subject 
+to verification with client.
+125
+General Condition of Contract / Page 
+19
+SSL Management
+We understand that TCGL shall provide required SSL certificate and manage cost of renewal. Kindly 
+Confirm.
+SSL certificate will be provided by TCGL
+126
+Section V – Scope of Work / Page 37
+AI-based functionalities listed but dataset not defined
+We understand that TCGL shall provide datasets for AI itinerary builder and recommendation 
+engine. Kindly confirm.
+TCGL will provide the required datasets and bidder needs to suggest 
+the required engine
+127
+Section V – Scope of Work / Page 37
+VR experience requirements
+We understand that scope of work for System Integrator will be limited to provisioning of VR based 
+experience. Necessary hardware and media content shall be provided by TCGL. Kindly confirm. 
+The Application should be capable of demonstrating all these 
+functionalities; however, the required hardware and media content 
+will be provided by TCGL.
+128
+Section V – Section 7.1, Scope of 
+Work / Page 37
+VR live-streaming of events like Navratri, International Kite 
+Festival, Rann Utsav.
+We understand that scope of work for System Integrator will be limited to provide integration link 
+on the website for Live streaming of any event. 
+Streaming arrangement from the location, Necessary Internet Bandwidth and content shall be 
+provided by TCGL. Kindly confirm.
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+129
+Section X – SLA / Not specified
+Performance benchmark
+Kindly confirm expected concurrent user load and performance benchmark (e.g., API response time, 
+uptime)?. This will help us to design the system more effectively.
+Performance shall meet the standards defined in the SLA.
+130
+Section X – SLA / Not specified
+Support window
+We understand that with the specified manpower during O&M phase, the support is expected to be 
+provided 8*5. Kindly confirm if the expectation is correct.
+The O&M manpower shall operate in accordance with Government 
+timings and policies.
+131
+Section VI – Implementation 
+Timeline / Page 48
+Project governance
+For the effective & timely delivery of the project, we understand that TCGL will assign a dedicated 
+SPOC or committee for smooth coordination and document sign-off. Kindly confirm.
+Dedicated SPOC or committee will be appopinted by TCGL 
+132
+General Query
+Kindly confirm if there are any database (tourism vendor data, bookings, feedback) that need to be 
+migrated from existing system to new platform?
+If Yes, kindly provide the volume of the database. This will help us to do effective effort calculation 
+for price bid.
+Approximatly more than 600 GB data are available for migration. 
+133
+Section 8 - Smart Map-Based 
+Navigation & Geo-Intelligence/Page 
+37
+A rich, interactive map experience should be developed across 
+both platforms.
+We understand that TCGL shall provide required map 
+related GIS shapefiles or tourism asset coordinates. Kindly confirm.
+Please refer the corigendum
+134
+Section X – Service Level Agreement 
+(SLA) / Page 55
+The RFP mandates 99.5% uptime for website and mobile app, 
+but production environment will be hosted at GSDC.
+We understand that any downtime or Server unavailability issue at GSDS shall not be considered in 
+the this SLA as the hosting will be at GSDS and it will be not in the control of System Integrator. 
+Kindly confirm. 
+Penalty will not be applicable if the downtime pertains to the hosting 
+infrastructure provided by TCGL.
+
+
+135
+Section V – Scope of Work / Page 45
+On Demand (UI/UX Designer)
+Kindly share tentative expected frequency of availability of UI/UX designer onsite during 
+implementation phase. This will help us to design the price bid more effectively.
+The UI/UX Designer will work closely with TCGL during the 
+implementation phase and will be required onsite as needed
+136
+Section V – Scope of Work, Section 
+7, Page 36 - Multilingual and 
+Multicultural Integration
+Support for global tourists via additional languages like 
+Spanish, French, German, Arabic, Chinese, etc.
+We understand that Integration with BHASHINI will support having the integration of regional 
+language. However for foreign language integration, System Integrator shall use available Open 
+source API. Kindly confirm.  
+Please refer the corigendum
+137
+Section V – Scope of Work, Section 
+7, Page 36
+Voice Search and Navigation: Enable users to access 
+information and plan trips using voice input.
+Should the voice search feature support all languages listed in the multilingual requirements? 
+Yes, Voice search feature support all languages listed in the 
+multilingual requirements
+138
+Section V – Scope of Work, Section 
+8, Page 37
+Content Types:
+o Overview, history, significance, visiting hours, entry fees
+o Photo and video galleries
+o How to reach, local tips, weather, festivals
+o Contact details and emergency information
+We understand that TCGL will provide the required content for destinations, themes, and other 
+sections. Kindly confirm.
+Yes, content will be provide by TCGL.
+139
+Section V – Scope of Work, Section 
+9, Page 37
+Indoor Navigation: Indoor maps for large venues (e.g., 
+museums, palaces, fairgrounds)
+We understand that TCGL shall provide required maps, floor plans and data for indoor navigation. 
+Kindly Confirm.
+Also, Kindly provide the quantity of large venues to be integrated before Go-Live. This will help us to 
+accurately estimating efforts and price bid. 
+Indoor Navigation is not required.
+140
+Section V – Scope of Work, Section 
+9, Page 37
+Indoor Navigation: Indoor maps for large venues (e.g., 
+museums, palaces, fairgrounds)
+We understand that 2D map navigation is required. Kindly confirm. 
+Indoor Navigation is not required.
+141
+Section V – Scope of Work, Section 
+21, Page 44
+Content Management & Campaign Support
+We understand that TCGL shall provide the required content for campaign support. Kindly confirm.
+Yes, content will be provide by TCGL.
+142
+Section V – Scope of Work, Section 
+23, Page 44
+AI/ML Features to be Implemented (AI, Chatbots, and Emerging 
+Technologies)
+Kindly confirm if AI features (chatbot, itinerary planner, etc.) are to be built from scratch or 
+integrated via third-party AI services.
+Bidder may praposed, However related cost is be born by bidder 
+143
+Section V – Scope of Work, Section 
+14, Page 40
+Mobile Application Features (The vendor shall develop cross-
+platform mobile applications (Android and iOS) with the
+following modules)
+We understand that Mobile App shall be published under TCGL's account. Kindly confirm. 
+es, It will be published under the TCGL account after completion of 
+the UAT.
+144
+Section V – Scope of Work, Section 
+12, Page 39
+Real-Time Notifications: App alerts, SMS, or email for event 
+updates, ticketing alerts, or emergencies
+We understand that TCGL shall provide SMS, WhatsApp and Gmail SSO gateway and shall beat the 
+cost (if any) whereas System Integrator will be responsible for only Technical integration. Kindly 
+confirm.
+Please refer the corigendum
+145
+Section V – Scope of Work, Section 
+14.5, Page 41
+Integration with government-approved payment gateways and 
+wallets
+We understand that TCGL shall provide Aadhar & Payment integration and shall bear the cost (if 
+any) whereas System Integrator will be responsible for only Technical integration. Kindly confirm.
+Please refer the corigendum
+146
+Section V – Scope of Work, Section 
+27, Page 47
+Security Setup:
+o Web application firewall (WAF), antivirus, SSL/TLS
+o Logging and monitoring
+o Regular backup and DR compliance, etc.
+Since the entire applicable shall be hosted at GSDC, We understand that the Security setup 
+mentioned in the clause shall not be part of scope of work of System Integrator. Kindly confirm.
+Yes, GSDC will concerned after hosting it at GSDC with regular 
+patched of security patches by development team
+147
+Section V – Scope of Work, Section 
+27, Page 47
+Staging, UAT & Pre-Production Environments: To be 
+provisioned by the agency
+We understand that System Integrator can provide Development, Staging  and pre-production 
+environment   on MeiTy empaneled cloud. Kindly confirm. 
+Yes, however all expenses to be borned by bidder
+148
+Section V – Scope of Work, Section 
+10, Page 38
+Booking & E-Commerce Capabilities: Hotel & Resort 
+Reservations, Transport Booking
+We understand that required API for hotel booking shall be facilitate by TCGL and System Integrator 
+will be responsible for technical integration. Kindly confirm. 
+Bidder is required to develop the Hotel booking system for the hotel 
+empanelled with TCGL. 
+149
+Application Security Audit, 19
+In addition to inspection & testing, the SP shall also be 
+responsible to get application security audited by CERT-In 
+Empaneled application security Auditors at the cost of the SP 
+and submit the Security Audit Clearance Certificate issued by 
+CERT-In Empaneled Security Auditors.
+How many times SP needs to security audit after go live of website? 
+Scenario of go live - Suppose, half website will be security audit and go live then after some other 
+module will go live that time do we require security audit? If this scenario occurred then who will 
+bare charges of Security Audit?
+The bidder shall bear the cost of security audits for the website and 
+mobile application until they are hosted at GSDC. Post-hosting, 
+security audits will be carried out by DST/GSDC/TCGL.
+
+
+150
+1.1.69, 20
+During the contract period, any change in scope of work, or in 
+design and development shall not be construed as change 
+Request order and instead will become part of scope of work 
+accompanying this bid document.
+Please consider change request based on hours (like more than 24 hours work) with mutual 
+understanding for existing modules only. 
+If new development/modules need to develop then it should be part of change request or provide 
+new work order?
+No change in RFP. This is continuous development project
+151
+6, 36
+AI-powered real-time translation and voice assistance 
+integrated using BHASHINI and other government-supported 
+APIs.
+Department will provide require API of BHASHINI or Other API. SP only integrate given APIs in 
+Website. Please confirm.
+Charges to be bare by department. Please confirm.
+Please refer the corigendum
+152
+7.1, 37
+Provision to capture Virtual Reality (VR) based experience
+i. VR-Based Immersive Tourism Experience
+360° Virtual Tours of major attractions like Rann of Kutch, Gir 
+Forest, Sabarmati Ashram.
+VR live-streaming of events like Navratri, International Kite 
+Festival, Rann Utsav.
+AI-powered digital walkthroughs of Gujarat’s ancient heritage 
+sites.
+Who will create video of major attractions? SP has to implement only given video in website. Please 
+confirm. If its not a case then please give more information about this feature.
+For live streaming, SP has to just provide option on website of live streaming. If it is not this case 
+then provide more details about same.
+Which type of AI-powered digital walkthrough require for ancient heritage sites? Like 'Use chatbots 
+or voice assistants' or 'Personalized Experiences' or 'Identify and tag architectural features or 
+inscriptions automatically' etc.?
+Who will bare charges of third party integration API's or any other tools?
+Does data center will provide CDN network to run video faster or live streaming of any events?
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+153
+8, 37
+Interactive Elements: Embedded videos, downloadable 
+brochures, 360° virtual tours, and user-submitted stories/blogs 
+with moderation
+Who will provide videos, brochures & content of each elements? OR SP has to create by own?
+Please confirm that 360° virtual tours details provided by department. SP has to implement only 
+given video in website.
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+154
+9, 37
+Smart Map-Based Navigation & Geo-Intelligence
+For Map Layers - who will pay/bare charges of MAP API? Beyond threshold value per Month, API 
+service provider ask for pay charges of Usage. So, please confirm how many locations, usage of this 
+MAP per month require?
+For Map Box, free tier will be available but do you require paid plan for implement it? if yes then 
+who will bare charges of same because it's based on Monthly payment?
+For Indoor Navigation Tools, Who will bare charges of tool or API? Because its an enterprise charges 
+taken for this tool. So, please confirm
+Please refer the corigendum
+155
+10, 38
+Hotel & Resort Reservations
+What is the workflow of Reservation? Its multilevel or only single level?
+Please provide more details about Offers, coupons, and cashback. How it will be process from 
+system? Or any workflow of same? 
+Who will purchase API for provide offers, coupons?
+It will be shared by TCGL with the successful bidder
+156
+10, 38
+Multi-day packages with itinerary builder
+As per current website, its predefine PDF or Content available for itinerary. Do you require 
+functionality to user create own your own from website and finalized travel plan?
+AI based recomondation based on user preferences and presona
+157
+10, 38
+E-Commerce Scalability - Future readiness to integrate with 
+ONDC (Open Network for Digital Commerce)
+What kind of activity do you require as ONDC? Do you require any product to sell from various 
+region of Gujarat? 
+Do you require integration of ONDC API with new website? If yes then provide proper flow details 
+of this integration.
+API should be integrate to avail service of ONDC service.
+158
+11, 39
+User Account Creation
+Necessary Aadhaar-based key details to be provide by Department. Please confirm
+Please refer the corigendum
+
+
+159
+12, 39
+Live Streaming
+Please confirm that on website, we have to provide live streaming link to view from website.
+The Application should be capable of demonstrating all these 
+functionalities; however, the required internet bandwidth and 
+necessary hardware and media creation will not fall within the scope 
+of system integration.
+160
+12, 39
+Real-Time Notifications
+Please confirm that SMS gateway to be provided by Department. Charges to be bare by department 
+as well
+Yes, SMS gateway will be provide by TCGL
+161
+12, 39
+In-app SOS button
+What type of SOS button functions implement in website? Please elaborate.
+An SOS functionality is required to enable calling all emergency 
+service numbers.
+162
+14.1, 40
+User Registration & Authentication
+For Aadhaar-based authentication, department has to provide require API and charges to be bare 
+by department for same if any. Please confirm
+Gmail SSO and Social media login - Few subscription need for SSO provision? Please confirm that 
+require charges to be bare by department.
+Please refer the corigendum
+163
+14.4, 41
+Travel Assistance & Alerts
+Require API like Google location & its subscription to be provided by Department. Please confirm. 
+Please refer the corigendum
+164
+14.7, 41
+Real-Time Location Services
+Require API & its subscription like for Google Map / Apple Map to be provided by Department. 
+Please confirm. 
+Please refer the corigendum
+165
+15.3, 42
+Security audit by Cert-In empaneled security audit agency, 
+Vulnerability assessment and penetration testing (VAPT) before 
+go-live and annually thereafter
+How many times SP needs to do VAPT after go live annually? Who bare costing of all VAPT?
+How many times SP needs to do security audit after go live annually? Who bare costing of all 
+security audits?
+Please refer the response of the query no:149
+166
+16, 42
+Integration with Government and Third-Party Systems
+We assume that all require API to be provided by department and any charges/subscription to be 
+bare by Department only. Please confirm
+Please refer the corigendum
+167
+20, 43
+Vendor Portal for Ecosystem Integration
+Please provide detailed workflow level of all three modules:
+• Tour Operators & Travel Agents
+• Hotel Chains & Property Owners
+• Festival/Event Organizers
+The detailed workflow will be shared with the successful bidder.
+168
+22, 44
+CDN integration
+As website to be host on GSDC so, we assume that CDN already implemented at GSDC. If its not 
+available or any other spefic requirement of CDN then please update us. 
+Do you require purchase of CDN and implement for website from GSDC? If yes then who will bare 
+charges of CDN? And GSDC will allow to implement CDN for website also please confirm.
+Not applicable
+169
+23, 44
+Natural Language Processing (NLP)-based chatbot
+Where to host chatbot? on-premise or cloud based?
+ If cloud based then charges to be bare by department. Please confirm.
+ If on-premise then require GPU based infrastructure will be provided by GSDC? Please confirm
+The bidder has to utilize open source LLM from cloud providers 
+which are mepannelled by MeitY & bidder should provide actual 
+invoice of the CSP for reimbusement. The front end application and 
+database should be hosted at Data Center only. 
+170
+32, 48
+The bidder will integrate Secure payment gateways (Razor pay, 
+Stripe, PayPal, etc.) including Multiple payment options 
+(credit/debit card, UPI, net banking) or whichever provide by 
+TCGL
+Payment Gateway will be provided by department. Please confirm
+Please refer the corigendum
+171
+XI, 59
+No additional cost shall be payable by TCGL beyond the quoted 
+amounts mentioned above under any circumstances
+There are so many integration require in which department needs to bare cost because of it's 
+monthly costing based on Usage of integrated features like Google Map,GIS API etc.
+So, request to department for bare costing of third party API, Gateway etc. based on mutual 
+discussion and define tech stack
+Please refer the corigendum
+
+
+172
+7, 37
+Chatbot & Smart Assistant
+1. What are the primary user intents the chatbot must handle (e.g., answering FAQs, processing 
+transactions, collecting leads, providing support documentation)? 
+2. What are the initial target languages apart from English?
+3. Will the system use translation services? 
+4. What is the process if any task AI cannot handle (e.g. human interaction, directing to a specific 
+URL, collecting contact info)?
+5. What is the process for updating and maintaining the Knowledge Base once the chatbot is live?
+6. Will the chatbot use Retrieval-Augmented Generation (RAG) or Large Language Model LLM?
+7. Which Natural Language Processing (NLP) framework or service will be used (e.g., Rasa, custom 
+model)?
+8. Will a custom front-end be built for the Web Chatbot?
+9. Does the chatbot need to integrate with backend systems to perform dynamic actions (e.g., 
+checking order status or any activity)?
+10. Where will the core chatbot service be hosted (Cloud provider like AWS/Azure/GCP, or 
+Company servers)?
+1. All kind of answering FAQs, processing transactions, collecting 
+leads, providing support documentation
+2. Hindi & Gujarati
+3. Yes
+4. Informative Chatbot only
+5. Regular update
+6. RAG or any better option suggested by the bidder
+7. Bidder has to suggest as per RFP
+8. Yes
+9. No
+10. GSDC 
+173
+7, 37
+ Voice Search and Navigation
+1. What are the primary voice commands the system must recognize (e.g., "Hey","Find me a coffee shop 
+nearby", "Find me that Location", "Where This place located")? 
+2. Will the system support compound or complex queries (e.g., "Find a highly-rated, cheap kind restaurant 
+that's open late near my hotel"," Pacific kind of food that i want to eat that particular time")? 
+3. Will the voice system be hands-free (always listening for a wake word) or push-to-talk? 
+4. What are the initial target languages for voice input(e.g. "Hindi", "Gujarati", "English")? 
+5. Will the system use a other speech-to-text API (e.g., Google Speech API, Amazon Transcribe) or a custom-
+built ASR model? 
+6. Which Natural Language Understanding (NLU) service/framework (e.g., Dialog flow, Rasa, custom model) 
+will be used for user actionable commands? 
+7. How will the system be trained to recognize specific travel place? 
+8. Which Mapping API (e.g., Google Maps Platform, Map box, HERE) will be used for route calculation and 
+display? 
+9. Will the processing occur on-device (edge) or in the cloud? 
+10. Will system use LLM for conversation, if yes then what kind of Llm is used in these? 
+11. How to handle pacific failure(e,g, Server Problem, Delayed in response, Network Problem)?
+1. Recognize travel/location-based commands like “Find nearby café” 
+or “Where is this place?”.
+2. Yes, it should support compound and contextual queries.
+3. It should support both hands-free (wake word) and push-to-talk 
+modes.
+4. English, Hindi, and Gujarati.
+5. Bhashini / Google or any other tool
+6. Dialogflow will be used for NLU processing.
+7. Using travel datasets and frequently searched location data.
+8. Bidder may decide as per best suitable option
+9. Processing will occur in the cloud.
+10. Open Source LLM
+11. As per SLA 
+174
+7, 37
+Smart Itinerary Builder
+1. What kind of detail will be included (e.g., just locations, or specific activities, estimated duration, 
+opening hours, etc.)?
+2. What is the minimum number of interests required to generate a plan?
+3. Will users need to log in, or can they use the service as a Guest?
+4. If user profiles are used, how track past behavior? 
+5. Which APIs (e.g., Google Places, Yelp, OpenStreetMap) will be used for location data, reviews, 
+and basic information and did you provided?
+6. Will you use available data, or rely purely on public APIs? 
+7. How to track current crowd conditions?
+8. Which weather API will you use, and how far in advance do you need accurate forecasts? 
+9. Will the budget be a single total amount, a daily amount, or broken down by categories (e.g., 
+flights, accommodation, food, activities)?
+10. How to get estimate the cost of food and transportation in a given area?
+11. How will the system handle "cold start" for new users with no past behavior data? 
+12. Which programming language and framework will be used the backend (e.g., 
+Python/Django/Flask, Node.js/Express, etc.)? 
+13. How will the complex inputs (budget, interests, time constraints) be collected in a simple?
+14. Will the map visualization be a core part of the experience, and which map library will you use 
+(e.g., Leaflet, Google Maps API)?
+15. What happens if no suitable itinerary can be created based on the user's constraints (e.g., 
+"Budget too low for requested activities")?
+Bidder needs to propose the best solution. Other API related queries 
+response already given in Annexure.
+
+
+175
+7, 36
+Personalized Recommendations
+1. What are the specific categories of items to be recommended (e.g., just hotels, or hotels + unique 
+local stays, location)?
+2. Will the system recommend only individual points of interest/products?
+3. How to handle of the client's historical travel data (bookings, searches, clicks)?
+4. Which public APIs (e.g., Google Places, Eventbrite, Wikipedia, official tourism boards) will be 
+used?
+5. How will the system handle the client-approved disclaimers required for using public data?
+6. How will the system deal with New User (users with very little or no travel history)?
+7. How will the algorithm handle the cold-start problem for new users or new hotels/events?
+8. Which Machine Learning framework/library (e.g., TensorFlow, PyTorch, Scikit-learn) will be used 
+for model training?
+9. Where on the client's platform will these recommendations be displayed (e.g., homepage banner, 
+search results page, dedicated "For You" section, email newsletters)?
+10. What are the API specifications for the recommendation service to integrate?
+11. How will the system handle failover if the ML inference service goes down (e.g., fall back to 
+simple popularity-based suggestions)?
+Bidder needs to propose the best solution. Other API related queries 
+response already given in Annexure.
+176
+General
+For Mobile app, App Store Account & Play store Account to be provided by department and costing 
+of same to be bare by department. Please confirm.
+Yes, TCGL will provide the mobile app hosting platform and will bear 
+the related cost.  
+177
+General
+To run LLM model, require server will be provided by department. Please confirm.
+The bidder has to utilize open source LLM from cloud providers 
+which are mepannelled by MeitY & bidder should provide actual 
+invoice of the CSP for reimbusement. The front end application and 
+database should be hosted at Data Center only. 
+178
+Page No:6
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted
+Please confirm whether MSE or MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME Certificate having code Division 62: 
+Computer programming, consultancy and related activities will only be exempted
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted.
+179
+Page No 27, Pre-Qualification 
+Criteria
+The bidder should have successfully executed at least 1 project 
+in the
+Tourism domain or its allied sectors (e.g., event tourism, eco-
+tourism,
+cultural promotion, hospitality platforms, seminar/marketing 
+and
+promotion related IT Application/ event management platform, 
+or
+related tourism-tech initiatives) in Central Govt. (Departments/ 
+Boards/
+Corporations/ Companies/ Agencies)/ State Govt. 
+(Departments/ Boards/
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector 
+Banks/ Scheduled
+Commercial Banks/ NSE Listed Companies in the last 5 years. 
+Project
+must have a minimum value of INR 50 Lakhs.
+The bidder should have successfully executed at least 1 project in the
+Tourism domain or its allied sectors (e.g., event tourism, eco-tourism,
+cultural promotion, hospitality platforms, seminar/marketing and
+promotion related IT Application/ event management platform, or
+related tourism-tech initiatives) in Central Govt. (Departments/ Boards/
+Corporations/ Companies/ Agencies)/ State Govt. (Departments/ Boards/
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector Banks/ Scheduled
+Commercial Banks/ NSE Listed Companies in the last 5 years from date of the issue the RFP. Single 
+Project or Renewal Projects must have a minimum value of INR 25 Lakhs.
+Please refer the query no 3
+180
+Page No 26, Pre-Qualification 
+Criteria
+The Bidder should have an average annual turnover from IT 
+Software
+related services (Software Development/ Website 
+Development/
+Software Customization or Implementation/ Operation &
+Maintenance Support of Software Application/ Software 
+Product
+Development/ Mobile App Development) of at least Rs. 20 
+Crore
+during the last three financial years (2021-22, 2022-23 and 
+2023-24).
+All Bidder has completed the Audited  Report of last financial years as per the Government 
+guidelines hence consider the any of the Three years from 2021-22 to 2024-25
+As per RFP
+
+
+181
+Page No: 30Technical Evaluation
+The bidder should have successfully executed at least 1 project 
+in the
+Tourism domain or its allied sectors (e.g., event tourism, eco-
+tourism,
+cultural promotion, hospitality platforms, seminar/marketing 
+and
+promotion related IT Application/ event management platform, 
+or
+related tourism-tech initiatives) in Central Govt. (Departments/ 
+Boards/
+Corporations/ Companies/ Agencies)/ State Govt. 
+(Departments/ Boards/
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector 
+Banks/ Scheduled
+Commercial Banks/ NSE Listed Companies in the last 5 years. 
+Project
+must have a minimum value of INR 50 Lakhs.
+The bidder should have successfully executed at least 1 project in the
+Tourism domain or its allied sectors (e.g., event tourism, eco-tourism,
+cultural promotion, hospitality platforms, seminar/marketing and
+promotion related IT Application/ event management platform, or
+related tourism-tech initiatives) in Central Govt. (Departments/ Boards/
+Corporations/ Companies/ Agencies)/ State Govt. (Departments/ Boards/
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector Banks/ Scheduled
+Commercial Banks/ NSE Listed Companies in the last 5 years. Project
+must have a minimum value of INR 25  Lakhs.  1 or mutliple renewal work orders qualifying 
+tourismsector or its allied sectors project with a value 25 Lakhs: 5 Marks
+• 2 or Multiple renewal projects more qualifying tourism-sector or its allied sectors projects with a 
+value 25 Lakhs: 10 Marks
+As per RFP
+182
+Page No: 31 Technical Evaluation
+CMMi Level 3 Certification- 05 Marks
+CMMi Level 5 Certification- 10 Marks
+CMMi Level 3 or above Certification- 10  Marks
+As per RFP
+183
+Section   II   –   Pre-Qualification 
+Criteria,   Point   2   –   Financial 
+Capability (Page 26).
+The Bidder should have an average annual  turnover  from  IT  
+Software related  services  (Software Development/ Website 
+Development/ Software Customization  or  Implementation/ 
+Operation & Maintenance Support of  Software  Application/  
+Software Product Development/ Mobile App Development)  of  
+at  least  Rs.  20 Crore during the last three financial years (2021-
+22, 2022-23 and 2023-
+24).
+We   request   a  relaxation   in   the turnover   criteria   for   Micro   and Small  Enterprises  (MSEs).  
+As  an MSE   with   proven   capability   in similar IT and tourism projects, we request that the 
+average turnover requirement  be  reduced  to  ₹15 Crore.
+Additionally,  we  request  that  the latest three financial years (2022– 23,   2023–24,   and   
+2024–25),   to
+allow inclusion of the most recent audited  data.  This  relaxation  will encourage   greater   
+participation from     competent     MSEs     while supporting     the     Government’s MSME and 
+Digital India initiatives
+Request to change criteria as:
+The Bidder should have an average annual turnover from IT Software related         services         
+(Software Development/                     Website
+Development/                    Software Customization or Implementation/
+Operation & Maintenance Support 
+As per RFP
+184
+Section       III       –       Technical 
+Evaluation, Point 5 (Page 31)
+>50     &     <=75     number     of     IT professionals  on  bidder’s  
+payroll  - 10 Marks
+>75    &    <=100    number    of    IT professionals  on  bidder’s  
+payroll- 15 Marks
+>100 number of IT professionals on
+bidder’s payroll- 20 Marks
+Request for relaxation
+Ipsator  requests  for  relaxation  in criteria:
+>50 of IT professionals on bidder’s payroll - 10 Marks
+>50    &    <=75    number    of    IT professionals  on  bidder’s  payroll- 15 Marks
+>75 number of IT professionals on
+bidder’s payroll- 20 Marks
+As per RFP
+185
+Section       III       –       Technical 
+Evaluation, Point 3 (Page 30)
+The bidder should have successfully executed  at  least  1  
+project  in  the Tourism domain or its allied sectors (e.g.,  event  
+tourism,  eco-tourism, cultural     promotion,     hospitality 
+platforms,  seminar/marketing  and promotion  related  IT  
+Application/ event   management   platform,   or related  
+tourism-tech  initiatives)  in the last 5 years. Each project must 
+have  a  minimum  value  of  INR  50 Lakhs.
+We   request   to   add   Travel   and booking         engine         execution experience as well.
+As per RFP
+186
+Page-1
+Earnest      Money      Deposit:      Rs. 8,00,000/-.
+Request for Relaxation for MSME.
+Ipsator  request  for  relaxation  in EMD amount as per GFR rule 170.
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted.
+
+
+187
+BOQ –
+Resource- wise Man- Month Rate 
+Format for OsM
+ Developer 3 36
+ Business Analyst 1 12
+ "Techno Functional
+Manager" 1 12
+"As per GIL Bid document the BOq Mentions resource-wise man month rate for 3 type of resources. 
+However on Gem Portal it is mentioned
+‘Hiring of Agency for IT Projects-
+Milestone basis(Lumpsum Cost for the contract period in INR) ∗  :’
+The above line items are 4 times repeated,
+When we refer to GEM NIT it
+mentions - Hiring Of Agency For IT Projects- Milestone Basis ( 1 ) -
+We are not aăle to understand how ăoth of these price ăid co-relates kindly clarify."
+The bid is draft as per Gem Policy and bidder need to fill amount as 
+per RFP.
+188
+Gem Catalogue offering
+Total Cost for Implementation Phase Including design, 
+development, deployment, testing, training,
+documentation, project management, etc covering the scope of 
+work complations mentioned in the bid
+document
+In Gem catalogue it is mentioned as
+‘Hiring Of Agency For IT Projects-
+Milestone Basis ( 1 )’ means Total Cost for Implementation ..
+S.no.1 - Hiring Of Agency For IT Projects- Milestone Basis ( 1 ) - Cost for 1st Year of Continuous 
+Development and OsM..
+When I refer to the price ăid neither there are any sr.no. or any category mentioned, which is 
+mentioned in RFP BOQ.
+In view of aăove, we are not aăle to understand which offer price related to which catalogue / BOQ 
+line items.,
+request to please explain.
+The bid is draft as per Gem Policy and bidder need to fill amount as 
+per RFP.
+189
+II. Pre-
+Qualification Criteria : 2 - Financial
+Capaăility
+-       Pg 26
+The Bidder should have an average annual turnover from IT 
+Software related services (Software
+Development/ Weăsite Development/ Software Customization 
+or Implementation/ Operation s
+Maintenance Support of Software Application/ Software 
+Product Development/ Moăile App
+Development) of at least Rs. 20 Crore during the last three 
+financial years
+(2021-22, 2022-23 and 2023-24).
+Note: Turnover from the following activities shall not ăe 
+considered:
+• Hardware supply and maintenance
+• Manpower outsourcing
+• Non-IT services.
+In reference to the turnover criteria we request to keep it around 30-40% of estimated / budget 
+cost of project.
+As per RFP
+190
+II. Pre-
+Qualification Criteria : 3 - Relevant 
+Experience in Software.. - sPg 27
+The Bidder should have successfully executed, at least 03 
+Software/ Website/ Mobile App Development projects in 
+Central Govt. (Departments/ Boards/ Corporations/ 
+Companies/ Agencies)/ State Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector 
+Banks/ Scheduled Commercial Banks/ NSE Listed Companies 
+during last 5 years as on date of submission of  bids in which 
+each project cost should not be less than INR 1 Crore each with 
+completion certificate.
+In reference to relevant experience of weă portal / software development projects – experience of 
+private
+companies located outside India will ăe considered such as Canada / UAE / Australia / Germany / 
+USA
+The company should be registered in India as per Pre-Qualification 
+Criterion No. 1; however, the bidder’s experience in executing 
+relevant projects outside India will be considered.
+191
+II. Pre-
+Qualification Criteria : 4 – Experience 
+in Tourism and Allied Suă-
+Sectors.. - sPg 27
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism, cultural promotion, hospitality platforms, 
+seminar/marketing and promotion related IT Application/ 
+event management platform, or related tourism-tech 
+initiatives) in Central Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ State Govt. 
+(Departments/ Boards/ Corporations/ Companies/ Agencies)/ 
+PSU/ Public Sector Banks/ Scheduled Commercial Banks/ NSE 
+Listed
+Companies in the last 5 years. Project
+must have a minimum value of INR 50 Lakhs.
+In reference to experience in tourism allied suă sector experience –
+The projects done of ticketing solutions / visitor managements / event
+managements for private companies located outside India will ăe considered such as Canada / UAE 
+/ Australia /
+Germany / USA.
+The company should be registered in India as per Pre-Qualification 
+Criterion No. 1; however, the bidder’s experience in executing 
+relevant projects outside India will be considered.
+
+
+192
+II. Pre- Qualification Criteria : 4 – 
+Shall have been registered with: - Most of private companies 
+are having medical insurances for their employee request to 
+accept ESIC / medical / general insurance of the company.
+1. Employees Provident Fund (EPF)    
+2. ESIC   
+3. GST   
+4. PAN  
+Most of private companies are having medical insurances for their employee request to accept ESIC 
+/ medical / general insurance of the company.
+As per RFP
+193
+II. Pre-
+Qualification Criteria: 4 – 
+Certification – pg 28
+The bidder should have CMMi level 3 or above certification 
+valid as on bid Submission date.
+In reference to the CMMi certificate we request to give alternatives such as ISOs.
+As per RFP
+194
+III. Technical Evaluation - # – 
+turnover
+criteria/para
+meter – pg 30
+Average annual turnover INR 30 Crore – 15 Marks
+As requested in PQ section can the turnover criteria be relaxed and maximum marks for turnover of 
+12 crores can be granted
+As per RFP
+195
+III. Technical Evaluation - #2 –
+experience criteria/para meter – pg
+30-31
+Experience of more than 05 projects (of value not less than 1 
+Crore each) = 15 Marks
+As requested in PQ section can the projects for pvt companies outside India can be allowed such as 
+Canada / UAE / Australia / Germany / USA.
+The company should be registered in India as per Pre-Qualification 
+Criterion No. 1; however, the bidder’s experience in executing 
+relevant projects outside India will be considered.
+196
+III. Technical Evaluation - #3 – 
+tourism sector experience
+criteria/para
+meter – pg 31
+2 or more qualifying tourism-sector or its allied sectors projects 
+with a value 50 Lakhs: 10 Marks
+As requested in PQ section can the
+projects for pvt companies outside India can be allowed such as Canada / UAE / Australia / 
+Germany / USA.
+The company should be registered in India as per Pre-Qualification 
+Criterion No. 1; however, the bidder’s experience in executing 
+relevant projects outside India will be considered.
+197
+III. Technical Evaluation - #4 – pg 31
+CMMi Level 5
+Certification- 10 Mar
+Request to please allow relevant Iso certificates such as ISO 9001, ISO 27001, ISO 20000-1, ISO 
+42001 under
+category of software solutions / software
+services,
+As per RFP
+198
+III. Technical Evaluation - #6 – pg 31-
+32
+Technical presentation to be delivered to the committee
+Does bidder have to submit technical presentation at time of submission of the Bid
+?
+The bidder will submit the presentation at the time of the 
+presentation
+199
+Gem Portal ăid upload docs
+Are you eligible to avail MSE Purchase Preference for this Bid?
+Are there any MSE purchase preference applicable in this tender ?
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted.
+200
+Gem Portal s EMD -
+1.1.77.3 RFp
+Page 21 -
+Do you want to request for EMD Exemption? Yes/No RFP 
+mentions - No exemption for submitting the EMD will be given 
+to any agency
+Is there any EMD exemption will be given to Micro companies registered with Udyam under 6201 
+computer programming activities ?
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted.
+201
+Section1, Invitation for Bids, page 6 
+& Page 21, point number 1.1.77.3
+EMD exemption under MSME- Code division 62
+Both points are contradicting, each other, Request to consider MSME exemption for EMD 
+submission
+MSME is Exempted only when MSME unit is OEM or bidder to 
+developing end to end software by themselves only & MSME 
+Certificate having code Division 62: Computer programming, 
+consultancy and related activities will only be exempted.
+202
+PQC-page 26- point number 2 
+Financial Capability
+Turn over of 20 crore in last three financial year
+Request to reconsider this under 20 Crore
+As per RFP
+203
+PQC- page 27 Point 4
+Tourism project- must Govt of India,
+Request to consider Internation tourism project as well
+The company should be registered in India as per Pre-Qualification 
+Criterion No. 1; however, the bidder’s experience in executing 
+relevant projects outside India will be considered.
+204
+PQC- page 28, Employee Strength
+The bidder should have more than 50 number of IT 
+professional.
+Request to consider minimum of 20 employee size, with a declaration for HR department
+As per RFP
+
+
+205
+II. Pre-Qualification Criteria
+Criteria 3. 
+27
+The Bidder should have successfully executed, at least 03 
+Software/ Website/ Mobile App Development projects in 
+Central Govt. (Departments/ Boards/ Corporations/ 
+Companies/ Agencies)/ State Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ PSU/ Public Sector 
+Banks/ Scheduled Commercial Banks/ NSE Listed Companies 
+during last 5 years as on date of submission of bids in which 
+each project cost should not be less than INR 1 Crore each with 
+project completion
+certificate
+We hereby request to kondly modify the Criteria as below: 
+The Bidder should have successfully executed, at least 02 Software/ Website/ Mobile App 
+Development projects in Central Govt. (Departments/ Boards/ Corporations/ Companies/ 
+Agencies)/ State Govt. (Departments/ Boards/ Corporations/ Companies/ Agencies)/ PSU/ Public 
+Sector Banks/ Scheduled Commercial Banks/ NSE Listed Companies during last 5 years as on date of 
+submission of bids in which each project cost should not be less than INR 1 Crore each with project 
+completion
+certificate
+As per RFP
+206
+II. Pre-Qualification Criteria
+Criteria 4. 
+27
+The bidder should have successfully executed at least 1 project 
+in the Tourism domain or its allied sectors (e.g., event tourism, 
+eco-tourism, cultural promotion, hospitality platforms, 
+seminar/marketing and promotion related IT Application/ 
+event management platform, or related tourism-tech 
+initiatives) in Central Govt. (Departments/ Boards/ 
+Corporations/ Companies/ Agencies)/ State Govt. 
+(Departments/ Boards/ Corporations/ Companies/ Agencies)/ 
+PSU/ Public Sector Banks/ Scheduled Commercial Banks/ NSE 
+Listed Companies in the last 5 years. Project must have a 
+minimum value of INR 50
+Lakhs.
+We hereby request to kondly modify the Criteria as below: 
+The bidder should have successfully executed at least 1 project in the Tourism domain or its allied 
+sectors (e.g., event tourism, eco-tourism, cultural promotion, hospitality platforms, 
+Seminar/marketing and promotion related IT Application/ event management platform, or related 
+tourism-tech initiatives) in Central Govt. (Departments/ Boards/ Corporations/ Companies/ 
+Agencies)/ State Govt. (Departments/ Boards/ Corporations/ Companies/ Agencies)/ PSU/ Public 
+Sector Banks/ Scheduled Commercial Banks/ NSE Listed Companies in the last 12 years. Project 
+must have a minimum value of INR 50 Lakhs.
+As per RFP
+207
+III. Technical Evaluation
+30
+The Bidder should have successfully executed, at least 03 
+Software/ Website/ Mobile App Development projects during 
+last 5 years as on date of submission of bids in which each 
+project cost should not be less than INR 1 Crore each with 
+project completion certificate.
+• Experience of 03 projects (of value not less than 1 Crore each) 
+= 05 Marks • Experience of 05 projects (of value not less than 1 
+Crore each) = 10 Marks • Experience of more than 05 projects 
+(of value not less than 1 Crore each) = 15 Marks
+We hereby request to kondly modify the Criteria as below: 
+The Bidder should have successfully executed, at least 02 Software/ Website/ Mobile App 
+Development projects during last 5 years as on date of submission of bids in which each project cost 
+should not be less than INR 1 Crore each with project completion certificate.
+• Experience of 01 projects (of value not less than 1 Crore each) = 05 Marks 
+• Experience of 02 projects (of value not less than 1 Crore each) = 10 Marks 
+• Experience of more than 03 projects (of value not less than 1 Crore each) = 15 Marks
+As per RFP
+208
+Pg 27
+The Bidder should have an average annual turnover from IT 
+Software related services (Software Development/ Website 
+Development/ Software Customization or Implementation/ 
+Operation & Maintenance Support of Software Application/ 
+Software Product Development/ Mobile App Development) of 
+at least Rs. 20 Crore during the last three financial years (2021-
+22, 2022-23 and 2023-24).
+Considering the complexity and scope we recommend to increase then turnover to 50 Crs from 
+software development and its maintemance for last three finacaial years.
+As per RFP
+209
+Pg 28
+The bidder should have CMMi level 3 or above certification 
+valid as on bid submission date.
+We recommend to make it CMMI Level 5 
+As per RFP
+210
+Pg. 49
+If the Operations & Maintenance (O&M) period is extended to 
+the 5th and/or 6th year, the annual rate applicable for the 4th 
+year of O&M shall remain unchanged and shall be applicable 
+for each of the extended years.
+Our request to allow at least 10% increment in 4th and 5th Year if contractg is extended 
+No change in RFP
+211
+Pg. 48
+VI. Implementation and Operations Timeline
+Considering the wider scope, we request to revise the time lines 
+For Implementaiton it shuld be at least 10 Months 
+As per RFP
+212
+Pg 54
+IX. Payment Terms and Schedule
+Payment will be released within 60 days of submission of 
+invoices and compliance verification.
+We request you to please make the payments in 30 days from the date of invoice submission 
+As per RFP
+
+
+213
+Pg. 31
+ Technical Evaluation Point no 3  - The bidder should have 
+successfully executed at least 1 project in the Tourism domain 
+or its allied sectors (e.g., event tourism, eco-tourism, cultural 
+promotion, hospitality platforms, seminar/marketing and 
+promotion related IT Application/ event management platform, 
+or related tourism-tech initiatives) in the last 5 years. Each 
+project must have a minimum value of INR 50 Lakhs. 
+• 1 qualifying tourism- sector or its allied sectors project with a 
+value 50 Lakhs: 5 Marks
+• 2 or more qualifying tourism-sector or its allied sectors 
+projects with a value 50 Lakhs: 10 Marks
+Requesting to please amend the qriteria as 
+The bidder should have successfully executed at least 1 project in the Tourism domain or any other 
+department of IT Application related / event management platform, or related tourism-tech 
+initiatives) in the last 5 years. Each project must have a minimum value of INR 1 Crore 
+• One tourism- sector project with a value 1 Crore: 5 Marks
+•  One tourism- sector project with a value 2 Crs:  10 Marks
+As per RFP
+214
+GCC – Clause 1.1.69–1.1.71, Pg. 20
+During the contract period, any change in scope of work, or in 
+design and development shall not be construed as change 
+Request order and instead will become part of scope of work 
+accompanying this bid document.
+The document mentions change requests will be part of scope — please clarify how scope 
+variations will be commercially handled.
+As the development is ongoing, there is no requirement for a change 
+request
+215
+Section V – Objective of Assignment, 
+Pg. 35
+The primary objective of this assignment is to:
+•Develop a modern, dynamic, and user-friendly web and 
+mobile platform to provide comprehensive tourism information 
+and services.
+•Facilitate real-time booking, itinerary planning, navigation, 
+user-generated content, and AI-powered smart assistance.
+•Create a digital experience aligned with global standards while 
+preserving the unique heritage and diversity of Gujarat.
+•Comply with Government of India digital guidelines such as 
+GIGW 3.0, WCAG, Cert- IN, GOI & GoG respective guidelines 
+and cybersecurity protocols.
+The document mentions AI-powered smart assistance — please confirm if this includes both 
+chatbot and personalized recommendation systems.
+Both
+216
+Section V – Scope of Work, Pg. 35
+The selected agency will be responsible for end-to-end design, 
+development, deployment, and maintenance of a 
+comprehensive digital ecosystem including the official TCGL 
+website and mobile applications (Android & iOS), catering to a 
+wide range of stakeholders including domestic and 
+international tourists, vendors, and government departments.
+Please clarify whether the website and mobile app are to be built from scratch or redesigned using 
+the existing architecture and content of www.gujarattourism.com.
+The website and mobile platform should retain the old website 
+content while implementing the new features suggested by TCGL
+217
+Section V – Scope of Work, Pg. 35
+The solution must integrate modern design principles, 
+accessibility standards, multilingual content, and emerging 
+technologies such as AI/ML, GIS-based navigation, and chatbot 
+systems. It is also expected to be scalable and responsive 
+across all devices and platforms.
+The document mentions integration with AI/ML, GIS navigation, and chatbot. Please specify 
+whether these components are to be custom-built or integrated using third-party APIs.
+Bidder will have to decide
+218
+Section V – Scope of Work, Pg. 
+35–37
+Please confirm whether bidder is responsible for migration of existing content, including its 
+approximate volume (pages, images, videos, datasets).
+The website’s database is approximately 250 GB. As the new website 
+is being developed, content from the old website is not required 
+from the bidder
+219
+Section V – Compliance, Pg. 36
+Be fully compliant with GIGW 3.0, WCAG 2.1 (AA), W3C 
+standards, and accessible for differently abled users.
+Confirm if third-party certification for WCAG 2.1 / GIGW 3.0 compliance is mandatory - who will 
+bear the audit cost.
+The bidder is responsible for performing the security audit in 
+accordance with GIGW 3.0 guidelines
+220
+Section V – General Requirements, 
+Pg. 36
+Multilingual and Multicultural Integration
+Please specify the exact number of regional and international languages to be supported, and 
+whether voice translation or voice-based navigation is also expected.
+Bhahsini to be integrated for Indian Languages althrough for foraign 
+languages, bidder will have to integrate other translation tool. voice 
+translation or voice-based navigation is also expected.
+221
+Section V – Scope of Work, Pg. 36
+Clarify whether digital marketing, SEO, and campaign management are included in this scope or 
+handled separately.
+Paid marketing is outside the scope of work for both the website and 
+mobile application
+222
+Section V – Scope of Work, Pg. 40
+Please confirm if integration with state tourism social media feeds and influencer content streams is 
+part of scope.
+Social media content from Gujarat Tourism’s official handles should 
+be scrollable on the website itself rather than linking out to external 
+pages
+223
+Section V – 14.5 Booking and 
+Payments, Pg. 41
+Booking and Payments (Aligned to Website)
+Kindly confirm inclusion of booking, payment, and itinerary planning modules, and specify 
+preferred payment gateways or integrations (e.g., Razorpay, etc.).
+Yes, SMS gateway will be provide by TCGL
+224
+Section V –14.4 Travel Assistance & 
+Alerts, Pg. 41
+Travel Assistance & Alerts
+Please confirm whether TCGL will provide API keys or access credentials for third-party integrations 
+(maps, weather, AI tools).
+Please refer the corigendum
+225
+Section V – Deliverables, Pg. 52 - 53
+Deliverables and Delivery Schedule
+Will TCGL provide existing media assets (photos, videos, creatives) or is bidder expected to produce 
+new digital content?
+All available TCGL content, such as photos and videos, will be 
+provided to the bidder by TCGL
+Corrigendum
+
+
+Sr no
+Integration
+Purpose
+1 Aadhaar API 
+Authentication and check-in verification 
+2 BHASHINI 
+Language translation and voice-based access 
+3 IMD API 
+Weather data and alerts 
+4 GSRTC API 
+Bus booking and tracking 
+5 Indian Railways API 
+Train info and ticketing redirection 
+6 Google Maps / Apple Maps 
+Navigation, routing, POI overlays 
+7 Tourism Data APIs 
+Real-time tourism analytics, statistics 
+8 Payment Gateways 
+UPI, RuPay, credit cards, wallets 
+9 ONDC API 
+Future onboarding of tourism services 
+10 WhatsApp Business API 
+Chatbot and communication channel 
+11
+12
+Note: 
+• Aadhaar API, BHASHINI, and GSRTC APIs will be provisioned by TCGL.
+• Payment Gateway and SMS Gateway will also be provided by TCGL, and all associated expenses will be borne by TCGL. The bidder shall integrate these APIs with the Tourism Website at no additional cost.
+• For any additional APIs, the bidder shall be responsible for procurement and integration for both the Tourism Website and Mobile Application without any extra cost. The bidder must submit the original agreement / authorization from the respective OEM. TCGL will reimburse the actual API usage charges based on 
+the number of citizen requests/hits through the Tourism Website during the project duration.
+• Bidder should use open source APIs for various type of integration, if open source API is not available or directed by TCGL, the bidder may procure API from service provider & bidder has to submit the actual invoice or the service provider for the reimbursement.
+• Reimbursement to the bidder will be made as per actual usage and/or OEM-defined terms. The proposed costing shall be market-standard, reasonable, and competitive.
+• TCGL reserves the right to approve or reject the proposal based on the submitted costing and evaluation.
+• The content for the creation of newsletter will be provided by TCGL in place  please consider “ the newsletter designed will be prepared by bidder and take approval from TCGL before releasing”
+• Quarterly verification of factual data, including opening hours, festival schedules, emergency contacts, etc in place read as “ Quarterly verification of factual data, including opening hours, festival schedules, emergency contacts, content, etc”
+• Booking & E-Commerce Capabilities: Hotel , Resort Reservations, Transport Booking 
+Other central government/ state government 
+applications/systems 

@@ -1,0 +1,343 @@
+Corrigendum-1 in Tender no. GEM/2026/B/7885098 Dated 17-08-2026 
+ 
+Please read 
+ 
+Revision in Technical Criteria: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr.No. 
+Requirement as per 
+tender terms 
+Amendment in tender terms 
+1 
+Brightness: 
+500 nits or 
+Higher  
+ 
+400 nits or Higher 
+
+
+SCOPE OF WORK (SoW) 
+Supply, Installation, Testing, Commissioning, Training & Support for 01 Nos 105-inch Large 
+Professional Display at Institute of Seismological Research, RAYSAN, Raysan Road, Gandhinagar, 
+Gujarat 382426. 
+1. Objective 
+The objective of this Scope of Work is to define the requirements for supply, installation, testing, 
+commissioning, training, and warranty support of one (01) number of 01 Nos 105-inch Large 
+Professional Display, in accordance with GeM category specifications and Buyer Added Technical 
+Conditions. 
+2. Technical Specifications (105-inch Large Professional Display) 
+Parameter 
+Required 
+Specification 
+Compliance 
+Screen Size 
+105 Inch 
+Yes 
+Aspect Ratio 
+21:9 
+Yes 
+Resolution 
+5120 x 2160 (5K) 
+Yes 
+Brightness 
+500 nits or Higher 
+Yes 
+Viewing Angle 
+178/178 
+Yes 
+OPS 
+Compatible 
+Yes 
+Yes 
+RAM 
+8 GB or higher 
+Yes 
+Storage 
+64 GB 
+Yes 
+Wi-Fi 
+Required 
+Yes 
+Bluetooth 
+Required 
+Yes 
+LAN 
+Gigabit LAN 
+Yes 
+HDMI 
+Minimum 3 
+Yes 
+RS232 
+Required 
+Yes 
+24x7 Operation 
+Required 
+Yes 
+Warranty 
+3 Years 
+Yes 
+ 
+3. Scope of Supply 
+The scope of supply shall include: 
+105-inch Large Professional Display – Quantity: 01 (One) No. 
+• 
+105-inch Large Professional Display 
+• 
+Speaker In built Minimum 20W output 
+• 
+Floor mount / wall mount bracket 
+• 
+Stand if Required 
+• 
+All required HDMI, USB, power and connectivity cables, Remote Controller, Remote Battery 
+• 
+All accessories required for complete and functional installation. 
+
+
+4. Installation & Commissioning 
+The successful bidder shall be responsible for: 
+• 
+Safe delivery of the equipment at consignee location 
+• 
+Physical installation and mounting of the panel 
+• 
+Electrical and data connectivity 
+• 
+System configuration and initial setup 
+• 
+Testing of display, touch, audio, OPS and software 
+• 
+Ensuring the system is fully operational before handover 
+ 
+5. Training 
+• 
+Minimum one (01) on-site training session shall be provided 
+• 
+Training shall cover: 
+o 
+Basic operation of the Interactive Panel 
+o 
+Annotation and presentation tools 
+o 
+Switching between Android OS and Windows OPS 
+o 
+Basic troubleshooting and system care 
+ 
+6. Warranty & Support 
+• 
+Comprehensive OEM-backed on-site warranty for a minimum period of three (03) years 
+• 
+Repair or replacement of defective parts at no additional cost 
+• 
+Authorized service support as per GeM / Buyer conditions 
+• 
+Escalation matrix for service support shall be provided 
+ 
+7. Documentation 
+The bidder shall provide the following documents: 
+• 
+OEM Warranty Certificate 
+• 
+MAF 
+• 
+User Manuals and Technical Datasheets 
+• 
+Installation & Commissioning Report 
+• 
+Service Support Escalation Matrix 
+ 
+
+
+8. Compliance 
+All equipment and services shall comply with: 
+• 
+GeM Category Specifications 
+• 
+Buyer Added Technical Conditions 
+• 
+Applicable BIS / ISO standards 
+• 
+Statutory and regulatory requirements 
+• 
+BIS Certification 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Annexure – B 
+On Letterhead of Bidder 
+ 
+ 
+Please submit the undertaking letter as per Ministry of Finance Memorandum No.: F. 
+No.6/18/2019-PPD dated 23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD 
+dated 08.02.2021 as per Performa given below on OEM letterhead as well as on bidder’s 
+letterhead. 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 
+& Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 & 23.02.2023 published 
+by Ministry of Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that 
+shares a land border with India. I certify that we as a bidder and quoted product from the 
+following OEMs are not from such a country or if from such a country, these quoted products 
+OEM has been registered with the competent authority. I hereby certify that these quoted 
+product & its OEM fulfills all requirements in this regard and is eligible to be considered for 
+procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will 
+provide evidence for valid registration by the competent authority, otherwise GIL/End user 
+Dept. reserves the right to take legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+Annexure - C 
+On Letterhead of OEM 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 
+& Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 & 23.02.2023 published 
+by Ministry of Finance, Dept. of Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that 
+shares a land border with India. I certify that our quoted product and our company are not 
+from such a country, or if from such a country, our quoted product and our company have 
+been registered with the competent authority. I hereby certify that these quoted products 
+and our company fulfills all requirements in this regard and is eligible to be considered for 
+procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will 
+provide evidence for valid registration by the competent authority; otherwise GIL/End user 
+Dept. reserves the right to take legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Bidder Information 
+ 
+ 
+Name 
+ 
+Designation 
+ 
+Company Address 
+ 
+Telephone No 
+ 
+Mobile No 
+ 
+E-mail 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,646 @@
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INVITING EXPRESSION OF INTEREST (EoI) 
+for 
+Industry-anchored Skill Development Programmes in  
+AI, IT & Emerging Technologies 
+(Two Structured Programmes implemented by GIL:  
+(A) Student Skill Development and  
+(B) Government Employee Capacity Building) 
+ 
+ 
+ 
+ 
+ 
+ 
+Issued by 
+Gujarat Informatics Limited (GIL) under 
+Department of Science and Technology (DST) 
+Government of Gujarat 
+30.05.2026 
+ 
+
+
+2 
+ 
+Contents 
+1. 
+Background ......................................................................................................................... 3 
+2. 
+Rationale ............................................................................................................................. 4 
+3. 
+Purpose of the EoI ............................................................................................................... 4 
+4. 
+EoI Schedule (Key Dates) ................................................................................................... 6 
+5. 
+Scope of the Initiative ......................................................................................................... 6 
+5.1  Programme Conceptualization and Curriculum Design ..................................................... 7 
+5.2  Training Delivery and Learning Methodology ................................................................. 10 
+5.3  Industry Contextualization and Use Cases ....................................................................... 10 
+6. 
+Focus Technology Areas ................................................................................................... 11 
+7. 
+Eligibility and Participation .............................................................................................. 12 
+8. 
+Expected Outcomes .......................................................................................................... 13 
+9. 
+Explicit Design Position of GIL ....................................................................................... 13 
+10. Digital Platform for Programme Management ................................................................. 14 
+11. Process and Next Steps ..................................................................................................... 14 
+12. Mode of Submission ......................................................................................................... 15 
+13. Communication Details .................................................................................................... 15 
+14. Submission Guidelines and Validity of EoI Response ...................................................... 15 
+15. Format and Contents of EoI Submission .......................................................................... 16 
+16. Disclaimer ......................................................................................................................... 18 
+17. Final Note.......................................................................................................................... 18 
+ 
+ 
+ 
+
+
+3 
+ 
+1. Background 
+Gujarat Informatics Limited (GIL), a State Public Sector Undertaking under the administrative 
+control of the Department of Science and Technology (DST), Government of Gujarat, has been 
+playing a key role in enabling and supporting the State’s digital transformation, technology 
+adoption, and capacity building initiatives. 
+As Gujarat advances towards a technology-driven economy, there is a growing emphasis on 
+building a future-ready workforce equipped with skills in Artificial Intelligence (AI), Information 
+Technology (IT), and emerging digital technologies. While academic institutions and online 
+learning platforms across India offer a large number of courses in these domains, industry 
+interactions and hiring feedback indicate that employment-ready talent at entry level remains 
+limited. 
+The rapid expansion of online and academic programmes has resulted in a significant increase in 
+course availability; however, this has not translated proportionately into improved hiring 
+outcomes. Employers across sectors consistently highlight a persistent gap between 
+curriculum-driven learning and real-world job requirements, particularly for pre-final and final 
+year students entering the workforce. 
+Industry demands increasingly favor candidates who demonstrate applied readiness, platform 
+familiarity, and practical exposure to real tools and workflows, rather than purely theoretical or 
+academic knowledge. This has led to a growing consensus that industry-aligned, platform-based 
+skilling models are essential to improve employability outcomes. 
+In this context, GIL, in coordination with DST, intends to facilitate industry-anchored skill 
+development initiatives that bridge the gap between academic training and workplace expectations. 
+The focus is on engaging with Original Equipment Manufacturers (OEMs), technology platform 
+providers, and industry stakeholders to co-design skilling programmes that reflect current industry 
+practices and evolving technology ecosystems. 
+Accordingly, this Expression of Interest (EoI) is being issued by GIL to identify capable 
+organizations and partners who can contribute to the design and delivery of applied, 
+outcome-oriented skill development programmes for pre-final and final year students, with the 
+objective of enhancing employability, interview readiness, and industry relevance. In view of the 
+
+
+4 
+ 
+need for deeper hands-on exposure, peer learning, and direct interaction with industry 
+practitioners, GIL intends to prioritize offline, in-person training models for skill development 
+under this initiative. 
+GIL, under DST, shall directly implement these skill development programmes, including 
+curriculum design, delivery coordination, quality assurance and outcome monitoring. 
+The programme shall consist of two categories: (i) Skill Development for Students (pre-final and 
+final year), and (ii) Capacity Building for Government Employees working in AI, IT and Emerging 
+Technology functions across departments. 
+2. Rationale 
+ 
+Existing skilling efforts are largely content-heavy but job-light, with limited hiring signal 
+value. 
+ 
+Entry-level industry roles demand applied readiness, platform familiarity and execution 
+capability, not academic research orientation. 
+ 
+Gujarat has a rapidly growing applied-AI and deep-tech ecosystem across manufacturing, 
+logistics, energy, Smart Cities, GovTech, semiconductors, Industry 4.0 and cybersecurity, 
+necessitating deployment-ready technical talent. 
+ 
+There is a need to co-design skilling programmes with industry and OEMs, ensuring 
+relevance, transferability of skills, and measurable employability outcomes. 
+ 
+There is a growing need to build internal capacity among Government officials who 
+conceptualize, supervise or implement AI/IT and emerging-technology projects across 
+departments. As digital and data-driven systems expand in Government, a structured 
+in-person capacity-building programme is essential to equip officials with the practical 
+understanding required for effective technology planning and oversight. 
+3. Purpose of the EoI 
+The purpose of this EoI is to identify OEMs, platform providers, and specialized training partners 
+who can design and deliver, through GIL under DST, two distinct skill development programmes: 
+
+
+5 
+ 
+(A) AI/IT Skill Development Programme for Students (Pre-final & Final Year) 
+(B) AI/IT Capacity Building Programme for Government Employees 
+Both programmes shall be conducted fully in-person (offline), with strong emphasis on hands-on 
+labs, practical exercises, realistic industry cases and applied learning. 
+The EoI is intended to: 
+ 
+Identify capable partners with industry-relevant platforms and proven training frameworks. 
+ 
+Enable co-creation of curricula aligned to real industry roles and government requirements. 
+ 
+Strengthen industry-readiness of students and enhance technology capacity within 
+Government departments. 
+ 
+Shift from generic/aggregator-driven training to structured, applied and OEM-anchored 
+skilling models. 
+ 
+Promote industry-anchored skill development models with a strong preference for offline, 
+in-person delivery to ensure deeper applied learning and hands-on competency. 
+
+
+6 
+ 
+4. EoI Schedule (Key Dates) 
+Particulars 
+Details 
+EoI Issue Date 
+30.05.2026 
+Pre-EoI Clarification meeting date & venue for 
+meeting 
+09.06.2026 at 1500 hours  
+At Gujarat Informatics Ltd, Block 2, 2nd 
+Floor, Karmayogi Bhavan, Sector 10A, 
+Gandhinagar 
+Pre-EoI Clarification Queries submission 
+deadline 
+On or before date & time of Pre-EoI 
+Clarification meeting 
+Last Date & Time for EoI Submission 
+29.06.2026, up to 1500 hours 
+GIL reserves the right to amend the above schedule by issuing corrigendum(s), if required. 
+5. Scope of the Initiative 
+The scope of the initiative is envisaged to cover the entire lifecycle of skill development, ranging 
+from programme conceptualization to certification and, wherever feasible, linkage with industry 
+engagement. Selected respondents are expected to work closely with GIL/DST and associated 
+academic institutions to ensure that training interventions translate into measurable improvements 
+in job readiness. For this initiative, GIL envisages that training interventions shall be conducted 
+primarily in offline (in-person) mode, at identified institutions or training centers, to maximize 
+hands-on learning and industry interaction. 
+Programme Structure 
+The initiative will be implemented by GIL under DST and shall consist of the following two 
+programmes: 
+Programme A: Student Skill Development Programme (Pre-final & Final Year) 
+i. 
+Free of cost  
+ii. 
+Minimum academic score requirement (e.g., 55%)  
+
+
+7 
+ 
+iii. 
+University-administered screening test  
+iv. 
+5 pilot courses in first phase  
+v. 
+Fully in-person with labs  
+vi. 
+Capstone project mandatory  
+vii. 
+Certification exam with 2 free attempts; fees applicable from 3rd attempt  
+viii. 
+Courses designed to reduce industry–student gap 
+Programme B: Government Employee Capacity Building Programme 
+i. 
+For employees nominated by Govt departments  
+ii. 
+Short-duration (2–5 days or 1–2 weeks depending on module)  
+iii. 
+Fully offline  
+iv. 
+Basic-to-intermediate modules  
+v. 
+Focus on AI for governance, data handling, cybersecurity, cloud, emerging tech  
+vi. 
+No screening test  
+vii. 
+Certificate of completion 
+Both programmes shall be delivered via selected OEMs and partners through the empaneled 
+OEMs/training partners under GIL. Screening test syllabus for students will be framed jointly with 
+universities. 
+ 
+ 
+The scope shall broadly include, but not be limited to, the following areas: 
+5.1 Programme Conceptualization and Curriculum Design 
+The Respondent shall be responsible for conceptualizing and co-designing two distinct yet 
+complementary 
+programmes 
+to 
+be delivered under GIL’s 
+programme framework: 
+(A) the AI/IT Skill Development Programme for Students (Pre-final and Final Year), and 
+(B) the AI/IT Capacity Building Programme for Government Employees. 
+The curriculum design for both programmes shall be application-oriented, platform-anchored, and 
+aligned with current industry practices and Government use-cases. The Respondent is expected to 
+
+
+8 
+ 
+ensure that the overall programme architecture reflects the State’s vision of reducing the 
+industry-academia skill gap while simultaneously strengthening the digital capability of 
+Government departments. 
+Programme A: Student Skill Development Programme 
+For the student programme, the Respondent shall design five (5) pilot courses in the initial phase, 
+selected based on their relevance to contemporary industry needs in AI, IT, cloud, data, emerging 
+technologies, and cybersecurity. The curriculum must be structured to ensure: 
+ 
+In-person, instructor-led training with extensive hands-on learning, lab work and practical 
+exercises. 
+ 
+Clear mapping to real industry job roles, tools and workflows. 
+ 
+A balance between foundational understanding and advanced applied modules. 
+ 
+Progressive learning from concept → practical → deployment readiness. 
+ 
+A mandatory capstone project demonstrating end-to-end implementation capability. 
+ 
+Structured preparation for technical interviews and workplace expectations. 
+The programme curriculum shall incorporate inputs from industry practitioners, OEM partners and 
+domain experts to ensure relevance, realism and job-market applicability. The design shall 
+explicitly avoid generic or theory-first content and instead emphasize platform-based, 
+tool-oriented, real-scenario learning. 
+The Respondent shall also structure the curriculum to integrate the State’s eligibility and 
+certification framework, including: 
+ 
+Screening test syllabus and structure (in alignment with universities). 
+ 
+Integration of eligibility criteria such as minimum academic score thresholds. 
+ 
+Assessment components for the final certification exam, including first and second 
+attempts free for students. 
+The Respondent shall align with GIL’s requirement that the screening test interface will be 
+hosted on the unified digital platform. 
+
+
+9 
+ 
+Programme B: Government Employee Capacity Building Programme 
+For Government officials, the Respondent shall design short-duration, in-person courses tailored 
+to the functional needs of officers and staff who deal with policy, administration, technology 
+oversight or service delivery. The curriculum shall be: 
+ 
+Contextualized to governance-oriented use cases such as AI in public service delivery, data-
+driven decision making, process automation, predictive analytics, cybersecurity, and cloud 
+adoption. 
+ 
+Delivered in a simplified, practical format that reflects the diverse technical backgrounds 
+of participants. 
+ 
+Designed to enhance officials’ ability to conceptualize, evaluate, supervise, and implement 
+AI/IT/Emerging-Tech projects. 
+ 
+Flexible enough to allow departments to nominate employees from various cadres and 
+functional roles. 
+Where relevant, the Respondent may propose sector-specific modules (e.g., urban governance, 
+health, education, agriculture, policing, citizen services, utilities, and transport) based on State 
+priorities. The Respondent shall support GIL in creating assessment rubrics and simple evaluation 
+frameworks suitable for working officials. 
+For both programmes, the Respondent shall ensure cross-cutting curriculum principles, including: 
+ 
+Alignment with OEM tools, platforms and ecosystems. 
+ 
+Strong emphasis on practical, hands-on, offline learning. 
+ 
+Integration of case studies, real deployment scenarios and Gujarat-relevant examples. 
+ 
+Well-defined learning outcomes linked to measurable competencies. 
+ 
+Structured teaching-learning materials, lab manuals, datasets, and project templates. 
+ 
+Use of industry-standard best practices for pedagogy, assessment and learning design. 
+
+
+10 
+ 
+The Respondent shall work in close coordination with GIL to finalize detailed syllabus structures, 
+learning paths, module durations, lab requirements, assessment mechanisms and certification 
+criteria for each course. 
+5.2 Training Delivery and Learning Methodology 
+All trainings under both programmes shall be conducted fully offline (in-person) at designated 
+institutions or training centres identified by OEMs and approved by GIL. Programmes shall 
+include (wherever applicable): 
+ 
+Hands-on labs 
+ 
+Use of OEM tools/platforms 
+ 
+Practical assignments 
+ 
+Instructor-led sessions 
+ 
+Supervised capstone projects (students only) 
+ 
+Real-world government-relevant case studies (employees only) 
+Training batches for Programme A and Programme B shall be scheduled separately due to 
+differences in depth, pacing, and participation profile. 
+5.3 Industry Contextualization and Use Cases 
+Respondents are encouraged to integrate industry problem statements, sector-specific use cases, 
+and deployment scenarios relevant to Gujarat’s economic ecosystem, including manufacturing, 
+logistics, energy, Smart Cities, GovTech, semiconductors, and related areas. This contextualization 
+is critical to ensure that learning is locally relevant, industry-validated, and immediately 
+applicable.  
+For students, industry-linked capstone projects shall be aligned to the selected pilot courses. For 
+government officials, contextualization shall include use cases related to governance, public 
+service delivery, compliance, data-driven decision-making and departmental automation. 
+5.4 Certification and Skill Validation 
+
+
+11 
+ 
+The Respondent shall propose certification mechanisms that ensure credible, transparent and 
+outcome-based validation of learning for both programmes. Certifications must be: 
+ 
+Jointly recognized by GIL/DST and the OEM / technology partner. 
+ 
+Clearly aligned with defined skill outcomes and role-specific competency expectations. 
+ 
+Valued by industry and government as an indicator of applied capability. 
+ 
+Designed to differentiate candidates with practical proficiency from those with generic 
+course completion credentials. 
+Certification systems shall include structured assessments, practical evaluations and 
+platform-based tests wherever applicable. 
+5.4.1 Certification Rules 
+A. Student Certification Conditions 
+ 
+First and second attempts of the final certification examination shall be free of cost to the 
+student. 
+ 
+From the third attempt onwards, examination fees shall be payable by the student. 
+ 
+Completion of the capstone project is mandatory for eligibility to receive certification. 
+B. Government Employee Certification 
+ 
+Assessment may include short quizzes, case-based evaluations, or project assignments, 
+depending on module design. 
+ 
+Certifications shall be issued jointly by GIL and OEM/training partner, reflecting 
+successful completion of the prescribed programme. 
+6. Focus Technology Areas 
+The GIL/DST intends to support programmes in advanced and emerging technology domains that 
+have demonstrated industry demand and strong future growth potential. 
+Indicative focus areas include, but are not limited to: 
+
+
+12 
+ 
+ 
+Applied Artificial Intelligence and AI-enabled systems 
+ 
+Cloud computing integrated with AI and data platforms 
+ 
+Data engineering and large-scale data processing systems 
+ 
+Cybersecurity, including AI-driven security and privacy engineering 
+ 
+Semiconductor ecosystem awareness (design, testing, automation fundamentals) 
+ 
+Industry 4.0, Internet of Things (IoT), and smart manufacturing systems 
+ 
+Technology platforms relevant to digital governance and Smart Cities 
+Respondents may propose additional domains, provided strong justification and industry relevance 
+are demonstrated. Government employee modules may focus on simplified, governance-relevant 
+versions of the above. 
+7. Eligibility and Participation 
+This EoI invites participation from organizations with demonstrated capability and credibility in 
+industry-aligned skilling. 
+Eligible respondents may include: 
+ 
+Global or Indian OEMs and technology platform providers. 
+ 
+IT product companies or system integrators with proprietary platforms. 
+ 
+Industry-recognized training and certification providers with OEM partnerships. 
+ 
+Consortiums comprising OEMs, industry bodies, and training organizations. 
+Respondents should have prior experience in delivering practical, outcome-oriented training and 
+must demonstrate the capability and infrastructure to conduct such programmes at scale across 
+institutions in Gujarat, with a primary focus on offline, in-person delivery at designated training 
+locations. They must also demonstrate the ability to deliver both student-oriented technical training 
+and government employee-oriented capacity building and shall be required to work in alignment 
+with the GIL program governance and monitoring framework. 
+
+
+13 
+ 
+8. Expected Outcomes 
+The overarching objective of this initiative is to enhance employability outcomes for graduating 
+students in Gujarat while simultaneously strengthening the capacity of Government officials in 
+AI, IT and emerging technologies. 
+Expected outcomes include: 
+ 
+Graduates with demonstrable platform skills and applied competencies. 
+ 
+Improved performance in technical interviews and hiring assessments. 
+ 
+Reduced onboarding and retraining efforts for industry employers. 
+ 
+Stronger alignment between academic institutions and industry needs. 
+ 
+Establishment of Gujarat as a hub for industry-ready technical talent. 
+ 
+Government officials gain functional understanding of AI/IT use in governance. 
+ 
+Improved readiness of departments to conceptualize and evaluate technology projects. 
+9. Explicit Design Position of GIL 
+For clarity and transparency, GIL emphasizes that this initiative is not intended to support models 
+that rely on: 
+ 
+Aggregator-only course distribution without platform depth. 
+ 
+Theory-first or purely academic training approaches. 
+ 
+Predominantly online or self-paced training models without structured in-person 
+engagement. 
+ 
+Generic certification distribution lacking industry recognition. 
+ 
+Programmes without clear linkage to defined learning outcomes and practical applicability. 
+ 
+The programme strictly mandates in-person delivery; online-only or hybrid-first models 
+shall not be considered. 
+The Department’s focus is firmly on capability creation rather than certificate proliferation. 
+
+
+14 
+ 
+10. Digital Platform for Programme Management 
+GIL will develop and operate a unified digital platform for end-to-end management of the 
+programme. The platform should serve as the single point of management for both programmes, 
+includ 
+ 
+Student registration and screening management 
+ 
+Upload of student academic scores for eligibility verification 
+ 
+University-administered screening test interface 
+ 
+Course scheduling, attendance & progress tracking 
+ 
+Capstone project submission module 
+ 
+Exam results & certification 
+ 
+Department nomination system for govt employees 
+ 
+Progress tracking dashboards 
+ 
+Data access for DST/GIL officials and respondent for data feed. 
+11. Process and Next Steps 
+Upon issuance of this EoI: 
+ 
+Interested organizations shall submit their Expressions of Interest. 
+ 
+Separate consultations may be held for Programme A and Programme B. 
+ 
+GIL will undertake a preliminary evaluation based on relevance, capability, and alignment 
+with objectives. 
+ 
+Shortlisted respondents may be invited for consultations or presentations. 
+ 
+Detailed programme structures, implementation modalities, and/or RFPs may be issued 
+thereafter. 
+ 
+Pilot implementations may be undertaken prior to wider scale-up. 
+
+
+15 
+ 
+12. Mode of Submission 
+The Expression of Interest shall be submitted in the following manner: 
+13. Communication Details 
+Particulars 
+Details 
+Submission of Pre-EoI Clarification Queries to 
+GM – Software Procurement, GIL 
+E-mail ID to submit Pre-EoI Clarification Queries 
+ 
+dgmapp-gil@ gujarat.gov.in 
+kajalp@gujarat.gov.in 
+14. Submission Guidelines and Validity of EoI Response 
+GIL reserves the right to extend timelines, seek clarifications, or modify requirements as deemed 
+necessary. 
+The Expression of Interest submitted by the Respondent shall remain valid for a period of 90 
+(Ninety) days from the last date of submission of the EoI. 
+GIL may, at its discretion, request an extension of the validity period. 
+Particulars 
+Details 
+Mode of Submission and Language 
+Online / Offline & English 
+Submission Method 
+By e-mail OR Physical copy at GIL  
+Office 
+E-mail title for Submission of EoI 
+EoI_SDP_{company name} 
+Designated e-mail to submit the EoI 
+dgmapp-gil@ gujarat.gov.in 
+kajalp@gujarat.gov.in 
+
+
+16 
+ 
+15. Format and Contents of EoI Submission 
+The Expression of Interest (EoI) submitted by the Respondent shall be structured in the following 
+order and shall contain the information as outlined below. Submissions shall be concise, factual, 
+and relevant to the objectives of the initiative. 
+1. Covering Letter 
+A covering letter duly signed by the authorised signatory of the Respondent, clearly: 
+ 
+Expressing interest in participating in the initiative. 
+ 
+Confirming acceptance of the terms and conditions of the EoI. 
+ 
+Providing contact details of the authorised representative for communication. 
+2. Organisation Profile 
+Brief profile of the Respondent, including: 
+ 
+Legal status of the organisation and year of incorporation. 
+ 
+Nature of business and core competencies. 
+ 
+Details of OEMs, technology platforms, or industry partnerships, if any. 
+3. Relevant Experience 
+A summary of relevant experience, including: 
+ 
+Description of similar skill development, training, or capacity-building initiatives 
+undertaken. 
+ 
+Experience in delivering industry-aligned, technology-or OEM-based training 
+programmes. 
+ 
+Experience of working with government departments, academic institutions, or public 
+sector entities, if applicable. 
+ 
+ 
+
+
+17 
+ 
+4. Proposed Approach and Value Proposition 
+The Respondent shall provide a brief but structured description of its proposed approach for 
+contributing to the objectives of this initiative. This section is intended to enable GIL/DST 
+to understand the current capabilities, solution models, and practical offerings available in 
+the market, and shall therefore be descriptive in nature. 
+The Respondent is encouraged to cover the following aspects, to the extent relevant: 
+ 
+The Respondent’s understanding of current industry skill gaps in AI, IT, or emerging 
+technologies, particularly at the entry-level. 
+ 
+Respondent’s plan to support both student and government employee training tracks 
+under the GIL’s programme framework. 
+ 
+Description of the training or skilling model proposed, including:  
+ Platform(s), tools, or technology stack involved. 
+ Role of OEM platforms or proprietary systems, if any. 
+ Balance between conceptual learning and applied, hands-on training. 
+ 
+Indicative structure of the proposed programme, such as:  
+ Modules, labs, case studies, projects, or capstone components. 
+ Duration and mode of delivery, with primary emphasis on offline, classroom-based 
+and in-person training, including physical labs and supervised project work. 
+ 
+Approach to ensuring applied readiness and job relevance, including exposure to:  
+ Real-world workflows. 
+ Industry problem statements or use cases. 
+ Deployment or implementation scenarios. 
+ 
+Indicative certification or skill validation mechanism, if proposed. 
+ 
+Any additional value addition envisaged, such as industry interaction, mentorship, or 
+linkage with internship or hiring pipelines (non-binding). 
+
+
+18 
+ 
+This section shall not be treated as a binding proposal, but as an expression of capability 
+and approach, and may be utilized by GIL/DST for refining programme design and 
+preparation of subsequent RFPs, framework MoUs, or pilot initiatives. 
+5. Declarations 
+The Respondent shall submit the following declarations duly signed by the authorised 
+signatory: 
+ 
+Declaration of non-blacklisting / non-debarment by any Government authority. 
+ 
+Declaration regarding absence of conflict of interest. 
+ 
+Declaration confirming acceptance of the terms and conditions of the EoI. 
+General Instructions: 
+a) All submissions shall be made in the English language. 
+b) All documents shall be duly signed by the authorised signatory. 
+c) GIL reserves the right to seek clarifications or additional information, if required. 
+16. Disclaimer 
+Issuance of this EoI does not constitute a commitment by the GIL/DST to award any contract or 
+financial support. GIL reserves the right to accept or reject any or all submissions, modify the 
+scope of the initiative, or discontinue the process without assigning reasons. 
+17. Final Note 
+Through this Expression of Interest, the Gujarat Informatics Limited seeks to initiate a strategic 
+shift from content-centric skilling to workforce-ready competence building, ensuring that 
+Gujarat’s students and Government employees acquire skills that are relevant, recognized and 
+demanded by industry and public sector technology initiatives. 

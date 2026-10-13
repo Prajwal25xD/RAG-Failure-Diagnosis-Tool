@@ -1,0 +1,929 @@
+1 
+ 
+Bid for procurement of Database Management System Software Licenses for the office of the Gujarat Urban Development Mission 
+(GUDM), Gandhinagar. 
+(GeM Tender No. GEM/2026/B/7753007 dated 07.07.2026.) 
+Response to Pre-bid queries 
+Sr. 
+no.
+Terms in the tender 
+Bidder's queries 
+Response to bidders 
+1 
+PAC 
+Maker's Name & Address: 
+Postgres, EnterpriseDB, IntelliDB, 
+PostgresPlus 
+Postgres, EnterpiseDB, IntelliDB, Postgres Plus , these are 
+the name added in the Tender as maker. We request you 
+to Include Postgres Pro another OEM who provide same/ 
+similar support in case Database Management System 
+Software. This will have wide range of the choice and Price 
+advantages for Urban Development And Urban Housing 
+Department Gujarat. 
+Please see corrigendum 
+2 
+  
+  
+Also there is no mentioned of payment terms, can you 
+please include the same in the corrigendum  
+Please see corrigendum 
+3 
+Technical 
+Specification
+The Database OEM should be Class 1 
+make in India Compliant. 
+The Database OEM should be Class 1/Class 2 make in 
+India Compliant. 
+ 
+Justification: Request you to change the clause to ensure 
+we can bid through our certified channel partner 
+Please see corrigendum 
+4 
+  
+  
+All the Database technical specifications given should be 
+native capability of Database and should not be 
+supported through 3rd party integration. 
+ 
+This is important to comply with the Cert-In guidelines of 
+SBOM. If a feature is provided through 3rd Party open 
+source tool, this becomes a supply chain attack and can 
+attract penalty through DPDP clause  
+As per RFP 
+
+
+2 
+ 
+5 
+  
+  
+OEM should have following capabilties 
+1. The OEM/ Technology Provider average annual 
+turnover of it's India entity over the last three financial 
+years must be 20 crores. 
+2.OEM/ Technology Provider of Postgres has executed 
+following purchase orders of PostgreSQL in any Central 
+Govt./State Govt. organizations in the last 5 years. 
+- One order of minimum INR 4 Crore OR 
+- Two orders of minimum INR 2 Crore OR 
+- Three orders of minimum INR 1.5 Crore 
+3.OEM/ Technology Provider of Postgres must have a 
+24x7 Support Center in India with PostgreSQL expertise, 
+operational for the last 3+ years. 
+4.OEM/ Technology Provider of Postgres should have 
+dedicated support centre/s for Postgres database in 
+India having not less than 50 support engineers. 
+Justification: These qualifications are required to ensure 
+that the OEM has worked on similar cases in past and 
+they can support a project of this scale at ease. The last 
+applciation which was developed fo GYDM runs on a 
+Database name Tibero, which doesn’t have support in 
+India. It's important to buy a product which has a crdible 
+history and presence in India with a strong backend 
+technical supprot team to ensure that GUDM gets proper 
+support for this critical citizen facing application.   
+1. Please see corrigendum 
+2. Please see corrigendum 
+3. We have asked Enterprise Support 
+(24*7) 
+4. As per OEM policy, Support center 
+should be in India 
+
+
+3 
+ 
+6 
+  
+  
+"For DPDP act to be complied following essentialand 
+critical functionalities are required from the Database:1. 
+Transparent Data Encryption2. Data Redaction 3. Role 
+and Privilige Analysis4. Row Level Security5. Encrypted 
+Backups 6. Extensive Audit and Bundled Audit 
+ArchivingConsidering the same we request department 
+to consider database which provides all the above 
+functioanlities out of the box bundled with core 
+database"Justification: DPDP is scheduled to go live from 
+May 2027. These features will become mandatory and if 
+not considered department may get penalized to the 
+tune of maximum 250 Crores.  
+As per RFP 
+7 
+  
+  
+Cert-In has made it mandatory for all open source OEMs 
+to provide Software Bill of Material (SBOM). We request 
+department to make it mandatory for the OEM to 
+provide SBOM. 
+ 
+Justification: As per Cert-in document "Technical 
+Guidelines on |SBOM|QBOM & CBOM| AIBOM|HBOM" 
+8 
+Eligibility 
+Criteria 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+An OEM turnover of ₹10+ Cr is very high and would make 
+only one bidder eligible 
+Please see corrigendum 
+9 
+PAC 
+Maker's Name & Address: 
+Postgres, EnterpriseDB, IntelliDB, 
+PostgresPlus 
+Tender has listed a few set of names which limit the scope 
+of the tender; would recommend that names be removed 
+and all eligible companies be allowed to bid 
+Prostgre Enterprise support providers 
+may participate in the tender. 
+
+
+4 
+ 
+10 
+Terms & 
+Condition 
+Product Description 
+PostgreSQL database licenses with 5 
+years support. 
+Request for Consideration: We kindly request the 
+authority to consider Postgres Pro Enterprise, an 
+enterprise-grade PostgreSQL solution, as an eligible 
+offering under this tender. Postgres Pro Enterprise 
+provides advanced features such as high availability, 
+enterprise backup & recovery, performance optimization, 
+enhanced security, monitoring, Oracle compatibility, and 
+enterprise support, while fully complying with the 
+prescribed technical and functional requirements. We 
+request the authority to kindly include Postgres Pro 
+Enterprise as an eligible Enterprise PostgreSQL solution to 
+promote fair competition and provide the purchaser with 
+a wider choice of technically compliant solutions. 
+Prostgre Enterprise support providers 
+may participate in the tender. 
+11 
+Terms & 
+Condition 
+Scope of Supply:  
+Scope of supply (Bid price to include 
+all cost components) : Supply 
+Installation Testing and 
+Commissioning of Goods 
+Kindly clarify whether the scope includes installation, 
+configuration, migration, replication/HA setup, 
+performance tuning, security hardening, documentation, 
+administrator training, UAT, and production go-live 
+support. Please also confirm whether all such activities 
+are included in the quoted price. 
+Bid price included all components as 
+per bid 
+12 
+Terms & 
+Condition 
+Delivery Days: 15  
+Kindly clarify whether the delivery timeline of 15 days 
+applies only to software license delivery or also includes 
+installation, migration, testing, commissioning, and 
+acceptance. 
+All activities are required to be 
+completed within 15 days. 
+13 
+Terms & 
+Condition 
+Scope of Supply:  
+Scope of supply (Bid price to include 
+all cost components) : Supply 
+Installation Testing and 
+Commissioning of Goods 
+Kindly clarify the acceptance criteria for successful project 
+completion. Please confirm whether acceptance shall be 
+based on license delivery, successful installation, UAT, 
+production deployment, or any other milestone 
+All activities are required to be 
+completed within 15 days. 
+
+
+5 
+ 
+14 
+Terms & 
+Condition 
+OEM: 
+IMPORTED PRODUCTS: In case of 
+imported products, OEM or 
+Authorized Seller of OEM should 
+have a registered office in India to 
+provide after sales service support in 
+India. The certificate to this effect 
+should be submitted. 
+Kindly confirm whether OEM support delivered through 
+the OEM's authorized distributor/partner in India, fully 
+backed by the OEM, shall be considered compliant with 
+this requirement. 
+As per bid 
+15 
+Technical 
+Specification
+  
+Kindly clarify whether enterprise features such as 
+Transparent Data Encryption (TDE), Data Masking, Job 
+Scheduler, Database Auditing, Connection Pooling, High 
+Availability, Backup & Recovery, Monitoring, and 
+Replication are mandatory. If yes, kindly specify whether 
+these features are required in the base license or may be 
+provided through licensed add-on modules. 
+As per specification mentioned in bid 
+16 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed 
+· at least one single order of Rs. 1.70 
+Cr. or 
+· 2 Orders each of Rs. 1.07 Cr. or 
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any 
+central / state Government / PSU/ 
+Listed Company 
+The 
+tender 
+specifically 
+mentions 
+Bidder 
+Past 
+Performance. Kindly confirm that evaluation shall be 
+based solely on the bidder's executed Purchase Orders as 
+specified in the tender and that OEM Past Performance is 
+not mandatory, unless expressly stated elsewhere in the 
+bid document. 
+Please see corrigendum 
+
+
+6 
+ 
+17 
+Technical 
+Specification
+The database OEM should provide 
+onsite training once in 6 months 
+deliverd by dedicated Training 
+professsional at no extra cost 
+Kindly clarify whether periodic training may be conducted 
+virtually by the OEM or whether onsite training at 
+Gandhinagar is mandatory throughout the contract 
+period. 
+Virtually training is allowed 
+18 
+Eligibility 
+Criteria 
+Bidder Average Annual Turn Over: 
+1.07 Cr 
+ 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+Kindly clarify whether the prescribed Bidder Turnover and 
+OEM Turnover criteria shall be evaluated independently 
+as mentioned in the tender and whether relaxation, 
+wherever applicable under GeM provisions, shall be 
+extended accordingly 
+Turnover criteria shall be evaluated 
+independently. Please see 
+corrigendum also. 
+19 
+Terms & 
+Condition 
+Scope of Supply 
+Scope of supply (Bid price to include 
+all cost components) : Supply 
+Installation Testing and 
+Commissioning of Goods 
+Kindly confirm whether the quoted price should include 
+licenses, 
+installation, 
+testing, 
+commissioning, 
+documentation, training, travel, implementation, and 
+five-year support, or whether any of these components 
+shall be paid separately. 
+As per bid, Bid price included all 
+components 
+20 
+Eligibility 
+Criteria 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+kindly clarify whether past performance credentials of the 
+OEM from international deployments/projects will be 
+considered for evaluation, or whether only Purchase 
+Orders 
+executed 
+for 
+Central/State 
+Government 
+Departments, PSUs, or organizations within India will be 
+accepted. 
+Please see corrigendum 
+
+
+7 
+ 
+21 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed at least: 
+. 1 single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any central / state 
+Government / PSU/ Listed Company 
+The bidder must have successfully executed/completed 
+at least  
+. One single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs  
+for Open Source database license with enterprise 
+support in last 3 years to any central / state Government 
+/ PSU/ Listed Company 
+Please see corrigendum 
+22 
+  
+  
+The 
+bidder 
+must 
+have 
+office 
+either 
+at 
+Ahmedabad/Gandhinagar OR the bidder has to open 
+office at Ahmedabad/Gandhinagar within 15 days 
+(Working) 
+of 
+issuance 
+of 
+Work 
+Order.
+ 
+Justification: Request you to remove this clause as we will 
+not get clearance from legal dept for the same.
+Moreover, we have been serving multiple customers in 
+the Government space across different states like Madhya 
+Pradesh, Rajasthan, Maharashtra etc out of our HQ in 
+Delhi NCR and have always delivered above expectations 
+and SLAs. 
+This Clause is not asked in the bid.  
+
+
+8 
+ 
+23 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed at least: 
+. 1 single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any central / state 
+Government / PSU/ Listed Company 
+Kindly allow the past performance experience of either 
+the Bidder or the OEM meeting the prescribed criteria.
+ 
+Justification: In enterprise database projects, the OEM 
+plays a significant role in licensing, implementation, 
+technical support, and successful project execution. 
+Allowing the past performance of either the Bidder or the 
+OEM is a standard industry practice adopted in many 
+Government tenders. This amendment will promote 
+wider participation of authorized partners while ensuring 
+that the solution is backed by an experienced OEM with 
+proven execution capability, thereby maintaining the 
+desired technical and delivery standards. 
+Please see corrigendum 
+24 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed at least: 
+. 1 single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any central / state 
+Government / PSU/ Listed Company 
+Kindly amend the clause to allow experience of enterprise 
+Oracle Database / PostgreSQL Database / Any Enterprise 
+Database (of equivalent value executed for Central/State 
+Government/PSU/Listed Companiee in last 5 years.
+ 
+Justification: Enterprise database platforms such as 
+Oracle, PostgreSQL, Microsoft SQL Server, IBM Db2, 
+MariaDB Enterprise, and other equivalent RDBMS 
+solutions 
+require 
+similar 
+expertise 
+in 
+licensing, 
+deployment, configuration, migration, administration, 
+and support. Restricting the experience solely to 
+PostgreSQL unnecessarily limits competition without 
+impacting the bidder's technical capability. Allowing 
+equivalent enterprise database experience will encourage 
+wider participation, ensure fair competition, and enable 
+the department to receive more competitive bids while 
+maintaining the required technical standards. 
+Please see corrigendum 
+
+
+9 
+ 
+25 
+Technical 
+Specification
+The Database OEM should be Class 1 
+make in India Compliant. 
+The specification requires the Database OEM to be Class 
+1 Make in India compliant. We request clarification on 
+whether Class 1 local content certification is mandatory 
+for the OEM, or whether an OEM having a registered 
+office in India providing after sales service support (as 
+required under Buyer Added ATC, Point 13), and meeting 
+all other stipulated criteria, would be considered 
+acceptable.
+Please see corrigendum 
+26 
+Eligibility 
+Criteria 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+We request clarification on whether the stipulated OEM 
+average annual turnover is to be considered against the 
+global turnover of the OEM or against the turnover of its 
+India entity. 
+Please see corrigendum 
+27 
+Quantity 
+110 
+The bid indicates a total quantity of 110 PostgreSQL 
+Enterprise database licenses. We request clarification on 
+the applicable licensing unit (per core / per vCPU / per 
+socket / per server / named user), and whether the 
+quantity of 110 pertains to production environment only 
+or is inclusive of DR / standby and development / test 
+environments, to enable accurate sizing and pricing. 
+Please see corrigendum 
+28 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed at least: 
+. 1 single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any central / state 
+Government / PSU/ Listed Company 
+We request confirmation that purchase orders executed 
+for commercially supported Enterprise Postgres 
+distributions shall qualify under the stipulated 
+"PostgreSQL database license" past performance 
+criterion. 
+Please see corrigendum 
+
+
+10 
+ 
+29 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed at least: 
+. 1 single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any central / state 
+Government / PSU/ Listed Company 
+Kindly revise the eligibility criterion to accept experience 
+in the supply, implementation, or licensing of Oracle 
+Database, PostgreSQL Database, or any equivalent 
+Enterprise Database of the prescribed value, successfully 
+executed for Central Government, State Government, 
+PSUs, or Listed Companies within the last five (5) years.  
+ 
+Justification:   
+Allowing experience in Oracle, PostgreSQL, or any 
+equivalent Enterprise Database executed within the last 
+five years will promote wider participation from 
+technically competent bidders while ensuring equivalent 
+project execution capability and healthy competition. 
+Please see corrigendum 
+30 
+Additional  
+  
+The budget indicated in the RFP appears to differ 
+significantly from the prevailing market cost of such 
+products. Kindly specify the estimated project 
+budget/procurement value for this tender to enable 
+bidders to prepare an appropriate commercial proposal. 
+Bidders are requested to submit rates 
+to get L1 
+31 
+Additional  
+  
+The department may consider requiring a dedicated 
+database resource on the Database OEM's payroll 
+throughout the project duration. Such a resource can 
+provide specialized product expertise, faster issue 
+resolution, adherence to OEM best practices, improved 
+database performance, and better compliance with 
+project SLAs 
+As per OEM policy 
+
+
+11 
+ 
+32 
+Technical 
+Specification
+Postgres Database OEM should show 
+atleast 3 Govt / PSU Purchase Orders 
+of minimum value of 50 Lakhs INR or 
+more. 
+The tender requires the Database OEM to have at least 
+three 
+Government/PSU Purchase Orders of minimum value 
+₹50 Lakhs. 
+ 
+Kindly clarify whether these purchase orders should be 
+exclusively for Enterprise PostgreSQL Database software, 
+or whether database solutions supplied as part of Smart 
+City, ICCC, Data Centre, e-Governance, or IT 
+Infrastructure projects shall also be considered. 
+Please see corrigendum 
+33 
+Technical 
+Specification
+The Database OEM should be Class 1 
+make in India Compliant. 
+Kindly confirm whether submission of a valid DPIIT Class-
+I Make in India certificate issued by the OEM shall be 
+considered sufficient for compliance with this 
+requirement. 
+Please see corrigendum 
+34 
+Technical 
+Specification
+The database should have Active-
+active replication 
+Kindly clarify whether OEM-supported and commercially 
+supported Active-Active replication technologies, 
+including certified extensions or clustering solutions, 
+shall be considered compliant, or whether only native 
+database functionality is acceptable. 
+As per RFP 
+35 
+Technical 
+Specification
+The Relational Database 
+Management System Software 
+should have Inbuilt In-memory 
+caching feature 
+Kindly clarify the expected scope of the "Inbuilt In-
+Memory Caching" feature. Will Enterprise PostgreSQL 
+shared memory architecture together with OEM-
+supported caching mechanisms satisfy this requirement? 
+As per RFP 
+36 
+Technical 
+Specification
+The Postgres database must be 
+Enterprise version and should have 
+support from Enterprise and should 
+not be community 
+supported product.
+Kindly confirm that any commercially supported 
+Enterprise PostgreSQL solution meeting all technical 
+specifications, along with OEM support and MAF, shall 
+be considered acceptable, and that no specific OEM is 
+intended.
+As per RFP 
+
+
+12 
+ 
+37 
+Eligibility 
+Criteria 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+An OEM turnover of ₹10+ Cr is very high and would 
+prevent other bidders from participating. This 
+requirement should apply to the Bidder/OEM 
+Please see corrigendum 
+38 
+PAC 
+Maker's Name & Address: 
+Postgres, EnterpriseDB, IntelliDB, 
+PostgresPlus 
+The tender lists a few set of names that do not provide 
+the best solution for the  tender; we recommend 
+removing these names or allowing all participants. 
+Prostgre Enterprise support providers 
+may participate in the tender. 
+39 
+Eligibility 
+Criteria 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+An OEM turnover of ₹10+ Cr is very high and would make 
+only one bidder eligible  
+Please see corrigendum 
+40 
+PAC 
+Maker's Name & Address: 
+Postgres, EnterpriseDB, IntelliDB, 
+PostgresPlus 
+Tender has listed a few set of names which limit the 
+scope of the tender; would recommend that names be 
+removed and all eligible companies be allowed to bid. 
+By listing names it seems the department is bias and is 
+favouring a few OEM's this is unethical and raises 
+concerns . 
+Does the department not want a fair bid or is that the 
+department wants to eliminate a couple of worthy 
+OEM's . 
+This needs to be addressed, the team that has prepared 
+the tender seems to be favouring a few OEM's and this is 
+not in line with the fair policies of the Govt. 
+Prostgre Enterprise support providers 
+may participate in the tender. 
+
+
+13 
+ 
+41 
+  
+  
+We are keen to participate in this tender along with one 
+of our esteemed OEM partners, who has successfully 
+been providing PostgreSQL support and services for 
+several State Government and Central Government 
+projects across India. 
+However, we have observed that one of the eligibility 
+criteria mentioned in the tender is highly restrictive and 
+limits participation to only a few vendors. As a result, 
+several technically capable and experienced OEMs are 
+unable to participate despite having a proven track 
+record in delivering similar services. 
+We kindly request you to review and amend the 
+concerned eligibility criterion so that all qualified and 
+capable OEMs meeting the technical and project 
+requirements can participate. This will encourage 
+healthy competition, provide you with a wider choice of 
+experienced vendors, and help ensure the best technical 
+support and value for this important project. 
+We would be grateful if you could consider our request 
+and make the necessary amendment to the tender 
+clause in the interest of fair competition and broader 
+participation. 
+Bidder has not clearly specified 
+against which clause they have raised 
+query. As per bid. 
+42 
+Eligibility 
+Criteria 
+Product Description 
+PostgreSQL database licenses with 5 
+years support. 
+It is requested that the authority consider Postgres Pro 
+Enterprise, an enterprise-grade PostgreSQL solution from 
+an established OEM, as an eligible offering under this 
+tender. The solution complies with the prescribed 
+technical and functional requirements and its inclusion 
+will promote fair competition while providing the 
+purchaser with a wider choice of technically compliant 
+Enterprise PostgreSQL solutions. 
+Prostgre Enterprise support providers 
+may participate in the tender. 
+
+
+14 
+ 
+43 
+Eligibility 
+Criteria 
+Buyer Added text based ATC clauses 
+Bidder Average Annual Turn Over: 
+1.07 Cr 
+OEM Average Annual Turn Over: 
+10.72 Cr 
+Bidder Average Annual Turn Over: 1.07 Cr ( is this turn 
+over or PO) 
+OEM Average Annual Turn Over: 10.72 Cr 
+ExpectedPoint – 
+Buyer Added text based ATC clauses 
+ 
+Bidder/OEM Average Annual Turn Over: 1.07 Cr  ( PO 
+from OEM are also acceptable) 
+OEM/Bidder Average Annual Turn Over: 10.72 Cr for 
+Bidder and USD 70 M for OEM  
+ Justification : The requested amendment does not seek 
+any relaxation of the prescribed turnover requirement 
+but only provides flexibility in demonstrating financial 
+eligibility through either the Bidder or the OEM. As a 
+multinational organization with annual global revenues 
+exceeding USD 70 billion, the organization has the 
+required financial capability and operational resources to 
+support enterprise deployments. Postgres Pro Enterprise 
+is a globally recognized enterprise PostgreSQL solution 
+and a significant contributor to the PostgreSQL 
+ecosystem, with extensive adoption and expertise in 
+database technologies. The proposed modification will 
+allow participation by authorized partners representing 
+established OEM solutions and promote fair 
+competition. The amendment will provide the purchaser 
+with a wider choice of technically compliant solutions 
+while ensuring delivery, implementation, and support 
+responsibilities remain with the participating bidder. 
+Therefore, it is requested that the turnover criteria be 
+amended to consider Bidder/OEM.
+It is clearly mentioned in the bid for 
+Bidder Turnover criteria.  
+Please see corrigendum also. 
+
+
+15 
+ 
+44 
+Eligibility 
+Criteria 
+Past Performance: 
+Bidder Past Performance: 
+The bidder must have successfully 
+executed/completed at least: 
+. 1 single order of Rs. 1.70 Cr. Or  
+· 2 Orders each of Rs. 1.07 Cr. Or  
+· 3 Orders each of of Rs. 85.00 lakhs 
+for PostgreSQL database license in 
+last 3 years to any central / state 
+Government / PSU/ Listed Company 
+Request to add relaxation in the past performance 
+criterion will enable participation by authorized channel 
+partners representing established OEMs with proven 
+product deployments. Considering the past performance 
+of either the Bidder or the OEM will encourage fair 
+competition while maintaining the required qualification 
+standards 
+Please see corrigendum 
+ 
+Corrigendum dated 01.08.2026 
+Sr. no.
+Existing clause
+Revised clause
+1
+Maker's Name & Address:
+Postgres, EnterpriseDB, IntelliDB, PostgresPlus 
+Maker's Name & Address:
+Postgres, EnterpriseDB, IntelliDB, PostgresPlus, Postgres1st 
+2
+License Qty: 110
+Please refer the Table A (Bill of Materials-BoQ)
+ 
+Bidders are requested to submit rates for bifurcation of licenses as per OEM policy 
+as mentioned Table- A on GeM portal.  
+3
+-
+Payment Terms: 
+Yearly advance payment will be made during the period of 5 years. 
+4
+ePBG : NO
+ePBG is not asked in this bid, However bidder will have to submit ePBG@ 5% of the 
+contract value for 62 months validity from banks as per latest Finance Department 
+GR. 
+
+
+16 
+ 
+5
+Bidder Turnover:
+Bidder Average Annual Turn Over: 1.07 Cr 
+Bidder Turnover:
+Bidder Average Annual Turn Over: 20.00 Cr 
+6
+OEM Turnover:
+OEM Average Annual Turn Over: 10.72 Cr 
+OEM Turnover:
+OEM Average Annual Turn Over: 1 Cr 
+7
+EMD
+Rs.4,29,000/- 
+EMD
+Rs.20,00,000/- 
+8
+Bidder Past Performance:
+ 
+The bidder must have successfully executed/completed 
+· at least one single order of Rs. 1.70 Cr. or 
+· 2 Orders each of Rs. 1.07 Cr. or 
+· 3 Orders each of of Rs. 85.00 lakhs for PostgreSQL database license in last 3 
+years to any central / state Government / PSU/ Listed Company 
+Bidder Past Performance:
+ 
+The bidder must have successfully executed/completed of 03 orders each of Rs. 50 
+lakhs for PostgreSQL database license in last 3 years to any central / state 
+Government / PSU/ Listed Company. 
+ 
+Copies of Purchase Orders should be submitted. 
+9
+Technical Specification
+ 
+Postgres Database OEM should show at least 3 Govt / PSU Purchase Orders 
+of minimum value of 50 Lakhs INR or more. 
+Technical Specification
+ 
+Postgres Database OEM should show at least 3 Govt / PSU Purchase Orders of 
+minimum value of 01 Cr INR or more. 
+ 
+Copies of Purchase Orders should be submitted. 
+ 
+10
+Technical Specification
+The Database OEM should be Class 1 make in India Compliant. 
+Technical Specification
+The Database OEM should be Class 1 make in India Compliant. 
+11
+Additional Terms & condition:
+ 
+The OEM must have a minimum of five technical resources on its payroll in India. As supporting documents, the bidder shall submit: 
+ 
+ 
+Professional certificates of the technical resources, including employee details; and 
+ 
+PF (Provident Fund) statements as proof of employment records. 
+ 
+
+
+17 
+ 
+Financial Price breakup: 
+ After getting L1 Bidder will have to submit the price break up as per below Performa only: 
+ 
+Table – A: 
+Sr.no
+Environment
+Component
+Unit
+Licence Qty
+Enterprise Support cost 
+for 1st year including 
+Supply, Installation, 
+Migration & 
+commissioning per 
+license (In Rs. with tax) 
+Enterprise Support cost 
+from 2nd year to 5th year 
+per license (In Rs. with 
+tax) 
+Total Cost (In 
+Rs. with tax) 
+1
+DC Site 
+Enterprise PostgreSQL for 
+Production 
+Unicore
+100
+2
+DR Site
+Enterprise PostgreSQL for 
+Production 
+Unicore
+44
+3
+Staging
+Enterprise PostgreSQL for 
+Non-Production 
+Unicore
+76
+Grand Total
+220
+ 
+All other clauses/specifications are as per bid. 

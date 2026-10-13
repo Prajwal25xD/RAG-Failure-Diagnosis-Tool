@@ -1,0 +1,4862 @@
+P a g e 1 | 85 
+ 
+ 
+ 
+ 
+ 
+GUJARAT INFORMATICS LIMITED 
+Block No: 2, 2nd Floor, Karmayogi Bhavan, 
+C & D Wing, Sector-10, Gandhinagar: 382 010 
+Phone No: 23256022, Fax No: 23238925 
+https://www.gil.gujarat.gov.in 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnest Money Deposit: Rs. 7,50,000 /- (Seven Lakhs Fifty Thousand only).  
+(Bidders can also submit the EMD with Payment online through RTGS / internet 
+banking in Beneficiary name Gujarat Informatics Ltd., Account No. 
+50200010918090, IFSC Code HDFC0000190, Bank Name HDFC Bank Ltd. Branch 
+address Sector-16, Gandhinagar Branch) 
+ 
+ 
+ 
+ 
+ 
+ 
+Request for Proposal(RFP) for Selection of Agency for Supply, 
+Installation, Commissioning, Testing, Operations and 
+Maintenance of PIM/PAM Solution in Aadhaar 
+Authentication Environment at GSDC for Department of 
+Science & Technology, Government of Gujarat                 
+RFP# GIL/e-Gov/2026/UIDAI_PAM  
+GeM Bid No:- GEM/2026/B/7942460 
+
+
+P a g e 2 | 85 
+ 
+ 
+Abbreviation 
+ 
+Abbreviation 
+Meaning 
+AD 
+Active Directory 
+AI 
+Artificial Intelligence 
+AMC 
+Annual Maintenance Contract 
+API 
+Application Programming Interface 
+ATS 
+Annual Technical Support 
+BFSI 
+Banking, Financial Services and Insurance 
+BoM / BOM 
+Bill of Material(s) 
+BoQ / BOQ 
+Bill of Quantity / Quantities 
+CA 
+Chartered Accountant 
+CAPEX 
+Capital Expenditure 
+CERT-In 
+Indian Computer Emergency Response Team 
+CIA 
+Confidentiality, Integrity and Availability 
+CTR 
+Call to Response 
+CV 
+Curriculum Vitae 
+DC 
+Data Centre 
+DPDP Act 
+Digital Personal Data Protection Act, 2023 
+DST 
+Department of Science & Technology 
+EMD 
+Earnest Money Deposit 
+FIPS 
+Federal Information Processing Standards 
+GeM 
+Government e-Marketplace 
+GIL 
+Gujarat Informatics Limited 
+GoG 
+Government of Gujarat 
+GoI 
+Government of India 
+GSDC 
+Gujarat State Data Centre 
+GST 
+Goods and Services Tax 
+GTC 
+General Terms & Conditions 
+
+
+P a g e 3 | 85 
+ 
+ 
+HA 
+High Availability 
+HBOM 
+Hardware Bill of Materials 
+HLD 
+High-Level Design 
+IFSC 
+Indian Financial System Code 
+INR 
+Indian Rupees 
+IP 
+Internet Protocol 
+IPS 
+Intrusion Prevention System 
+ISO 
+International Organization for Standardization 
+IT 
+Information Technology 
+ITB 
+Instructions to Bidders 
+ITeS 
+Information Technology enabled Services 
+JIT 
+Just-in-Time (privileged access) 
+KT 
+Knowledge Transfer 
+LCBS 
+Least Cost Based Selection 
+LD 
+Liquidated Damages 
+LDAP 
+Lightweight Directory Access Protocol 
+LLD 
+Low-Level Design 
+LLP 
+Limited Liability Partnership 
+MAF 
+Manufacturer Authorization Form 
+MeitY 
+Ministry of Electronics and Information Technology 
+ML 
+Machine Learning 
+NCIIPC 
+National Critical Information Infrastructure Protection Centre 
+NDA 
+Non-Disclosure Agreement 
+NIB 
+Notice Inviting Bid 
+NIPS 
+Network Intrusion Prevention System 
+NIST 
+National Institute of Standards and Technology 
+O&M 
+Operations and Maintenance 
+OEM 
+Original Equipment Manufacturer 
+
+
+P a g e 4 | 85 
+ 
+ 
+OIC 
+Officer-In-Charge 
+OPEX 
+Operational Expenditure 
+OS 
+Operating System 
+PAM 
+Privileged Access Management 
+PAN 
+Permanent Account Number 
+PBG 
+Performance Bank Guarantee 
+PCI-DSS 
+Payment Card Industry Data Security Standard 
+PIM 
+Privileged Identity Management 
+PQ 
+Pre-Qualification 
+PSU 
+Public Sector Undertaking 
+RACI 
+Responsible, Accountable, Consulted, Informed (matrix) 
+RBI 
+Reserve Bank of India 
+RCA 
+Root Cause Analysis 
+RDP 
+Remote Desktop Protocol 
+RFP 
+Request for Proposal 
+RTGS 
+Real Time Gross Settlement 
+SBOM 
+Software Bill of Materials 
+SEBI 
+Securities and Exchange Board of India 
+SHA 
+Secure Hash Algorithm 
+SI 
+System Integrator 
+SIEM 
+Security Information and Event Management 
+SLA 
+Service Level Agreement 
+SOP 
+Standard Operating Procedure 
+SPDX 
+Software Package Data Exchange 
+SPN 
+Service Principal Name 
+SPOC 
+Single Point of Contact 
+SQL 
+Structured Query Language 
+SSH 
+Secure Shell 
+
+
+P a g e 5 | 85 
+ 
+ 
+SSMS 
+SQL Server Management Studio 
+SSO 
+Single Sign-On 
+TLS 
+Transport Layer Security 
+UAT 
+User Acceptance Testing 
+UDIN 
+Unique Document Identification Number 
+UIDAI 
+Unique Identification Authority of India 
+USB 
+Universal Serial Bus 
+VPN 
+Virtual Private Network 
+WAF 
+Web Application Firewall 
+WO 
+Work Order 
+WSFC 
+Windows Server Failover Clustering 
+ 
+ 
+ 
+
+
+P a g e 6 | 85 
+ 
+ 
+Contents 
+GUJARAT INFORMATICS LIMITED .................................................................................................................................. 1 
+SECTION 1: INVITATION FOR BIDS ................................................................................................................................. 9 
+Fact Sheet................................................................................................................................................................ 12 
+SECTION 2: INSTRUCTIONS TO BIDDERS ..................................................................................................................... 15 
+A. 
+INTRODUCTION .............................................................................................................................................. 15 
+Source of Funds. .................................................................................................................................................. 15 
+Pre-Qualification Criteria ..................................................................................................................................... 16 
+Cost of Bidding .................................................................................................................................................... 18 
+B. 
+BIDDING DOCUMENTS ................................................................................................................................... 18 
+Contents of Bidding Documents.......................................................................................................................... 18 
+Clarification of Bidding Documents ..................................................................................................................... 18 
+Amendment of Bidding Documents .................................................................................................................... 19 
+C. 
+PREPARATION OF BIDS ................................................................................................................................... 19 
+Language of Bid ................................................................................................................................................... 19 
+Documents Comprising the Bid ........................................................................................................................... 19 
+Bid Form .............................................................................................................................................................. 19 
+Bid Prices ............................................................................................................................................................. 20 
+Bid Currency ........................................................................................................................................................ 20 
+Period of Validity Bids ......................................................................................................................................... 20 
+Format and Signing of Bid ................................................................................................................................... 20 
+D. 
+SUBMISSION OF BIDS ..................................................................................................................................... 20 
+Sealing and Marking of Bids ................................................................................................................................ 20 
+Deadline for Submission of Bids .......................................................................................................................... 20 
+Late Bids .............................................................................................................................................................. 21 
+Modification and Withdrawal of Bids ................................................................................................................. 21 
+E. 
+OPENING AND EVALUATION OF BID .............................................................................................................. 21 
+Opening of Bids by GIL ........................................................................................................................................ 21 
+Clarification of Bids ............................................................................................................................................. 21 
+Preliminary Examination ..................................................................................................................................... 22 
+Contacting GIL/ DST............................................................................................................................................. 22 
+F. 
+AWARD OF CONTRACT ................................................................................................................................... 22 
+Notification of Awards ........................................................................................................................................ 23 
+Corrupt or Fraudulent Practices .......................................................................................................................... 23 
+Interpretation of the clauses in the Tender Document / Contract Document ................................................... 23 
+SECTION 3: GENERAL CONDITION CONTRACT ............................................................................................................ 25 
+Definitions ............................................................................................................................................................... 25 
+
+
+P a g e 7 | 85 
+ 
+ 
+3.1 Earnest Money Deposited (EMD) .................................................................................................................. 26 
+3.2 Performance Security/Performance Bank Guarantee (PBG) ......................................................................... 26 
+3.3 Delivery and Documents ............................................................................................................................... 27 
+3.4 Incidental Services ......................................................................................................................................... 27 
+3.5 Prices ............................................................................................................................................................. 27 
+3.6 Assignment .................................................................................................................................................... 27 
+3.7 Delays in the Service Provider’s Performance ............................................................................................... 27 
+3.8 
+Termination for Default or otherwise ........................................................................................................ 28 
+3.9 Force Majeure ............................................................................................................................................... 28 
+3.10 Termination for Insolvency ......................................................................................................................... 29 
+3.11 Termination for Convenience ...................................................................................................................... 29 
+3.12 Resolution of Disputes ................................................................................................................................ 29 
+3.13 Governing Language .................................................................................................................................... 29 
+3.14 Applicable Law............................................................................................................................................. 29 
+3.15 Taxes and Duties ......................................................................................................................................... 29 
+3.16 Binding Clause ............................................................................................................................................. 30 
+3.17 GIL/DST, Gandhinagar, reserves the right: - ................................................................................................ 31 
+SECTION 4: SCOPE OF WORK....................................................................................................................................... 32 
+a) Implementation of PIM/Pam Solution ................................................................................................................ 32 
+4.1 Scope of Work ................................................................................................................................................... 32 
+4.1.1 Key Functional and Technical Features: .................................................................................................... 32 
+4.1.2 System Requirement Specification and Documentation. .......................................................................... 35 
+4.1.3 Implementation and Commissioning ......................................................................................................... 36 
+4.1.4 Active Directory (AD) Bridging .................................................................................................................... 39 
+4.1.5 Cybersecurity and Data Protection ............................................................................................................ 40 
+4.1.7 Go-Live and Post-Implementation Support ................................................................................................ 42 
+4.1.8 Training ....................................................................................................................................................... 42 
+4.1.9 Governance and Compliance ..................................................................................................................... 42 
+4.1.10 Point of Contact ........................................................................................................................................ 43 
+4.1.11 Documentation ........................................................................................................................................ 43 
+4.1.12 General Requirement ............................................................................................................................... 43 
+b. Support and Facility Management Services ........................................................................................................ 45 
+Payment Milestones and Deliverables (Table-1) ................................................................................................. 45 
+Milestone-wise Applicable Penalty ..................................................................................................................... 47 
+Notes: (Applicable to Table-1: Payment Milestones & Deliverables and Table-2: Milestone-wise Applicable 
+Penalties) ............................................................................................................................................................. 47 
+Service Level Agreement ..................................................................................................................................... 48 
+Service Level Standards (SLA) .............................................................................................................................. 49 
+
+
+P a g e 8 | 85 
+ 
+ 
+Severity Matrix .................................................................................................................................................... 49 
+Penalty, Reporting & Performance Compliance ...................................................................................................... 50 
+Change Requests/ Management ......................................................................................................................... 51 
+Section-5 Price Bid Format ......................................................................................................................................... 53 
+Financial Bid Format (BoQ1) : - Complete End-to-End PIM/PAM Solution for Three (3) Years-  (CAPEX) .............. 53 
+Financial Bid Format (BoQ2):- Manpower BoQ .................................................................................................... 54 
+Financial Bid Format (BoQ3):- Extendable at the discretion of GIL/DST (Up to 2 Years) ...................................... 55 
+Financial Bid Format (BoQ4):- Summary BoQ ......................................................................................................... 55 
+ANNEXURE-1: BILL OF MATERIAL (BoM)                                                                    Description of Items Required 
+(CAPEX): ....................................................................................................................................................................... 58 
+Technical Manpower (OPEX) .................................................................................................................................. 58 
+ANNEXURE-2: TECHNICAL SPECIFICATION ................................................................................................................. 60 
+ANNEXURE-3: 
+FORMAT FOR SUBMISSION OF PROJECT REFERENCES FOR PRE QUALIFICATION EXPERIENCE – 
+PIM/PAM SOLUTION                                         Part A: Project Information (Table-1) .................................................... 66 
+ANNEXURE-4: BIDDER’S AUTHORIZATION CERTIFICATE (to be filled by the bidder on his letter head) ..................... 68 
+ANNEXURE-5: SELF-DECLARATION .............................................................................................................................. 69 
+ANNEXURE-6: MANUFACTURER’S AUTHORIZATION FORM (MAF) ............................................................................. 71 
+ANNEXURE-7: 
+UNDERTAKING ON AUTHENTICITY OF COMPUTER EQUIPMENTS ................................................ 73 
+ANNEXURE-8: COMPONENTS OFFERED – BOM (to be filled by the bidder) ............................................................... 74 
+ANNEXURE-9: FINANCIAL BID COVER LETTER & FORMAT .......................................................................................... 75 
+FORM 10: Non-Disclosure Agreement ........................................................................................................................ 76 
+SECTION 11: FORMAT OF EARNEST MONEY DEPOSIT IN FORM OF BANK GUARANTEE ............................................. 79 
+FORM 12: PERFORMANCE BANK GURANTEE .............................................................................................................. 81 
+FORM 13: Performa of Compliance Letter .................................................................................................................. 83 
+Form 14: On letterhead of Bidder ............................................................................................................................... 84 
+ 
+ 
+ 
+
+
+P a g e 9 | 85 
+ 
+ 
+SECTION 1: INVITATION FOR BIDS 
+Gujarat Informatics Limited (GIL), on behalf of the Department of Science & Technology (DST), 
+Government of Gujarat, invites online bids from eligible bidders for Selection of Agency for 
+Supply, Installation, Commissioning, Testing, Operations and Maintenance of PIM/PAM Solution 
+in Aadhaar Authentication Environment at GSDC for Department of Science & Technology, 
+Government of Gujarat. 
+The objective of this project is to establish a secure, centralized, scalable and auditable Privileged 
+Identity and Privileged Access Management ecosystem for managing privileged accounts, 
+credentials, sessions and administrative access across servers, databases, applications, network 
+devices, security devices and associated IT infrastructure hosted at GSDC and other connected 
+environments. 
+The proposed solution shall provide centralized privileged account governance, password 
+vaulting, session monitoring and recording, just-in-time privileged access, audit trail 
+management, role-based access controls, integration with existing IT infrastructure and 
+compliance with applicable Government of India cybersecurity guidelines and standards. 
+The selected bidder shall be responsible for Supply, Installation, Commissioning, Testing, 
+Operations and Maintenance of PIM/PAM Solution in Aadhaar Authentication Environment at 
+GSDC for Department of Science & Technology, Government of Gujarat. 
+Actual award of contract shall follow the conditions and procedures as specified in this RFP 
+document. 
+1. The bidders may download the tender document from the website of Gujarat Informatics 
+Limited (https://gil.gujarat.gov.in) as well as from https://gem.gov.in.  
+2. This RFP document is not transferable. 
+3. No Consortium will be allowed. 
+4. Bidders shall submit EMD of Rs. 7,50,000/- in the form of Demand Draft OR in the form of 
+an unconditional Bank Guarantee (which should be valid for 6 months from the last date of 
+bid submission) of any Nationalized Bank including the public sector bank or Private Sector 
+Banks or Commercial Banks or Co-Operative Banks and Rural Banks (operating in India 
+having branch at Ahmedabad/ Gandhinagar) as per the G.R. no. FD/MSM/e-
+file/4/2024/2859/DMO  dated 01.05.2025 issued by Finance Department or further 
+instruction issued by Finance department time to time; in the name of “Gujarat Informatics 
+Ltd.” payable at Gandhinagar and must be submitted along with the covering letter. EMD 
+exemption is applicable as per GeM GTC.  
+OR  
+Bidders can also submit the EMD with Payment Online through RTGS/internet banking in 
+Beneficiary name Gujarat Informatics Ltd., Account No. 50200010918090, IFSC Code 
+HDFC0000190, Bank Name HDFC Bank Ltd. Branch address Sector-16, Gandhinagar Branch. 
+
+
+P a g e 10 | 85 
+ 
+ 
+5. The sealed cover should be super scribe as “EMD for the Request for Proposal for “Selection 
+of Agency for Supply, Installation, Commissioning, Testing, Operations and Maintenance of 
+PIM/PAM Solution in Aadhaar Authentication Environment at GSDC for Department of 
+Science & Technology, Government of Gujarat” Bidder to submit AFFIDAVIT PHYSICALLY as 
+per the prescribed format (To be submitted IN ORIGINAL on Non-Judicial Stamp Paper of Rs. 
+100/- duly attested by First Class Magistrate/ Notary public) along with the sealed cover. 
+Bidder who have submitted EMD online has to follow the above process for Affidavit. 
+6. The selected bidder shall ensure deployment of enterprise-grade, on-premises PIM/PAM 
+solution with high availability architecture and secure integration with existing infrastructure 
+available at GSDC. 
+7. The complete solution shall comply with applicable security standards and guidelines 
+including ISO 27001, CERT-In advisories, MeitY guidelines and Government of Gujarat 
+cybersecurity requirements. 
+ 
+8. Important Information 
+Sl. No. 
+Information 
+Details 
+1.  
+Tender No:-  
+RFP# GIL/e-Gov/2026/UIDAI_PAM 
+GeM Bid no:- GEM/2026/B/7942460 
+ 
+2.  
+Email id for submission of written 
+queries for clarification as per 
+predefined format.  
+Email:  
+dgmapp-gil[at]gujarat[dot]gov[dot]in 
+gm-sd-gil[at]gujarat[dot]gov[dot]in  
+tse1-egov-gil[at]gujarat[dot]gov[dot]in 
+3.  
+Pre-bid meeting Date, Time and 
+Venue. 
+As per GeM bid document at GIL. 
+ 
+Venue: Gujarat Informatics Ltd. 
+Block No. 2, 2nd Floor, C & D Wing, 
+Karmayogi Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat. 
+Pre-bid queries must be submitted on or 
+before 
+pre-bid 
+meeting 
+date 
+only 
+Clarifications will be received after pre-bid 
+meeting will not be considered. 
+4.  
+Last date and time for submission 
+of EMD in GIL physically along 
+with Self-Declaration. 
+As per GeM Bid at 1500 hrs.  
+5.  
+Last Date and Time for the 
+Submission of Proposal (Online 
+on GeM Portal) 
+As per GeM bid  at 1500 hrs.  
+6.  
+Place, Date and Time for opening 
+of Technical Proposals 
+As per GeM bid  at 1530 hrs.  
+
+
+P a g e 11 | 85 
+ 
+ 
+7.  
+Contact person for queries 
+(I/C) GM – Software Procurement 
+e-Governance Division 
+Gujarat Informatics Limited  
+Email: dgmapp-gil[at]gujarat[dot]gov[dot]in 
+8.  
+Address for communication 
+Gujarat Informatics Ltd., Block no. 2, 2nd 
+Floor, 
+Karmayogi 
+Bhavan, 
+Sector-10A, 
+Gandhinagar-382017, Gujarat 
+9.  
+Place, date and time for opening 
+of financial/commercial proposal 
+Gujarat Informatics Ltd. Block no. 2, 2nd 
+Floor, 
+Karmayogi 
+Bhavan, 
+Sector-10A, 
+Gandhinagar-382017, Gujarat.  
+ 
+Date 
+and 
+time 
+for 
+opening 
+of 
+financial/commercial 
+proposal 
+will 
+be 
+intimated to the technically qualified bidder 
+later on. 
+10.  
+Bid validity 
+180 days 
+Note: 
+a. Financial bids of only eligible bidder matching the pre-qualification criteria of the bids will 
+be opened. 
+b. GIL/DST reserves the right to accept or reject any tender offer without assigning any 
+reason. 
+c. Use & Release of Bidder Submissions: 
+GIL/DST is not liable for any cost incurred by a bidder in the preparation and production 
+of any proposal, the preparation or execution of any benchmark demonstrations, 
+simulation or laboratory service or for any work performed prior to the execution of a 
+formal contract.  All materials submitted become the property of the GIL/DST and may be 
+returned at its sole discretion. The content of each bidder’s proposal will be held in strict 
+confidence during the evaluation process, and details of any Proposals will not be 
+discussed outside the evaluation process. 
+d. The document/papers prepared in this connection shall be the property of the GIL/DST 
+and will have to be deposited with the GIL/DST after the work is over. 
+e. The bidder shall comply with all prevailing Government of Gujarat procurement policies, 
+cybersecurity guidelines and applicable statutory requirements. 
+f. Any corrigendum, clarification or amendment related to this RFP shall be published only 
+on the official websites/GeM Portal and shall form part of this RFP. 
+g. Bid validity period is 180 days. 
+ 
+
+
+P a g e 12 | 85 
+ 
+ 
+Fact Sheet 
+# 
+Item 
+Description 
+1 
+Project Owning Agency 
+Department of Science & Technology, Government of Gujarat 
+2 
+Tender Inviting 
+Authority 
+Managing Director, Gujarat Informatics Limited (GIL), Block 
+No. 2, 2nd Floor, C & D Wing, Karmayogi Bhavan, Sector-10A, 
+Gandhinagar – 382010, Gujarat, India 
+3 
+Name of the Project / 
+Job Requirement 
+Selection of Agency for Supply, Installation, Commissioning, 
+Testing, Operations and Maintenance of Privileged Identity 
+Management (PIM) / Privileged Access Management (PAM) 
+Solution for UIDAI Aadhaar Authentication Environment at 
+GSDC 
+4 
+Method of Selection 
+L1 among technically qualified bidders 
+5 
+Earnest Money Deposit 
+(EMD) 
+₹7,50,000/- (Rupees Seven Lakh Fifty Thousand only), being 
+3% of the estimated bid value, in the form prescribed in the 
+GeM Bid/RFP. 
+6 
+Availability of RFP 
+Documents 
+RFP Document shall be available as per the GeM Portal. 
+7 
+Last Date for Download 
+of RFP 
+As per GeM Bid Schedule 
+8 
+Last Date for 
+Submission of Pre-Bid 
+Queries 
+As specified in the GeM Bid/RFP. Pre-Bid queries shall be 
+submitted in the prescribed format through the designated 
+communication channel/email specified in the RFP. 
+9 
+Pre-Bid Conference – 
+Date, Time & Venue 
+As mentioned in the GeM Bid. Offline: Gujarat Informatics 
+Limited, Karmayogi Bhavan, Gandhinagar.  
+10 Publication of 
+Responses to Pre-Bid 
+Queries / Corrigendum 
+As per the decision of the Tender Inviting 
+Authority/competent authority. Responses and/or 
+corrigendum, if any, may be published on the GeM Portal. 
+11 Last Date & Time for 
+Bid Submission 
+As per GeM Bid Schedule. Bids shall be uploaded through the 
+GeM Portal in the prescribed format and shall be digitally 
+signed/submitted by the authorized signatory of the bidder. 
+12 Submission of EMD 
+and Physical 
+Documents 
+As per GeM Bid/RFP requirements. Where physical submission 
+is specifically required, the original documents shall be 
+submitted to GIL within the prescribed timeline and in the 
+manner specified in the RFP/GeM Bid. 
+13 Pre-Qualification / 
+Technical Bid Opening 
+As per GeM Bid Schedule 
+14 Technical Presentation 
+/ Demonstration / PoC 
+To be communicated to the bidders who qualify the applicable 
+Pre-Qualification/Technical Evaluation stage, as and when 
+required by GIL/DST/Technical Evaluation Committee. 
+15 Language of Bid 
+Submission 
+The bid/proposal and all supporting documents shall be 
+submitted in English language only, unless otherwise specified 
+in the RFP. 
+
+
+P a g e 13 | 85 
+ 
+ 
+16 Initial Contract Period 
+Three (3) Years, including implementation, OEM 
+warranty/support and O&M services, as specified in the RFP. 
+17 Contract Extension 
+Period 
+The Contract may be extended by GIL/DST, if required, on the 
+terms and conditions specified in the RFP and at the rates 
+quoted in BoQ-3, subject to approval of the competent 
+authority. 
+18 Bid Evaluation Stages 
+Two (2) Stage Bid Evaluation: 
+• Stage 1: Pre-Qualification and Technical Evaluation 
+• Stage 2: Financial Evaluation 
+19 Proposal / Bid Validity 
+180 (One Hundred and Eighty) days from the last date of 
+submission of bids, or as specified in the GeM Bid/RFP. 
+20 Currency 
+The currency for quotation and payment shall be Indian 
+Rupees (INR) only. 
+21 Payment for BoQ-1 
+(CAPEX) 
+100% of the quoted/agreed amount of BoQ-1 shall be released 
+after successful UAT & Go-Live, subject to fulfilment of the 
+applicable conditions and deduction of applicable LD, if any. 
+22 Payment for BoQ-2 
+(O&M) 
+BoQ-2 payment shall be released quarterly in twelve (12) 
+equal instalments during the Initial Contract Period, after 
+deduction of applicable SLA penalties, manpower penalties 
+and other recoveries, if any. 
+23 Payment for BoQ-3 
+(Contract Extension) 
+In case of extension, payment shall be released quarterly as 
+per the rates quoted in BoQ-3, after deduction of applicable 
+SLA penalties, manpower penalties and other recoveries, if 
+any. 
+24 PAM Solution Capacity 
+The solution shall be sized for the number of privileged users 
+specified in the RFP, including provisions for future scalability 
+as specified in the Scope of Work and Technical Specifications. 
+25 Solution Deployment 
+The successful bidder/SI/OEM shall provide a complete end-
+to-end solution, including all required hardware, software, 
+storage, licenses, appliances and other components required 
+for successful deployment and operation, as specified in the 
+RFP. 
+26 O&M / Support 
+OEM warranty/support, premium support, software 
+updates/upgrades, technical support and O&M services shall 
+be provided as specified in the RFP during the Initial Contract 
+Period. 
+27 Name and Address for 
+Communication 
+Gujarat Informatics Limited (GIL), Block No. 2, 2nd Floor, C & D 
+Wing, Karmayogi Bhavan, Sector-10A, Gandhinagar – 382010, 
+Gujarat, India. Designated contact details shall be as specified 
+in the RFP/GeM Bid. 
+Notes: 
+
+
+P a g e 14 | 85 
+ 
+ 
+1. The dates, time and venue specified in the above Fact Sheet may be modified by the 
+Tender Inviting Authority/competent authority, as applicable, with due notice through 
+the GeM Portal.  
+2. The information provided in this Fact Sheet shall be read in conjunction with the 
+detailed provisions of the RFP, Scope of Work, Technical Specifications, SLA, Payment 
+Terms and other applicable provisions of the Bid.  
+3. In case of any inconsistency between the Fact Sheet and the detailed provisions of the 
+RFP/GeM Bid, the detailed provisions of the RFP/GeM Bid shall prevail, subject to 
+applicable GeM terms and conditions.  
+4. The Tender Inviting Authority reserves the right to accept or reject any or all bids, cancel 
+or modify the procurement process, in accordance with the applicable rules, terms and 
+conditions.  
+5. No contractual obligation shall arise from the RFP/Bid process unless and until a formal 
+contract/work order is issued in favour of the successful bidder in accordance with the 
+applicable procurement procedure. 
+ 
+ 
+
+
+P a g e 15 | 85 
+ 
+ 
+SECTION 2: INSTRUCTIONS TO BIDDERS 
+ 
+A. INTRODUCTION 
+Source of Funds. 
+The project shall be funded by Department of Science & Technology (DST), Government 
+of Gujarat (GoG) under the Cyber Security Strengthening Initiative for critical State IT 
+infrastructure. All expenditures related to procurement, implementation, configuration, 
+integration, testing, training, and maintenance of the Privileged Identity Management (PIM) and 
+Privileged Access Management (PAM) Solution shall be met from the approved budgetary 
+provisions allocated for UIDAI Project. 
+ 
+The Work Order for the required services shall be issued by Gujarat Informatics Limited 
+(GIL)/ Department of Science & Technology, Government of Gujarat directly to the selected 
+bidder. Payments shall be released by DST/GIL directly to the selected agency as per the financial 
+terms and conditions specified in this RFP and corresponding Work Order. 
+ 
+Objectives: 
+The Government of Gujarat intends to strengthen its cybersecurity posture by implementing an 
+enterprise-grade Privileged Identity Management (PIM)/ Privileged Access Management (PAM) 
+solution across its critical IT infrastructure hosted at Gujarat State Data Centre (GSDC), 
+departmental data centres, and cloud environments. 
+The primary objective of this project is to secure, monitor, and control privileged access across 
+servers, applications, databases, network devices, and cloud workloads in a centralized and 
+governed manner. 
+The solution is intended to: 
+ 
+Secure and manage privileged accounts across heterogeneous IT environments.  
+ 
+Implement centralized privileged credential vaulting with automated password rotation.  
+ 
+Enforce least privilege access and just-in-time (JIT) privileged access policies.  
+ 
+Monitor, record, and audit privileged sessions in real time for compliance and forensic 
+analysis.  
+ 
+Detect and prevent misuse of privileged credentials and insider threats.  
+ 
+Provide centralized reporting dashboards for audit and compliance requirements.  
+ 
+Support high availability and scalability across mission-critical environments.  
+ 
+Ensure compliance with Government of India cybersecurity guidelines and best practices.  
+The solution shall enhance visibility, control, and governance over privileged access activities 
+and significantly reduce cybersecurity risks arising from misuse of administrative credentials. 
+
+
+P a g e 16 | 85 
+ 
+ 
+Pre-Qualification Criteria 
+The firm/company meeting the following eligibility criteria will be considered for further 
+evaluation. 
+ 
+S. 
+No 
+Basic 
+Requirement 
+ 
+Specific Requirements 
+ 
+Documents Required 
+1. 
+Legal Entity 
+The bidder must be a legally registered 
+entity in India for at least the last three 
+financial years (as on 31st March 2025). 
+The entity can be: 
+Company under Companies Act, 1956 / 
+2013 
+LLP under LLP Act, 2008 
+Partnership under Indian Partnership 
+Act, 1932 
+and 
+Bidder should have a registered number 
+of, GST, Income Tax / PAN number. 
+a) Copy of certification of 
+incorporation issued by 
+competent 
+authority/Registration 
+Certificate/ Shop & 
+Establishment certificate 
+b) Copy of PAN card 
+c) Copy of GST registration 
+2. 
+Financial: 
+Turnover 
+from IT/ 
+ITeS 
+Average Annual Turnover of the bidder 
+from IT/ITeS during any three financial 
+years, i.e., 2022-23, 2023-24, 2024-25 
+and 2025-26, if 2025-26 is unaudited, 
+should be at least Rs. 5 crores. 
+CA Certificate with CA’s 
+Registration Number/ Seal 
+bearing UDIN 
+3. 
+Financial: Net 
+Worth 
+The net worth of the bidder, should 
+be Positive during any 03 (three) financial 
+years, 
+i.e. 2022-23, 
+2023-24, 
+2024-25 and 
+2025-26, if 2025-26 is unaudited. 
+CA Certificate with CA’s 
+Registration Number/ Seal 
+bearing UDIN. 
+If Bidder is not able to 
+submit 
+audited 
+balance 
+sheet for 2025-26, they 
+should provide provisional 
+balance sheet signed by CA 
+with UDIN. 
+4. 
+Technical 
+Capability - I 
+The bidder must have successfully 
+completed or partially completed one 
+work order/ contract of implementing 
+Privileged Access Management (PAM) 
+Solution of the value not less than the 
+amount of ₹1.00 Crore in any Public Sector 
+Bank / BFSI / PSU / Government 
+Work/ Phase Completion 
+Certificate along with Work 
+order/ Agreement from the 
+client showing acceptance 
+of completion of work. 
+Note: Completion / Phase 
+Completion Certificate 
+should clearly depict the 
+
+
+P a g e 17 | 85 
+ 
+ 
+Organization /Telecom organization in 
+India during the period from 01/04/2021 
+onwards. 
+start and end date of the 
+project along with work 
+completed in Annexure-3. 
+(+ The date of such work 
+orders should be from 
+01/04/2021 onwards) 
+5. 
+Technical 
+Capability - II 
+The bidder must have successfully 
+completed or partially completed one 
+work order/ contract of implementing 
+Privileged Access Management (PAM) 
+Solution in any Public Sector Bank / BFSI / 
+PSU 
+/ 
+Government 
+Organization 
+/ 
+Telecom organization in India during the 
+period from 01/04/2021 onwards for 
+minimum 50 users. 
+Work/Phase Completion 
+Certificate along with Work 
+order/ Agreement from the 
+client showing acceptance 
+of completion of work. 
+Note: Completion / Phase 
+Completion Certificate 
+shall clearly depict the start 
+and end date (or phase 
+completion date) the 
+number of servers/devices 
+and users covered under 
+the project in Annexure-3. 
+(+ The date of such work 
+orders should be from 
+01/04/2021 onwards) 
+6. 
+Certifications 
+The bidder must possess at the 
+time of bidding, following valid 
+certifications: - 
+ ISO 9001:2015 or latest 
+ ISO 27001:2022 or latest 
+Copy of relevant 
+Certificates/ Documents 
+7. 
+Mandatory 
+Undertaking 
+As per Annexure-   : Self-Declaration 
+A Self Certified letter 
+8. 
+Blacklisting 
+The bidder must not be blacklisted or 
+debarred 
+by 
+any 
+Central 
+/ 
+State 
+Government / PSU in India as on bid 
+submission date. 
+Self-declaration 
+9. 
+Manufacture 
+Authorization 
+Form (MAF) 
+MAF is required at the time of Bid 
+Submission. 
+OEM certified MAF as per 
+Annexure-  
+ 
+Note: In case if Tenderer finds that submitted documents are insufficient then Bidder is 
+expected to give additional documents to confirm eligibility based on request from Tenderer. 
+
+
+P a g e 18 | 85 
+ 
+ 
+ 
+All Supporting Documents are to be uploaded on GeM portal https://gem.gov.in 
+ 
+Cost of Bidding 
+1.1.1 
+The bidder shall bear all costs associated with the preparation and submission of the bid, 
+including presentations, demonstrations, Proof of Concept (PoC), clarifications, and 
+negotiations. GIL/DST shall not be responsible for any such costs, irrespective of the 
+outcome of the bidding process. 
+ 
+B. BIDDING DOCUMENTS 
+Contents of Bidding Documents 
+1.1.2 
+The bid shall be submitted electronically only through the Government e-Marketplace 
+(GeM) portal at https://gem.gov.in or any other e-Procurement system as notified by 
+GIL/DST, Government of Gujarat. 
+1.1.3 
+The Bidder is expected to examine all instructions, forms, terms and specifications in the 
+bidding documents. Failure to furnish all information required by the bidding documents 
+in format or submission of a bid not substantially responsive to the bidding documents in 
+every respect will be at the Bidder’s risk and may result in rejection of its bid. 
+ 
+Clarification of Bidding Documents 
+1.1.4 
+A prospective bidder requiring any clarification of the bidding documents may seek 
+clarification of his/her query on the date indicated on the RFP clause of this document. 
+GIL/DST will respond to any request for the clarification of any bidding documents, which 
+it receives during the meeting on the date mentioned on the RFP clause of this document  
+1.1.5 
+The Bidders will have to ensure that their queries for pre-bid meeting should reach to 
+Name, Address, and email id of the officer mentioned by post, facsimile or email on or 
+before pre bid meeting. 
+ 
+Bidder’s Request for Clarification 
+Name of Organization 
+submitting request 
+Name & position of person 
+submitting request: 
+Address of organization 
+including phone, fax, email 
+points of contact 
+Sr. 
+No. 
+Bidding 
+Document 
+Reference  
+(Clause /page) 
+Content of RFP requiring 
+clarification 
+Points of Clarification required 
+1 
+ 
+ 
+ 
+ 
+GIL/DST shall not be responsible for ensuring that the bidder’s queries have been received 
+by them. Any requests for clarifications post pre-bid meeting date and time may not be 
+entertained by the GIL/DST. 
+ 
+
+
+P a g e 19 | 85 
+ 
+ 
+Amendment of Bidding Documents 
+1.1.6 
+At any time prior to the deadline for submission of bids, GIL/DST may, for any reason, 
+whether on its own initiative or in response to the clarification may change their biding 
+document by amendment; the amendment will be uploaded online through 
+https://gil.gujarat.gov.in & https://gem.gov.in . 
+1.1.7 
+In order to allow prospective bidders reasonable time to consider the amendments while 
+preparing their bids, GIL/DST at its discretion, may extend the deadline for submission of 
+bids. 
+1.1.8 
+At any time prior to the last date for receipt of bids, GIL may for any reason, whether at 
+its own initiative or in response to a clarification requested by a prospective bidder, 
+modify the RFP document by a corrigendum. 
+1.1.9 
+Any such corrigendum shall be deemed to be incorporated into this RFP. 
+ 
+C. PREPARATION OF BIDS 
+ 
+Language of Bid 
+1.1.10 The proposal prepared by the bidder, as well as all correspondence and documents 
+relating to the bid exchanged by the bidder and GIL shall be in English language. 
+Supporting documents and printed literature furnished by the bidder may be in another 
+language provided they are accompanied by an appropriate translation of the relevant 
+document in the English language and in such a case, for purpose of interpretation of the 
+Bid, the translation shall govern. 
+Documents Comprising the Bid 
+1.1.11 The bid prepared by the Bidder shall comprise of the following documents: 
+a. Cover of EMD and Affidavit (Physically at GIL office, Gandhinagar) 
+b. Technical Bid and a Financial Bid completed in accordance with ITB Clauses   
+1.1.12 The bid documents and addendums (if any) together shall be considered as final and self-
+contained bid documents notwithstanding any previous correspondence or document 
+issued by GIL/DST. 
+Bid Form 
+1.1.13 The Bidder shall complete the Technical Bid and a Financial Bid furnished with this 
+document giving details as per the format mentioned on the GeM Portal 
+https://gem.gov.in.  
+ 
+Financial bid shall include the following documents: - 
+ 
+S. 
+No. 
+Documents Type 
+Document Format 
+1. 
+Financial Bid – Cover 
+Letter 
+On bidder’s letter head duly signed by authorized 
+signatory as per Annexure-9 (PDF) 
+2. 
+Financial Bid – Format 
+As per BoQ (.XLS) format available on GEM portal 
+The bidder should ensure that all the required documents, as mentioned in this bidding 
+
+
+P a g e 20 | 85 
+ 
+ 
+document, are submitted along with the Bid and in the prescribed format only. Non-submission 
+of the required documents or submission of the documents in a different format/ contents may 
+lead to the rejections of the Bid submitted by the bidder. 
+Bid Prices 
+1.1.14 The bidder shall indicate the prices in the format mentioned in the financial bid. 
+1.1.15 The following points need to be considered while indicating prices: 
+a) The prices quoted should also include, applicable GST, inland transportation, 
+insurance and other local costs incidental to delivery of the goods and services to 
+their final destination within the state of Gujarat.  bidder has to quote with financial 
+with GST in the online GeM portal.  
+b) Invoicing shall be from Gujarat only. 
+1.1.16 The Bidder’s separation of the price components in accordance with the ITB Clause will 
+be solely for the purpose of facilitating the comparison of bids by GIL and will not in any 
+way limit the Client’s right to contract on any of the terms offered. 
+Bid Currency 
+1.1.17 Prices shall be quoted in Indian Rupees only. 
+ 
+Period of Validity Bids 
+1.1.18 Bids shall be valid for 180 days after the date of bid opening. The GIL/DST shall reject a 
+bid valid for a shorter period as non-responsive. 
+1.1.19 In exceptional circumstances, the tendering authority may solicit the bidder’s consent to 
+an extension of the period of validity. The request and the responses thereto shall be 
+made in writing.   
+1.1.20 Bid evaluation will be based on the bid prices without taking into consideration the above 
+changes. 
+ 
+Format and Signing of Bid 
+1.1.21 Bidders have to submit the bids on the GeM portal website https://gem.gov.in. All 
+supporting documents in the form of scanned copies submitted online should have sign 
+and seal of the bidder.  
+1.1.22 Before filling in any of the details asked, bidders should go through the entire bid 
+document and get the required clarifications from GIL/DST during the pre-bid conference. 
+ 
+D. SUBMISSION OF BIDS 
+Sealing and Marking of Bids 
+1.1.23 All bids must be submitted online through GeM portal https://gem.gov.in as per the 
+formats mentioned therein. 
+1.1.24 Telex, cable, e-mailed or facsimile bids will be rejected. 
+ 
+Deadline for Submission of Bids 
+1.1.25 Bids must be submitted online not later than the time and date specified in the Invitation 
+for Bids (Section I). In the event of the specified date for the submission of Bids being 
+
+
+P a g e 21 | 85 
+ 
+ 
+declared as a holiday for GIL, the bids will be received up to the appointed time on the 
+next working day.  
+1.1.26 GIL may, at its discretion, extend this deadline for submission of bids by amending the bid 
+documents in accordance with ITB, in which case all rights and obligations of GIL and 
+Bidders previously subject to the deadline will thereafter be subject to the deadline as 
+extended. 
+ 
+Late Bids 
+1.1.27 Any bid received by GIL after the deadline for submission of bids prescribed by GIL will be 
+rejected and /or returned unopened to the bidder. 
+ 
+Modification and Withdrawal of Bids 
+1.1.28 The bidder may modify or withdraw his bid before the last date of submission of bids 
+through the GeM portal website https://gem.gov.in 
+1.1.29 No bid may be modified subsequent to the deadline for submission of the bids. 
+1.1.30 No bid may be withdrawn in the interval between the deadline for submission of bids and 
+the expiry period of the bid validity specified by the bidder on the bid form. Withdrawal 
+of a bid during this interval shall result in the bidder’s forfeiture of its bid security. 
+ 
+E. OPENING AND EVALUATION OF BID 
+Opening of Bids by GIL 
+1.1.31 GIL will open all bids (only pre-qualification at the first instance). 
+1.1.32 The Bidder’s names, bid modifications or withdrawals, bid prices and the presence or and 
+such other details, as DST/GIL, at his discretion, may consider appropriate. No Bid shall 
+be rejected at the opening, except for late bids, which shall be returned unopened to the 
+bidders. 
+1.1.33 Bids that are not opened and read out at bid opening shall not be considered for further 
+evaluation, irrespective of the circumstances. Withdrawn bids will be returned unopened 
+to the Bidders.  
+1.1.34 Financial bids of only those bidders who qualify on the basis of pre-qualification & 
+technical bid will be opened, which will be communicated to the qualified bidders well in 
+advance (if required) 
+1.1.35 The bids will be evaluated on a Least Cost Based Selection (LCBS) - L1. L1 bidder shall be 
+decided based on the lowest quoted Agency Service Charges quoted by the bidder under 
+financial bid format, and LoI shall be issued to the L1 bidder. Prior to the issuance of Letter 
+of Intent (LoI), The DST/GIL reserves the right to engage in negotiations with the 
+successful bidder before awarding contract regarding the quoted price. 
+ 
+Clarification of Bids 
+1.1.36 During evaluation of bids GIL/DST may, at its discretion, ask the bidder for a clarification 
+of its bid. GIL/DST may also ask for rate analysis of any or all items and if rates are found 
+to be unreasonably low or high, the bid shall be treated as non-responsive and hence 
+liable to be rejected. The request for a clarification and the response shall be in writing 
+and no change in prices or substance of the bid shall be sought, offered or permitted.   
+
+
+P a g e 22 | 85 
+ 
+ 
+ 
+Preliminary Examination 
+1.1.37 GIL will examine the bids to determine whether they are complete, whether any 
+computational errors have been made, whether sureties have been furnished, whether 
+the documents have been properly signed, and whether the bids are generally in order.  
+1.1.38 If a bid is not substantially responsive, it will be rejected by GIL and may not subsequently 
+be made responsive by the bidder by correction of the non-conformity.  
+1.1.39 Conditional bids are liable to be rejected. 
+ 
+Contacting GIL/ DST 
+1.1.40 No Bidder shall contact GIL/DST on any matter relating to its bid, from the time of the bid 
+opening to the time of contract is awarded.  If he wishes to bring additional information 
+to the notice of GIL/DST, he should do so in writing. GIL/DST reserves its right as to 
+whether such additional information should be considered or otherwise 
+1.1.41 Any effort by a bidder to influence GIL in its decision on bid evaluation, bid comparison 
+or contract award may result in disqualification of the bidder’s bid and forfeiture of his 
+bid security amount.  
+ 
+F. AWARD OF CONTRACT 
+1.1.42 Final Negotiations 
+After completion of the evaluation process, GIL/DST may enter into negotiations with L1 
+Bidder if required. GIL/DST reserves the right to award the contract, based on initial 
+offers received or otherwise, without discussion and without conducting any further 
+negotiations. Further, the successful bidder shall not reassign any award made as the 
+result of this bid, without prior written consent from GIL/DST. 
+ 
+1.1.43 Award Criteria 
+ The L1 bidder shall be determined based on the lowest quoted Agency submitted in the 
+Financial Bid. 
+ No Letter of Intent (LoI) shall be issued necessary approvals from the competent 
+authority, the contract shall be awarded directly to the L1 bidder through the GeM portal, 
+in accordance with the applicable GeM procedures and guidelines. 
+ The successful bidder shall be required to comply with all GeM portal formalities and 
+conditions for acceptance and execution of the order. 
+ 
+DST/GIL’s Right to Accept Any Bid and to reject any or All Bids 
+1.1.44 GIL/DST reserve the right to accept or reject any bid, and to cancel the bidding process 
+and reject all bids at any time prior to award of Contract, without thereby incurring any 
+liability to the affected Bidder or bidders or any obligation to inform the affected Bidder 
+or bidders of the grounds for GIL’ action.  
+ 
+
+
+P a g e 23 | 85 
+ 
+ 
+Notification of Awards 
+1.1.45 Prior to the expiration of the period of the bid validity, DST/GIL will notify the successful 
+bidders in writing, to be confirmed in writing by registered letter, that his bid has been 
+accepted. 
+1.1.46 The notification of award will constitute the formation of the Contract. 
+ 
+Corrupt or Fraudulent Practices 
+1.1.47 DST/GIL requires that the bidders under this tender observe the highest standards of 
+ethics during the procurement and execution of such contracts.  In pursuance of this 
+policy, GIL/DST defines for the purposes of this provision, the terms set forth as follows: 
+a) “Corrupt practice” means the offering, giving, receiving or soliciting of anything 
+of value to influence the action of the public official in the procurement process 
+or in contract execution: and 
+b) “Fraudulent practice” means a misrepresentation of facts in order to influence a 
+procurement process or an execution of a contract to determent of the GIL/DST 
+and includes collusive practice among the bidders (Prior to or after the bid 
+submission) designed to establish bid prices at artificial non-competitive level and 
+to deprive the GIL/DST of the benefit of the free and open competition. 
+1.1.48 DST/GIL shall reject a proposal for award if it determines that the Bidder recommended 
+for award has engaged in corrupt or fraudulent practices and same shall be conveyed to 
+GIL/DST or black listed by any of the Department of Government of Gujarat in competing 
+for the contract in question. 
+1.1.49 GIL/DST shall declare a firm ineligible, and black listed either indefinitely or for a stated 
+period of time, to be awarded a contract if it at any time determines that the firm has 
+engaged in corrupt and fraudulent practices in competing for, or in executing, a contract. 
+The same shall be conveyed to the GIL/DST. 
+1.1.50 If any of the qualifying documents submitted by the bidder are found to be fraudulent or 
+bogus at any time after the award of contract, the contract shall be terminated with 
+immediate effect.  
+1.1.51 If it is found that the bidder has violated/ infringement of any Indian or foreign trademark, 
+patent register, design, or other intellectual property rights, the department shall 
+terminate the contract of bidder and / or declare a firm ineligible and black listed either 
+indefinitely or for a stated period. 
+  
+Interpretation of the clauses in the Tender Document / Contract Document 
+1.1.52 In case of any ambiguity in the interpretation of any of the clauses in Bid Document or 
+the Contract Document, GIL’s interpretation of the clauses shall be final and binding on 
+all parties. 
+1.1.53 However, in case of doubt as to the interpretation of the bid, the bidder may make a 
+written request prior to the pre-bid conference to; 
+ 
+Gujarat Informatics Limited 
+             Block No. 2, 2nd Floor, C & D Wing,  
+             KARMAYOGI BHAVAN, Sector 10A,  
+
+
+P a g e 24 | 85 
+ 
+ 
+             Sector 10, Gandhinagar, Gujarat 382010. 
+ 
+GIL/DST may issue clarifications to all the bidders as corrigendum. Such corrigendum shall 
+form a part of the bid document. 
+ 
+
+
+P a g e 25 | 85 
+ 
+ 
+SECTION 3: GENERAL CONDITION CONTRACT 
+Definitions 
+In this Contract, unless the context otherwise requires, the following terms shall have the 
+meanings assigned to them below: 
+ 
+“Client/Department” means Gujarat Informatics Limited (GIL), Department of Science & 
+Technology (DST), Government of Gujarat.  
+ 
+“Project Owner” means the Department of Science & Technology (DST), Government of 
+Gujarat and/or the designated authority responsible for implementation and 
+management of the Cyber Security Infrastructure Strengthening Initiative.  
+ 
+“Agency” / “Selected Bidder” means the successful bidder selected through the bidding 
+process for Supply, Installation, Commissioning, Testing, Operations and Maintenance of 
+PIM/PAM Solution under this contract.  
+ 
+“Contract” means the Agreement entered into between GIL/DST and the Selected 
+Bidder, together with the RFP document, corrigenda, appendices, schedules, annexures, 
+Work Orders, and all documents incorporated by reference therein.  
+ 
+“GSDC” means Gujarat State Data Centre located at Gandhinagar, Gujarat 
+ 
+“Services” means all deliverables, activities, obligations, implementation, configuration, 
+integration, migration, training, warranty, operations, maintenance, technical support, 
+and other responsibilities to be provided by the Selected Bidder under the Scope of 
+Work of this RFP.  
+ 
+“Work Order (WO)” means the formal order issued by GIL/DST to the Selected Bidder 
+for execution of the project and associated services.  
+ 
+“OEM” means Original Equipment Manufacturer of the proposed PIM/PAM solution and 
+associated components.  
+ 
+“Solution” means the proposed Privileged Identity Management (PIM) and Privileged 
+Access Management (PAM) platform, including software, licenses, tools, modules, 
+dashboards, APIs, integrations, and related components proposed by the bidder.  
+ 
+“Deliverables” means all documents, reports, software, configurations, implementation 
+artifacts, training materials, and outputs to be submitted by the Selected Bidder under 
+the project.  
+ 
+“Acceptance” means formal approval/sign-off provided by GIL/DST after successful 
+completion of installation, configuration, testing, commissioning, and verification of 
+deliverables.  
+ 
+“Go-Live” means successful commissioning and operationalization of the proposed 
+solution in the production environment after acceptance by GIL/DST.  
+ 
+“Initial Contract Period" means a period of three (3) years commencing from the date 
+of Go-Live (T2), as certified vide the Go-Live Certificate under Table-1 (Payment 
+Milestones and Deliverables), during which the Selected Bidder shall provide 
+Operations, Maintenance and Support services as specified in this RFP 
+ 
+“SLA” means the Service Level Agreement defining service obligations, uptime 
+requirements, response timelines, resolution timelines, and penalties applicable under 
+the contract.  
+
+
+P a g e 26 | 85 
+ 
+ 
+ 
+“Confidential Information” means all information, data, records, credentials, 
+configurations, network diagrams, security policies, audit logs, user information, and 
+any other material disclosed by GIL/DST to the Selected Bidder in connection with the 
+project.  
+ 
+“Force Majeure” means any event beyond the reasonable control of either party, 
+including natural disasters, war, terrorism, epidemic, government restrictions, strikes, or 
+other unforeseen circumstances preventing performance of contractual obligations.  
+ 
+“Applicable Law” means all laws, rules, regulations, notifications, policies, and 
+guidelines issued by Government of India and Government of Gujarat applicable to this 
+contract.  
+ 
+“Subcontracting” means assignment or delegation of any part of the project work to 
+another entity by the Selected Bidder. Unless specifically permitted by GIL/DST in 
+writing, subcontracting shall not be allowed.  
+ 
+“Change Request” means any written request initiated by GIL/DST for modification, 
+enhancement, deletion, or alteration in project scope, deliverables, timelines, or 
+specifications after award of contract.  
+ 
+“Incident” means any event affecting confidentiality, integrity, availability, or security of 
+the IT infrastructure, privileged accounts, or services covered under the project scope.  
+3.1 Earnest Money Deposited (EMD) 
+1.1.54 The bidder shall furnish, as part of its bid, an Earnest Money Deposit as asked in the bid.  
+1.1.55 Proposals not accompanied by EMD shall be rejected as non-responsive. 
+1.1.56 The successful bidder’s EMD will be discharged from GIL only after the signing of the 
+contract and submission of performance security. 
+1.1.57 Unsuccessful bidder’s EMD will be discharged / refunded as promptly as possible, but not 
+later than 30 days of the validity period of the bid.  
+1.1.58 The EARNEST MONEY DEPOSIT shall be forfeited: 
+1.1.58.1 
+If a bidder withdraws its bid during the period of bid validity specified by the 
+bidder on the bid form; 
+1.1.58.2 
+Or in case of a successful Bidder, if the Bidder fails to sign the Contract; or to 
+furnish the performance security. 
+1.1.58.3 
+Exemption from submission of EMD shall be applicable only to eligible bidders 
+as per the prevailing GeM General Terms & Conditions (GTC). No other 
+exemption shall be permitted 
+3.2 Performance Security/Performance Bank Guarantee (PBG) 
+1.1.59 The successful Bidder has to furnish a security deposit so as to guarantee his/her (Bidder) 
+performance of the contract.  
+1.1.60 The Successful bidder has to submit Performance Bank Guarantee @ 5% of total order 
+value within 15 days from the receipt of notification of award/Contract signing for the 
+duration of warranty/contract period from banks (operating in India having branch at 
+Ahmedabad/Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2024/2859/D.M.O. 
+dated 01.05.2025 issued by Finance Department or further instruction issued by Finance 
+department time to time.  (The draft of Performance Bank Guarantee is as per Section 
+10).  
+
+
+P a g e 27 | 85 
+ 
+ 
+1.1.61 The Performance Security shall be in the form of Bank Guarantee valid until 6 months 
+from the date of contract expiry. 
+1.1.62 The proceeds of the performance security shall be payable to the GIL/DST as 
+compensation for any loss resulting from the Service provider’s failure to complete its 
+obligations under the Contract. 
+1.1.63 The Performance Security will be discharged by GIL/DST and returned to the Bidder on 
+completion of the bidder’s performance obligations under the contract. 
+1.1.64 No interest shall be payable on the Performance Bank Guarantee amount. GIL/DST may 
+invoke the above bank guarantee for any kind of recoveries, in case; the recoveries from 
+the bidder exceed the amount payable to the bidder. 
+ 
+3.3 Delivery and Documents 
+1.1.65 Delivery of the Goods shall be made by the Service Provider in accordance with the terms 
+specified by GIL/DST in the Notification of Award.  
+ 
+3.4 Incidental Services 
+1.1.66 The Service Provider is required to provide the following services, including additional 
+services, if any. 
+1.1.67 Performance or supervision of the on-site assembly of the supplied Goods; 
+1.1.68 furnishing of tools required for assembly and/or maintenance of the supplied Goods; 
+1.1.69 furnishing of detailed operations and maintenance manual for each appropriate unit of 
+supplied Goods; 
+1.1.70 Performance or supervision or maintenance and/or repair of the supplied Goods, for the 
+period mentioned in the tender notification. 
+ 
+3.5 Prices 
+1.1.71 Prices payable to the service provider as state in the contract shall be fixed during the 
+performance of the contract. 
+ 
+3.6 Assignment 
+1.1.72 The service provider shall not assign, in whole or in part, its obligations to perform under 
+the Contract, except with prior written consent of Gujarat Informatics Limited. 
+ 
+3.7 Delays in the Service Provider’s Performance 
+1) Delivery of the Goods and performance of the Services shall be made by the Service 
+Provider in accordance with the time schedule specified by GIL/DST. 
+2) If at any time during performance of the Contract, the Service Provider or his sub-
+contractor(s) should encounter conditions impeding timely delivery of the Goods and 
+performance of Services, the Service Provider shall promptly notify GIL/DST in writing of 
+the fact of the delay, its likely duration and its cause(s). As soon as practicable after receipt 
+of the Service Provider’s notice, GIL/DST shall evaluate the situation and may, at its 
+discretion, extend the Service Provider’s time for performance with or without a penalty, 
+in which case the extension shall be ratified by the parties by amendment of the Contract. 
+
+
+P a g e 28 | 85 
+ 
+ 
+3) The bidders shall read & understand the requirements thoroughly & shall adhere to the 
+schedule strictly.  
+ 
+3.8 Termination for Default or otherwise 
+3.8.1 GIL/DST may, without prejudice to any other remedy for breach of contract, by 
+written notice of default sent to the service provider, terminate the Contract in whole 
+or part: 
+a) if the service provider fails to deliver any or all of the services within the period(s) 
+specified in the Contract, or within any extension thereof granted by DST/GIL; or 
+b) If the service provider fails to perform any other obligation(s) under the Contract. 
+c) If the service provider has engaged in corrupt or fraudulent practices in competing for 
+or in executing the Contract. 
+For the purpose of this Clause: 
+ 
+“Corrupt practice” means the offering, giving, receiving or soliciting of anything of 
+value to influence the action of a public official in the procurement process or in 
+contract execution. 
+“Fraudulent practice: a misrepresentation of facts in order to influence a procurement 
+process or the execution of a contract to the detriment of the Borrower, and includes 
+collusive practice among Bidders (prior to or after bid submission) designed to 
+establish bid prices at artificial non-competitive levels and to deprive the Borrower of 
+the benefits of free and open competition;”   
+d) If the Service Provider fails to conform to the quality requirement laid down/third 
+party inspection/consultants opinion. 
+3.8.2 If Bidder has violated / infringement of any Indian or foreign trademark, patent, 
+registered design or other intellectual property rights. Certificate/affidavit regarding 
+non-violation / infringement of any Indian or foreign trademark, patent, registered 
+design or other intellectual property rights. 
+ 
+3.9 Force Majeure 
+3.9.1 Notwithstanding anything contained in the tender, the SP shall not be liable for   
+liquidated damages or termination for default, if and to the extent that, it’s delay in 
+performance or other failures to perform its obligations under the agreement is the result 
+of an event of Force Majeure. 
+3.9.2 For purposes of this clause, “Force Majeure” means an event beyond the control of the 
+service provider and not involving the service provider’s fault or negligence and not 
+foreseeable.  Such events may include, but are not limited to, acts of the Purchase either 
+in its sovereign or contractual capacity, wars or revolutions, fires, floods, epidemics, 
+quarantine restrictions and freight embargoes. 
+3.9.3 If a force Majeure situation arises, the service provider shall promptly notify to GIL/DST 
+in writing within 10 days of such conditions and the cause thereof.  Unless otherwise 
+directed by GIL/DST in writing, the service provider shall continue to perform its 
+obligations under the Contract as far as it is reasonably practical, and shall seek all 
+reasonable alternative means for performance not prevented by the Force Majeure. 
+
+
+P a g e 29 | 85 
+ 
+ 
+ 
+3.10 Termination for Insolvency 
+GIL/DST may at any time terminate the Contract by giving written notice to the Supplier/ 
+service provider, if the Supplier / service provider becomes bankrupt or otherwise 
+insolvent. In this event, termination will be without compensation to the Supplier / 
+service provider, provided that such termination will not prejudice or affect any right of 
+action or remedy which has accrued or will accrue thereafter to GIL/DST 
+3.11 Termination for Convenience 
+3.11.1 GIL/DST by written notice sent to the service provider, may terminate the Contract, in 
+whole or in part, at any time for its convenience.  The notice of termination shall specify 
+that termination is for GIL/DST Department’s convenience, the extent to which 
+performance of the service provider under the Contract is terminated, and the date upon 
+which such termination becomes effective. 
+3.11.2 The services / software that is complete and ready for rendering / deployment within 30 
+days after the service provider’s receipt of notice of termination shall be accepted by 
+GIL/DST at the Contract terms and prices.  For the remaining services, GIL/DST may elect: 
+a) 
+To have any portion completed and delivered at the Contract terms and prices; 
+and/or 
+b) 
+To cancel the remainder and pay to the service provider an agreed amount for 
+partially completed services / software and for services / software previously 
+procured by the service provider. 
+ 
+3.12 Resolution of Disputes 
+In this regard, GIL/DST doesn’t go for any arbitration on dispute and GIL/DST decision will 
+be final and binding on the service provider. 
+ 
+3.13 Governing Language 
+The contract shall be written in English language. All correspondence and other 
+documents pertaining to the Contract, which are exchanged by the parties, shall be 
+written in the same language. 
+ 
+3.14 Applicable Law 
+The Contract shall be interpreted in accordance with the laws of the Union of India and 
+that of the State of Gujarat. 
+ 
+3.15 Taxes and Duties 
+Service providers shall be entirely responsible for all taxes, duties, license fees, octroi, 
+road permits, etc., incurred until delivery of the contracted software/ services to GIL/DST. 
+However, GST in respect of the transaction between GIL/DST and the service provider 
+shall be payable extra as on actual at the time of invoicing. 
+ 
+
+
+P a g e 30 | 85 
+ 
+ 
+3.16 Binding Clause 
+All decisions taken by GIL/DST regarding the processing of this tender and award of 
+contract shall be final and binding on all parties concerned.  
+ 
+Confidential Information, Security and Data: -  
+ 
+The selected bidder will promptly on the commencement of the exit management period 
+supply to GIL/DST, Gujarat or its nominated agencies the following: 
+ 
+i. 
+The selected bidder shall maintain strict confidentiality of all data, credentials, 
+configurations, documentation, and any other information accessed or generated 
+during the course of this project. 
+ii. 
+The bidder shall not share, reproduce, transmit, or disclose any project-related 
+data or information to any third party without prior written consent from Gujarat 
+Informatics Limited (GIL) or the concerned Government authority. 
+iii. 
+All data, configurations, and materials remain the exclusive property of the 
+Government of Gujarat (GoG) / GIL. 
+iv. 
+Any breach of confidentiality or misuse of data will result in immediate termination 
+of the contract and may invite legal proceedings under applicable laws, including 
+but not limited to: 
+ 
+The Information Technology Act, 2000 (and its amendments) 
+ 
+The Digital Personal Data Protection Act, 2023 (DPDP Act) 
+ 
+The Indian Penal Code, 1860 (Sections relating to data and computer misuse) 
+ 
+Any other laws or Government of India directives relevant to data security and 
+protection 
+v. 
+The selected bidder shall sign a Non-Disclosure Agreement (NDA) with GIL at the 
+time of contract execution, binding all project staff and subcontractors associated 
+with the project. 
+vi. 
+The bidder shall ensure that: 
+ 
+All project personnel follow data classification and handling policies. 
+ 
+Systems and devices used are secure and comply with GoG’s Information 
+Security Policy. 
+ 
+Access logs and credentials are handed over to GIL upon project completion 
+ 
+The bidder has to ensure this that implementation is inline with Audit 
+requirements  
+vii. The selected bidder shall provide GIL/DST or its nominated agencies with a 
+recommended exit management plan ("Exit Management Plan") which shall deal 
+with at least the following aspects of exit management in relation to the SLA as a 
+whole and in relation to the Project Implementation, the Operation and 
+Management SLA and SOWs. 
+
+
+P a g e 31 | 85 
+ 
+ 
+viii. A detailed program of the transfer process that could be used in conjunction with 
+a replacement operator including details of the means to be used to ensure 
+continuing provision of the services throughout the transfer process or until the 
+cessation of the services and of the management structure to be used during the 
+transfer; and 
+ix. 
+Plans for the communication with such of the selected bidder/authorised 
+partner's, staff, suppliers, customers and any related third party as are necessary 
+to avoid any material detrimental impact on GIL/DST operations as a result of 
+undertaking the transfer; and 
+x. 
+If applicable, proposed arrangements and Plans for provision of contingent support 
+in terms of business continuance and hand holding during the transition period, to 
+GIL/DST or its nominated agencies, and Replacement Operator for a reasonable 
+period, so that the services provided continue and do not come to a halt. 
+xi. 
+The Bidder shall re-draft the Exit Management Plan annually after signing of 
+contract to ensure that it is kept relevant and up to date. 
+xii. Each Exit Management Plan shall be presented by the selected bidder to and 
+approved by GIL/DST or its nominated agencies. 
+xiii. In the event of termination or expiry of SLA, Project Implementation, Operation 
+and Management SLA or SOWs each party shall comply with the Exit Management 
+Plan. 
+xiv. During the exit management period, the selected bidder shall use its best efforts 
+to deliver the services. 
+xv. 
+Payments during the Exit Management period shall be made in accordance with 
+the Terms of Payment Clause. 
+xvi. It would be the responsibility of the selected bidder to support new operator 
+during the transition period. 
+ 
+3.17 GIL/DST, Gandhinagar, reserves the right: - 
+1.1.1 
+To vary, modify, revise, amend or change any of the terms and conditions mentioned 
+above; or  
+1.1.2 
+To reject any or all the tender/s without assigning any reason whatsoever thereof or may 
+terminate the tender process midway without assigning any reason.   
+1.1.3 
+The decision regarding acceptance of tender by GIL/DST will be full and final. 
+1.1.4 
+Conditional tenders shall be summarily rejected. 
+1.1.5 
+GIL/DST is free to phase out the work if it feels it necessary. 
+ 
+ 
+ 
+
+
+P a g e 32 | 85 
+ 
+ 
+SECTION 4: SCOPE OF WORK 
+a) Implementation of PIM/Pam Solution 
+4.1 Scope of Work 
+The selected bidder shall be responsible for Selection of Agency for Supply, Installation, 
+Commissioning, Testing, Operations and Maintenance of PIM/PAM Solution in Aadhaar 
+Authentication Environment at GSDC for Department of Science & Technology, Government of 
+Gujarat. 
+The proposed solution shall provide centralized management, monitoring, governance, and 
+security of privileged accounts, privileged sessions, administrative credentials, and privileged 
+access activities across the Government IT infrastructure hosted at Gujarat State Data Centre 
+(GSDC), departmental environments, cloud workloads, and associated infrastructure. 
+The bidder shall ensure installation, deployment, and integration of the PAM solution in line with 
+the defined requirements, timelines, and Service Level Agreements (SLAs) specified in this RFP. 
+The bidder must also provide a 24x7x365 support contact service centre for logging service 
+requests to OEM Portal, along with an escalation matrix containing the name, designation, and 
+contact details of concerned personnel. 
+Scope of work encompasses the Supply, Installation, Commissioning, Testing, Operations and 
+Maintenance of PIM/PAM Solution by the successful bidder, in accordance with the agreed 
+architecture and component specifications defined by the GIL/DST. The bidder shall ensure that 
+the entire solution implementation adheres to industry best practices and deployment standards 
+as recommended by the Original Equipment Manufacturer (OEM). 
+The SI/OEM shall provide the complete end-to-end PIM/PAM Solution, including all required 
+hardware, software, storage, operating system, database (if required), licenses, accessories, 
+networking components (if required), and any other components necessary for successful 
+deployment, operation and maintenance of the solution. No dependency shall be placed on the 
+existing Gujarat State Data Centre (GSDC) infrastructure unless specifically approved by GIL/DST. 
+The detailed scope of work shall include, but not be limited to, the following activities: 
+4.1.1 Key Functional and Technical Features: 
+ 
+1. 
+Single Sign-On (SSO) for privileged accounts (root, Administrator, sys, sa) 
+across Windows, Linux, Unix, Database Servers, Network Devices, Security 
+Devices (Firewalls, IPS, WAF, Proxy etc.), and Storage devices within the 
+Department environment. 
+2. 
+SSO for client applications (Toad, PL/SQL, Oracle, Microsoft Term Serv, 
+
+
+P a g e 33 | 85 
+ 
+ 
+VMware vSphere, Putty, RDP, SSMS, etc.) and browser-based applications. 
+3. 
+Support for virtualized environments including VMware, OpenStack, Microsoft 
+Hyper-V. 
+4. 
+High Availability (HA) architecture with Active-Active or Active-Passive modes 
+at DC site in standalone mode. 
+5. 
+Command-level logging, keystroke capture, full session video recording for 
+SSH and database access. 
+6. 
+Password vault with secure storage, rotation, retrieval, and expiration policies 
+for privileged accounts. 
+7. 
+Support for two-factor authentication (2FA) and dual control/four-eyes 
+principle for password access. 
+8. 
+Main password repository must be highly secure, encrypted, tamper-proof. 
+9. 
+Capability to retain logs and recordings for at least 6 months as per 
+UIDAI/CERT-In guidelines for forensic and audit purposes. 
+10. Integration capability with devices like routers, switches, firewalls, NIPS, DDoS 
+appliances, SIEM, load balancers, etc., with API support for existing security 
+tools. 
+11. Integration with centralized Active Directory (AD) infrastructure at distributed 
+locations with secure, multi-location integration and intelligent routing. 
+12. Support seamless integration with GIL/DST’s EMS/NMS Tool for service 
+request/change request validation, workflow, approvals, and ticket 
+management. 
+13. Compliance reporting customizable per GIL/DST’s requirements, aligned with 
+GoI, MeitY, UIDAI, CERT-In, ISO 27001, and other relevant guidelines. 
+14. Solution should be modular, scalable horizontally and vertically, and ready for 
+IPv6 and TLS 1.3. 
+15. Bidder must indicate the necessary hardware and Storage size which would be 
+capable of holding 6 Month logs as per UIDAI/CERT-In guidelines and recording 
+for forensic and investigation purpose.  
+16. Bidder must specify hardware requirements (necessary hardware and Storage 
+size which would be capable of holding 6 months’ logs and recording for 
+forensic and investigation purpose) based on their understanding of the 
+overall solution architecture based on requirement. The same must be 
+documented and shared with GIL/DST along with justification/ reasonability.  
+17. The bidder shall ensure the availability of a minimum required manpower, 
+including a dedicated Project Manager, throughout all project phases: Design, 
+Deployment, and User Acceptance Testing (UAT). Furthermore, the same core 
+
+
+P a g e 34 | 85 
+ 
+ 
+team members shall be retained for the subsequent Operations and 
+Maintenance (O&M) phase at GIL/DST. 
+18. The specifications given are minimum. Bidders can quote equivalent or higher 
+technical specifications to meet the requirements of GIL/DST. The RFP scope 
+of work and annexures together constitute the overall requirements of the 
+solution. 
+19. Bidder has to quote for highest/ premium support available from the OEM 
+along with the documentation/ datasheet specifying the details of all the 
+deliverables like service part code, features, etc. for OEMs. 
+20. The bidder shall clearly specify the hardware and storage requirements 
+necessary to support the proposed solution, including capacity to retain at 
+least 6 month’s logs and recordings for forensic and investigation purposes. 
+21. All the licenses provided as part of BoM should strictly adhere to requirements 
+of the RFP. If during the Contract period, it is observed by the GIL/DST that 
+provided licenses are not adhering to the RFP requirements then all the 
+additional software/licenses should be provided and configured without any 
+additional cost to the GIL/DST. 
+22. The solution must be entirely on-premises. All the features requested in the 
+RFP, shall operate within the on-premises environment without the need for 
+any external internet or cloud connectivity. Internet access will be permitted 
+for the following purposes, adhering to the state data center policy: 
+ Signature updates 
+ Hotfix application 
+ System upgrades 
+ Accessing native threat intelligence feeds, etc. 
+23. The SI will provide weekly progress updates to GIL/DST, discussing the 
+governance structure and project milestones. 
+24. The requirements must be based on the bidder’s understanding of the overall 
+solution architecture and project scope. 
+25. A detailed document specifying these requirements, along with proper 
+justification and reasonability, must be submitted to GIL/DST. 
+26. The successful bidder shall be solely responsible for supply, installation, 
+configuration, 
+integration, 
+testing, 
+commissioning, 
+operation 
+and 
+maintenance of the complete solution without dependency on GSDC 
+infrastructure. 
+27. The proposed PIM/PAM Solution shall support integration with Active 
+Directory (AD) as well as standalone/workgroup-based systems (non-AD), 
+
+
+P a g e 35 | 85 
+ 
+ 
+enabling 
+centralized 
+privileged 
+access 
+management 
+across 
+both 
+environments. 
+28. The supplied software’s (wherever applicable) should include appropriate 
+number of genuine OEM perpetual licenses (as applicable as per OEM licensing 
+policy). 
+29. All the licenses provided as part of BoM should strictly adhere to requirements 
+of the RFP. If during the Contract period, it is observed by the GIL/DST that 
+provided licenses are not adhering to the RFP requirements then all the 
+additional hardware/software/licenses should be provided and configured 
+without any additional cost to the GIL/DST. 
+30. The SI will provide bi-weekly progress updates to GIL/DST, discussing the 
+governance structure and project milestones. 
+31. The bidder shall size and supply all hardware, storage and software required 
+for the proposed solution considering the project requirements and future 
+growth during the Initial Contract Period. 
+ 
+4.1.2 System Requirement Specification and Documentation. 
+The bidder shall provide detailed documentation including but not limited to: 
+4.1.2.1 
+Architecture & Design 
+ 
+Architecture and Design Document with detailed traffic flow diagrams 
+between devices. 
+ 
+Infrastructure Build and Deployment Topology with complete hardware 
+and software specifications. 
+The bidder is mandated to engage OEM professional services to design the solution document 
+for GIL/DST along with as-built configurations. OEM to incorporate all industry best practices in 
+the design of PAM. 
+ 
+OEM professional services will provide High-Level Design (HLD) and Low-
+Level Design (LLD) documents. These designs will consider the technologies 
+being procured within this RFP and integrate seamlessly with the existing 
+security infrastructure (e.g., SIEM, EMS/NMS Tool, etc.). 
+4.1.2.2 
+Testing & Validation 
+ 
+OEM professional services will oversee the implementation phase and 
+provide necessary guidance and support throughout. 
+ 
+Test Cases and Test Results for both pre-implementation and post-
+implementation phases. 
+ 
+The PAM solution’s alerting framework should encompass advanced 
+analytics capabilities, including AI/ML-driven behaviour monitoring, 
+anomaly detection, and threat-hunting use cases, in addition to traditional 
+
+
+P a g e 36 | 85 
+ 
+ 
+signature-based alerts for known threats. 
+ 
+Comprehensive Testing Documentation, including validation of system 
+performance and security controls. 
+ 
+Optimizing & Deployment Validation: Solutions will be fine-tuned to meet 
+technical specifications, ensuring a false positive rate of no more than 10% 
+after one year. The implemented solution will undergo rigorous validation 
+and certification by the respective OEM Professional Services, adhering to 
+industry best practices. This assessment will include a comprehensive 
+review to ensure the solution meets all defined requirements. 
+ 
+If any discrepancies or issues are identified during this process, the OEM 
+will provide a detailed report with specific recommendations for corrective 
+actions. The SI is responsible for implementing the necessary changes to 
+address all identified issues and achieve successful certification. 
+ 
+Successful completion of this rigorous assessment and the implementation 
+of all recommended changes are prerequisites for final sign-off and 
+acceptance of the solution. 
+4.1.2.3 
+Operations & Support 
+ 
+User Manuals, Run Books, Standard Operating Procedures (SOPs), and 
+Frequently Asked Questions (FAQs). 
+ 
+Application Upgrade and Patch Management Documentation. 
+ 
+Support and Escalation Matrix for both the OEM and the selected bidder. 
+4.1.2.4 
+Project Management & Reporting 
+ 
+Project Plan with milestones, resource allocation, and deliverables. 
+ 
+Comprehensive list of reports related to modules, customizations, and 
+interfaces. 
+ 
+Industry best practice use cases, along with GIL/DST specific 
+customizations. 
+ 
+4.1.3 Implementation and Commissioning 
+The selected bidder shall be responsible for the end-to-end installation, 
+commissioning, configuration, and stabilization of the proposed Privileged Access 
+Management (PAM) solution for GIL on behalf of Department of Science & Technology, 
+Government of Gujarat. The scope of work shall include, but not be limited to, the 
+following: 
+Solution Provisioning 
+ 
+Supply, installation, configuration, testing, and commissioning of the on-
+premises PAM solution as per the specifications outlined in Annexure B – 
+Technical Specifications. 
+
+
+P a g e 37 | 85 
+ 
+ 
+ 
+The PAM solution must support at least 50 concurrent users across the State 
+Data Centre (GSDC), Gandhinagar. 
+ 
+High Availability (HA) shall be maintained at the GSDC in either Active–Active 
+or Active–Passive mode, as finalized during design. 
+Hardware & Software Components 
+ 
+Hardware: The SI/OEM shall provide the complete end-to-end PIM/PAM 
+Solution, including all hardware, software, storage, operating system, 
+database (if required), licenses, accessories, networking components (if 
+required), and all other components necessary for successful deployment, 
+operation and maintenance of the solution. No dependency shall be placed on 
+the existing Gujarat State Data Centre (GSDC) infrastructure unless specifically 
+approved by GIL/DST. 
+ 
+The successful bidder shall carry out proper sizing of the complete PIM/PAM 
+Solution considering the requirements specified in this RFP and the projected 
+workload for the entire Initial Contract Period of Three (3) Years, including 
+future growth. The bidder shall supply all hardware, storage, software, 
+licenses and associated infrastructure required to meet the prescribed 
+performance, availability and scalability requirements. 
+ 
+Software: The bidder shall supply all required software licenses for successful 
+deployment of the PAM solution, including (but not limited to) PAM 
+application licenses, Vault licenses, OS licenses, database licenses, and any 
+other associated middleware/software components. 
+ 
+The proposed solution must include licensing support for database clustering 
+(e.g., Always On, Pacemaker, or equivalent). In case additional database 
+licenses are required for each cluster node, whether on Windows Server 
+Failover Clustering (WSFC) or Linux-based clustering environments, the bidder 
+shall provision and include the same in their proposal. The bidder shall include 
+all required licenses in the proposal to ensure there are no hidden or 
+additional costs. 
+Installation & Configuration 
+ 
+Installation and deployment of the PAM solution at DC site. 
+ 
+Configuration of HA at the State Data Centre. 
+ 
+Configuration of all features, modules, and functionalities as specified in 
+this RFP, ensuring full compliance with GIL/DST requirements. 
+ 
+The selected bidder shall strictly adhere to the Gujarat State Data Centre Policy and 
+Guidelines throughout the contract period. 
+Integration 
+ 
+Solutions will be integrated with existing infrastructure, including security solutions, 
+servers, network devices, endpoints, and other IT assets. 
+ 
+The bidder will recommend secure communication methods and assist DST/GIL in 
+defining use cases. All configurations and changes will be documented as part of the 
+
+
+P a g e 38 | 85 
+ 
+ 
+policy and process documentation. 
+ 
+Use cases will undergo the full lifecycle, including creation, testing, fine-tuning of 
+false positives, automation, and notifications. 
+ 
+The SI will provide detailed documentation on scripts and configurations, including 
+their purpose, functionality, and relevance. 
+Optimizing & Deployment Validation 
+ 
+Solutions will be fine-tuned to meet technical specifications, ensuring a false positive 
+rate of no more than 10%. 
+ 
+The implemented solution will undergo rigorous validation and certification by the 
+respective OEM Professional Services, adhering to industry best practices. This 
+assessment will include a comprehensive review to ensure the solution meets all 
+defined requirements. 
+ 
+If any discrepancies or issues are identified during this process, the OEM will provide 
+a detailed report with specific recommendations for corrective actions. The SI is 
+responsible for implementing the necessary changes to address all identified issues 
+and achieve successful certification. 
+ 
+Successful completion of this rigorous assessment and the implementation of all 
+recommended changes are prerequisites for final sign-off and acceptance of the 
+solution. 
+Documentation & Knowledge Transfer 
+ 
+Preparation of complete project documentation covering architecture, design, 
+deployment, integration, configuration, SOPs, operational procedures, and handover. 
+ 
+Stepwise documentation of all administrative and operational activities. 
+ 
+Delivery of User Manuals, Run Books, SOPs, and FAQs to support day-to-day 
+operations by GIL/DST teams. 
+Compliance & Security 
+ 
+The PAM solution shall comply with all relevant Government of India and State 
+Government cybersecurity frameworks. 
+ 
+Implementation of rules, reports, dashboards, and alerts based on advisories issued 
+by NCIIPC, CERT-In, MeitY, UIDAI, and DST/GIL. 
+Project Delivery & Sign-off 
+ 
+End-to-end completion of the project, including system testing, user acceptance 
+testing (UAT), and performance validation. 
+ 
+Formal handover and project sign-off upon successful deployment, validation, and 
+acceptance by GIL/DST. 
+Support & Maintenance 
+
+
+P a g e 39 | 85 
+ 
+ 
+ 
+Post-implementation support for a minimum of three (3) years (+2 years extendable 
+at the discretion of tenderer) from the date of Go-Live (T2), as defined in Table-1: 
+Payment Milestones and Deliverables. 
+ 
+After receiving sign-off from GIL/DST, the bidder will take responsibility for managing 
+and monitoring the deployed solutions. This includes ensuring continuous operation, 
+performance optimization, and regular updates. 
+ 
+Onsite support shall be provided for the entire contract period whenever issues 
+cannot be resolved remotely. 
+ 
+All support engineer deployed for GIL/DST shall be direct employees of the bidder. 
+The bidder shall provide a Single Point of Contact (SPOC) to coordinate delivery, 
+installation, support, SLA adherence, and closure of all contractual obligations. 
+ 
+The successful bidder shall be solely responsible for supply, installation, 
+configuration, integration, testing, commissioning, operation and maintenance of the 
+complete solution without dependency on GSDC infrastructure. 
+ 
+Bidder shall be responsible to develop and maintain Standard Operating Procedures 
+(SOP) as per industry best practices. 
+ 
+A RACI matrix will be created to clearly define roles and responsibilities for all 
+stakeholders involved in the operation and maintenance of the solutions. 
+Reporting 
+ 
+ 
+Regular submission of compliance reports, SLA performance reports, and audit 
+documentation as required by GIL/DST. 
+ 
+Participation in periodic reviews and audits conducted by GIL/DST or designated third 
+parties. 
+ 
+Continuous enhancement of the PAM solution based on evolving threat landscapes, 
+government advisories, and operational needs. 
+4.1.4 Active Directory (AD) Bridging 
+1. 
+The PAM solution shall enable secure, seamless, and encrypted integration 
+of applications with DST/GIL’s centralized Active Directory (AD). 
+2. 
+The proposed PIM/PAM Solution shall support integration with Active 
+Directory (AD) as well as standalone/workgroup-based systems (non-AD), 
+enabling 
+centralized 
+privileged 
+access 
+management 
+across 
+both 
+environments. 
+3. 
+GIL maintains a distributed AD infrastructure at Gujarat State Data Centre 
+(GSDC). DC has separate AD configurations with respect to servers and 
+storage, and AD IDs are maintained independently without interconnection. 
+The PAM solution must provide centralized integration of all AD IDs across 
+these locations. 
+4. 
+The solution shall support multi-location/distributed architectures and 
+provide intelligent routing capabilities, ensuring users are seamlessly 
+
+
+P a g e 40 | 85 
+ 
+ 
+connected to the intended target system in the most secure and efficient 
+manner. The design should prioritize security, simplicity, and user 
+experience. 
+4.1.5 Cybersecurity and Data Protection  
+Cyber Security Requirements 
+1. 
+The successful bidder shall ensure that the proposed solution and associated 
+services comply with the cybersecurity requirements of GIL/DST, 
+Government of Gujarat, in order to safeguard the confidentiality, integrity, 
+and availability (CIA) of information systems. 
+2. 
+The successful bidder shall not copy, transfer, or extract any data obtained 
+while performing services under this RFP onto any media (including hard 
+drives, flash drives, cloud storage, or other electronic devices), except where 
+express written approval has been provided by GIL/DST. 
+3. 
+The successful bidder acknowledges that the Government of India has 
+declared certain critical computer resources as “Protected Systems” under 
+the Information Technology Act, 2000. Accordingly, the bidder agrees and 
+undertakes to report to GIL/DST and its designated advisory bodies the 
+occurrence of all Cyber Incidents. For the purpose of this RFP, “Cyber 
+Incidents” shall mean any attempted or successful breach of GIL/DST’s 
+information systems, unauthorized access, malware infection, denial of 
+service, or compromise of IT-based resources. 
+4. 
+In the event that the bidder detects malware and/or a Cyber Incident, the 
+bidder shall immediately notify GIL/DST in writing, and in no case later than 
+24 hours of detection. 
+5. 
+All communications regarding Cyber Incidents shall be clear, factual, and 
+concise, providing complete details of: 
+ 
+The nature and scope of the incident, 
+ 
+Steps taken to mitigate the impact, 
+ 
+Measures initiated to prevent recurrence, and 
+ 
+Any guidance required from DST/GIL. 
+6. 
+The bidder shall also provide a post-incident report highlighting root cause 
+analysis, corrective actions, and recommendations to further strengthen 
+GIL/DST’s cybersecurity posture. 
+7. 
+The successful bidder agrees to strictly comply with these obligations and 
+shall ensure that all security practices are aligned with advisories issued by 
+CERT-In, NCIIPC, MeitY, and GIL/DST from time to time. 
+Data Privacy and Confidentiality Requirements 
+1. 
+The successful bidder shall undertake that it will not disclose, share, or part 
+with any data made available to it in any form by GIL/DST. This obligation 
+extends to the bidder’s agents, representatives, and/or employees engaged 
+
+
+P a g e 41 | 85 
+ 
+ 
+in connection with the execution of this contract. The bidder shall also obtain 
+appropriate undertakings from all employees and resources engaged in the 
+project regarding strict maintenance of confidentiality of any data collected, 
+processed, stored, archived, or logged on devices/endpoints. 
+2. 
+Any data collected, processed, stored, archived, or logged on 
+devices/endpoints during the contract period and thereafter shall be 
+governed by the applicable provisions of the Information Technology Act, 
+2000, its amendments, and other relevant laws of India, and shall remain the 
+property of GIL/DST, Government of Gujarat. 
+3. 
+The bidder shall comply with all applicable laws, rules, and regulations 
+relating to privacy, confidentiality, and security of information, including but 
+not limited to the Information Technology Act, 2000, rules and guidelines 
+issued by the Government of India, Government of Gujarat, CERT-In, MeitY, 
+NCIIPC, and any other competent authority from time to time (collectively 
+referred to as “Privacy Laws”). The bidder shall also follow best industry 
+practices and standards relating to data protection, privacy, confidentiality, 
+and information security. 
+4. 
+In accordance with industry best practices and applicable Privacy Laws, the 
+bidder shall implement appropriate controls, processes, and safeguards to 
+ensure confidentiality, integrity, and availability of all confidential 
+information belonging to GIL/DST. 
+5. 
+The bidder shall establish and maintain an information security risk 
+management framework and operational processes that are compliant with 
+applicable laws, rules, and guidelines issued by the Government of India, 
+Government of Gujarat, and other regulatory authorities. 
+6. 
+The bidder shall be responsible for immediate reporting of any suspected or 
+confirmed fraud, cyber-attack, data breach, or suspicious activity that occurs 
+during the execution of the project or in relation to GIL/DST’s confidential 
+information. Such reporting must be made to GIL/DST within the prescribed 
+timelines and in the prescribed format. 
+4.1.6 Knowledge Transfer (KT) and Training 
+1. A Knowledge Transfer (KT) plan shall be defined, covering solution 
+architecture, software components, integration, customization, deployment, 
+troubleshooting, policy creation, reporting, and administration. 
+2. The successful bidder shall provide structured training programs for GIL/DST 
+personnel to ensure independent operation, administration, and 
+management of the solution. 
+3. The bidder shall also provide end-user manuals, administrator manuals, and 
+FAQs for reference and self-learning. 
+4. A detailed implementation strategy and plan outlining deployment, 
+integration, and management requirements shall be submitted by the bidder 
+along with the KT plan and training agenda as part of the bid. 
+
+
+P a g e 42 | 85 
+ 
+ 
+5. The KT sessions must comprehensively cover architecture, integration, 
+customization, deployment guidelines, troubleshooting, reporting, and other 
+relevant aspects. 
+ Post-implementation, the successful bidder shall train GIL/DST personnel on: 
+o Independent operation of the solution 
+o Policy/rule creation and configuration 
+o Report generation and analysis 
+o Troubleshooting and issue resolution 
+o Familiarization with all major features and administrative functions 
+4.1.7 Go-Live and Post-Implementation Support 
+ 
+Completion of customization as per GIL/DST technical specifications. 
+ 
+End-to-end responsibility of successful bidder for planning, execution, and 
+handholding during Go-Live. 
+ 
+Fixing all implementation issues without additional cost post Go-Live. 
+ 
+Operation support for 4 to 12 weeks post-Go-Live for stabilization. 
+ 
+Deployment of 24x7x365 support service center team for logging service requests 
+to OEM Portal, along with an escalation matrix. 
+ 
+OEM premium support and full facility management services for a minimum of 
+three years (+2 years extendable at the discretion of GIL/DST) . 
+ 
+Proactive monitoring, preventive maintenance, patching, upgrades, and capacity 
+management. 
+ 
+Regular governance and compliance reporting. 
+ 
+On-boarding of devices and users added post go-live in state data center. 
+4.1.8 Training 
+ 
+Training to designated GIL/DST and monitoring agency personnel delivered in 
+three phases: 
+o Pre-deployment overview training. 
+o Detailed 
+post-installation 
+training 
+covering 
+installation, 
+configuration, maintenance, and troubleshooting. 
+o Final system training during solution handover. 
+ 
+Recurring 7-day Onsite refresher training sessions scheduled at the end of the 1st 
+and 2nd year of operation for 8-10 officials. 
+ 
+Onsite OEM certification training for at least 5 GIL/DST officials must be 
+included to ensure certified competency in the PAM solution. 
+4.1.9 Governance and Compliance 
+ 
+Adherence to guidelines and standards by Government of India, MeitY, 
+UIDAI, CERT-In, GIL/DST, and other regulatory bodies. 
+ 
+Audit-ready system with session logs, access reports, and evidence 
+artefacts maintained. 
+ 
+No deviation allowed from BoM or agreed specifications; unauthorized 
+
+
+P a g e 43 | 85 
+ 
+ 
+substitutions may lead to bid rejection. 
+ 
+Periodic governance reports including SLA compliance, incident 
+management, and usage analytics. 
+ 
+Hardware/Software Bill of Materials (HBOM/SBOM) in SPDX or CycloneDX 
+format. 
+4.1.10 Point of Contact 
+ 
+The bidder shall appoint a Technical Account Manager for all 
+correspondence and coordination with GIL/DST for project and support 
+phases. 
+4.1.11 Documentation 
+General Documentation Requirements: 
+ All documentation must be provided in properly bound volumes using A4-size 
+sheets. 
+ Three sets of hard copies and one soft copy (on USB) of the final 
+documentation must be submitted. 
+Documentation Content: 
+ The documentation must include high-level design, detailed design, and 
+configuration details for individual features set on various appliances. It should 
+also cover general testing, scenario-based failover testing, Standard Operating 
+Procedures (SOPs), best practices, and any other relevant materials to fulfill 
+the documentation criteria. 
+ The bidder is responsible for creating SOPs for all in-scope solutions and 
+processes. These documents should be reviewed and updated semi-annually 
+or whenever there are changes in laws or regulatory requirements. 
+Delivery and Installation Reports: 
+ The vendor must submit Delivery and Installation Reports, including part 
+numbers for all components supplied. 
+ Warranty certificates and license copies for all items supplied must also be 
+provided. 
+Process Documentation: 
+ The vendor must document all processes related to the PIM/PAM. 
+ All process documentation should be included as part of the final submission. 
+Ongoing Documentation Updates: 
+ All documentation created as part of this RFP must be updated annually or 
+whenever there are changes to regulatory requirements or any other legal 
+requirements. 
+4.1.12 General Requirement 
+a) Escalation Matrix: The vendor must provide an escalation matrix in 
+consultation with GIL/DST for different categories of support calls to ensure 
+timely resolution of issues. 
+
+
+P a g e 44 | 85 
+ 
+ 
+b) Dedicated Support Personnel: Support personnel must be dedicated 
+resources assigned exclusively to GIL/DST, ensuring consistent and reliable 
+service. 
+c) Support Personnel Expertise: Support personnel should be skilled in regular 
+configuration tasks, integration with other log sources, rule and policy 
+creation as per GIL/DST’s requirements, administration tasks, patch 
+management, user management, and backup procedures. 
+d) Troubleshooting and Reporting: On-site support personnel must be capable 
+of troubleshooting issues, maintaining logs of reported problems, and 
+providing root cause analysis and resolution reports to GIL/DST. 
+e) Change and Configuration Management: The vendor must implement 
+proper change, configuration, backup, and security management 
+procedures in alignment with CERT-IN guidelines. These procedures must 
+be documented, followed, and maintained, with a copy submitted to 
+GIL/DST. 
+f) Reinstallation and Reconfiguration: On-site support personnel should be 
+able to reinstall or reconfigure security components in the event of system 
+failures, crashes, or upgrades. They should also support any third party 
+security installations, if applicable. 
+g) Product Upgrades: The vendor is responsible for upgrading products to the 
+latest version, following a risk based approach. Upgrade procedures must 
+be documented and submitted to GIL/DST for approval before 
+implementation. 
+h) Business Continuity Implementation: The vendor must ensure all necessary 
+business continuity implementations are performed for the solutions as 
+required. 
+i) Root Cause Analysis and Corrective Actions: The vendor must conduct root 
+cause analysis for any incidents, take corrective actions, and provide 
+recommendations for improving policies, procedures, tools, and other 
+aspects. Information must be shared with GIL/DST officials. 
+j) Compliance with GIL/DST Policies and Security Standards: The vendor 
+must comply with the following requirements: 
+ GIL/DST has the right to review the vendor’s processes and SOPs. 
+ GIL/DST can assess the skill sets of vendor resources. 
+ Advance notice of deployed resources is required, and a proper handover 
+process must be followed for new personnel. 
+ All necessary changes must be made to the security infrastructure in compliance 
+with ISO 27001 or other relevant security standards and audit requirements.  
+
+
+P a g e 45 | 85 
+ 
+ 
+b. Support and Facility Management Services 
+ 
+From the 'Date of commissioning/Go-Live' of project, the bidder shall 
+deploy on-site technical resources as per RFP for a period of three 
+(3) years (+2 years extendable from the date of successful 
+commissioning (Go-Live, T2, as certified under Table-1) 
+ 
+The Maintenance & Support Service shall commence for a period as 
+specified in relevant BoM / technical specifications for all software 
+products. During this period, the SI shall manage operations for Govt. 
+of Gujarat broadly based on SOP developed on NIST Framework 
+along with providing ATS/AMC for the deployed devices. 
+ 
+24x7x365 dedicated support contact service centre for logging service 
+requests to OEM, along with an escalation mechanism. 
+ 
+Highest available OEM support tier to be procured and maintained. 
+ 
+Comprehensive onsite facility management including resource 
+deployment, monitoring, issue resolution. 
+ 
+Software lifecycle management including patching, bug fixes, upgrades 
+throughout contract period. 
+ 
+SLA adherence with performance and availability targets. 
+ 
+In addition to the government holidays, each resource is entitled to 18 
+Leaves for a calendar year on pro rata basis with prior approval from 
+Project Head/ Nodal Officer /Designated Official. However, leave is not 
+a right and, as per requirement of the project, Project Head may deny 
+leave(s) to resource(s). 
+ 
+In case of an emergency, the resource may work remotely for up to 
+three days in a month; however, prior approval must be obtained from 
+the Project Head. 
+ 
+Deployed resources may be required to work on weekends, holidays, 
+or beyond office hours with advance notice. 
+ 
+The deployed technical resources from SI shall provide required 
+technical support for the installed hardware/software/solution/ 
+integrated infrastructure and shall be responsible for deploying the 
+latest updates, patches and upgrades as and when released by 
+respective OEM in consultation with the designated officer/ GIL Team. 
+The technical resources shall carryout day-to-day operations as 
+mentioned in the clause but not limited to it. 
+ 
+Payment Milestones and Deliverables (Table-1) 
+a) Payment Schedule – Payments to the successful bidder, after successful completion of the 
+target milestones (including specified project deliverables), shall be made as under: - 
+
+
+P a g e 46 | 85 
+ 
+ 
+S. 
+No. 
+Milestone / 
+Phase 
+Deliverables 
+Timelines (T 
+= Date of 
+Work Order) 
+Payment 
+1 
+Completion of 
+Activities 
+applicable and 
+as mentioned 
+in Chapter-4 
+(A) 
+• HLD & LLD Document.• 
+Delivery of complete 
+PIM/PAM Solution with High 
+Availability (HA) as per Scope 
+of Work, fully operational at 
+GSDC.• OEM 
+Warranty/Support 
+Certificates of all 
+components.• OEM 
+Certification confirming 
+implementation in 
+accordance with the Scope of 
+Work and industry best 
+practices.• Request for UAT 
+along with Test Case Report.• 
+Support Escalation Matrix.• 
+Installation, Configuration & 
+Integration Documents.• CVs 
+along with Qualification & 
+Experience documents of 
+deployed resources.• 
+Deployment of resources. 
+T1 = T + 90 
+Days 
+Nil 
+2 
+UAT & Go-Live 
+• Signed UAT Certificate.• 
+Successful Go-Live Certificate. 
+T2 = T1 + 30 
+Days 
+100% of the total 
+quoted/agreed 
+amount of BoQ-1 
+(CAPEX) shall be 
+released after 
+successful UAT & Go-
+Live, after deduction 
+of applicable 
+Liquidated Damages 
+(LD), if any. 
+3 
+Completion of 
+activities 
+applicable and 
+as mentioned 
+in Chapter-4 
+(B) during the 
+Initial Contract 
+Period 
+• SLA Report along with 
+Manpower SLA Report.• 
+Updated SOP and Rule 
+Review Report (where 
+applicable).• OEM 
+Support/Warranty Certificate 
+(where applicable).• 
+Satisfactory Performance 
+At the end of 
+each 
+completed 
+quarter 
+during the 
+Initial 
+Contract 
+Period. 
+Payment of BoQ-2 
+(Initial Contract 
+Period O&M) shall be 
+released quarterly in 
+twelve (12) equal 
+instalments, after 
+deduction of 
+applicable SLA 
+penalties, manpower 
+
+
+P a g e 47 | 85 
+ 
+ 
+Report from the 
+OIC/Designated Officer. 
+penalties and other 
+recoveries, if any. 
+4 
+Completion of 
+Activities 
+during the 
+Contract 
+Extension 
+Period 
+(Applicable 
+only if the 
+Contract is 
+extended by 
+GIL/DST) 
+• SLA Report along with 
+Manpower SLA Report.• 
+Updated SOP and Rule 
+Review Report.• OEM 
+Support/Warranty Certificate 
+(where applicable).• 
+Satisfactory Performance 
+Report from the 
+OIC/Designated Officer. 
+At the end of 
+each 
+completed 
+quarter 
+during the 
+Contract 
+Extension 
+Period. 
+Payment shall be 
+released quarterly as 
+per the rates quoted 
+in BoQ-3, after 
+deduction of 
+applicable SLA 
+penalties, manpower 
+penalties and other 
+recoveries, if any. 
+Milestone-wise Applicable Penalty 
+ 
+S. 
+No. 
+Milestone / Phase 
+Applicable Penalty for Delay / Non-Compliance 
+1 
+Completion of 
+Activities under 
+Chapter-4 (A) 
+Delay beyond T + 90 Days, attributable to the bidder, shall attract 
+Liquidated Damages (LD) @ 0.5% of the total BoQ-1 (CAPEX) value 
+per week or part thereof, subject to a maximum of 10% of the 
+total BoQ-1 (CAPEX) value. 
+2 
+UAT & Go-Live 
+Delay beyond T1 + 30 Days, attributable to the bidder, shall attract 
+Liquidated Damages (LD) @ 0.5% of the total BoQ-1 (CAPEX) value 
+per week or part thereof, subject to a maximum of 10% of the 
+total BoQ-1 (CAPEX) value. 
+3 
+Initial Contract 
+Period (Quarterly 
+O&M) 
+Failure to submit the required deliverables within the prescribed 
+timeline and/or failure to meet the prescribed SLA requirements 
+shall attract SLA penalties, manpower penalties and other 
+recoveries as specified in this RFP. The corresponding quarterly 
+payment may be withheld until submission of all required 
+deliverables and certification by the OIC/Designated Officer. 
+4 
+Contract 
+Extension Period 
+(if exercised by 
+GIL/DST) 
+Failure to submit the required deliverables within the prescribed 
+timeline and/or failure to meet the prescribed SLA requirements 
+shall attract SLA penalties, manpower penalties and other 
+recoveries as specified in this RFP. Payment shall be released only 
+after submission of all required deliverables and certification by 
+the OIC/Designated Officer. 
+Notes: (Applicable to Table-1: Payment Milestones & Deliverables and Table-2: Milestone-
+wise Applicable Penalties) 
+T = Date of Work Order (WO). 
+
+
+P a g e 48 | 85 
+ 
+ 
+1. The successful bidder shall provide OEM Warranty/Support, Premium Support, Software 
+Updates (where applicable), and Technical Services throughout the Initial Contract 
+Period of Three (3) Years. In the event the Contract is extended by GIL/DST, the 
+successful bidder shall continue to provide OEM Support and Technical Services during 
+the Contract Extension Period at the commercial rates quoted in BoQ-3.  
+2. The successful bidder shall submit payment claims in writing, along with the applicable 
+invoice(s), milestone deliverables, supporting documents, certificates, and any other 
+documents specified under this RFP and the Contract. Payment shall be processed only 
+after satisfactory verification and acceptance by GIL.  
+3. Payments shall ordinarily be released within Thirty (30) days from the date of receipt 
+and acceptance of the invoice and all supporting documents by GIL.  
+4. All payments under the Contract shall be made in Indian Rupees (INR) only.  
+5. All bank/remittance charges shall be borne by the successful bidder.  
+6. In case of any disputed invoice, milestone, deliverable, or amount, the disputed portion 
+shall be withheld and released only after resolution of the dispute, without affecting 
+payment of the undisputed portion, if applicable.  
+7. Payments for deliverables requiring inspection, testing, UAT, Go-Live, or acceptance 
+shall be released only after successful completion of such activities and acceptance by 
+GIL/DST.  
+8. Liquidated Damages (LD), SLA penalties, manpower penalties, and any other contractual 
+recoveries, as applicable under this RFP, shall be deducted from the respective 
+milestone payments.  
+9. Taxes, duties, and statutory deductions shall be applicable as per the prevailing 
+Government rules and regulations.  
+10. The successful bidder shall deploy and maintain the required OEM-certified technical 
+manpower possessing the qualifications and experience prescribed in this RFP 
+throughout the Initial Contract Period and, where applicable, during the Contract 
+Extension Period.  
+11. Deployment of manpower not meeting the prescribed qualifications and experience, or 
+failure to maintain the minimum required manpower, shall be treated as non-
+deployment/absence and shall attract penalties as specified in this RFP.  
+12. Failure to achieve any milestone or submit the prescribed deliverables within the 
+stipulated timelines shall attract Liquidated Damages (LD), SLA penalties, manpower 
+penalties, or other contractual recoveries, as applicable under this RFP.  
+13. Levy of Liquidated Damages (LD) or any other penalty shall not relieve the successful 
+bidder from fulfilling its contractual obligations or meeting the applicable Service Level 
+Requirements (SLAs). 
+Service Level Agreement 
+The successful bidder shall ensure uninterrupted operation and support of the complete 
+Privileged Identity Management (PIM) / Privileged Access Management (PAM) Solution 
+throughout the Initial Contract Period of Three (3) Years and, where applicable, during the 
+Contract Extension Period. The Initial Contract Period of Three (3) Years shall commence from 
+
+
+P a g e 49 | 85 
+ 
+ 
+the date of Go-Live (T2) and shall end on the date falling three years thereafter, unless extended 
+by GIL/DST as per the Contract Extension Period provisions. The solution shall be maintained in 
+efficient working condition to achieve the prescribed Service Level Requirements (SLRs). 
+Service Level Standards (SLA) 
+ 
+Parameter 
+Service Level Requirement / Standard 
+Support 
+Coverage 
+24 × 7 support throughout the Initial Contract Period and, where applicable, 
+during the Contract Extension Period. 
+Call to 
+Response 
+(CTR) 
+Response shall be initiated within 15 Minutes from reporting of the 
+incident, and support engineer assignment shall be ensured accordingly. 
+Solution 
+Uptime 
+The bidder shall guarantee 99.95% uptime per year (calculated quarterly) 
+for the complete PIM/PAM Solution, including software, licenses, services, 
+and all associated components. 
+Uptime 
+Calculation 
+Uptime (%) = (Total Minutes in a Quarter − Downtime Minutes during the 
+Quarter) × 100 ÷ Total Minutes in a Quarter 
+Illustration 
+For a quarter consisting of 92 days, the total available time shall be 
+1,32,480 minutes. 
+Severity Levels 
+Service incidents shall be classified and addressed as per the Severity 
+Matrix below. 
+Severity Matrix 
+ 
+Severity 
+Customer Impact 
+Response 
+Time 
+(CTR) 
+Turnaround 
+Time (TAT) 
+Penalty 
+S1 
+(Critical) 
+Complete outage of the 
+PAM Solution, users 
+unable to authenticate, 
+or any issue causing 
+disruption to critical 
+production services. 
+15 
+Minutes 
+30 Minutes 
+₹2,500/- for every 30 
+minutes (or part thereof) of 
+delay beyond the prescribed 
+TAT of 30 minutes, subject 
+to the maximum SLA penalty 
+specified in this RFP. 
+S2 
+(Major) 
+Significant degradation 
+of service where the 
+PAM Solution is 
+operational but major 
+functionality is 
+impacted and a 
+workaround is 
+available. 
+30 
+Minutes 
+2 Hours 
+Each S2 incident not 
+resolved within the 
+prescribed TAT shall attract a 
+penalty equivalent to 0.25% 
+of the applicable quarterly 
+O&M payment. The 
+cumulative penalty for S2 
+incidents shall be capped at 
+3% of the applicable 
+quarterly O&M payment. 
+S3 
+(Minor) 
+Minor issues, general 
+queries, enhancement 
+Best 
+Effort 
+1 Business 
+Day 
+No direct monetary penalty. 
+Persistent non-compliance 
+
+
+P a g e 50 | 85 
+ 
+ 
+requests, 
+documentation 
+support, or non-critical 
+issues not affecting 
+production services. 
+shall be recorded and 
+considered during quarterly 
+performance evaluation. 
+Note: 
+ 
+SLA performance shall be monitored and evaluated on a quarterly basis.  
+ 
+The cumulative SLA penalties applicable for each quarter shall be deducted from the 
+corresponding quarterly O&M payment.  
+ 
+The maximum cumulative SLA penalty shall be capped at 10% of the applicable annual 
+O&M payment for the respective contract year, excluding manpower penalties.  
+ 
+The successful bidder shall submit a Root Cause Analysis (RCA) report for every S1 
+(Critical) incident and any outage exceeding the prescribed Turnaround Time (TAT) 
+within seven (7) calendar days from the date of occurrence of the incident.  
+ 
+SLA penalties may be waived only under extraordinary circumstances beyond the 
+control of the successful bidder, subject to prior written approval of GIL/DST based on 
+adequate justification.  
+ 
+Levy of SLA penalties shall not relieve the successful bidder from fulfilling its contractual 
+obligations or meeting the prescribed Service Level Requirements under the Contract. 
+Penalty, Reporting & Performance Compliance 
+ 
+Parameter 
+Requirement / Penalty 
+Downtime 
+Penalty 
+Downtime exceeding one (1) hour in a quarter shall attract a penalty of 
+₹2,500/- for every 30 minutes (or part thereof) of additional downtime. 
+SLA Monitoring 
+SLA performance shall be monitored quarterly. Applicable SLA penalties 
+shall be deducted from the corresponding payment milestone. 
+Maximum SLA 
+Penalty 
+The cumulative SLA penalty shall not exceed 10% of the applicable 
+annual O&M payment for the respective contract year, excluding 
+manpower penalties. 
+Root Cause 
+Analysis (RCA) 
+For every outage exceeding one (1) hour of unscheduled downtime, the 
+bidder shall submit a detailed RCA report, including corrective and 
+preventive actions, within seven (7) calendar days from the date of the 
+incident. 
+Minimum 
+Manpower 
+Availability 
+The bidder shall maintain the minimum required manpower throughout 
+the Initial Contract Period and, where applicable, during the Contract 
+Extension Period, as specified in this RFP. 
+Non-compliant 
+Resource 
+Deployment of manpower not meeting the prescribed qualification and 
+experience shall be treated as non-deployment. 
+Manpower 
+Penalty 
+A penalty equivalent to 1.5 times the per-day payable amount of the 
+concerned deployed resource, based on the quoted rates, shall be levied 
+
+
+P a g e 51 | 85 
+ 
+ 
+for each day of absence or non-compliance until a suitable replacement 
+is deployed. 
+Contract 
+Extension Period 
+If the Contract Extension Period is exercised by GIL/DST, the above SLA, 
+monitoring, reporting, and penalty provisions shall continue to remain 
+applicable. 
+Exemption 
+SLA penalties may be waived only under extraordinary circumstances 
+beyond the control of the bidder, subject to prior written approval of GIL 
+based on adequate justification. 
+Change Requests/ Management 
+ 
+a) GIL may at any time, by a written order given to the bidder/authorised partner, make 
+changes within the general scope of the Agreement in any one or more of the following: 
+o Designs, specifications, requirements which software or service to be provided under 
+the Agreement are to be specifically developed and rendered for GIL. 
+o The method of deployment, shipping or packing. 
+o Schedule for Installation Acceptance. 
+o The place of delivery and/or the services to be provided by the bidder/authorised 
+partner. 
+b) The change request/management procedure will follow the following steps: - 
+ 
+Identification and documentation of the need for the change - The information related 
+to the initiator, initiation date, details of the change required and priority of the change 
+shall be documented by GIL. 
+ 
+Analysis and evaluation of the Change Request - The impact of the change in terms of 
+estimated effort, revised schedule, cost implications and affected deliverables shall be 
+analysed and documented by the bidder/authorised partner. 
+ 
+Approval or disapproval of the Change Request - GIL shall approve or disapprove the 
+requested change, including any additional payment, wherever applicable. For software 
+development or enhancement activities arising out of the approved Change Request, 
+the quoted man-month rate shall be used for cost estimation. The efforts of all technical 
+resources such as Project Manager, Business Analyst, Software Developer, Testing 
+Engineer, Database Administrator/Architect and other technical personnel shall be 
+considered for total man-month estimation. For all technical resources, irrespective of 
+their experience or specialization, the quoted man-month rate shall be applicable. 
+Efforts of support staff shall not be considered for this purpose. 
+ 
+Implementation of the Change - The approved change shall be implemented by the 
+selected bidder in accordance with the agreed cost, effort and schedule. 
+ 
+The implemented change shall be verified and accepted by GIL. 
+c) All changes outside the agreed scope of work which may have financial implications or 
+impact the project schedule shall be undertaken by the bidder only after obtaining the prior 
+
+
+P a g e 52 | 85 
+ 
+ 
+written approval of GIL. In the absence of such approval, the change shall not be carried 
+out. 
+d) While approving any Change Request, if required, GIL may direct the bidder to deploy 
+additional or replacement resources at the project site. 
+e) If any approved change outside the agreed scope of work causes an increase or decrease in 
+the cost of, or the time required for, the bidder's performance of any provision of the 
+Agreement, an equitable adjustment shall be made to the Agreement Price and/or Delivery 
+Schedule, and the Agreement shall be amended accordingly. Any claim for such adjustment 
+shall be submitted by the bidder within 30 (thirty) days from the date of receipt of the 
+Change Order issued by GIL. 
+f) The provisions relating to Change Request/Management shall remain applicable throughout 
+the Initial Contract Period of Three (3) Years and shall continue to apply during the 
+Contract Extension Period of up to Two (2) Years, if exercised by GIL/DST. Any approved 
+Change Request during the Contract Extension Period shall be governed by the terms and 
+conditions of this Agreement and the commercial rates quoted by the successful bidder, 
+wherever applicable. 
+ 
+ 
+
+
+P a g e 53 | 85 
+ 
+ 
+Section-5 Price Bid Format 
+(To be submitted & uploaded online only) 
+RFP Title: 
+Selection of Agency for Supply, Installation, Commissioning, Testing, Operations and 
+Maintenance of PIM/PAM Solution in Aadhaar Authentication Environment at GSDC for 
+Department of Science & Technology, Government of Gujarat. 
+Financial Bid Format (BoQ1) : - Complete End-to-End PIM/PAM Solution for Three (3) Years-  
+(CAPEX) 
+(to be submitted by the bidder only in BoQ format (.XLS) available at GEM portal) 
+ 
+# 
+ 
+ 
+ 
+ 
+Name of Item 
+ 
+ 
+ 
+ 
+Qty. 
+Unit Rate 
+including all 
+taxes, Govt. 
+levies and 
+duties but 
+except GST 
+ 
+Applicable 
+GST’ (in 
+Rs.) on 
+Column-4 
+Unit Rate 
+including 
+all taxes 
+& GST (in 
+Rs.) 
+Total Amount 
+inclusive of 
+all taxes, 
+levies and 
+GST (in Rs.) 
+1 
+2 
+3 
+4 
+5 
+6=4+5 
+7 = 6 x 3 
+1. 
+PAM Software User 
+Licenses for 50 Users, 
+including perpetual 
+user licenses and 
+applicable OEM 
+support/ software 
+updates for the initial 
+three (3) years  
+ 
+50 
+ 
+ 
+ 
+ 
+2. 
+Complete 
+Hardware/Appliance 
+and Infrastructure 
+required for End-to-End 
+PIM/PAM Solution, 
+including storage, 
+operating system, 
+database (if required), 
+accessories, networking 
+components (if 
+required), and all other 
+components required 
+1 
+ 
+ 
+ 
+ 
+
+
+P a g e 54 | 85 
+ 
+ 
+for successful 
+deployment, 
+commissioning, 
+operation and 
+maintenance of the 
+solution, with three (3) 
+years comprehensive 
+onsite OEM warranty & 
+premium support 
+3. 
+Implementation Service 
+(One time) 
+1 
+ 
+ 
+ 
+ 
+Total Amount (In Figures): 
+ 
+Total Amount (In Words): 
+ 
+Financial Bid Format (BoQ2):- Manpower BoQ 
+{to be submitted by the bidder only in BoQ format (.XLS) available at GEM portal} 
+ 
+ 
+ 
+Sr. 
+No 
+ 
+ 
+Name of Item 
+ 
+Qty 
+(Man-
+Month) 
+Unit Man-
+Month Rate (₹, 
+incl. all taxes, 
+levies & duties 
+but excl. 
+GST) 
+ 
+Applicable 
+GST (in 
+Rs.) on 
+Col-4 
+Unit Rate 
+including 
+all taxes 
+& GST 
+(in Rs.) 
+Total 
+Amount (₹, 
+incl. all 
+taxes, 
+levies & 
+GST) 
+(OPEX) 
+1 
+2 
+3 
+4 
+5 
+6=4+5 
+7 = 6 x 3 
+ 
+1. 
+OEM 
+Certified 2 
+Resources – 
+PIM/PAM 
+Solution – 
+for 
+operation, 
+administratio
+n and 
+technical 
+support of 
+the complete 
+implemented 
+solution 
+ 
+72 Man-
+Month 
+ 
+ 
+ 
+ 
+Total Amount (In Figures): 
+ 
+
+
+P a g e 55 | 85 
+ 
+ 
+Total Amount (In Words): 
+ 
+ 
+Financial Bid Format (BoQ3):- Extendable at the discretion of GIL/DST (Up to 2 Years) 
+{to be submitted by the bidder only in BoQ format (.XLS) available at GEM portal} 
+ 
+ 
+ 
+Sr. 
+No 
+ 
+ 
+Name of Item 
+ 
+Qty  
+Unit Rate (₹, 
+incl. all taxes, 
+levies & duties 
+but excl. 
+GST) 
+ 
+Applicable 
+GST (in 
+Rs.) on 
+Col-4 
+Unit Rate 
+including 
+all taxes 
+& GST 
+(in Rs.) 
+Total 
+Amount (₹, 
+incl. all 
+taxes, 
+levies & 
+GST) 
+(OPEX) 
+1 
+2 
+3 
+4 
+5 
+6=4+5 
+7 = 6 x 3 
+1. 
+OEM Premium 
+Support / 
+Comprehensiv
+e Warranty / 
+Software 
+Updates for 
+the Complete 
+PIM/PAM 
+Solution (Years 
+4 & 5) 
+2 Years 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+OEM 
+Certified 2 
+Resources – 
+PIM/PAM – 
+48 Man-
+Month 
+ 
+48 Man-
+Month 
+ 
+ 
+ 
+ 
+Total Amount (In Figures): 
+ 
+Total Amount (In Words): 
+ 
+ 
+ 
+Financial Bid Format (BoQ4):- Summary BoQ 
+{to be submitted by the bidder only in BoQ format (.XLS) available at GeM portal} 
+ 
+Sr. No 
+Name of Item 
+Total Amount inclusive of all taxes, levies 
+and GST 
+1 
+2 
+3 
+1. 
+Total of (BoQ1): 
+ 
+2. 
+Total of (BoQ2): 
+ 
+
+
+P a g e 56 | 85 
+ 
+ 
+Total Amount (In Figures): 
+ 
+Total Amount (In Words): 
+ 
+Note:  
+a. The quoted price shall include all hardware/appliance, software, storage, operating 
+system, database (if required), licenses, accessories, networking components (if 
+required), and all other components required for successful deployment, 
+commissioning, operation and maintenance of the complete PIM/PAM solution. 
+b. The SI/OEM shall be solely responsible for providing, supplying, integrating, 
+configuring, commissioning and supporting all such components required for the 
+complete end-to-end solution. No dependency shall be placed on the existing 
+Gujarat State Data Centre (GSDC) infrastructure unless specifically approved by 
+GIL/DST. The applicable GST rate shall be as per the prevailing statutory rates. 
+c. The bidder shall quote a separate unit rate per PAM software user license in BoQ-1. 
+The quoted per-user license rate shall remain firm and fixed throughout the entire 
+initial contract period of five (5) years. (If contract period extended by GIL/ DST) The 
+quoted rate shall include all applicable software license rights and OEM 
+support/software updates as specified in the scope of work. No upward revision in 
+the quoted per-user license rate shall be permitted during the initial contract period. 
+d. The quoted per-user PAM software license rate shall also remain firm and fixed for 
+procurement of any additional PAM user licenses, if required by GIL/DST during the 
+initial contract period, subject to the terms and conditions of the Contract and 
+issuance of the applicable Purchase/Work Order. 
+e. The L1 bidder shall be evaluated on the sum of the Total Amount of BoQ1 and Total 
+Amount of BoQ2, as reflected in BoQ4 – Summary BoQ. 
+f. The BoQ shall be deemed to include all hardware, software, storage, operating 
+system, database (if required), licenses, accessories, networking components and all 
+other components required for successful implementation, commissioning, 
+operation and maintenance of the complete solution. No additional payment shall 
+be made for any item omitted by the bidder but required for successful 
+commissioning, operation and maintenance of the solution. 
+g. Bidders are required to quote for all the item categories mentioned in BoQ1 and 
+BoQ2. In case a bidder does not quote for any of the prescribed item categories, the 
+bid shall be liable for rejection. 
+h. In case of any discrepancy between BoQ4 (Summary BoQ) and the respective 
+BoQ1/BoQ2, the rates and amounts quoted in the respective BoQ1/BoQ2 shall 
+prevail and the L1 bidder shall be evaluated accordingly. 
+i. In case a bidder fails to indicate the amount of GST in the prescribed column, the bid 
+value shall be considered without including the component of GST for the purpose 
+of bid evaluation, and the total bid price shall be considered accordingly. 
+j. The bidder shall deploy a minimum of two (2) dedicated technical resources for 
+operation, administration and technical support of the implemented solution during 
+the contract period. 
+k. The bidder shall ensure that its Price Bid contains reasonable and commercially 
+
+
+P a g e 57 | 85 
+ 
+ 
+justifiable unit rates for all CAPEX and OPEX items. GIL/DST may identify abnormally 
+high or low unit rates of individual line items and seek appropriate justification from 
+the bidder. 
+l. The bidder shall quote rates for the Contract Extension Period of up to two (2) years 
+in BoQ-3. The rates quoted in BoQ-3 shall remain firm and fixed during the initial 
+contract period. 
+m. The rates quoted in BoQ-3 shall become applicable only if GIL/DST extends the 
+contract beyond the initial period of three (3) years. If exercised, the extension shall 
+be on the same terms, conditions, scope of work and commercial rates quoted in 
+BoQ-3. 
+n. The unit rate quoted for manpower under BoQ-3 shall not exceed the corresponding 
+unit manpower rate quoted in BoQ-2 by more than 7%. The applicable rate shall 
+remain firm and fixed during the extension period. 
+o. The total value quoted in BoQ-3 shall not be considered for financial evaluation or 
+determination of the L1 bidder. 
+p. The rates quoted for the Contract Extension Period under BoQ-3 shall remain firm 
+and fixed and shall be applicable if the contract is extended by GIL/DST. No upward 
+revision in the quoted rates shall be permitted during the extension period, except 
+where specifically provided under the Price Variation Clause of the Contract. 
+q. The Bidder shall strictly ensure that the quoted amount under the Implementation 
+Service component (BoQ-1, Sr. No. 3) shall not, under any circumstances, exceed 
+50% of the Total Contract Value. Any bid quoting Implementation Cost beyond the 
+prescribed limit shall be liable for rejection. 
+r. The currency in which payments shall be made to the selected bidder under this 
+Contract shall be Indian Rupees (INR) only. 
+Authorized Signatory: 
+Name: 
+Designation: 
+Company Seal: 
+Date: 
+ 
+ 
+
+
+P a g e 58 | 85 
+ 
+ 
+ANNEXURE-1: BILL OF MATERIAL (BoM)                                                                    
+Description of Items Required (CAPEX): 
+S. 
+No.  
+Item 
+Qty 
+required at 
+GSDC 
+MAF 
+required 
+(Y/N) 
+ 
+Compliance 
+(Yes/No) 
+1. 
+End to End Privileged Access Management 
+(PAM) Solution 
+1 Nos. 
+Y 
+ 
+ 
+Technical Manpower (OPEX) 
+ 
+S. 
+No. 
+Type of 
+Resources 
+Qty. 
+Contract Period 
+MAF 
+Required 
+(Y/N) 
+Compliance 
+(Yes/No) 
+1 
+OEM Certified 
+Resources – 
+PIM/PAM 
+(Regular Day 
+Shift) 
+2 
+Nos. 
+Initial Contract Period of 
+Three (3) Years, extendable 
+for a further period of up to 
+Two (2) Years at the sole 
+discretion of GIL/DST 
+NA 
+NA 
+ 
+ 
+Note: - 
+a) All items specified in Annexure-1 shall be supplied with Comprehensive OEM 
+Onsite/Remote Support, Premium Support (24×7), Software Updates/Upgrades (where 
+applicable) and Technical Assistance from the date of Go-Live for an initial contract 
+period of Three (3) Years. 
+b) The Contract may be extended by Gujarat Informatics Limited (GIL)/Department of 
+Science & Technology (DST) for a further period of up to Two (2) Years, in one or more 
+spells, at the sole discretion of GIL/DST, subject to satisfactory performance of the 
+successful bidder, operational requirements and availability of funds. During the 
+extended period, the successful bidder shall continue to provide OEM support/services 
+(where applicable) and deploy the required technical resources on the commercial rates 
+quoted in the Price Bid for the Contract Extension Period. 
+c) All software shall be On-Premises in nature and shall be supplied with Perpetual Licenses. 
+In case the OEM does not provide perpetual licensing for the quoted software as per its 
+licensing policy, subscription-based licensing may be accepted, provided the bidder 
+submits documentary evidence from the OEM along with the Technical Bid. 
+d) All licenses shall be issued in the name of "Gujarat Informatics Limited, Department of 
+Science & Technology, Government of Gujarat." 
+e) The bidder shall size and supply all hardware, storage and software required for the 
+proposed solution considering the project requirements and future growth during the 
+Initial Contract Period. 
+
+
+P a g e 59 | 85 
+ 
+ 
+f) All quoted software components shall be IPv6-ready from the date of commissioning/Go-
+Live and shall be supported with Comprehensive OEM Support, Premium Support and 
+Technical Assistance throughout the contract period. 
+g) The deployed technical manpower shall be on the permanent payroll of the bidder. 
+h) To ensure the required minimum quality of technical resources, the following minimum 
+compensation shall be considered while quoting the manpower cost: 
+i) The bidder shall deploy a minimum BE/ B. Tech (Computer Engineering / Information 
+Technology / Electronics & Communication or equivalent) qualified OEM-certified 
+PIM/PAM resource having relevant experience in implementation, operation, 
+administration, and support of PIM/PAM solutions as specified in this RFP. 
+Note: GIL/DST reserves the right to verify the same at any stage during the contract 
+period. 
+i) GIL/DST reserves the right to conduct interviews, technical assessments, background 
+verification or any other evaluation process to assess the competency and suitability of 
+the proposed resources before deployment and during the contract period. GIL/DST may 
+require replacement of any resource whose performance or competency is found 
+unsatisfactory. 
+j) The technical specifications provided in Annexure-1 are the minimum requirements. 
+Bidders may offer products with higher specifications; however, no additional payment 
+shall be made for higher specifications than those specified in the RFP. 
+k) If the Contract Extension Period is exercised by GIL/DST, the successful bidder shall 
+continue to deploy OEM-certified technical resources possessing qualifications, 
+certifications, experience and skill sets equivalent to or better than those deployed during 
+the initial contract period and shall comply with all applicable Service Levels (SLAs) and 
+contractual obligations. 
+Regular Day Shift: Monday to Friday – 09:30 AM to 06:10 PM 
+Name of the Bidder: - 
+Authorised Signatory: -  
+Seal of the Organization: - 
+Date:   
+Place:    
+ 
+ 
+
+
+P a g e 60 | 85 
+ 
+ 
+ANNEXURE-2: TECHNICAL SPECIFICATION 
+Sr. No. 
+Specification 
+Compliance 
+(Y/N) 
+Reference 
+1 
+General Specification 
+ 
+ 
+ 
+1.1 
+The proposed solution should be 100% agent less 
+solution for password and session management. 
+There should not be a need to install agents on 
+target devices. 
+ 
+ 
+ 
+ 
+1.2 
+The proposed solution should be on many 
+marketplace to support integrations and plugins 
+for connecting to huge variety of target devices 
+along with that it should provide plugin 
+generator utility which should enable customer 
+to build own plugins for customized target 
+devices. 
+ 
+ 
+ 
+1.3 
+The proposed solution should support Ad Hoc 
+Just-in- Time Access to servers: - Only permit 
+access when it is requested and granted, which 
+should be governed by workflows and policies. 
+ 
+ 
+ 
+1.4 
+The 
+proposed 
+solution 
+should 
+allow 
+users/admins to use their native client like RDP 
+and Putty to connect target machines on-
+boarded in PAM. 
+ 
+ 
+ 
+ 
+1.5 
+The proposed solution should support complete 
+active 
+configuration 
+at 
+all 
+infrastructure 
+components. It should support high-availability 
+Vault environment since this is crucial for the 
+Vault availability. 
+ 
+ 
+ 
+ 
+1.6 
+The proposed OEM solution should have 
+capability for securing end-points, securing 
+cloud, workforce lifecycle management, securing 
+develops, etc. as a pre-integrated but loosely 
+coupled solution for easy administration from 
+future projects/ initiatives 
+around identity 
+security. 
+ 
+ 
+ 
+ 
+ 
+1.7 
+The OEM must have completed a minimum of 
+three work orders in India within the last five 
+years, each involving at least 50 Privileged Access 
+Management (PAM) licenses, for customers in 
+Public Sector Banks, Financial Institutions, BFSI, 
+PSUs, Government Organizations/ Telecom 
+ 
+ 
+
+
+P a g e 61 | 85 
+ 
+ 
+organization. 
+2 
+AD Bridging 
+ 
+ 
+2.1 
+Solution should allow you to easily link 
+applications to the centralized AD in a secure, 
+encrypted way. 
+ 
+ 
+ 
+2.2 
+Solution should Centrally control access to non-
+Windows systems i.e. Unix and Linux servers by 
+defining which users are permitted to log on to 
+which systems via AD. 
+ 
+ 
+ 
+2.3 
+Solution should attain consistent configuration 
+by extending native group policy management 
+tools to include settings for Unix, Linux servers. 
+ 
+ 
+ 
+2.4 
+Solution should able to Audit logs of multiple 
+Active Directory events in real time, report on 
+exceptions, and provide easy access to results. 
+ 
+ 
+3 
+Access Control 
+ 
+ 
+ 
+3.1 
+The solution should be able to restrict usage of 
+critical commands over a SSH based console 
+based on any combination of target account, 
+group or target system and end-user. 
+ 
+ 
+ 
+3.2 
+The solution should restrict privileged activities 
+on a server (e.g. host to host jumps, cmd/telnet 
+access, application access, tab restrictions) from 
+session initiated with PAM. 
+ 
+ 
+ 
+3.3 
+The solution should provide for inbuilt database 
+management utility to enable granular control on 
+database access for Sql, my Sql, DB2, Oracle etc. 
+ 
+ 
+ 
+3.4 
+The solution enables an administrator to restrict 
+a group of commands using a library and define 
+custom commands for any combination of target 
+account, group or target system and end user. 
+ 
+ 
+ 
+3.5 
+The solution should provide secure mechanism 
+for blacklisting/whitelisting of commands for any 
+combination of target account, group or target 
+system and end user. 
+ 
+ 
+ 
+3.6 
+The solution should have workflow control built 
+in for critical  administrative  functions  over 
+SSH including databases 
+(example 
+user 
+ 
+ 
+
+
+P a g e 62 | 85 
+ 
+ 
+creation, password change etc) and should be 
+able to request for approval on the fly for those 
+commands which are critical. 
+ 
+3.7 
+Solution should provide for a script manager to 
+help in access controlling scripts and allow to run 
+the scripts on multiple devices at the same time. 
+ 
+ 
+4 
+Remote 
+Access, 
+Mobile 
+Support, 
+and 
+Notification Engine 
+ 
+ 
+ 
+4.1 
+The proposed solution should support capability 
+for Remote users to be given access to target 
+machines without need of VPN, Agent and 
+corporate laptops. 
+ 
+ 
+ 
+4.2 
+The proposed solution should support Just-In-
+Time 
+provisioning 
+and 
+Password 
+less 
+authentication. 
+ 
+ 
+ 
+4.3 
+The proposed solution should support Offline 
+PAM Access (Password Retrieval via mobile app 
+in case of emergency purpose or Break Glass 
+Scenario). 
+ 
+ 
+5 
+Password Management 
+ 
+ 
+ 
+5.1 
+The solution shall perform password change 
+options which is parameter driven and should set 
+password options every x days, months, years 
+and compliance options via the use of a policy. 
+ 
+ 
+ 
+5.2 
+The solution should be able to authenticate and 
+trust the application requesting the privileged 
+password based on various authentication 
+methods. 
+ 
+ 
+ 
+5.3 
+The solution should be able to manage SSH Keys 
+and for Linux/Unix servers, the solution should 
+have an option to generate the SSH key pair 
+directly from tool. 
+ 
+ 
+ 
+5.4 
+The solution should automatically reconcile 
+passwords that are detected 'out of sync' or lost 
+without using external restore utilities 
+ 
+ 
+ 
+5.5 
+Files uploaded in Vault for secured and encrypted 
+storage should be allowed to be shared between 
+PAM user & Server. 
+ 
+ 
+
+
+P a g e 63 | 85 
+ 
+ 
+ 
+ 
+5.6 
+Solution should enable an administrator to 
+define different password formation rules for 
+target accounts on different target systems and 
+supports the full character set that can be used 
+for passwords on each target system. 
+ 
+ 
+6 
+Threat Analytics 
+ 
+ 
+ 
+ 
+ 
+6.1 
+The proposed solution should have User Based 
+Analytics so that it can trigger a real-time alerts 
+in case of any unusual behaviour of user or 
+anomalous activities. For example, alert in case 
+any admin tries to access target machine during 
+irregular hours, irregular IP, Dormant user, 
+Anomalous access to multiple machines, unusual 
+geographical region etc. 
+ 
+ 
+ 
+ 
+ 
+ 
+6.2 
+The proposed solution should have detection, 
+alert 
+and 
+automatic 
+real-time 
+response 
+capabilities so that it can trigger immediate alert 
+as soon as users tries to execute any risky 
+commands or malicious activities and as 
+responsive action, solution should be able to 
+suspend or terminate the session immediately. 
+Solution must allow customer to amend the 
+suspicious commands or activity list as per their 
+organization need. 
+ 
+ 
+ 
+ 
+6.3 
+The proposed solution must detect and alert 
+immediately in case of any credential theft and 
+can able to take immediate response actions by 
+triggering immediate password change for theft 
+account leveraging integration with SIEM 
+solution 
+ 
+ 
+ 
+ 
+6.4 
+The proposed solution must able to control 
+backdoor access, it must alert in case any user 
+tries to connect target machines after bypassing 
+PAM tool. And as responsive action, it should 
+trigger password change for the account and 
+block backdoor access leveraging integration 
+with SIEM solution 
+ 
+ 
+ 
+ 
+ 
+6.5 
+The proposed solution should be able to detect 
+and alert backdoor access even for unmanaged 
+accounts (which are not on boarded in PAM 
+solution) and as responsive action, solution 
+ 
+ 
+
+
+P a g e 64 | 85 
+ 
+ 
+should be having capability to onboard and 
+trigger password change immediately leveraging 
+integration with SIEM solution 
+ 
+ 
+6.6 
+The proposed solution must raise immediate 
+alert in case of suspicious password change, like 
+request to change or reset a password after 
+bypassing the Password Manager. Automatic 
+Remediation by rotating credentials. 
+ 
+ 
+ 
+6.7 
+The proposed solution must detect and raise 
+alert immediately in case any service accounts 
+gets logged in interactively leveraging integration 
+with SIEM solution 
+ 
+ 
+ 
+ 
+6.8 
+The proposed solution must able to identify Risky 
+SPN (Service Principal Name). Privileged accounts 
+with SPN configuration can be vulnerable to 
+offline brute-forcing and dictionary attacks, 
+allowing a malicious insider to recover the 
+account's clear-text password. 
+ 
+ 
+7 
+PAM Security and Administrator 
+ 
+ 
+7.1 
+The solutions should use minimum FIPS 140-
+2 validated cryptography for all data encryption. 
+ 
+ 
+ 
+7.2 
+The Solution should be TLS 1.2 and SHA-2 
+compliant 
+for 
+PCI-DSS 
+compliance 
+and 
+Administrator user cannot see the data 
+(passwords) that are controlled by the solution. 
+ 
+ 
+ 
+ 
+7.3 
+All communication between the client endpoints 
+and the target server should be completely 
+encrypted using secured gateway. (Example: a 
+telnet session is encrypted from the client PC 
+through the secured gateway ). 
+ 
+ 
+ 
+7.4 
+All 
+communication 
+between 
+system 
+components, including components residing on 
+the same server should be encrypted. 
+ 
+ 
+ 
+ 
+ 
+7.5 
+The solution should offer secure browser to 
+enhance security, privacy, and productivity for 
+enterprises. It boosts security, privacy, and 
+productivity by protecting against cookie theft 
+from end-user laptop/ desktop, preventing data 
+ 
+ 
+
+
+P a g e 65 | 85 
+ 
+ 
+exfiltration, 
+offering 
+quick 
+access, 
+and 
+incorporating built-in identity security controls. 
+ 
+7.6 
+The proposed solution vault should have 
+flexibility to be deployed across multiple data 
+centres without any licensing impact 
+ 
+ 
+ 
+ 
+7.7 
+The proposed solution should be able to cover 
+security of all privilege accounts, endpoints 
+across DC servers, network devices, applications, 
+databases, etc.  
+ 
+ 
+ 
+7.8 
+The proposed solution should cover user based 
+licenses for min 50 users extendable up to 150 
+users without any restriction on the no. of 
+devices, endpoints, privilege accounts, sessions, 
+storage, etc. 
+ 
+ 
+ 
+7.9 
+The proposed solution shall provide the 
+capability to discover, inventory, and monitor 
+digital 
+certificates 
+within 
+its 
+managed 
+environment. 
+ 
+ 
+ 
+7.10 
+The solution shall generate advance alerts and 
+notifications for certificate expiry to enable 
+administrators to take timely corrective action. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+P a g e 66 | 85 
+ 
+ 
+ANNEXURE-3: 
+FORMAT 
+FOR SUBMISSION OF 
+PROJECT REFERENCES 
+FOR PRE QUALIFICATION EXPERIENCE – PIM/PAM SOLUTION                                         
+Part A: Project Information (Table-1) 
+ 
+S. 
+No. 
+Description 
+Details 
+1 
+Project Name 
+ 
+2 
+Country 
+ 
+3 
+Project Location (within 
+Country) 
+ 
+4 
+Project Duration 
+ 
+5 
+Name of Customer 
+ 
+6 
+Total Staff-Months Deployed 
+on Assignment 
+ 
+ 
+7 
+Customer’s 
+Contact 
+Person 
+(Name, Designation, Address, 
+Phone, Email) 
+ 
+8 
+Project Timelines 
+Start Date (MM/YYYY): Completion Date 
+(MM/YYYY): 
+9 
+Project Nature 
+Similar PIM/PAM Solution implemented 
+for (BFSI/PSU/Government): (Yes/No) 
+10 
+Project Description 
+(Briefly 
+describe scope, objectives, and 
+PIM/PAM services delivered by Bidder) 
+Part B: Project Covers (Table-2) 
+ 
+Component 
+Yes/No 
+1. Deployment of PIM/PAM solution to manage and monitor 
+privileged accounts/access 
+ 
+2. Integration with enterprise systems (Active Directory/LDAP, 
+Workgroup users, Databases etc.) 
+ 
+3. Implementation of key features (Session Monitoring, Password 
+Vaulting, Access Controls) 
+ 
+4. Support for Regulatory Compliance (e.g., Audit Logs, 
+RBI/SEBI/Government Reporting) 
+ 
+5.  Large-scale  Implementation  (e.g.,  management  of  200+  
+privileged accounts/licenses) 
+ 
+Note: Bidder must attach supporting documents for each project reference as per Pre-
+Qualification (PQ) criteria mentioned in the RFP, specifically evidencing implementation 
+of PIM/PAM requirements. 
+
+
+P a g e 67 | 85 
+ 
+ 
+ 
+ 
+ 
+ 
+Name & Signatures of the Bidder along with 
+Seal 
+ 
+ 
+
+
+P a g e 68 | 85 
+ 
+ 
+ANNEXURE-4: BIDDER’S AUTHORIZATION CERTIFICATE (to be filled by the bidder 
+on his letter head) 
+ 
+To, 
+{Procuring entity}, 
+ 
+, 
+ 
+, 
+ 
+ 
+I/ We {Name/ Designation} hereby declare/ certify that {Name/ Designation} 
+is hereby authorized to sign relevant documents on behalf of the company/ firm in 
+dealing with NIB reference No.  
+dated  
+. He/ She is also 
+authorized to attend meetings & submit technical & commercial information/ 
+clarifications as may be required by you in the course of processing the Bid. For the 
+purpose of validation, his/ her verified signatures are as under. 
+ 
+ 
+Thanking you, 
+ 
+Name of the Bidder: - 
+Verified Signature: 
+Authorised Signatory: -  
+Seal of the Organization: -  
+Date:  _______  
+Place:  __________ 
+ 
+ 
+
+
+P a g e 69 | 85 
+ 
+ 
+ANNEXURE-5: SELF-DECLARATION  
+ 
+(TO BE SUBMITTED PHYSICALLY ALONG WITH EMD) 
+ 
+I/We, ___________________________, age______ years residing at ______________________ 
+in capacity of _______________________M/s. ___________________________________ 
+hereby solemnly affirm that 
+ 
+All General Instructions, General Terms and Conditions, as well as Special Terms & Conditions 
+laid down on all the pages of the Tender Form, have been read carefully and understood properly 
+by me which are completely acceptable to me and I agree to abide by the same. 
+ 
+I / We have submitted following Certificates / Documents for T.E. as required as per General 
+Terms & Conditions as well as Special Terms & Conditions of the tender 
+ 
+Sr. No. 
+Name of the Document 
+1 
+ 
+2 
+ 
+ 
+All the Certificates / Permissions / Documents / Permits / Affidavits are valid and current as on 
+date and have not been withdrawn / cancelled by the issuing authority. 
+ 
+It is clearly and distinctly understood by me that the tender is liable to be rejected if on scrutiny 
+at any time, any of the required Certificates / Permissions / Documents / Permits / Affidavits is / 
+are found to be invalid / wrong / incorrect / misleading / fabricated / expired or having any defect. 
+ 
+I / We further undertake to produce on demand the original Certificate / Permission / Documents 
+/ Permits for verification at any stage during the processing of the tender as well as at any time 
+asked to produce. 
+ 
+I / We also understand that failure to produce the documents in "Prescribed Performa" 
+(wherever applicable) as well as failure to give requisite information in the prescribed Performa 
+may result in to rejection of the tender. 
+ 
+My / Our firm has not been banned / debarred / blacklisted at least for three years (excluding 
+the current financial year) by any Government Department / State Government / Government of 
+India / Board / Corporation / Government Financial Institution in context to purchase procedure 
+through tender. 
+ 
+I I We confirm that I / We have meticulously filled in, checked and verified the enclosed 
+documents / certificates / permissions / permits / affidavits / information etc. from every aspect 
+and the same are enclosed in order (i.e. in chronology) in which they are supposed to be 
+
+
+P a g e 70 | 85 
+ 
+ 
+enclosed. Page numbers are given on each submitted document. Important information in each 
+document is "highlighted" with the help of "marker pen" as required. 
+ 
+The above certificates/ documents are enclosed separately and not on the Performa printed from 
+tender document. 
+ 
+I / We  say  and  submit  that  the  Permanent  Account  Number  (PAN)  given  by  the  Income  
+Tax  Department  is ____________________, which  is  issued  on  the  name  of 
+___________________________ [Kindly mention here either name of the Proprietor (in case of 
+Proprietor Firm) or name of the tendering firn;1, whichever is applicable]. 
+ 
+I / We understand that giving wrong information on oath amounts to forgery and perjury, and 
+I/We am/are aware of the consequences thereof, In case any information provided by us are 
+found to be false or incorrect, you have right to reject our bid at any stage including forfeiture of 
+our EMD/PBG/cancel the award of contract. In this event, this office reserves the right to take 
+legal action on me/us. 
+ 
+I / We have physically signed &stamped all the above documents along with copy of tender 
+documents (page no. ---- to -- ). 
+ 
+I / We hereby confirm that all our quoted items meet or exceed the requirement and are 
+absolutely compliment with specification mentioned in the bid document. 
+ 
+My / Our Company has not filed any Writ Petition, Court matter and there is no court matter filed 
+by State Government and its Board Corporation, is pending against our company. 
+ 
+I / We hereby commit that we have paid all outstanding amounts of dues/ taxes/ cess/ charges/ 
+fees with interest and penalty. 
+ 
+In case of breach of any tender terms and conditions or deviation from bid specification other 
+than already specified as mentioned above, the decision of Tender Committee for disqualification 
+will be accepted by us. 
+ 
+Whatever stated above is true and correct to the best of my knowledge and belief. 
+ 
+Date:  
+ 
+ 
+ 
+ 
+ 
+ 
+Stamp & Sign of the Tenderer 
+ 
+Place:  
+                                                                     (Signature and seal of the Notary) 
+ 
+ 
+ 
+ 
+
+
+P a g e 71 | 85 
+ 
+ 
+ANNEXURE-6: MANUFACTURER’S AUTHORIZATION FORM (MAF)                              
+(On OEM’s Letterhead with Seal & Signature) 
+ 
+Date: ___/___/20__ 
+ 
+To, 
+The Managing Director 
+Gujarat Informatics Ltd, 
+Block no. 2, 2nd floor, Karmayogi Bhavan, Sector-10A, Gandhinagar. 
+ 
+Subject: Manufacturer Authorization for Supply, Installation & Support of 
+__________________________ 
+ 
+Dear Sir/Madam, 
+ 
+This is to certify that: 
+ 
+1. We, M/s __________________________ (OEM Name), having our registered office at 
+____________________________________________, are the Original Equipment Manufacturer (OEM) 
+of the following product(s): 
+   - ___________________________________________ 
+   - ___________________________________________ 
+ 
+2. We hereby authorize M/s __________________________________ (Bidder/Partner Name) having 
+office at ________________________________________, to quote, supply, install, commission, 
+configure, integrate, warranty support, and provide after-sales service for the above product(s) against 
+your tender/RFP: 
+   Tender No.: ____________________________ 
+   Title of Tender: ___________________________________________ 
+ 
+3. We confirm that the above-mentioned bidder is our authorized partner/system integrator for the said 
+product(s) and is competent to deliver and support the solution as per OEM standards. 
+ 
+4. We also confirm that: 
+   - The quoted product(s) are genuine, new, and original OEM-certified. 
+   - We shall provide back-to-back warranty support, software/firmware updates, patches, security 
+
+
+P a g e 72 | 85 
+ 
+ 
+advisories, and technical support to the bidder and/or purchaser. 
+   - In case the bidder fails to meet warranty/support obligations, the OEM shall ensure uninterrupted 
+support to the purchaser. 
+ 
+5. We undertake that the product(s) quoted comply with all technical specifications and standards listed 
+in the tender. 
+ 
+For and on behalf of 
+M/s __________________________________________ (OEM Name) 
+ 
+Authorized Signatory: ____________________________ 
+Name: __________________________________________ 
+Designation: ____________________________________ 
+Email: __________________________________________ 
+Contact: ________________________________________ 
+ 
+OEM Seal & Signature 
+ 
+ 
+ 
+
+
+P a g e 73 | 85 
+ 
+ 
+ANNEXURE-7: 
+UNDERTAKING 
+ON 
+AUTHENTICITY 
+OF 
+COMPUTER 
+EQUIPMENTS 
+{To be filled by the bidder (On Rs. 100/- Non-judicial stamp paper)} 
+ 
+To, 
+{Procuring Entity}, 
+ 
+, 
+ 
+Reference: NIB No. :  Dated:  
+ 
+This has reference to the items being supplied/quoted to you vide bid ref. no.  
+        dated 
+ 
+. 
+ 
+We hereby undertake that all the components/parts/assembly/ software used in the equipment 
+shall be genuine, original and new components /parts/assembly/software from respective OEMs 
+of the products and that no refurbished/duplicate/ second hand components/ parts/ assembly/ 
+software are being used or shall be used. In respect of licensed operating system, we undertake 
+that the same shall be supplied along with the authorized license certificate with our name/logo. 
+Also, that it shall be sourced from the authorized source for use in India. 
+ 
+In case, we are found not complying with above at the time of delivery or during installation, for 
+the equipment already billed, we agree to take back the equipment already supplied at our cost 
+and return any amount paid to us by you in this regard and that you will have the right to forfeit 
+our Bid Security/ EMD/ PBG for this bid or debar/ black list us or take suitable action against us. 
+ 
+ 
+Authorized Signatory Name: 
+Designation: 
+ 
+ 
+
+
+P a g e 74 | 85 
+ 
+ 
+ANNEXURE-8: COMPONENTS OFFERED – BOM (to be filled by the bidder) 
+ 
+1. Please fill the following BOM for all the offered components. 
+ 
+Sl. 
+No. 
+Product Details 
+(Only one make and model) 
+OEM    Part Code 
+(OEM 
+Part 
+code 
+Datasheet shall be 
+enclosed in the bid) 
+Detailed 
+Technical 
+Specification 
+Reference** 
+OEM Details 
+(Name: Address: 
+E-Mail: Mobile 
+No.:) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{Item 
+No. 
+xx} 
+{Item 
+No. 
+xx} 
+{Item 
+No. 
+xx} 
+{Item 
+No. 
+xx} 
+ 
+ 
+** Please attach technical specifications compliance sheet (only on OEM’s letter-head / OEM 
+email as specified in Annexure-2) and provide reference number in this column. (Deviations, if 
+any, should be appropriately mentioned & highlighted in the compliance/ deviation column of 
+the respective table as provided in Annexure-2: Technical Specifications of this bidding 
+document) 
+ 
+2. 
+Submit Solution design document along with project plan. 
+ 
+ 
+
+
+P a g e 75 | 85 
+ 
+ 
+ANNEXURE-9: FINANCIAL BID COVER LETTER & FORMAT 
+COVER LETTER {to be submitted by the bidder on his Letter head}  
+ 
+To, 
+The Managing Director, 
+____________________ 
+ NIB No. : 
+Dated: 
+ 
+Dear Sir, 
+ 
+We, the undersigned bidder, Having read & examined in detail, the Bidding Document, the 
+receipt of which is hereby duly acknowledged, I/ we, the undersigned, offer to supply/ work as 
+mentioned in the Scope of the work, Bill of Material, Technical specifications, Service Level 
+Standards & in conformity with the said bidding document for the same. 
+I / We undertake that the prices are in conformity with the specifications prescribed. The 
+quote/ price are inclusive of all cost likely to be incurred for executing this work. The prices are 
+inclusive of all type of govt. taxes/duties as mentioned in the financial bid (BoQ). 
+I / We undertake, if our bid is accepted, to deliver the goods in accordance with the delivery 
+schedule specified in the schedule of Requirements. 
+I/ We hereby declare that in case the contract is awarded to us, we shall submit the contract 
+performance guarantee as prescribed in the bidding document. 
+I / We agree to abide by this bid for a period of  
+ days after the last date fixed for bid 
+submission and it shall remain binding upon us and may be accepted at any time before the 
+expiry of that period. 
+Until a formal contract is prepared and executed, this bid, together with your written 
+acceptance thereof and your notification of award shall constitute a binding Contract between 
+us. 
+ 
+I/ We hereby declare that our bid is made in good faith, without collusion or fraud and the 
+information contained in the bid is true and correct to the best of our knowledge and belief. 
+We understand that you are not bound to accept the lowest or any bid you may receive. 
+We agree to all the terms & conditions as mentioned in the bidding document and submit 
+that we have not submitted any deviations in this regard. 
+ 
+Date: 
+Authorized Signatory Name: 
+Designation: 
+ 
+ 
+
+
+P a g e 76 | 85 
+ 
+ 
+FORM 10: Non-Disclosure Agreement 
+(Submitted during acceptance of contract) 
+ 
+CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT 
+ 
+THIS CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENT (the "Agreement") 
+Made this  
+day of  ,  
+(the “Effective Date")  by  and  between  
+a 
+  
+Corporation, and  
+a  
+corporation, 
+(collectively, the "Parties" and each individually a "Party"). 
+ 
+The Parties are exploring the possibility of engaging in one or more mutually beneficial business 
+relationships (collectively, the "Business Relationship"). The Parties recognize that in the course 
+of their discussions to further the Business Relationship, it will be necessary for each Party to 
+disclose to the other certain Confidential Information (as defined below). Each Party desires to 
+set forth the terms that apply to such Confidential Information. 
+ 
+NOW, THEREFORE, for and in consideration of the foregoing, of the promises and covenants set 
+forth herein, and for other good and valuable consideration, the receipt and sufficiency of which 
+are · hereby acknowledged, the Parties do hereby agree as follows: 
+ 
+1. 
+The Parties shall (i) use reasonable efforts to maintain the confidentiality of the 
+information and materials, whether oral, written or in any form whatsoever, of the other that may 
+be reasonably understood, from legends, the nature of such information itself and/or the 
+circumstances of such information's disclosure, to be confidential and/or proprietary thereto or 
+to third parties to which either of them owes a duty of nondisclosure (collectively, "Confidential 
+Information"); (ii) take reasonable action in connection therewith, including without limitation at 
+least the action that each takes to protect the confidentiality of its comparable proprietary assets; 
+(iii) to the extent within their respective possession and/or control, upon termination of this 
+Agreement for any reason, immediately return to the provider thereof all Confidential 
+Information not licensed or authorized to be used or enjoyed after termination or expiration 
+hereof, and (iv) with respect to any person to which disclosure is contemplated, require such 
+person to execute an agreement providing for the treatment of Confidential Information set forth 
+in clauses (i) through (iii). The foregoing shall not require separate written agreements with 
+employees and agents already subject to written agreements substantially conforming to the 
+requirements of this Section nor with legal counsel, certified public accountants, or other 
+professional advisers under a professional obligation to maintain the confidences of clients. 
+ 
+2. 
+Notwithstanding the foregoing, the obligation of a person to protect the 
+confidentiality of any information or materials shall terminate as to any information or materials 
+which: (i) are, or become, public knowledge through no act or failure to act of such person; (ii) 
+are publicly disclosed by the proprietor thereof; (iii) are lawfully obtained without obligations of 
+confidentiality by such person from a third party after reasonable inquiry regarding the authority 
+of such third party to possess and divulge the same; (iv) are independently developed by such 
+
+
+P a g e 77 | 85 
+ 
+ 
+person from Sources or through persons that such person can demonstrate had no access to Confidential 
+Information; or (v) are lawfully known by such person at the time of disclosure other than by reason of discussions 
+with or disclosures by the Parties. 
+ 
+3. 
+All Confidential Information delivered pursuant to this Agreement shall be and 
+remain the property of the disclosing Party, and any documents containing or reflecting the 
+Confidential Information, and all copies thereof, shall be promptly returned fo the disclosing Party 
+upon written request, or destroyed at the disclosing Party's option. Nothing herein shall be 
+construed as granting or conferring any rights by license or otherwise, express or implied, 
+regarding any idea made, conceived or acquired prior to or after the Effective Date, nor as 
+granting any right with respect to the use or marketing of any product or service. The Parties shall 
+use the Confidential Information only for the Business Relationship. 
+The obligations of the Parties under this Agreement shall continue and survive the completion or 
+abandonment of the Business Relationship and shall remain binding for a period of three (03) 
+years with extended contract period (if applicable) from the Effective Date. 
+ 
+4. 
+As a violation by either Party of this Agreement could cause irreparable injury to the 
+other Party and as there is no adequate remedy at law for such violation, the non-breaching Party 
+may, in addition to any other remedies available to it at law or in equity, enjoin the breaching Party 
+in a court of equity for violating or threatening to violate this Agreement. In the event either Party 
+is required to enforce this Agreement through legal action, then it will be entitled to recover from 
+the other Party all costs incurred thereby, including without limitation, reasonable attorney's fees. 
+ 
+5. 
+Neither Party makes any representation or warranty with respect to any Confidential 
+Information disclosed by it, nor shall either Party or any of their respective representatives have 
+any liability here under with respect to the accuracy or completeness of any Confidential 
+Information or the use thereof. 
+ 
+6. 
+Any provision of this Agreement held or determined by a court (or other legal 
+authority) of competent jurisdiction to be illegal, invalid, or unenforceable in any jurisdiction shall 
+be deemed separate, distinct and independent, and shall be ineffective to the extent of such 
+holding or determination without (i) invalidating the remaining provisions of this Agreement in 
+that jurisdiction or (ii) affecting the legality, validity or enforceability of such provision in any other 
+jurisdiction. 
+ 
+7. 
+Any notice required or permitted to be given here under shall be (a) in writing, 
+(b) effective on the first business day following the date of receipt, and (c) delivered by one of the 
+following means: (i) by personal delivery; (ii) by prepaid, overnight package delivery or courier 
+service; first class, certified mail, return receipt requested, postage prepaid. All notices given 
+under this Agreement shall be addressed to the addresses stated at the outset of this Agreement, 
+or to new or additional addresses as the Parties may be advised in writing. 
+ 
+8. 
+This Agreement is to be governed by and construed in accordance with the laws 
+of the state of Neither Party shall be deemed to waive any of its rights, powers or remedies 
+
+
+P a g e 78 | 85 
+ 
+ 
+here under unless such waiver is in writing and signed by said Party. This Agreement is binding 
+upon and inure to the benefit of the Parties and their successor and assigns. 
+ 
+9. 
+This Agreement constitutes the entire agreement and understanding of the Parties 
+with respect to the subject matter hereof and is intended as the Parties' final expression and 
+complete and exclusive statement of the terms thereof, superseding all prior or 
+contemporaneous agreements, representations, promises and understandings, whether written 
+or oral for the said subject matter. Neither Party is to be bound by any pre-printed terms 
+appearing in the other Party's form documents, tariffs, purchase orders, quotations, 
+acknowledgments, invoices, or other instruments. This Agreement may be amended or modified 
+only by an instrument in writing signed by both Parties. 
+ 
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed by their duly 
+authorized officers on the day and year first above written. 
+By: 
+By: 
+Name: 
+Name: 
+ 
+Title: 
+Title: 
+ 
+ 
+ 
+
+
+P a g e 79 | 85 
+ 
+ 
+SECTION 11: FORMAT OF EARNEST MONEY DEPOSIT IN FORM OF BANK GUARANTEE 
+ 
+Ref: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank 
+Guarantee No. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 
+ 
+To, 
+The Managing Director 
+Gujarat Informatics Limited 
+Block no. 2, 2nd Floor, Karmayogi Bhavan 
+Sector-10A, Gandhinagar-382017, 
+Gujarat, India 
+ 
+Whereas ------------------------------------------------------------ (here in after called "the Bidder") has 
+submitted its bid dated ---------------- in response to the GeM Bid no: GEM/XXXX/B/XXXXX dated 
+XX.XX.XXXX for RFP for “Request for Proposal(RFP) for Selection of Agency for Supply, Installation, 
+Commissioning, Testing, Operations and Maintenance of PIM/PAM Solution in Aadhaar 
+Authentication Environment at GSDC for Department of Science & Technology, Government of 
+Gujarat”  KNOW ALL MEN by these presents that WE ---------------------------------------------------------
+-------------------------------------------------------- having our registered office at ------------------------------
+--------------------------------- (hereinafter called "the Bank") are bound unto the ______________, 
+Gujarat Informatics Limited  in the sum of ---------------------- for which payment well and truly to 
+be made to Gujarat Informatics Limited , the Bank binds itself, its successors and assigns by these 
+presents. Sealed with the Common Seal of the said Bank this --------------day of ----------------------- 
+----2025. 
+THE CONDITIONS of this obligation are: 
+1. The E.M.D. may be forfeited: 
+ 
+ 
+a. if a Bidder withdraws its bid during the period of bid validity  
+b. Does not accept the correction of errors made in the tender document;  
+c. In case of a successful Bidder, if the Bidder fails: 
+ 
+ 
+(i) To sign the Contract as mentioned above within the time limit stipulated by 
+purchaser or 
+ 
+(ii) To furnish performance bank guarantee as mentioned above or 
+ 
+  
+(iii) If the bidder is found to be involved in fraudulent practices. 
+(iv)If the bidder fails to submit the copy of purchase order & acceptance thereof. 
+ 
+We undertake to pay to the GIL/Purchaser up to the above amount upon receipt of its first 
+written demand, without GIL/ Purchaser having to substantiate its demand, provided that in its 
+demand GIL/ Purchaser will specify that the amount claimed by it is due to it owing to the 
+occurrence of any of the above mentioned conditions, specifying the occurred condition or 
+conditions.  
+
+
+P a g e 80 | 85 
+ 
+ 
+ 
+This guarantee will remain valid up to 6 months from the last date of bid submission. The Bank 
+undertakes not to revoke this guarantee during its currency without previous consent of the 
+OWNER/PURCHASER and further agrees that the guarantee herein contained shall continue to 
+be enforceable till the OWNER/PURCHASER discharges this guarantee 
+ 
+The Bank shall not be released of its obligations under these presents by any exercise by the 
+OWNER/PURCHASER of its liability with reference to the matters aforesaid or any of them or by 
+reason or any other acts of omission or commission on the part of the OWNER/PURCHASER or 
+any other indulgence shown by the OWNER/PURCHASER or by any other matter or things. 
+ 
+The Bank also agree that the OWNER/PURCHASER at its option shall be entitled to enforce this 
+Guarantee against the Bank as a Principal Debtor, in the first instance without proceeding against 
+the SELLER and notwithstanding any security or other guarantee that the OWNER/PURCHASER 
+may have in relation to the SELLER’s liabilities. 
+ 
+Dated at _______________ on this _________ day of ___________2025. 
+ 
+____________________ 
+ 
+Signed and delivered by 
+_____________________ 
+ 
+ For & on Behalf of  
+ 
+ 
+ 
+Name of the Bank & Branch & 
+Its official Address 
+ 
+ 
+ 
+ 
+ 
+ 
+Approved Bank: Any Nationalized Bank including the public sector bank or Private Sector Banks 
+or Commercial Banks or Co-Operative Banks and Rural Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2024/2859/D.M.O. dated 
+01.05.2025 issued by Finance Department or further instruction issued by Finance department 
+time to time. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+P a g e 81 | 85 
+ 
+ 
+FORM 12: PERFORMANCE BANK GURANTEE 
+(To be stamped in accordance with Stamp Act) 
+           Ref: 
+                      Bank Guarantee No.                                                       Date: 
+To, 
+The Managing Director 
+Gujarat Informatics Limited 
+2nd Floor, Block No. 2,  
+Karmayogi Bhavan, C&D Wing,  
+Sector 10-A, Gandhinagar - 382010  
+Gujarat, India 
+ 
+Dear Sir, 
+In consideration of Name & Address of the Purchaser/Indenter, Government of Gujarat, 
+Gandhinagar (hereinafter referred to as the OWNER/PURCHASER which expression shall 
+unless repugnant to the context or meaning thereof include successors, administrators 
+and assigns) having awarded to M/s. 
+………………………………………………………………………………………………………………having 
+Principal Office at ......................................................................... (hereinafter referred 
+to as the “SELLER” which expression shall unless repugnant to the context or meaning 
+thereof include their respective successors, administrators, executors and assigns) the 
+supply of  
+by  issue of  Purchase Order No… ................ Dated 
+………… issued by Gujarat Informatics Ltd. ,Gandhinagar for and on behalf of the 
+OWNER/PURCHASER and the same having been accepted by the SELLER resulting into 
+CONTRACT for supplies of materials/equipment as mentioned in the said purchase order 
+and the SELLER having agreed to provide a Contract Performance and Warranty Guarantee 
+for faithful performance of the aforementioned contract and warranty quality to the 
+OWNER/PURCHASER,  
+ 
+ 
+ 
+having 
+Head Office at (hereinafter referred to as the ‘Bank’ which expressly shall, unless 
+repugnant to the context or meaning thereof include successors, administrators, 
+executors and assigns)  do  hereby  guarantee  to  undertake  to  pay  the  sum  of  Rs. 
+ 
+(Rupees  
+) 
+to 
+ 
+ 
+the 
+OWNER/PURCHASER on demand at any time up to  
+ 
+ 
+without 
+a 
+reference to the SELLER. Any such demand made by the OWNER/PURCHASER on the Bank 
+shall be conclusive and binding notwithstanding any difference between Tribunals, 
+Arbitrator, or any other authority. 
+The Bank undertakes not to revoke this guarantee during its currency without previous 
+consent of the OWNER/PURCHASER and further agrees that the guarantee herein 
+contained shall continue to be enforceable till the OWNER/PURCHASER discharges this 
+guarantee. OWNER/PURCHASER shall have the fullest liberty without affecting in any way 
+the liability of the Bank under this guarantee from time to time to extend the time for 
+performance by the SELLER of the aforementioned CONTRACT. The OWNER/ PURCHASER 
+shall have the fullest liberty, without affecting this guarantee, to postpone from time to 
+time the exercise of any powers vested in them or of any right which they might have 
+
+
+P a g e 82 | 85 
+ 
+ 
+against the SELLER, and to exercise the same at any time in any manner, and either to 
+enforce to forebear to enforce any covenants contained or implied, in the aforementioned 
+CONTRACT between the OWNER/PURCHASER and the SELLER or any other course of or 
+remedy or security available to the OWNER/PURCHASER. The Bank shall not be released 
+of its obligations under these presents by any exercise by the OWNER/PURCHAER of its 
+liability with reference to the matters aforesaid or any of them or by reason or any other 
+acts of omission or commission on the part of the OWNER/PURCHASER or any other 
+indulgence shown by the OWNER/PURCHASER or by any other matter or things. 
+The Bank also agree that the OWNER/PUCHASER at its option shall be entitled to enforce 
+this Guarantee against the Bank as a Principal Debtor, in the first instance without 
+proceeding against the SELLER and not withstanding any security or other guarantee that 
+the OWNER/PURCHASER may have in relation to the SELLER’s liabilities. 
+Notwithstanding anything contained herein above our liability under this Guarantee is 
+restricted to Rs.  
+(Rupees  
+ 
+) and it 
+shall remain in force up to and including  
+and shall be extended 
+from time to time for such period as may be desired by the SELLER on whose behalf this 
+guarantee has been given. 
+Dated at  
+on this  
+day of  
+2025. 
+ 
+Signed and delivered by 
+ 
+For & on Behalf of 
+Name of the Bank & Branch & Its official Address 
+ 
+List of approved Banks: 
+ 
+All Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. No. EMD/10/2020/42/DMO dated 19.10.2020 
+issued by Finance Department or further instruction issued by Finance department time 
+to time. 
+ 
+ 
+
+
+P a g e 83 | 85 
+ 
+ 
+FORM 13: Performa of Compliance Letter 
+(Submit copy on Bidder’s letterhead duly signed by Authorized signatory)  
+Date: dd /mm /yyyy 
+ 
+To, 
+The Managing Director 
+Gujarat Informatics Ltd, 
+Block no. 2, 2nd floor, Karmayogi Bhavan, Sector-10A, Gandhinagar. 
+ 
+Sub.: Compliance with the tender terms and conditions, specifications and 
+Eligibility Criteria. 
+ 
+Dear Sir, 
+With reference to above referred tender, I, undersigned <<Name of Signatory>>, in 
+the capacity 
+of <<Designation of Signatory>>, is authorized to give the undertaking on behalf of 
+<<Name of the bidder>>. We have to inform you that we have read and understood 
+the qualification criteria, scope of work and all other requirements of the above- 
+mentioned bid submitted by us on <<Date>>. We hereby confirm that all our bid 
+proposal is absolutely compliant with the requirements, specifications mentioned 
+in the bid document. We also explicitly understand that our bid proposal meets 
+technical & other specifications of the bid. 
+We are not banned or blacklisted by any Government institution of India. In case of 
+breach of any of the terms and conditions of the tender or deviation from bid 
+specifications other than already specified as mentioned above, the decision of GIL 
+Tender Committee for disqualification will be final and accepted by us. 
+ 
+Thanking you, 
+ 
+For <Name of the bidder>> 
+<<Authorized Signatory>> 
+<<Stamp of the bidder>> 
+ 
+ 
+
+
+P a g e 84 | 85 
+ 
+ 
+ 
+ 
+Form 14: On letterhead of Bidder 
+ 
+Please submit the undertaking letter as per Ministry of Finance Memorandum No.: F. 
+No.6/18/2019-PPD dated 23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated 
+08.02.2021 as per Performa given below on OEM letterhead as well as on bidder’s letterhead. 
+ 
+ 
+On Letterhead of Bidder 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that 
+shares a land border with India. I certify that we as a bidder and quoted product from the 
+following OEMs are not from such a country or if from such a country, these quoted products 
+OEM has been registered with the competent authority. I hereby certify that these quoted 
+product & its OEM fulfills all requirements in this regard and is eligible to be considered for 
+procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority, otherwise GIL/End user Dept. 
+reserves the right to take legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+
+
+P a g e 85 | 85 
+ 
+ 
+On Letterhead of OEM 
+ 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that 
+shares a land border with India. I certify that our quoted product and our company are not from 
+such a country, or if from such a country, our quoted product and our company have been 
+registered with the competent authority. I hereby certify that these quoted products and our 
+company fulfills all requirements in this regard and is eligible to be considered for procurement 
+for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. 
+reserves the right to take legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 

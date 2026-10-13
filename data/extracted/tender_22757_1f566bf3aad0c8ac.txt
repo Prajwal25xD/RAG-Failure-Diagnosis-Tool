@@ -1,0 +1,5571 @@
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 1 of 78 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bid Document 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUJARAT INFORMATICS LIMITED 
+Block No. 2, 2nd Floor, 
+C & D Wing, Karmayogi Bhavan 
+Sector - 10 A, Gandhinagar – 382010. 
+Phone No: 23256022, Fax No: 23238925 
+ 
+ 
+                     
+ 
+Pre-Bid meeting: 01.09.2026 1500 hours  
+Last Date of Submission of Bid: 16.09.2026 1500 hours  
+Last Date of Submission of Bid Processing Fees & EMD: 16.09.2026 1500 hours 
+ 
+ 
+ 
+ 
+Rate Contract for Horizontal connectivity work Including 
+Supply, Installation and Commissioning of Last Miles 
+Equipment on Turnkey basis for Government Offices in 
+the State of Gujarat (Tender No. HWT21082026) 
+Bid Processing Fee: Rs.17,700/- 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 2 of 78 - 
+ 
+ 
+ 
+Introduction 
+  
+Gujarat Informatics Limited (GIL), on behalf of the DST (Department of Science and Technology), Govt. of Gujarat, 
+Gandhinagar hereinafter referred as the “TENDERER” invites the bidders for Rate Contract for Horizontal 
+connectivity work Including Supply, Installation and Commissioning of Last Miles Equipment on Turnkey basis for 
+Government Offices in the State of Gujarat.  
+ 
+The selected Agency shall be fully capable and experienced in the work of Horizontal connectivity work Including 
+Supply, Installation and Commissioning of Last Miles Equipment on Turnkey basis for Government Offices. The 
+Selected Agency must have trained and certified manpower including technicians capable of carrying out this 
+job. The agency is required to deploy the trained & experienced manpower for this project.  
+ 
+Bidder is requested to offer the cost for all the items and all the accessories as mentioned in bid document. GIL 
+does not guarantee any fixed quantity at the time of signing the tender.  
+ 
+Proposal in the form of BID are requested for the item(s) in complete accordance with the documents to be 
+uploaded as per following guidelines: 
+ 
+1) 
+Bidder shall submit their bids. 
+2) 
+The Bidder will have to submit the Earnest Money Deposit (E.M.D.) of Rs. 60,00,000/- (Rupees Sixty lakh 
+only) (Refundable) within  stipulated time defined in the bid in a sealed cover at GIL office with the heading 
+“EMD for Tender No HWT21082026 for Rate Contract for Horizontal connectivity work Including Supply, 
+Installation and Commissioning of Last Miles Equipment on Turnkey basis for Government Offices in the 
+State of Gujarat.   
+ 
+ 
+a. EMD as mentioned above, shall be submitted in the form of Demand Draft (Please affix the stamp of 
+your company on the overleaf of demand draft) 
+ 
+OR 
+ 
+b. In case of RTGS, please find below bank details of Gujarat Informatics Ltd 
+Saving Account No: 50200010918090 
+IFSC Code: HDFC0000190  
+Bank Name: HDFC 
+Bank Branch Address:  Sector-16, Gandhinagar 
+  
+OR 
+ 
+c. In the form of an unconditional Bank Guarantee [which should be valid up to 9 months from the date 
+of bid submission of any Nationalized Bank including the public sector bank or Private Sector Banks 
+or Commercial Banks or Co-Operative & Rural Banks (operating in India having branch at Ahmedabad/ 
+Gandhinagar) as per the G.R. No. FD/MSM/e-file/4/2024/2859/DMO dated 01/05/2025 issued by 
+Finance Department or further instruction issued by Finance department time to time] in the name 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 3 of 78 - 
+ 
+ 
+ 
+of “Gujarat Informatics Ltd.” payable at Gandhinagar and must be submitted along with the covering 
+letter. 
+ 
+ 
+3) 
+The bid shall specify time schedule of various activities. 
+4) 
+Bid complete in all respects should be uploaded on or before the Bid due date. 
+5) 
+Interested and eligible Bidders are required to upload the eligibility related document in Eligibility Bid 
+Section, technical related document in Technical Bid Section & commercial bid in Commercial Bid Section. 
+The Bids should be accompanied by a bid security as specified in this Bid Document. The Eligibility, 
+Technical & Commercial Bid must be uploaded to & the Bid Security must be delivered to the office of 
+Gujarat Informatics Ltd.  
+6) 
+Bidders are required to mention Make and Model of the product.  Bidder has to submit one make and 
+model against each line item. If multiple make and model mentioned in any line item then submitted bid 
+is liable to reject. 
+7) 
+The Bid Security Section and Eligibility Section will be opened on the specified date & time in presence of 
+the committee members and representatives of the bidders who choose to attend. The representative will 
+be held responsible for all commitments made on behalf of the bidder and that will be considered valid 
+for all further dealings related to this tender process. 
+8) 
+Services offered should be strictly as per requirements mentioned in this Bid document. Please spell out 
+any unavoidable deviations, Clause / Article-wise in your bid under the heading Deviations. 
+9) 
+Once quoted, the bidder shall not make any subsequent price changes, whether resulting or arising out of 
+any technical/commercial clarifications sought regarding the bid, even if any deviation or exclusion may 
+be specifically stated in the bid. Such price changes shall render the bid liable for rejection. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 4 of 78 - 
+ 
+ 
+ 
+Section – 1: PROJECT PROFILE 
+ 
+1.1 Introduction 
+1.1.1 Government of Gujarat is in the process of establishing Horizontal connectivity Infrastructure for 
+various Government offices located at State, District and Taluka Locations levels, in the entire 
+state of Gujarat. 
+1.1.2 GIL on behalf of Department of Science and Technology, Govt. of Gujarat, invites bid for Rate 
+Contract to supply, installation and commissioning of structure LAN cabling of CAT-6A, laying, 
+splicing, jointing, Optical Fiber Cable (OFC), Wireless and copper cabling including their associated 
+accessories such as patch cords, termination box, OFC accessories, switches, transceivers, racks, 
+manageable switches etc. The works are to be completed on turnkey basis and to be maintained 
+as per terms and conditions of the work order/ LOI. 
+1.1.3 Services offered should be strictly as per the requirements mentioned in this Bid document. 
+Conditional bids are liable for rejections. 
+1.1.4 Once quoted, the bidders are not allowed for any type of price changes, whether resulting or 
+arising out of any technical/commercial clarifications sought regarding the bid. Such price 
+changes shall render the bid liable for rejection. 
+1.1.5 In addition to this RFP, the following sections attached are part of Bid Document 
+ 
+Section -1 
+Project Profile 
+Section -2 
+Eligibility Criteria 
+Section -3 
+Scope of Work 
+Section -4 
+Instruction to Bidders 
+Section -5 
+Specifications 
+Section -6 
+Technical Bid Format 
+Section -7 
+Financial Bid Format 
+Section -8 
+Performa for Performance Bank Guarantee 
+Section -9 
+Annexures 
+ 
+1.1.6 GIL/DST will select bidder for Horizontal connectivity work in GSWAN on Turnkey basis and 
+Supply, Installation and Commissioning of Last Mile Equipment for Government Offices in the 
+State of Gujarat. 
+1.1.7 The LOCATION OF WORKS will be across the Gujarat state. 
+ 
+1.2 Abbreviations 
+1 
+GoG: Government of Gujarat 
+2 
+DST: Department of Science & Technology 
+3 
+DIT: Directorate of ICT & e-Governance 
+4 
+GIL: Gujarat Informatics Limited 
+5 
+GSWAN: Gujarat State Wide Area Network 
+6 
+GSDC: Gujarat State Data Centre 
+7 
+SICN: Sachivalaya Integrated Communication Network 
+8 
+GSCAN: Gujarat Sachivalaya Campus Area Network 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 5 of 78 - 
+ 
+ 
+ 
+9 
+OEM: Original Equipment Manufacturer 
+10 O&M: Operations & Maintenance 
+11 EMS: Enterprise Management Suite 
+12 NMS: Network Monitoring System 
+13 EMD: Earnest Money Deposit 
+14 PBG: Performance Bank Guarantee 
+15 SLA: Service Level Agreement 
+16 FAT: Final Acceptance Test 
+17 TPA: Third Party Agency 
+18 SoW: Scope of Work 
+19 IMS: Integrated Infrastructure Management System 
+20 MP: Monthly Payment 
+21 TENDERER: GIL/Government of Gujarat 
+ 
+1.3  
+Gujarat State Wide Area Network (GSWAN) 
+Government of Gujarat implemented the Gujarat State Wide Area Network (GSWAN 1.0) in the year 2001- 
+02 and it has been upgraded time to time. The current GSWAN 2.0 has been upgraded in Year 2016-17. The 
+end-to-end IP based network has been designed for the service convergence (Voice, Video and Data) on 
+the same backbone. The key objectives were: 
+• 
+To modernize the intra-governmental communication setup 
+• 
+To improve administrative effectiveness and efficiency 
+• 
+To facilitate improvements in the Quality of Public services 
+ 
+1.3.1 GSWAN Overview 
+• GSWAN is one of the largest IP based Multi Service IT infrastructure connecting all Districts 
+and Talukas to State capital Gandhinagar. 
+• The end-to-end IP based network was designed for catering G2G Data and Video services on the 
+same backbone. 
+• More than 6000 Horizontal Office locations of Government and semi-government offices are 
+connected with GSWAN. 
+• All District Centers (DC) are connected to State Capital (SC) through 1 Gbps/500 Mbps/250 
+Mbps Leased Circuits aggregating at the State Data Centre (SDC). 
+• All Taluka Centers (TC) are connected to respective DC through 100 Mbps/200 Mbps Leased 
+Circuits. 
+• All DCs are interconnected through BSNL Leased Circuits for redundancy. 
+• ALL TCs are interconnected through BSNL Leased line circuit for redundancy. 
+• GSWAN at present has a user base of over 70,000. 
+• Core Internet Bandwidth of 30 Gbps through National Knowledge Network (NKN), 30 Gbps 
+through BSNL redundant Internet Service Providers and BGP implemented between these 
+2 ISPs. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 6 of 78 - 
+ 
+ 
+ 
+• More than 650+ Websites and Applications accessible to users hosted at State Data Center 
+through GSWAN. 
+• More than 250 Video Conferencing End Points and 8 Multi Conferencing Units (MCU’s) are 
+operational on GSWAN. 
+ 
+1.3.2 Existing GSWAN Network Architecture 
+• The current GSWAN 2.0 has been implemented on MPLS (Multi-Protocol Label Switching) based 
+network architecture. 
+• Multiprotocol Label Switching (MPLS) enable GSWAN has been upgraded as next- generation 
+intelligent network that can deliver a wide variety of advanced, value-added services. User 
+departments with differing access links can be aggregated on an MPLS edge without  changing  
+their  current  environments,  as  MPLS  is  independent  of  access technologies. 
+• Integration of MPLS application components, including Layer 3 Network, Layer 2 Network, 
+Traffic Engineering, Quality of Service (QoS) and IPv6 will enable creation of a highly efficient, 
+scalable, and secure GSWAN that will guarantee Service Level Uptime and Availability. 
+• 
+The Current architecture is shown as under: 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 7 of 78 - 
+ 
+ 
+ 
+• 
+The history of GSWAN leased line Bandwidth up-gradation is as under: 
+Sr. No. 
+GSWAN 1.0 
+GSWAN 2.0 
+1 
+34 Mbps(SHQ to DHQ) 
+1 Gbps /500 Mbps /250 Mbps(SHQ to DHQ) 
+2 
+10 Mbps(DHQ to BHQ) 
+200 / 100 Mbps(DHQ to BHQ) 
+3 
+34 Mbps(DHQ to DHQ) 
+500 / 250 Mbps(DHQ to DHQ) 
+ 
+ 
+Classification of Tier 
+1 
+First tier 
+Secretariat 
+Centre 
+Center (SC) 
+• Secretariat Center (SC) at state capital, Gandhinagar, from where the 
+highest 
+office 
+of 
+Government 
+functions 
+in 
+the 
+state. 
+• Various departments and hundreds of subordinate offices located at the 
+state capital are connected to SC horizontally through SCAN (Secretariat 
+Campus 
+Area 
+Network) 
+including 
+State 
+Datacenter. 
+• SCAN has about 9000 Ethernet extensions at Gandhinagar and all these are 
+interconnected with GSWAN at SDC level for information exchange. 
+• All DC GSWAN Hotline phone connections have been provided to various 
+offices at Secretariat for direct voice communication to any GSWAN node in 
+the state (at District or Taluka level). 
+2 
+Second 
+Tier 
+District 
+Centers 
+(DC) 
+• Second Tier constitutes District Centers (DCs) located at district collector’s 
+office and multiple district level other offices connected with DC horizontally. 
+• All DCs are connected on 1 Gbps/500 Mbps/250 Mbps leased lines with SC. 
+• All DCs are connected on 1 Gbps/500 Mbps/250 Mbps leased lines with SC. 
+• Gandhinagar 
+DC 
+is 
+a 
+part 
+of 
+SCAN 
+infrastructure. 
+• GoG evaluated several options to achieve cost effective, flexible and 
+scalable connectivity for all horizontal offices and used Cat- 5 or above, OFC, 
+JFC, wireless VSAT on case to case basis. 
+3 
+Third Tier 
+Taluka 
+centers (TC) 
+• Third Tier constitutes Taluka Centers (TCs), located at Taluka Mamlatdar 
+office 
+and 
+Taluka 
+Development 
+Office. 
+• At TCs provision are kept for connecting Taluka level other offices 
+horizontally. 
+• All Talukas are connected to DC with 200Mbps/100 Mbps Leased Lines from 
+BSNL. 
+• In each of the stations, there is a state-of-the-art Router, which terminates 
+the Leased Line. These routers route IP packets intelligently throughout the 
+network, and provide the Quality of Service (or QoS) features to enable 
+convergence of voice, video and data on to a single network infrastructure. 
+4 
+Forth 
+Tier 
+Gram 
+Panchayat 
+(GP) 
+• Over and above, forth tier is under process to provide intranet and internet 
+to 
+GP 
+leveraging 
+GFGNL 
+connectivity. 
+• Further it is also plan to provide horizontal connectivity from GP to various 
+village level government offices like primary School, PHC, Forest, Police, 
+Anganwadi, etc. 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 8 of 78 - 
+ 
+ 
+ 
+1.3.3 GSWAN Wi‐Fi 
+ 
+Government of Gujarat has implemented GSWAN Wi-Fi infrastructure to provide Wi-Fi 
+connectivity to various Government offices in Gandhinagar and selected locations at the 
+District and Taluka in the State. 
+ 
+1.3.4 GSWAN SCAN 
+ 
+Using latest and state-of-the art technology, the Government of Gujarat (GoG) has established 
+Gujarat Sachivalaya Campus Area Network (GSCAN) to improve the administrative efficiency 
+in the Sachivalaya Campus and other main offices campus in Gandhinagar. The GSCAN has 
+been implemented as the backbone network for data, video and voice communications 
+throughout the New Sachivalaya, SS-1, SS-2, Old Sachivalaya, various RU (Remote Unit) 
+locations, other main office Campus locations for the Government operations in Gandhinagar. 
+GSCAN has modernized the communication set up for Intra- Government and Government- 
+Citizen Services. GSCAN has a suitable topology, uses state-of-art technologies and has 
+flexibility to expand/upgrade 
+to cover all parts of the Sachivalaya. All Government 
+communication and IT infrastructure would be linked to GSCAN. 
+ 
+Current GSCAN has been implemented to provide Data / Voice / Video services to various 
+designated offices at Sachivalaya and other locations in Gandhinagar. The key applications 
+envisaged on the network are Internet, Video Conferencing, Voice and Data Communication 
+and Intranet Operation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 9 of 78 - 
+ 
+ 
+ 
+Section – 2: ELIGIBILITY CRITERIA 
+ 
+2.1 The bidder should be IT System Integrator, who must have supplied and successfully installed items similar 
+to the type specified in the schedule of requirements to any of the reputed organizations / institutes in 
+the country. 
+2.2 The Bidder should have at least 5 years of experience in setting up LAN /WAN solutions and should have 
+installed LAN/WAN projects. Copies of Purchase orders and Certificates of Successful Completion from 
+Customer should be submitted. Experience details should be given in Form E1, ANNEXURE ‐ II 
+1. In one project having setting up of LAN /WAN solutions value of contract minimum INR 20 Cr. 
+Or 
+2. In two projects, each project having setting up of LAN /WAN solutions value of contract minimum 
+INR 12 Cr. 
+Or 
+3. In three projects, each project having setting up of LAN /WAN solutions value of contract INR 10 
+Cr. 
+2.3 The Bidder should provide Authorization certificate from the OEM for proposed product, for the 
+authenticity, authorized representation and after sales support during FAT. (Form‐E2). 
+2.4 The bidder must have submit compliance bid specification & Additional Specification Parameter mentioned 
+in bid document on OEM letter with Sign stamp at time of bid submission 
+2.5 The Bidder should have 20 skilled engineers / Manpower with minimum 2 Years of experience across the 
+Gujarat state. Bidders needs to provide the detail of on-roll/off role Manpower i.e. educational 
+qualifications, experience and P.F. no./ ESIC no. along with the projects they have handled should be 
+provided with the bid. (Form‐E3) 
+2.6 The bidder should have local presence and should have office in Gujarat. The bidder should have service 
+support infrastructure in the state to provide warranty and post warranty services. The details for such 
+service support infrastructure must be enclosed. Please attach the copy of any one of the following: 
+Property tax bill/Electricity Bill/Telephone Bill/GST Registration/Lease agreement etc. (Form‐E4 and 
+Form‐E5). In case bidder does not have office in Gujarat, bidder should give undertaking to open office in 
+Gujarat within 45 Working days from the date of award of work order. 
+2.7 Copies of original documents defining the constitution on legal status, place of registration and 
+principle place of business of the company or firm etc. Copy of company incorporation / registration 
+certificate of the firm shall be attached as a proof Bidder must submit copies of his central and local VAT 
+and Service tax/GST registration certificates, PAN number. 
+2.8 The bidder must have total turnover of Rs. 90 Crore from the business of IT/ITeS- networking Business only 
+during the last three financial years as on 31st March 2026. Bidder should attach copies of audited accounts 
+as a proof of turnover for the past three years. (Form ‐ E6). 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 10 of 78 - 
+ 
+ 
+ 
+2.9 The OEM must have total annual turnover as mentioned below: 
+ 
+Sr. No. 
+Product name 
+Average annual turnover (last 3-years to be consider) in Rs. 
+1 
+Active Products 
+20 Cr 
+2 
+Passive Products 
+10 Cr 
+3 
+RF radios 
+2.5 Cr 
+ 
+2.10 OEM Past performance: 
+Past 
+Performance 
+(OEM) 
+The OEM or its reseller should have at least 5 Years’ experience in setting up LAN /WAN 
+solutions and should have executed minimum cumulative order for 2000 Node projects. 
+Copies of Purchase orders should be submitted. 
+RF OEM or its reseller should have at least 5 Years’ experience in setting up RF Link solutions 
+and should have executed minimum cumulative order for 250 Link projects. Copies of 
+Purchase orders should be submitted. 
+ 
+2.11 The Manufacturer of the product (OEM) of items like Ethernet Switches, Copper and Fiber Cable, UTP 
+cable must have minimum presence of 5 years in India as on bid issuance date.  
+ 
+Note:  
+i 
+All the details and the supportive documents for the above-mentioned items should be submitted. 
+Please note that all the eligibity criteria’s, turnover, experience will be considered as per the RFP 
+document. 
+ii 
+Consortium is not allowed for bidding in this bid. 
+iii The Bidder must attach valid documents in support to their Technical and Financial 
+capabilities/strength, as mentioned above. Without proper supporting documents, the Bid proposals 
+are liable to be rejected. 
+iv All the proposed equipment should not be declared End-of-Support by the OEMs for next 5 years from 
+the date of bid submission. 
+v 
+The proposed equipment's must be stable and production-proven, with no known critical or open 
+Bugs at the hardware level or software level.  
+vi The Successful Bidder shall ensure mitigation of audit points, compliance issues, and VA/PT findings 
+at no cost to DST/GIL within mutually agreed timelines, whenever advisories, bugs, or vulnerabilities 
+are released by competent authorities. If a required patch/fix/OS is not yet released or declared stable 
+by the OEM, it remains the Bidder’s responsibility to ensure compliance as soon as possible. New IOS 
+release, Software updates , Patches ,Software Maintenance Upgrade etc will be provided at no cost 
+during warranty period. 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 11 of 78 - 
+ 
+ 
+ 
+Section – 3: SCOPE OF WORK 
+ 
+Introduction: 
+ 
+Department of Science and Technology is nodal agency of Government of Gujarat for implementation of 
+LAN/WAN network throughout the state. As of now Government of Gujarat has already connected more than 
+~5k offices through its own network i.e. Gujarat Sachivalaya Campus Area Network (GSCAN-Sachivalaya LAN) 
+and Gujarat State Wide Area Network (GSWAN- Spread across the state). 
+GSCAN and GSWAN: Is the core backbone of state-wide IT infrastructure. It currently serves the state 
+government departments/board/corporations to fulfill their need of connectivity (Both Internet and Intranet) 
+across the state. Over the years of experience GSCAN and GSWAN has proved to be a reliable state-wide carrier 
+for data, voice and internet access for the different departments spread across varied geographical boundaries 
+across the state of Gujarat. GSWAN connects all Districts, 248 Talukas ultimately interconnecting last mile 
+offices for secure digital communication. GSCAN and GSWAN rides on various modes of connectivity like owned 
+OFC, Leased OFC from ISP, Wireless links connecting to nearest PoPs. Recently, DST, GoG had completed 3rd 
+phase of upgradation of GSWAN and increases minimum bandwidth at each PoP to 20mbps from 2mbps 
+focusing more on creating fiber backbone and more and more no of PoPs to serve the last mile. 
+ 
+GSWAN is the core network of the state of Gujarat through which voice, data & video related applications are 
+being used by all government departments & its field offices in a big way. Also, during the last decade, 
+dependency on network connectivity & its availability has become so high due to deployment of various 
+government intranet applications as well as citizen centric applications. It is envisaged that selected agency shall 
+not merely focus on carrying out O&M of network to achieve the uptime as per SLA but also to progressively 
+improve the satisfaction of network users by achieving reduction of complaints, by improving processes and 
+implementation. Agency is expected to improve the reduction of network downtime due to fiber cut, power 
+outage, RF radio related issues & other issues by close co-ordination with all stakeholders like connectivity 
+service providers, various other implementing agencies, GSWAN users at district, taluka & other government 
+offices, power utility agencies, Road & Buildings dept. offices, etc. Selected agency is expected to arrange 
+monthly meetings such as war room discussions with all important stakeholders for improving upon the close 
+co-ordination & issue resolution thereby improving efficiency & efficacy of the overall network. With an objective 
+to improve user satisfaction & reduce number of complaints / call, over and above the routine O&M scope of 
+the network, various measures are introduced in this RFP like -user education & awareness for availing and better 
+utilization of GSWAN services & to log complaints; Incentives for improvisation of services as well as skills up-
+gradation & training of deployed manpower. 
+ 
+This is an EPC/turnkey kind of procurement wherein successful empaneled agency will be responsible for end-
+to-end LAN/WAN/OFC cabling work including various activities such as carrying out LAN/WAN, OFC-related work 
+for both the categories i.e. new connection/link or repairing of existing links of GSCAN/GSWAN, etc. Broad scope 
+of the work includes undertaking various activities like supplies of various materials, installation, testing, 
+commissioning and O&M during the warranty period. 
+ 
+ Bidder has to make Back to Back agreement with respective OEMs for the same. As this is an RFP of Rate Contract 
+empaneling agency for the duration of three years, GIL/DST/GoG does not guarantee order of any fixed quantity 
+at the time of issuance of work order. Any type of escalation of the discovered rates during the work order/ LOI 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 12 of 78 - 
+ 
+ 
+ 
+tenure is not permitted, further successful empaneled agency denying serving the work order/ LOI due to rate 
+escalation may liable for the work order/ LOI Cancellation, forfeiture of Bank Guarantee and Black listing. 
+ 
+3.1 OFC CABLING WORKS 
+ 
+As mentioned above bidder will be responsible for end-to-end with material Cabling work including 
+all like cable, passive items, I/O box, patch cord, Labour work, warranty and maintenance services 
+as per the industry best practices and complying to the RFP requirement throughout the state to 
+provide SCAN/ GSWAN connectivity at various GoG offices using OFC / CAT-6A cable. Bidder will be 
+responsible to undertake and complete the works within the defined time frame related to supply, 
+installation, testing and commissioning of services as indicated in the bid anywhere across the 
+Gujarat state. 
+CAT6A and Optical Fiber Cable quoted/supplied by the Bidder as per the scope of work of this RFP 
+must be manufactured/made in India only. The works are to be completed on turnkey basis and 
+the supplied equipment are required to be maintained for 05 years from the date of FAT till the 
+contract period. The Bidder shall be responsible for implementation of the work as defined. Bidder 
+is required to carry out following tasks but not limited to: 
+1) Supply, Installation, testing and commissioning of the LAN/WAN/OFC work: The Bidder is 
+required to carry out cabling work as per the requirements of Tenderer. Bidder will have to 
+carry the user details such as User name, IP address and Network Layout in respective file 
+/ respective offices for installation and commissioning of equipments. Bidder is required to 
+send a mail to gswansupport@gujarat.gov.in and other email addresses as specified by 
+Tenderer, from respective user account for the confirmation of Data. 
+2) Turnkey Project Basis:- The Bidder shall act as single Bidder to organize and manage the entire 
+project – including design, supply, installation and commissioning of all required hardware, 
+software, networking, accessory items and local wiring for Electrical power supply etc. at 
+locations proposed by Tenderer. The Bidder shall be in a position to test, demonstrate and 
+certify the basic requirements in accordance with the contract. 
+3) Technical arrangements: The Bidder shall provide details of site and infrastructure 
+requirements in a layout plan after making a site survey. 
+4) Earthing Arrangement: The Bidder shall provide wiring and pit specifications, Earth resistance 
+etc. The Bidder shall arrange to construct separate earth-pits as required. 
+5) The works shall be executed on a turnkey basis, and all supplied equipment must be covered 
+under a comprehensive onsite warranty for a period of five (5) years from the date of FAT. The 
+Bidder shall be fully responsible for the implementation of the work as defined in the scope. 
+Any new item supplied during the contract period must also carry a minimum five (5) year 
+warranty. The successful bidder is required to provide comprehensive onsite warranty support 
+for all equipment as specified in the RFP. 
+6) All goods or materials shall be supplied strictly in accordance with the specifications, 
+Drawings, datasheets, other attachments and conditions stated in the RFP/ Agreement / SLA. 
+All materials supplied by the Bidder shall be guaranteed to be of the best quality of their 
+respective kinds and shall be free from faulty design, workmanship and materials. 
+7) Certification: The Bidder shall test and certify the availability and reliability of the link and give 
+the connectivity matrix between various locations and get it certified by Tenderer. 
+8) Documents: The Bidder shall provide 1 set of documents and manuals (hard copy, soft copy 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 13 of 78 - 
+ 
+ 
+ 
+with each item of the unit supplied). Bidder will have to submit the Escalation matrix 
+with details of responsible person names, E- mail’s and mobile numbers in order to solve 
+any technical and non-technical problems throughout the life cycle of the project and warranty 
+period. 
+9) Reporting: Detailed report is required to be submitted for the work under progress and for 
+functional performance of the connectivity, throughput. The same have to be certified by 
+GIL/DST or its representative agency. Bidder shall submit the installation plan for each location 
+to GIL/DST or its representative agency, who in turn shall approve the plan before execution. 
+Bidder will have to fill up an installation and commissioning report and get it duly signed by 
+concern officer with their seal and remarks if any. 
+10) Tenderer reserves the right to redefine the requirement of services within the scope of 
+items specified in the bid as required from time to time. 
+11) The Under Ground (U/G) Cables are to be buried at depth such that the top of the cable is 
+One meter (1000 mm) below the normal ground level. The items of work involved in U/G 
+Cable laying are as under: - 
+ 
+A. 
+Excavations of trench up to a depth such that the top of the cable is 1 meter below the 
+normal ground level according to the construction specifications. 
+B. 
+Laying and pulling of cables in trenches through pipes/ ducts. 
+C. 
+Placing of half-round RCC Pipes / Stones slabs /Precast RCC Slabs /Layer of Bricksas 
+per specifications. 
+ 
+D. 
+OFC LIU should be Fully Loaded by default for all sort of OFC cabling work. 
+E. 
+Route indicators (Metallic) for OFC cable are to be placed for every 100 mtrs. 
+F. 
+Joint indicators for OFC cable are to be placed for every OFC joint. 
+G. 
+Digging and burying of OFC cable 1Km. Length and the OFC cables are to be laid in 
+buried HDPE pipes. Diameter of the HDPE pipe should be 25mm of Std. Make with ISI 
+mark. 
+H. 
+Back filling in compacting of the excavated trenches according to the construction’s 
+specifications and removal of excess earth from the site. 
+I. 
+Construction of pillar foundations erection, painting and sign writing of pillars. 
+J. 
+Erection, termination, painting and sign writing of DPs 
+K. 
+Termination of Cables in MDF and Pillars. 
+L. 
+Jointing and End-to-End testing of Cables– Correspondence and Electrical tests. Supply, 
+fixing, painting and sign writing of root and joint indicators. 
+M. 
+Documentation: Submission of detailed diagram/drawing of work carried out. 
+N. 
+Modernized Method of cable laying should be incorporated, where, minimum 
+damage to the infrastructure is required i.e. cable laying machine is used for such 
+purposes. 
+O. 
+Bidder is required to maintain work log and activity sheets on a software which 
+facilitates reporting of their performance through SLA monitoring, the access to these 
+reports to be made available to Tenderer/its designated agency. 
+P. 
+Bidder is required to submit the underground cable diagram with longitude and 
+latitude from start point to end point including each turning point with cable length. 
+(In form of hardcopy as well as soft copy in CD) 
+Q. 
+Bidder must comply and confirm the above-mentioned points in their proposals 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 14 of 78 - 
+ 
+ 
+ 
+ 
+ 
+3.2 LAN/WAN/Structured Cabling Works 
+ 
+All work shall conform to the Building Code, and all local codes and ordinances as applicable. 
+Any exceptions to the above must have written authorization from Tenderer. As mentioned 
+above entire work has to be completed in turnkey/EPC manner. Further, below mentioned 
+are the minimum tasks which Bidder will have to carry out during the work: 
+a). To carry out the feasibility study for the deployment of required LAN. 
+b). Bidder shall act as single Bidder to organize and manage the entire project including 
+design, supply, installation and commissioning. The Bidder shall be in a position to test, 
+demonstrate and certify the LAN connectivity in accordance with the contract. 
+c). The Bidder shall carry out site survey and prepare tentative BoM for the work to be carried 
+out at that particular site. This BoM will have to be submitted to Tenderer for approval 
+along with a layout diagram indicating the location of equipment to be installed. 
+d). The Bidder will be responsible to undertake and complete the works related to supply 
+installation and commissioning services across the Gujarat state. 
+e). In case of repairing or upgradation of existing links bidder will be responsible for removal 
+of existing old/faulty cables or material without any additional cost to the purchaser. 
+f). 
+The bidder shall carry out supply, installation, testing, and commissioning of concealed 
+and conduit cabling infrastructure as per site requirements. The scope shall include laying 
+of conduits with necessary accessories such as bends, junction boxes, couplers, saddles, 
+clamps, and support structures. Conduits shall be properly routed through wall, ceiling, 
+floor, or trench as applicable, ensuring neatness and compliance with safety standards. 
+g). The work shall include chasing, cutting, drilling, refilling, surface restoration, cable pulling 
+support, tagging, and termination assistance. All conduits shall be securely fixed, properly 
+aligned, and protected against physical damage and moisture ingress. The bidder shall 
+ensure testing, continuity verification, and submission of as-built documentation upon 
+completion of work. 
+h). The Bidder shall be using 4” GI Pipe as standard while installation of cabling work. 
+i). 
+The Bidder shall be responsible to share the status report of existing infrastructure 
+(i.e. Cable, network equipment, patch cord, OFC etc.), during resolving complaints. 
+j). 
+The Bidder shall provide one copy of the Network Diagram, warranty documents, 
+manuals and FAT/UAT reports etc. to concern local GOG/GSWAN authorities and another 
+copy to Tenderer for further process of completion of orders. 
+k). The Bidder will be responsible to provide the services at all the locations at the agreed 
+price. Bidder is required to Supply and Install LAN components and commission LAN as 
+per the requirements. The structured cabling works are to be completed on turnkey basis 
+including installation of all required casing, conduits, flexi pipes, I/O boxes, Face Plates, 
+removal of existing Lan infra if any, etc. To ensure quality of work done, no cable should 
+be left bare or visibly exposed. 
+l). 
+The Bidder shall be responsible for implementation of the work as defined. Delivered 
+Solution must be tested and commissioned as per defined procedures before handing 
+over the project to Tenderer. Any hardware equipment’s or software’s required for those 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 15 of 78 - 
+ 
+ 
+ 
+testing and commissioning procedures is the sole and full responsibilities of the bidder. 
+m). All goods or materials shall be supplied strictly in accordance with the specifications, 
+drawings, datasheets, other attachments and conditions stated in the RFP/Work 
+order/LOI. All materials supplied by the Bidder shall be guaranteed to be of the best 
+quality of their respective kinds and shall be free from faulty design, workmanship and 
+materials. 
+n). The Bidder shall provide details of site and infrastructure requirements (Power, earthing 
+etc.) in a layout plan after making a site survey. 
+o). Detailed report is required to be submitted for the work under progress and for 
+functional performance of LAN, the connectivity, throughput. The same have to be 
+certified by Tenderer/ PROJECT COORDINATOR. Bidder shall   submit   the   installation   
+plan   for   each   location   to   PROJECT COORDINATOR, who in turn shall approve the 
+plan before execution. Bidder will have to fill up an installation and commissioning 
+report and get the same duly signed by concern officer with their seal and remarks if any. 
+p). On acceptance of work, a work completion report must be prepared by the bidder and 
+signed by both parties i.e. TENDERER or its designated agency and bidder. During the 
+warranty period, for each visit whether periodical or on call, whether preventive or 
+corrective maintenance, the bidder contact person must inform to resident GSWAN 
+team. A technical/service report of the work carried out must be signed by resident 
+GSWAN engineer and bidder’s representative. 
+q). The bidder should ensure that while installation or attending the complaints of LAN, 
+day-to-day 
+functioning 
+of 
+official 
+work 
+and 
+existing 
+network 
+setup/connectivity/internet connectivity should not get disrupted. 
+r). 
+The bidder will be responsible to undertake and complete the works related to 
+supply installation and commissioning services as indicated in the bid anywhere in state 
+promptly and within the time duration prescribed by Tenderer/user department. 
+The bidder will be responsible to provide the services at all the site locations which also 
+include Taluka places at the agreed price. Bidder is required to Supply/ Install / Commission 
+Transceivers, OFC components, I/Os and Patch Cords, as per the specifications mentioned 
+in the Bid document. The Bidder shall be responsible for implementation of the work as 
+defined. 
+ 
+ 
+3.2.1. Standard Cabling Best Practices: 
+A. For Cabling, the Cable used shall be Standard Branded CAT6A, 100ohm, 4 pair unshielded 
+twisted pair (UTP) For e.g. If 25 nodes are required at a floor with future expansion planning 
+of 20 more nodes, then in such situation minimum hardware is required to be install is 
+one Switch (48 Port) and one Patch panel for floor level distribution. 
+• All Floor uplink shall be provided on fiber only and if distance between two-
+point is less than 90 Mtr. CAT6A cable may be used for Up-link. 
+B. All node should be connected to switch through I.O. Port and Patch panel only. 
+C. Cable Tagging shall be at both side and at both end (i.e. node side and rack side and inside 
+and outside of I.O port and Patch panel) 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 16 of 78 - 
+ 
+ 
+ 
+D. Care must be taken to not to stretch or abrade cables during installation, 
+i.e. the pulling tension for cables must not be exceeded. 
+E. Cables that pass through the infrastructure of the building shall be suitably protected 
+against damage. Through walls and floors this shall involve an appropriate type of sleeve; 
+through any form of metalwork or stiff plastic then a rubber grommet shall be used. 
+F. To ensure cable management and also strain relief, cables shall be properly dressed using 
+Velcro cable ties. However, cables ties should never be over tightened. 
+G. On vertical runs, the cables shall be dressed and tied from the bottom up, thus putting 
+minimum strain on the cables. 
+H. Cables shall not run behind radiators. 
+I. In order that the system may be easily re-routed, or damaged sections quickly replaced, 
+free access to the cable, where possible, is important 
+J. Draw cords shall be left in ducting, piping etc. for future use 
+K. Because of the nature of offices, dust sheets be used at all times. 
+L. Special care shall be taken to avoid contact with dangerous materials e.g. asbestos 
+M. Sharp bends in the cable will damage the insulating material thus causing unacceptable 
+losses in the transmission medium. Therefore, the internal radius of every bend in a cable 
+shall be such as not to cause damage to the cable, nor impair the characteristics of the 
+cable. 
+N. Patch panels shall be installed within the Communications 24 nodes from the top, 
+continuing downwards. 
+O. Patch panels shall be use of PCB Patch Panels. 
+P. The cable shall be clearly labeled at both ends, as outlined in the documentation and/or 
+drawing. 
+Q. High power electrical plant may produce switching transients and radio frequency 
+emissions that may induce interference on the UTP cable. Therefore, in addition to the 
+rules imposed by the IEEE Regulations, data cables shall not run parallel to power cables, 
+especially where these cables may carry heavy switching loads. If, however, this is 
+unavoidable it is advisable to keep cables as far as possible. (Like Transformer-100CM, 
+Electric Meter- 100Cm Fluorescent Light-30Cm). 
+R. Cable shall not be routed over pipes, conduits, other cabling, ceiling tiles, etc., but shall 
+rest directly on the supporting surface so as to minimize the potential for sharp bends, 
+kinks etc. Every cable used shall be supported in such a way that it is not 25 exposed to 
+undue mechanical strain and so there is no appreciable mechanical strain on the 
+terminations. 
+S. For cables which are not continuously supported, the maximum distance between 
+supports shall not exceed 50cm (horizontal or vertical). 
+T. All newly installed Device must be capable of supporting CAT6a cabling. 
+U. Floor Plans, both hard copy and Soft Copy, suitably marked up to show location and I.O. 
+of each and every data point, and detailing any deviation from the original plan. 
+W. Full Structured Cabling Test Results, via email or compact disc. 
+ 
+3.3 SITC of Radio frequency Connectivity in GSWAN 
+ 
+a) The TENDERER is planning to install high speed Radios in GSWAN to connect the remote 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 17 of 78 - 
+ 
+ 
+ 
+locations in Point-to-Point configuration. The distance between two locations which is 
+required to be connected in GSWAN will vary from 1km to 30kms. The work is to be 
+completed on a turnkey basis and the RF links are to be maintain for a period of 5years 
+from the date of FAT. 
+b) The offered solution should provide Point-to-Point connectivity over wireless Radio. 
+c) The Scope of work under this RFP consists of following task: 
+i The bidder will be responsible for end-to-end installation, commissioning of the RF link 
+up to the termination point on network equipment at the node 
+ii The RF link includes supply and installation of radios at both (base and remote) location 
+along with all the necessary components like Antennas, Mounting structure (pole/Mast), 
+clamps, cables(active/Passive), lightening arrester, earthing, aviation lamp, etc. 
+iii The distance between the GSWAN node and the remote location may vary from1km to 
+30kms. 
+iv The RF links connected in the GSWAN should be able to deliver minimum throughput 
+of 50 mbps from day one. 
+v Proposed wireless solution should conform to applicable WPC regulations for use of 
+license-free spectrums in terms of EIRP. A declaration to this effect must be submitted 
+which must be supplemented by periodic compliance reports during the project period. 
+vi The Radio’s should be provided with at least 2(two) Ethernet 10/100 Base- Tx port to 
+provide port level redundancy, for connecting to the network device provided by the 
+Tenderer at the end locations. The port level redundancy means, if there is any fault 
+on the Ethernet port of the radio, the second port can be used to make the link live with 
+minimum configuration level changes only. 
+vii The bidder is to provide the single make and model of the radio to provide the point-
+to-point connectivity. 
+viii The bidder shall carry out the survey/feasibility study wherever required, to identify 
+and resolve all the RF/data path related issues for the proposed connectivity. 
+ix The bidder will be responsible for site readiness and transportation of material, erection 
+and anchoring of support structure, earthing, lightening arrestor, STP/RF cable, aviation 
+lamp, surge protection and other accessories. 
+x It will be responsibility of the bidder to arrange and obtain all the necessary permissions 
+at the base and remote location for the required erection of the support structure and 
+installation. 
+xi The bidder will be provided with the required access, power at each location for 
+installation and commissioning of the devices.  However, it will be responsibility of the 
+bidder to extend the electrical power at each site as per actual requirement. 
+xii The bidder is required to maintain the service levels, failing which operational penalties 
+will be levied. 
+xiii The bidder will have to use the IP schema provided by Tenderer. 
+xiv The bidder will be responsible to ensure that the wireless radios should be integrated and 
+discoverable in the existing NMS tool of the TENDERER. 
+xv The bidder shall be bound to the Service Level Agreement under the work order/ LOI and 
+is supposed to provide the support service during the of Operation and Maintenance 
+period. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 18 of 78 - 
+ 
+ 
+ 
+3.3.1 Operations and Maintenance (CAMC) of RF Devices 
+i. The Successful Bidder shall be responsible for comprehensive operation, maintenance, repair, 
+replacement and upkeep of all RF links, radios, antennas, mounting structures, poles, towers, power 
+supply units, PoE injectors, cables, connectors, surge protection devices and associated accessories from 
+the date of commissioning till completion of the contract period. 
+ii. The Successful Bidder shall ensure continuous availability and optimum performance of all RF links. 
+Any degradation in performance, throughput, latency, signal strength or availability shall be promptly 
+investigated and rectified. 
+iii. The Successful Bidder shall ensure that all software, firmware, security patches, bug fixes and version 
+upgrades released by the OEM during the CAMC period are installed and maintained without any 
+additional cost to the Tenderer. 
+iv. Reactive Maintenance: The Successful Bidder shall attend and resolve all fault tickets logged through 
+the Tenderer’s Helpdesk/Complaint Management System within the timelines specified under the SLA. 
+The bidder shall maintain adequate technical manpower, tools, testing equipment and spare inventory for 
+compliance with SLA requirements. 
+v. Preventive Maintenance: The Successful Bidder shall carry out preventive maintenance of each RF 
+link at least once every six (6) months and submit a detailed preventive maintenance report for each link 
+to the Tenderer. The preventive maintenance activities shall include, but not be limited to, the following: 
+a. Inspection, testing, repair and replacement, wherever required, of antennas, radios, connectors, feeders, 
+jumpers, PoE injectors, STP/Cat-6A cables, grounding and lightning protection systems. 
+b. Verification and tightening of mounting brackets, clamps, poles, towers and all mechanical fixtures. 
+c. Cleaning and dust removal of radios, antennas, enclosures and associated equipment. 
+d. Measurement and recording of RSSI, SNR, signal strength, link quality, throughput, latency and other 
+performance parameters. 
+e. Verification of antenna alignment and re-alignment wherever required to maintain optimum signal 
+levels. 
+f. Verification of power supply systems, earthing and surge protection arrangements. 
+g. Inspection of cable routing, weatherproofing, waterproof sealing and physical security of equipment. 
+h. Verification of firmware versions and implementation of pending updates, if any. 
+i. Submission of preventive maintenance reports containing site photographs, observations, defects 
+identified, corrective actions taken and recommendations. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 19 of 78 - 
+ 
+ 
+ 
+j. Inspection of poles, towers, mounting structures, brackets, clamps, foundations and associated 
+supporting infrastructure for corrosion, rusting, structural weakness, physical damage, misalignment or 
+any other condition affecting safety or performance. 
+vi. The Successful Bidder shall maintain adequate spare stock of critical RF equipment and accessories 
+to ensure timely restoration of services and compliance with SLA requirements. 
+vii. Any defective equipment, component, pole, tower, mounting structure or associated infrastructure 
+identified during the CAMC period shall be repaired or replaced by the Successful Bidder, at no 
+additional cost to the Tenderer. 
+viii. The Successful Bidder shall repair, strengthen or replace any damaged, rusted, corroded, structurally 
+weak or unsafe pole, tower, mounting structure, bracket, clamp or supporting infrastructure to ensure 
+safe and reliable operation of the RF link throughout the contract period. 
+ix. The scope of CAMC shall include comprehensive maintenance and replacement, wherever required, 
+of RF equipment as well as all associated passive infrastructure including poles, towers, mounting 
+structures, brackets, clamps, foundations, earthing systems, lightning protection systems, equipment 
+enclosures and related accessories necessary for uninterrupted operation of the RF links. 
+x. The Successful Bidder shall maintain detailed maintenance records, fault history, uptime reports and 
+preventive maintenance reports and submit the same on a monthly basis to the Tenderer. 
+3.3.2 Handover and Maintenance of Existing RF Infrastructure 
+i. The existing RF infrastructure, including but not limited to RF radios, antennas, mounting brackets, 
+poles, masts, towers, feeders, cables, PoE injectors, power supply units, surge protection devices, 
+earthing systems, equipment enclosures and associated accessories installed under previous contracts, 
+shall be handed over to the Successful Bidder for operation and maintenance during the contract period 
+as when required by tenderer. 
+ii. Upon commencement of the contract, all existing RF infrastructure handed over by the Tenderer 
+shall be deemed to be included under the CAMC scope. The Successful Bidder shall be responsible for 
+the operation, maintenance, repair, replacement and upkeep of all such infrastructure throughout the 
+contract period. 
+iii. The Successful Bidder shall inspect and maintain all existing poles, masts, towers, mounting 
+structures, foundations, brackets, clamps and associated passive infrastructure to ensure safe, reliable 
+and uninterrupted operation of the RF links. 
+iv. Any pole, mast, tower, mounting structure or associated infrastructure found to be damaged, 
+unsafe, rusted, corroded, structurally weak, tilted, deteriorated or otherwise unfit for reliable operation 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 20 of 78 - 
+ 
+ 
+ 
+shall be repaired, strengthened or replaced by the Successful Bidder with equivalent or higher 
+specifications at no additional cost to the Tenderer. 
+v. Any existing mast, pole, tower, mounting structure or associated infrastructure that is not required 
+for operation of the RF link, has become redundant, or is required to be decommissioned shall be 
+dismantled and removed by the Successful Bidder based on the requirement of the Tenderer. 
+vi. All dismantled materials, scrap, debris and unusable components arising from such dismantling 
+activities shall be removed from the site and disposed of by the Successful Bidder in accordance with 
+applicable laws, rules and environmental regulations. No separate payment shall be made for 
+dismantling, transportation, disposal or scrapping activities. 
+vii. The Successful Bidder shall be solely responsible for ensuring the structural stability, safety, 
+serviceability and operational readiness of all existing and newly installed RF infrastructure during the 
+contract period. 
+viii. The cost of maintenance, repair, strengthening, replacement, dismantling, transportation, disposal 
+and scrapping of RF infrastructure shall be deemed included in the contract price, and no additional 
+payment shall be payable by the Tenderer. However bidder shall scrap the material only at the 
+intimation of department.  
+ 
+3.4 Time Lines for execution of work 
+ 
+Successful bidder has to complete the Installation/ Commissioning/ Acceptance of the ordered work 
+within the time period (s) specified in the below table. However, in case of any delay solely on the part 
+of successful bidder Tenderer reserve the right to levy the appropriate penalties as per the below 
+table: 
+ 
+Time Lines for execution of LAN/RF/OFC Cabling work (GSWAN) 
+ 
+ 
+S/n 
+Work type 
+Time 
+Limit for 
+Execution  
+Penalty for 
+Delay 
+Maximum 
+Penalty 
+1 
+New Connection: (from WO issuance) 
+5% of order 
+value of 
+delayed/pending 
+work per week 
+or part thereof  
+Note: For 
+calculation of 
+penalty order 
+25% 
+a. Up to 10 locations/Cities 
+15 days  
+b. More than  10 locations/cities  
+30 days  
+c. RF connectivity 
+07 days  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 21 of 78 - 
+ 
+ 
+ 
+value of 
+delayed/ 
+pending 
+locations will be 
+considered. 
+2 
+L3 Switch 
+60 Day 
+(SITC & 
+FAT) 
+5% of order 
+value of 
+delayed/pending 
+work per week 
+or part thereof  
+Note: For 
+calculation of 
+penalty order 
+value of 
+delayed/ 
+pending 
+locations will be 
+considered. 
+25% 
+3 
+Repair and Maintenance (from WO issuance) 
+a. Involving Under Ground Cable 
+4 Days 
+Rs. 5000/‐ for 
+every 4 Days 
+Rs. 
+25000/‐ 
+b. Involving LAN Cabling in Building 
+3 Days 
+Rs. 1000/‐ for 
+every 3 Days 
+Rs. 5000/‐ 
+c. Involving Fault with electronic Devices 
+2 Days 
+Rs. 1000/‐ for 
+every 2 Days 
+Rs. 3000/‐ 
+d. Involving fault with connector/ patch cord/RJ 
+45 port/ Termination boxes/ DP Electricity fault, 
+Non‐electronic device fault) 
+2 Days 
+Rs. 500/‐ for 
+every 2 Days 
+Rs. 1000/‐ 
+*Days means working days 
+ 
+ 
+ 
+Note: 
+a) Material supplied, installed and commission as per this rate contract should be covered 
+under the warranty for a period of 5 years from the date of FAT. Tenderer should be able 
+to check warranty status & warranty period on Online portal of OEM after completion 
+of FAT. 
+b) In case of any fault arises during the warranty period (as mentioned above), as per 
+the specification of the RFP the successful bidder is requires to provide the 
+replacement of faulty material at free of cost including damage due to Power 
+fluctuation/burnt and Water Ingress except any force majeure event. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 22 of 78 - 
+ 
+ 
+ 
+c) In case of Non-Compliance of RFP Specification: 
+i. Any time during the warranty period it is found that the materials 
+supplied/Installed/commissioned are not as per the specification of the RFP/work 
+order 
+Tenderer reserves the right to ask the successful bidder to replace all such 
+material at free of cost. 
+ii. Successful bidder requires to attend and rectify the non-compliance within seven (7) 
+days of receipt of such notice/information from the Tenderer. If, successful bidder fails 
+to attend and rectify the same, then successful bidder shall reimburse DST/GIL all costs 
+and expenses incurred for such defect rectification. 
+ 
+d) All LAN/WAN/structure cables and/or Optical Fiber Cables quoted, supplied, and 
+installed by the Bidder under the scope of this RFP shall be manufactured in India only. 
+The entire scope of work shall be executed on a turnkey basis. Further, all supplied 
+equipment shall be maintained for 05 years from the date of FAT till the contract period. 
+Any damage caused due to third-party activities shall be addressed separately through 
+an appropriate work order for the purpose of claiming the cost of restoration. 
+ 
+Section‐4: Instructions to Bidders 
+ 
+ 
+ARTICLE - 1: BIDDING DOCUMENTS 
+The Bidder(s) can download the bid document and further amendment if any freely available on 
+https://www.gil.gujarat.gov.in and submit the bid on (n)Procure http:gil.nprocure.in  on or before due date & 
+time of the tender. Bidder is expected to examine all instructions, forms, terms, and specifications in the bidding 
+documents.  Failure to furnish all information required by the bidding documents or submits a Bid not 
+substantially responsive to the bidding documents in every respect may result in the rejection of the Bid. Under 
+no circumstances physical bid will be accepted. 
+ 
+ARTICLE - 2: CLARIFICATION ON BIDDING DOCUMENTS:  
+Bidders can seek written clarifications up to 1 day before pre-bid meeting to General Manager (Networking), 
+Gujarat Informatics Ltd., 2nd Floor, Block No. 2, C and D Wing, Karmyogi Bhavan Gandhinagar 382010. GIL will 
+clarify and issue amendments if any to all the bidders in the pre-bid meeting. No further clarification what so 
+ever will be entertained after the pre-bid meeting date. For pre-bid queries, bidders may communicate with 
+email of srmgr1- gswan@gujarat.gov.in,    dgmTech-gil@gujarat.gov.in. gm-tech@gujarat.gov.in 
+ 
+ARTICLE - 3: AMENDMENT OF BIDDING DOCUMENTS 
+3.1 At any time prior to the deadline for submission of bids, The TENDERER / GIL, for any reason, 
+whether at its own initiative or in response to the clarifications requested by prospective bidders 
+may modify the bidding documents by amendment. 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 23 of 78 - 
+ 
+ 
+ 
+3.2 All prospective bidders are requested to browse our website & any amendments / corrigendum / 
+modification will be notified on our website and such modification will be binding on them. Bidders 
+are also requested to browse the website of GIL/GoG i.e. www.gil.gujarat.gov.in & (n) Procure for 
+further amendments if any. 
+ 
+3.3 In order to allow prospective bidders a reasonable time to take the amendment into account in 
+preparing their bids, GIL / TENDERER, at its discretion, may extend the deadline for the submission 
+of bids. 
+ 
+ARTICLE - 4: LANGUAGE OF BID 
+The Bid prepared by the Bidder, as well as all correspondence and documents relating to the Bid exchanged 
+by the Bidder and GIL / THE OFFICE shall be in English. Supporting documents and printed literature 
+furnished by the bidder may be in another language provided they are accompanied by an accurate 
+translation of the relevant pages in English.  For purposes of interpretation of the bid, the translation shall 
+govern. 
+ 
+ARTICLE - 5: SECTIONS COMPRISING THE BIDS 
+5.1  The quotation should be scan-able and distinct without any option stated in.  
+5.2  The bid submitted shall have the following documents: 
+ 
+a) 
+EMD Section: 
+The EMD (refundable) to be furnished to GIL office on or before stipulated time of bid in a sealed 
+cover super scribed with the bid document number. The details are required to be filled in this 
+section. 
+b) 
+Eligibility & Technical Section: 
+i. 
+Clause by clause Compliance statement for Bid document including annexure to be 
+uploaded. 
+ii. 
+All deviations and / or non-compliance clauses shall be listed separately & uploaded. 
+iii. 
+Letter of Authority for signing the bid. 
+iv. 
+All Annexure/Table, duly filled-in with necessary proofs, as required and stated in the bid 
+document. 
+v. 
+Make & Model of quoted item in the bid with brochures\ website literature. 
+vi. 
+All Eligibility forms & technical specification & dealership\distributorship authorized 
+certificate & supporting document related Eligibility & Technical Stage. 
+c) Price Bid Section in the prescribed format only. 
+ 
+ARTICLE - 6: BID FORMS 
+6.1. Wherever a specific form is prescribed in the Bid document, the Bidder shall use the form to 
+provide relevant information. If the form does not provide space for any required information, 
+space at the end of the form or additional sheets shall be uploaded to convey the said 
+information. Failing to upload the information in the prescribed format, the bid is liable for 
+rejection. 
+6.2. For all other cases, the Bidder shall design a form to hold the required information. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 24 of 78 - 
+ 
+ 
+ 
+6.3. TENDERER shall not be bound by any printed conditions or provisions in the Bidder’s Bid Forms. 
+ 
+ARTICLE - 7: FRAUDULENT & CORRUPT PRACTICE 
+ 
+7.1. Fraudulent practice means a misrepresentation of facts in order to influence a procurement process 
+or the execution of the work order/ LOI and includes collusive practice among Bidders (prior to or after 
+Bid submission) designed to establish Bid prices at artificial noncompetitive levels and to deprive the 
+TENDERER/GIL of the benefits of free and open competition. 
+7.2.  “Corrupt Practice” means the offering, giving, receiving or soliciting of anything of value, pressurizing 
+to influence the action of a public official in the process of the work order/ LOI execution. 
+7.3. DST/GIL will reject a proposal for award and may forfeit the E.M.D. and/or Performance Guarantee if 
+it determines that the bidder recommended for award has engaged in corrupt or fraudulent practices 
+in competing for, or in executing, contract(s). 
+ 
+ 
+ 
+ 
+ARTICLE - 8: LACK OF INFORMATION TO BIDDER 
+The Bidder shall be deemed to have carefully examined the work order/ LOI documents to his entire 
+satisfaction. Any lack of information shall not in any way relieve the Bidder of his responsibility to fulfill his 
+obligation under the the work order/ LOI. 
+ 
+ARTICLE - 9: CONTRACT OBLIGATIONS 
+If the Bidder fails to furnish the Performance Bank guarantee within fifteen (15) working days from the date 
+of LoI/Work Order,  TENDERER reserves the right to cancel the work order/LOI & forfeit the EMD.  
+ 
+ARTICLE - 10: BID PRICE  
+ 
+10.1. The priced bid should indicate the prices in the format/price schedule only. 
+10.2. Offered price should be inclusive of Packing\Forwarding, Insurance, FOR destination (anywhere in 
+the Gujarat state) except GST. GST needs to be shown separately. GST will be paid extra on actual 
+basis. 
+10.3. Discount if offered, should not be mentioned separately. It should be included in offered price.  
+10.4. Any effort by a bidder or bidder’s agent\consultant or representative howsoever described to 
+influence the TENDERER in any way concerning scrutiny\consideration\evaluation\comparison of 
+the bid or decision concerning award of the work order/ LOI shall entail rejection of the bid.  
+10.5. Unit rates should be quoted separately for each item. Quantities can be increased or decreased by 
+purchaser and bidder has to supply deviated quantities at the rates prescribed and approved by the 
+purchaser in the tender document. 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 25 of 78 - 
+ 
+ 
+ 
+ARTICLE - 11: BID CURRENCY 
+ 
+The prices should be quoted in Indian Rupees. Payment for the supply of equipment’s as specified in the 
+Work order/LOI/RFP shall be made in Indian Rupees only. 
+ 
+ARTICLE - 12: BID SECURITY/EARNEST MONEY DEPOSIT (EMD) 
+ 
+12.1. 
+Unsuccessful bidder’s E.M.D. will be returned as promptly as possible within 30 days after the 
+expiration of the period of bid validity OR upon the successful Bidder accept the work order/ LOI.  
+12.2. 
+The successful Bidder's EMD will be discharged upon the acceptance of the work order/LOI and 
+furnishing the Performance Bank Guarantee. 
+12.3. 
+EMD amount is interest free and will be refundable to the unsuccessful bidders without any 
+accrued interest on it. 
+12.4. 
+The EMD may be forfeited, on account of one or more of the following reasons: 
+a. The Bidder withdraws their Bid during the period of Bid validity.  
+b. Bidder does not respond to requests for clarification of their Bid. 
+c. Bidder fails to co-operate in the Bid evaluation process. 
+d. The bidder is found to be involved in fraudulent and corrupt practices, and  
+e. In case of a successful Bidder, the said Bidder fails: 
+ (i)  Non acceptance of the work order/LOI and RFP, (ii) To furnish Performance Bank 
+Guarantee 
+ 
+ARTICLE - 13: PERIOD OF VALIDITY OF BIDS 
+13.1. 
+Bids shall remain valid for 5 years after the date of Bid opening prescribed by DST/GIL. A Bid valid 
+for a shorter period shall be rejected as non-responsive. 
+13.2. 
+In exceptional circumstances, DST/GIL may solicit Bidder's consent to an extension of the period 
+of validity. The request and the responses there to shall be made in writing. The Bid security shall 
+also be suitably extended. A Bidder granting the request is not required nor permitted to modify 
+the Bid. 
+ 
+ARTICLE - 14: SEALING AND MARKING OF BID 
+14.1. 
+The bid security to be furnished to GIL office on or before due date and time. The details are 
+required to be filled in this section. The envelope shall indicate the name and address of the 
+bidder to enable the bid to be returned unopened in case it is declared “late”. 
+14.2. 
+If the envelope is not sealed and marked as required, the DST/GIL will assume no responsibility 
+for the bid’s misplacement or premature opening. 
+ 
+ARTICLE - 15: BID DUE DATE 
+ 
+15.1 
+Bid must be uploaded by vendor not later than the due date specified in the RFP. 
+15.2 
+The TENDERER/GIL, as its discretion, may extend the bid due date, in which case all rights and 
+obligations of the TENDERER/GIL and the bidders, previously subject to the bid due date, shall 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 26 of 78 - 
+ 
+ 
+ 
+thereafter be subject to the new bid due date as extended. 
+ 
+ARTICLE - 16: LATE BID 
+ 
+16.1. 
+Bids received after the due date and the specified time (including the extended period if any) for any 
+reason whatsoever, shall not be entertained and shall be REJECTED.  
+16.2. 
+The bids submitted by telex/telegram/ fax/e-mail etc. shall not be considered. No correspondence 
+will be entertained on this matter. 
+ 
+ARTICLE - 17: MODIFICATION AND WITHDRAWAL OF BID 
+ 
+17.1 
+The Bidder may modify or withdraw its Bid before the due date & time of bid submission. 
+17.2 
+No Bid may be modified subsequent to the deadline for submission of bids. 
+17.3 
+No Bid may be withdrawn in the interval between the deadline for submission of bids and the 
+expiration of the period of Bid validity specified by the Bidder on the bid letter form.  Withdrawal 
+of a Bid during this interval may result in the bidder's forfeiture of its EMD. 
+ 
+ARTICLE - 18: OPENING OF BIDS BY GIL 
+18.1. 
+Bids will be opened in the presence of Bidder’s representatives, who choose to attend.  The 
+Bidder’s representatives who are present shall sign a register evidencing their attendance. 
+18.2. 
+The Bidder’s names, Bid modifications or withdrawals, discounts and the presence or absence of 
+relevant EMD and such other details as the GIL / THE OFFICE officer at his/her discretion, may 
+consider appropriate, will be announced at the opening. 
+18.3. 
+Immediately after the closing time, the TENDERER/ GIL contact person shall open the Un-priced 
+Bids and list them for further evaluation.  
+ 
+ARTICLE - 19: CONTACTING GIL / THE OFFICE 
+ 
+19.1. 
+Bidder shall not approach GIL / THE OFFICE officers outside of office hours and / or outside GIL / 
+THE OFFICE premises, from the time of the Bid opening to the time the work order/ LOI is 
+awarded. 
+19.2. 
+Any effort by a bidder to influence GIL / THE OFFICE officers in the decisions on Bid evaluation, 
+bid comparison or the work order/ LOI award may result in rejection of the Bidder's offer. If the 
+Bidder wishes to bring additional information to the notice of the GOG, it should do so in writing. 
+ 
+ARTICLE - 20: REJECTION OF BIDS 
+The TENDERER/GIL reserves the right to reject any Bid, and to annul the bidding process and reject all 
+bids at any time prior to award of the work order/ LOI, without thereby incurring any liability to the 
+affected Bidder(s) or any obligation to inform the affected Bidder(s) of the grounds for such decision. 
+Conditional bid will not be accepted. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 27 of 78 - 
+ 
+ 
+ 
+ 
+ARTICLE - 21: BID EVALUATION 
+ 
+The TENDERER will form a Committee which will evaluate the proposals submitted by the bidders for a 
+detailed scrutiny. During evaluation of proposals, the TENDERER, may, at its discretion, ask the bidders 
+for clarification of their Proposals. 
+a) Pre-Qualification evaluation:  
+• 
+Bidders who have submitted the valid EMD shall be considered for further evaluation. If bidders 
+fail to submit the bid security as per this RFP document, the Bid shall be out rightly rejected. 
+• 
+Thereafter, Un-priced Bid documentation of qualified bidder shall be opened and evaluated. 
+• 
+Evaluation of Eligibility Criteria: As per the eligibility criteria defined in this bid document, 
+committee will evaluate the bidder and OEM eligibility section, and if required may ask for 
+clarification before finalization. 
+b) Technical Bid evaluation: Committee will evaluate the detailed technical bid document submitted 
+by each bidder having technical solution offered, Compliance to the functional and Technical 
+Specifications of the Product / Solution Offered, required supporting documents etc. Further, if 
+required TENDERER/GIL may ask the Bidder(s) for additional information/clarifications, to verify 
+the claims made in Un‐priced Bid documentation. In case of conditional bid or major deviations 
+from the RFP requirements, the TENDERER may at its discretion reject the respective bid and will 
+not be considered for further evaluation process.  
+c) Financial Bid Evaluation: The Financial Bids of qualified bidders only would be opened and 
+evaluated to determine the L1 (lowest cost to the TENDERER) bidder from the sum total of prices 
+for all line items without tax and then called for further negotiations if required. (negotiation will 
+be done manually ) 
+ARTICLE - 22: AWARD OF the work order/ LOI 
+ 
+22.1. 
+Award Criteria: The Criteria for selection will be the lowest cost (without taxes) to the TENDERER 
+for the qualified bid. The TENDERER may negotiate the prices with L1 Bidder, under each 
+item/head offered by Bidder. 
+22.2. 
+THE OFFICE's right to vary requirements at time of award: GIL/ THE OFFICE reserves the right at 
+the time of award to increase or decrease quantity for the requirements originally specified in the 
+document without any change in Bid rate or other terms and conditions. 
+22.3. 
+In case, if lowest bidder does not accept the award of the work order/ LOI or found to be involved 
+in corrupt and/or fraudulent practices, the next lowest bidder will be awarded the work order in 
+case he matches the L1 prize.  
+22.4. 
+The tendered quantities are estimated based on the survey carried out as well as receipt of the 
+requirement from the TENDERER. The quantities may vary at the time of finalization, depending 
+upon the change in the requirements/grants available with the purchaser(s), which shall be binding 
+to the bidder. 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 28 of 78 - 
+ 
+ 
+ 
+ARTICLE - 23: NOTIFICATION OF AWARD the work order/ LOI 
+ 
+23.1. 
+Prior to expiration of the period of Bid validity, DST/GIL will notify the successful Bidder and issue 
+LoI. 
+23.2. 
+Successful bidder has to submit Performance guarantee within 15 days from the date of receipt 
+of award as per “Article-32 of this section”. 
+23.3. 
+Upon the successful Bidder's furnishing of Performance Bank Guarantee. The Bid Security of all 
+unsuccessful Bidders will be refunded. (as Article 12.2) 
+ 
+ARTICLE - 24: FORCE MAJEURE 
+ 
+24.1. 
+Force Majeure shall mean any event or circumstances or combination of events or circumstances 
+that  materially and adversely affects,  prevents or  delays  any Party in performance of its obligation 
+in accordance with the terms of the work order/ LOI/ RFP, but only if and to the extent that such 
+events and circumstances are not within the affected party's reasonable control, directly or 
+indirectly, and effects of which could have prevented through Good Industry Practice or, in the case 
+if construction activities through reasonable skill and care, including through the expenditure of 
+reasonable sums of money. Any events or circumstances meeting the description of the Force 
+Majeure which have same effect upon the performance of any contractor shall constitute Force 
+Majeure with respect to the bidder. The Parties shall ensure compliance of the terms of the work 
+order/ LOI/ RFP unless affected by the Force Majeure Events. The bidder shall not be liable for 
+forfeiture of its implementation / Performance guarantee, levy of Penalties, or termination for 
+default if and to the extent that it’s delay in performance or other failure to perform its obligations 
+under the  the work order/ LOI/ RFP is the result of Force Majeure. 
+24.2. 
+Force Majeure Events 
+ 
+The Force Majeure circumstances and events shall include the following events to the extent that 
+such events or their consequences (it being understood that if a causing event is within the 
+reasonable control of the affected party, the direct consequences shall also be deemed to be within 
+such party's reasonable control) satisfy the definition as stated above. Without limitation to the 
+generality of the foregoing, Force Majeure Event shall include following events and circumstances 
+and their effects to the extent that they, or their effects, satisfy the above requirements: 
+24.3. 
+Natural events (“Natural Events”) to the extent they satisfy the foregoing requirements including: 
+(a) Any material effect on the natural elements, including lightning, fire, earthquake, cyclone, flood, 
+storm, tornado, or typhoon; 
+(b) Explosion or chemical contamination (other than resulting from an act of war); 
+(c) Epidemic such as plague; 
+(d) Any event or circumstance of a nature analogous to any of the foregoing. 
+ 
+24.4. 
+Other Events (“Political Events”) to the extent that they satisfy the foregoing requirements 
+including: 
+ Political Events which occur inside or Outside the State of Gujarat or involve directly the State 
+Government and the Central Government (“Direct Political Event”), including: 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 29 of 78 - 
+ 
+ 
+ 
+i 
+Act of war (whether declared or undeclared), invasion, armed conflict or act of foreign 
+enemy, blockade, embargo, revolution, riot, insurrection, civil commotion, act of terrorism 
+or sabotage; 
+ii 
+Strikes, work to rules, go-slows which are either widespread, nation-wide, or state-wide 
+and are of political nature; 
+iii Any event or circumstance of a nature analogous to any of the foregoing. 
+ 
+24.5. 
+FORCE MAJEURE EXCLUSIONS 
+ 
+Force Majeure shall not include the following event(s) and/or circumstances, except to 
+the extent that they are consequences of an event of Force Majeure: 
+(a) 
+Unavailability, late delivery 
+(b) 
+Delay in the performance of any contractor, sub-contractors or their agents; 
+(c) 
+Power fluctuations 
+(d) 
+Damage due to moisture 
+ 
+24.6. 
+PROCEDURE FOR CALLING FORCE MAJEURE 
+ 
+The Affected Party shall notify to the other Party in writing of the occurrence of the Force Majeure 
+as soon as reasonably practicable, and in any event within 5 (five) days after the Affected Party 
+came to know or ought reasonably to have known, of its occurrence and that the Force Majeure 
+would be likely to have a material impact on the performance of its obligations under the the 
+work order/ LOI/ RFP. 
+ 
+ 
+ARTICLE – 27: USE OF the work order/ LOI DOCUMENTS AND INFORMATION 
+ 
+27.1 
+The bidder shall not without prior written consent from DST/GIL disclose  the work order/ LOI or 
+any provision thereof or any specification, plans, drawings, pattern, samples or information 
+furnished by or on behalf of DST/GIL in connection therewith to any person other than the 
+person employed by the bidder in the performance of the the work order/ LOI. Disclosure to any 
+such employee shall be made in confidence and shall extend only as far as may be necessary for 
+such performance. 
+27.2 
+The bidder shall not without prior written consent of DST/GIL make use of any document or 
+information made available for the project except for purposes of performing the the work 
+order/ LOI. 
+27.3 
+All project related documents issued by GoG other than the work order/ LOI Itself shall remain 
+the property of DST/GIL and Originals and all copies shall be returned to DST/GIL on completion 
+of the bidder's performance under the Agreement, if so required by the DST/GIL.  
+ 
+ARTICLE – 28:  ASSIGNMENT and SUB CONTRACTS 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 30 of 78 - 
+ 
+ 
+ 
+28.1. 
+Assignment by bidder 
+The bidder shall not assign, in whole or in part, its rights and obligations to perform under the 
+the work order/ LOI to a third party, except with the prior written consent from DST/GIL. 
+28.2. 
+Sub contracts 
+The bidder shall notify the DST/GIL in writing of all subcontracts awarded under the the 
+work order/ LOI. Such notification shall not relieve the bidder from any liability or obligation 
+under the work order/ LOI.  The bidder shall fully indemnify GoG for any claims/damages 
+whatsoever arising out of the Sub contracts. 
+ 
+ARTICLE – 29:  RESOLUTION OF DISPUTES 
+29.1. If any dispute arises between the Parties hereto during the subsistence or thereafter, in connection 
+with the validity, interpretation, implementation or alleged material breach of any provision of the 
+work order/ LOI or regarding a question, including the questions as to whether the termination of 
+the work order/ LOI by one Party hereto has been legitimate, both Parties hereto shall endeavor to 
+settle such dispute amicably. 
+29.2. The attempt to bring about an amicable settlement is considered to have failed as soon as one of 
+the Parties hereto, after reasonable attempts [which attempt shall continue for not less than 30 
+(thirty) days], give 15 days’ notice thereof to the other Party in writing. 
+29.3. In the case of such failure the dispute shall be referred to three arbitrators, two of whom will be 
+appointed by each Party and the third appointed by the two arbitrators. The place of the arbitration 
+shall be Ahmedabad, Gujarat. 
+29.4. The Arbitration proceeding shall be governed by the Arbitration and Conciliation Act of 1996 as 
+amended. The proceedings of arbitration shall be in English language. The arbitrator’s award shall 
+be substantiated in writing. The arbitration tribunal shall also decide on the costs of the arbitration 
+procedure. 
+29.5. The Parties hereto shall submit to the arbitrator’s award and the award shall be enforceable in any 
+competent court of law. 
+ARTICLE – 30: TAXES & DUTIES  
+ 
+The successful bidder is liable for GST on actuals as may be applicable from time to time. 
+ 
+ 
+ARTICLE – 31: BOOKS & RECORDS 
+ 
+Bidder shall maintain adequate books and records in connection with the work order/ LOI and shall make 
+them available for inspection and audit by GoG/DST/GIL during the terms of the work order/ LOI until 
+expiry of the performance guarantee. 
+ 
+ARTICLE – 32: PERFORMANCE GUARANTEE 
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 31 of 78 - 
+ 
+ 
+ 
+32.1. 
+Initially the bidder will have to submit performance bank guarantee of 1 Crore within 15 days from 
+the date of issue of work order/Letter of Intent. The performance guarantee will be in the form of 
+bank guarantee towards faithful performance of the contract obligation, and performance of the 
+equipment during Warranty period of 5 years. In case of poor and unsatisfactory field services, 
+DST/GIL/GoG/user department shall invoke the PBG. If, during the contract tenure above PBG of 
+Rs. 1 Crore become lower than the 5% of the ordered issued in this RC than bidder will have to 
+submit additional PBG in consultation with GIL/DST/TPA to maintain the 5% PBG limit. The 
+performance guarantee will be in the form of bank guarantee towards faithful performance of the 
+contract obligation, and performance of the equipments during Warranty period of 5 years. In case 
+of poor and unsatisfactory field services, GIL/DST/GoG/user department shall invoke the PBG. 
+32.2. 
+The Performance Guarantee shall be valid for a period of 180 days beyond Warrantee 
+period and shall be denominated in Indian Rupees and shall be in the form of an 
+unconditional Bank Guarantee issued by All Nationalized Bank including the public sector 
+bank or Private Sector Banks or Commercial Banks or Co-Operative and Rural Banks 
+(operating in India having branch at Ahmedabad/ Gandhinagar) as per the G.R. no. 
+FD/MSM/e-file/4/2023/0057/DMO dated 21.04.2023 along with its earlier referenced GRs 
+issued by Finance Department or further instruction issued by Finance department time 
+to time in the format provided by GoG to be submitted within 15 days from the date of 
+issue of work order/Letter of Intent. The Performance Guarantee shall be discharged by 
+GoG and returned to the bidder within 30 days from the date of expiry of the Performance 
+Bank Guarantee. 
+  
+ARTICLE –33: PAYMENTS TERMS  
+ 
+Sr. No. 
+Line item 
+Description 
+Payment 
+1 
+Horizontal 
+connectivity work 
+Upon Successful certification of FAT (Delivery, 
+installation, Commissioning, Integration, Discovery 
+in NMS, etc.) by DST/GIL or its representative 
+agency (O&M operator of GSWAN, TPA) 
+Release 100% of the 
+payment, subject to 
+deductions for any 
+applicable penalties 
+2 
+RF Connectivity- 
+New connectivity 
+Upon Successful certification of FAT (Delivery, 
+installation, Commissioning, Integration, Discovery 
+in NMS, etc.) by DST/GIL or its representative 
+agency (O&M operator of GSWAN, TPA) 
+Release 100% of the 
+payment, subject to 
+deductions for any 
+applicable penalties 
+3 
+RF Connectivity‐ 
+Shifting: If in case, 
+there is shifting of 
+office from one 
+building to another, 
+the bidder will be 
+responsible for 
+Upon Successful certification of FAT (Delivery, installation, Commissioning, 
+Integration, Discovery in NMS, etc.) by DST/GIL or its representative agency 
+(O&M operator of GSWAN, TPA) 
+A). Shifting of Radio link at one side along with 
+support structure and accessories: 
+25000/- per Link  
+(subject to 
+deductions for any 
+applicable penalties) 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 32 of 78 - 
+ 
+ 
+ 
+unmounting of the 
+Radio and necessary 
+support structure 
+from the existing 
+location to new 
+location. 
+B). Shifting of Radio link at both the sides along with 
+support structure and accessories: 
+35000/- per Link  
+(subject to 
+deductions for any 
+applicable penalties) 
+C). Shifting of Radio links without relocating of 
+support structure  
+  10000/- per Link  
+(subject to 
+deductions for any 
+applicable penalties) 
+For RF connectivity, in case of use of an existing tower/pole, the amount will be deducted from capital 
+expenditure according to the following and Ownership of such pole/tower will remain with Govt. of Gujarat. 
+Cost to be deducted in case of use of existing pole: Rs. 4000. 
+Cost to be deducted in case of use of existing tower: Rs. 10000. 
+ 
+ 
+ 
+33.1. PAYMENTS PROCEDURES 
+ 
+Acceptance Test will be conducted in as follows: 
+ 
+a) 
+Tenderer reserves the right to inspect equipment and OFC/JFC/RF, CAT-6A cables etc. The cost 
+of all such tests shall be borne by the successful bidder. Any inspected goods fail for confirm to 
+specification will be rejected, and successful bidder shall have to replace the rejected goods as 
+per the contract specification without any financial implication to the Tenderer. Further 
+Tenderer may issue a show cause notice in such matter with warning of backlisting if it found. 
+Sample approval should be obtained before installation for such material. 
+b) 
+The first step will involve successful installation of all sites. The provisional acceptance of these 
+sites will be defined as Partial Acceptance. 
+c) 
+Final Acceptance Test (FAT): After successful installation of the System in accordance with the 
+requirements as mentioned in Schedule of Requirement, Final Acceptance Test will be conducted. 
+After successful testing, Acceptance Test Certificate will be issued by Tenderer/its designated 
+agency to the successful bidder. FAT Checklist is as per Form E8. 
+d) 
+The date on which Acceptance certificate is issued shall be deemed to be the date of successful 
+commissioning of the System. 
+e) 
+Any delay by the successful bidder in the Acceptance Testing shall render the successful bidder 
+liable to the imposition of appropriate Penalties. 
+f) 
+All goods and services that are not specifically asked for certification should have quality standard 
+applicable in India such as ISI. 
+g) 
+Bidder is required to update the details of Hardware installed in the Asset Master before 
+completion of FAT. 
+h) 
+The final acceptance test (FAT) report should confirm with cabling standard under the ISO 
+certification. 
+i) 
+Warranty period needs to be updated on the online portal of OEM & all relevant records on 
+completion of FAT. 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 33 of 78 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ARTICLE – 34: SERVICE TERMS 
+ 
+34.1. 
+The entire scope of the work depends on the technical skill and experience in management of the 
+same level or kind of infrastructure. 
+34.2. 
+It is mandatory for successful bidder to deploy qualified professional to install, commission and 
+maintain the equipment, as defined under scope of work. 
+34.3. 
+The successful bidder has to submit regular schedule of man power availability and get it approved 
+by GIL/DST/GoG. 
+34.4. 
+The successful bidder has to deploy necessary problem escalation process and system to take care 
+users at priority. 
+34.5. 
+The successful bidder is free to deploy or to develop applications to facilitate the operation. 
+GIL/DST/GoG will welcome the deployment such application in respect to improve Quality of 
+Services. 
+34.6. 
+For extending better services to the government, the successful bidder will be allowed to deploy 
+and use own tested and proven solution, with prior permission form the GIL/DST/GoG. 
+34.7. 
+The successful bidder needs to manage and maintain various records related to the services 
+extended to the Government. 
+34.8. 
+The Government network is being operated and maintained by various agencies. In such 
+circumstances the successful bidder may need to coordinate and approach various agencies, if 
+required. 
+34.9. 
+The successful bidder needs to maintain the required security of network, database, e- mails etc. 
+related to the government operations. 
+34.10. The successful bidder is responsible to maintain documentation on the progress of the work and 
+will have to update the same on regular basis. Bidder will have to submit the progress reports 
+regularly, as per the guide line issued by GIL /DST/ GoG. 
+34.11. The understanding of the comprehensive maintenance under warranty period is as follows. 
+i. 
+In case of failure, the successful bidder needs to replace or repair the faulty part/ component 
+/ device to restore the services at the earliest. 
+ii. The cost of the repairing or replacement of faulty part/component/device has to be entirely 
+born by the successful bidder. 
+iii. All expenses related to part/component/device, including hiring of specialized technical 
+expertise, in case required, has to be born by the successful bidder as part of comprehensive 
+maintenance. 
+iv. The successful bidder also needs to make alternate arrangement in case of major failure 
+happens in the network, due to which services may be affecting for longer period. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 34 of 78 - 
+ 
+ 
+ 
+v. After repairing or replacement of the part/component/device, the successful bidder needs 
+to put the same into operation. 
+ 
+ 
+ARTICLE – 35: PENALTY CLAUSE 
+ 
+Operational Penalties: (HC Connectivity works {LAN/OFC/RF}): 
+ 
+The successful bidder shall repair/ replace all faulty material (Switches, RF radios, etc) covered under the 
+warranty within the shortest possible time thus ensuring minimum downtime as mentioned in point no 
+35.1, failing which applicable penalty will be imposed. The following penalties for Operational 
+Deficiencies shall apply: 
+ 
+35.1. The successful bidder shall be responsible for maintaining the desired performance and 
+availability of the system/services. Successful bidder should ensure the prompt service 
+support during warranty period. If complaint is made before 4 pm of the working day, 
+resolution time shall be counted from the same day and for complain made after 4 pm, 
+resolution time shall be counted from next working day. Timeline for resolution is, as follows. 
+i 
+Within 8 working hours for all offices located at State Headquarter(Gandhinagar),GSCAN 
+and Districts Head quarters 
+ii 
+Within  24  working  hours  for  offices  located  at  Taluka  and  at  all  other remaining 
+locations. 
+iii For calculation of above penalty, if any, normal working hours of Government of Gujarat 
+is from 10:30 am to 6:10 pm on working day. 
+ 
+If the successful bidder fails to resolve the call as specified above, the following penalty will be imposed 
+on each delayed day. 
+The penalty may be calculated on a quarterly basis and deducted from any ongoing payments due to the 
+successful bidder under this rate contract. Alternatively, the penalty may be recovered from the 
+Performance Bank Guarantee submitted by the successful bidder. 
+ 
+Penalty/Day, for each day, if problem is not 
+resolved within 8 Hours 
+Penalty/Day, for each day, if problem is not 
+resolved after 24 Hours 
+Rs. 1000/- Per day 
+Rs. 2000/- Per day 
+ 
+Note: 
+1. 
+If the delay continues beyond 10 weeks, Tenderer may terminate the work order/ LOI and forfeit 
+the PBG. 
+2. 
+If complain is made before 4 pm of the working day, the same should be attended on the same 
+day and for complain made after 4 pm, resolution time shall be counted from very next working 
+day. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 35 of 78 - 
+ 
+ 
+ 
+3. 
+For calculation of above penalty, if any, normal working hours of Government of Gujarat is from 
+10:30am to 6:10pm on any working day. 
+4. 
+In case, there is delay attributable to granting access to the equipment to be restored on the 
+part of GoG or on part of end user, such delays shall be reduced from the time taken for call 
+completion after due consideration by the TPA/Tenderer. 
+ 
+ARTICLE – 36: APPROVALS / CLEARANCES 
+ 
+36.1 
+Necessary approvals/ clearances concerned authorities, for establishing the proposed project 
+are to be obtained by the successful bidder. 
+36.2 
+Necessary approvals/ clearances from concerned authorities, as required, for fire protection, 
+government duties / taxes / Octroi, are to be obtained by the successful bidder. 
+36.3 
+Necessary approvals/ clearances, from concerned authorities (like City Nagar, Nigam, Public 
+Works Department (PWD), Department of Irrigation, State Electricity Board etc. for “Right of 
+way”), as required, are to be obtained by the successful bidder for laying their own cables to 
+meet system requirements and Bidder will have to incur the actual expenses for getting the RoW 
+permission. (Except for reinstatement expenses) upon submission of original receipts. 
+ 
+ 
+ARTICLE – 37 PROJECT IMPLEMENTATIONS 
+ 
+37.1 
+The successful bidder will implement the project strictly as per the plan approved by DST/GIL. 
+The Bidder shall carry out cabling work at such locations as may be selected by DST/GIL within a 
+specified period as specified in Instruction letter / LOI / Order and complete their provisional 
+Acceptance Test to the satisfaction of DST/GIL within 10 days from the date specified. This period 
+may be extended depending upon the fulfillment of Conditions Precedent. 
+37.2 
+GIL, Government of Gujarat will be Engineer-In-Charge of the Project and all inspection, 
+installation; commissioning and acceptance of work will be undertaken by its designated agency. 
+37.3 
+Successful bidder has to submit Invoice along with initial estimate, Bill of Material, Work Order 
+Copy, PBG, Work Completion report, Test Mail, IT Asset Report (Need to cover all BOM Material), 
+NMS Discovery Report etc. All Invoices, Vouchers, Bills for supplied goods and services by the 
+bidder under the scope of the work will be verified measured and accepted by the Engineer-In-
+Charge/ its designated agency 
+ for release of payment. 
+37.4 
+As part of implementation the successful bidder shall provide details of equipment that will be 
+incorporated in the proposed system, material and manpower as required. The location for 
+storing spare parts and quantity there on should also be clearly indicated. 
+37.5 
+The successful bidder shall provide the necessary technical support, Standard Operating 
+Procedure  (SOP)  and  other  information  to  DST/GIL  and  its  user  organizations  in 
+implementing the proposed system applications. DST/GIL at any time during the currency of the 
+work order/ LOI should have access to the proposed sites. 
+37.6 
+The successful bidder shall arrange to obtain all statutory permission with no cost to the 
+Government of Gujarat. The successful bidder may have to work during Holidays and Sundays, 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 36 of 78 - 
+ 
+ 
+ 
+the successful bidder will have to obtain required permission to carry out the work on 
+holidays/Sundays from the concerned. It will be the responsibility of the successful bidder to co-
+ordinate with all other agencies of Government of Gujarat in order to obtain NOC required to 
+execute the job. 
+37.7 
+The successful bidder shall not disturb or damage the existing network of communication. If in 
+case any damage to the network is done, the same shall be corrected with no extra cost. The 
+successful bidder shall also be responsible for paying penalty, as imposed by the service owner 
+to which the damage is incurred. 
+37.8 
+In case of the material/solution supplied and installed is rejected owing to its non- conformity 
+to the specification or due to the poor quality of workmanship, the same shall be replaced 
+promptly. 
+37.9 
+successful bidder shall treat all matters connected with the contract strictly confidential and 
+shall undertake not to disclose, in any way, information, documents, technical data, experience 
+and know how, without prior written permission from DST/GIL. 
+37.10 Any damage caused to the property of Government of Gujarat while executing the job shall be 
+solely successful bidder’s responsibility. In case any damage to the property is caused, the same 
+will be recovered from the successful bidder. No any extra cost shall be paid to the successful 
+bidder for such reasons. 
+37.11 The successful bidder shall have to furnish the documentation of the work undertaken in 
+consultation with Engineer-in-charge/DST/GoG rep. 3 sets of such documentation should be 
+provided before the issue of completion certificate. 
+37.12 It is a turnkey project. The successful bidder shall be fully responsible for implementing the 
+Project in totality and should include the items and their prices, if not included in Schedule of 
+Requirement to complete the project on turnkey basis. Any claim whatsoever in this regard will 
+not be entertained later on. 
+37.13 In the event of the delay in delivery of contracted services or services is not satisfactory the 
+purchaser may procure goods from elsewhere as prescribed in bid and successful bidder shall 
+be liable without limitations for the difference between the cost of such substitution and the 
+price set forth in the contract for the goods involved i.e. at the risk and cost of the successful 
+bidder. 
+37.14 DST/GIL/GoG reserves the right to visit any working site of the successful bidder without prior 
+intimation. 
+37.15 The successful bidder shall be solely responsible for obtaining necessary insurance as per the 
+statutory requirement under government laws for manpower and machinery on the site. 
+GIL/GoG will not be responsible for any kind of loss or damage to the successful bidder during 
+the contract period. 
+37.16 All work shall be performed and executed by the Supplier in strict conformity with the engineer-
+in-charge / representative from GoG and any relative instruction issued to the Supplier by the 
+Engineer-in-charge time to time. 
+ 
+ARTICLE – 38: ACCEPTANCE TEST 
+ 
+Acceptance Test will be conducted in as follows: 
+38.1 
+DST/GIL/Government of Gujarat reserves the right to inspect equipments and OFC, CAT-6A 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 37 of 78 - 
+ 
+ 
+ 
+cables etc. The cost of all such tests shall be borne by the successful bidder. Any inspected goods 
+fail for confirm to specification will be rejected, and successful bidder shall have to replace the 
+rejected goods as per the contract specification without any financial implication to the GoG/GIL. 
+Further DST/GIL/GoG may issue a show cause notice in such matter with warning of backlisting 
+if it found. Sample approval should be obtained before installation for such material. 
+38.2 
+The first step will involve successful installation of all sites. The provisional acceptance of these 
+sites will be defined as Partial Acceptance. 
+38.3 
+Final Acceptance Test (FAT): After successful installation of the System in accordance with the 
+requirements as mentioned in Schedule of Requirement, Final Acceptance Test will be 
+conducted. After successful testing, Acceptance Test Certificate will be issued by DST/GIL/its 
+designated agency to the successful bidder. FAT Checklist is as per Form E8. 
+38.4 
+The date on which Acceptance certificate is issued shall be deemed to be the date of successful 
+commissioning of the System. 
+38.5 
+Any delay by the successful bidder in the Acceptance Testing shall render the successful bidder 
+liable to the imposition of appropriate Penalties. 
+38.6 
+All goods and services that are not specifically asked for certification should have quality 
+standard applicable in India such as ISI. 
+38.7 
+Bidder is required to update the details of Hardware installed in the EMS/NMS/Or any other 
+provided tool before completion of FAT. 
+38.8 
+The final acceptance test (FAT) report should confirm with cabling standard under the ISO 
+certification. 
+ 
+ARTICLE – 39: INSTALLATION REQUIREMENTS 
+ 
+39.1 
+The successful bidder needs to pull necessary cables up to required place, using approved PVC 
+Casing/Piping/Channel/RF/CAT6 Cable. 
+39.2 
+The necessary Civil and Electrical work has to be carried out by the successful bidder. The GoG 
+will not reimburse any cost towards the same. The successful bidder need to take necessary 
+permission if require from concern authority. 
+ 
+ 
+ARTICLE – 40:  SOFTWARE LICENCES (IF APPLICABLE) 
+ 
+The bidder shall be responsible for providing Software (System Software, Application Software, Device 
+Drivers, IOS, etc) required, if any, to meet any additional requirements during the currency of the work 
+order/ LOI without any additional cost to GoG. All license software must be in the name of DST, Govt. of 
+Gujarat. The ownership of any involved customize software will be of the DST, Govt. of Gujarat. 
+ 
+ARTICLE – 41:  INSTALLATION OF ADDITIONAL HARDWARE (IF APPLICABLE) 
+During the currency of the work order/ LOI, for any additional requirement of equipment including 
+interface equipment, the specifications will be provided by the Bidder. DST/GIL/The Third Party Agency 
+will verify suitability of the specifications submitted by Bidder and recommend to DST/GIL for 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 38 of 78 - 
+ 
+ 
+ 
+acceptance. The Bidder will be obligated to undertake integration, operation and maintenance for all 
+additional equipments if required. 
+ 
+ 
+ARTICLE – 42: THIRD PARTY AGENCY 
+ 
+DST/GIL may appoint a Third Party Agency, who would monitor the project during implementation, 
+commissioning and operation. The Third Party Agency will also conduct the Partial and Final Acceptance 
+Test as per the technical requirement of the work order/ LOI and will issue the Certificate of Completion 
+of each proposed site. Third Party Agency will verify the services provided by the Bidder under the work 
+order/ LOI. The successful bidder will co-operate with such Third Party Agency. 
+ 
+ARTICLE – 43: SUPPORT FROM EXTERNAL AGENCY (IF APPLICABLE) 
+ 
+In case, if bidder wish to have support from any external agency, it’s very necessary to inform GIL/GoG 
+in written prior to allow them to work on GIL/GoG infrastructure. The information should contain all 
+respective information about the company from whom support has been extended, the person/group 
+of people and the segment in which services has been taken. On completion of the task, another report 
+should be submitted mentioning action taken by this person/group of people from external agency, 
+with duration. The bidder is sole responsible for the action taken by such agency on their behalf. No 
+Data/ Information should be sent out of the premise without obtaining prior written confirmation 
+from the GIL/GoG. 
+ARTICLE‐ 44: Manageability (Online Portal) 
+DST/GIL 
+has 
+an 
+online 
+portal 
+for 
+its 
+entire 
+Helpdesk 
+Management 
+system 
+(i.e. 
+www.gswanhelpdesk.gujarat.gov.in) wherein request for new connectivity of GSWAN, user complaints 
+will be raised by the users on this portal only. Successful bidder will be provided with separate login of 
+the portal wherein he has to do following activities: 
+• Work status updation 
+• Complaints resolutions pertaining to the connectivity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section – 5: SPECIFICATIONS 
+ 
+ 
+ 
+5.1. 
+CABLE LAYING WORKS 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 39 of 78 - 
+ 
+ 
+ 
+ 
+5.1.1. General: 
+ 
+  The Underground OFC are extensively used in outdoor network of GSWAN/SCAN networks. The 
+quality of construction of U/G cable Net Work decides the quality and reliability of GSWAN/SCAN 
+services, delivered to the users to a large extent. Therefore, the construction practices of the U/G 
+cables should be of very high quality, strictly in accordance with constructions specifications. 
+ 
+  Bidder should supply/install all required accessories whether it is mentioned explicitly or not to adhere 
+to the scope of work of this RFP. All active network components should be IPv6 compatible and should 
+be with IPv6 ready from Day1. 
+ 
+5.1.2. Construction Specifications: 
+ 
+5.1.2.1 
+Classification of Soil: For the purpose of trenching, the soil shall be categorized as 
+under: 
+ 
+i. 
+Soft Soil 
+This will include all types of soils- soft soil/hard soil / morrum i.e any strata, such as sand, 
+gravel, loam, clay, black cotton morrum, single, river or nalla bed boulders, soiling 
+of roads, paths, densely pebbles/stones etc., lime concrete, mud concrete and their 
+mixtures which for excavation yields to the application of picks, shovels, sacrifiers, ripper 
+and other manual digging implements including chiseling. 
+ 
+ii. 
+Footpaths / Along Road Side: 
+a) Trenching on Foot Path or along Road on carpeted surface may be necessary in 
+certain stretches where roads have been metaled edge to edge and there is no 
+un-metaled corridor or footpath available for trenching and laying the cables. 
+b) Tarmac (Asphalt) Foot Path/ Road: means Foot path / Road with tarmac surface with 
+or without compacted strata below the tarmac surface, irrespective of thickness 
+of Tarmac/Metal. 
+c) Kharanja: means Footpath / Road covered with various types of bricks with or 
+without compacted strata below the surface, irrespective of thickness of bricks. 
+d) Tiled Foot Path/ Roads: means Footpath / Road covered with various types of 
+tiles/stone slabs with or without compacted strata below the tiled surface, 
+irrespective of thickness of tiles / stone slabs. 
+ 
+ 
+e)  Cement Concrete Foot Path Road: means the surface on Footpath / Road 
+covered with CC (Cement Concrete) with or without compacted strata below 
+the surface, irrespective of thickness of cement concrete. 
+ 
+5.1.2.2 
+Road Crossings: 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 40 of 78 - 
+ 
+ 
+ 
+a)   "Tarmac or Asphalt Road" means the road surface, which is metaled by 
+asphalt/tarmac normally having compacted strata below the metaled 
+surface, irrespective of thickness of asphalt/tarmac. 
+b) Kharanja Road: means road covered with various types of bricks with or 
+without compacted strata below the tiled road surface, irrespective of 
+thickness of bricks. 
+c)   Tiled/CC Road: means road made of tiles of any type/stone slabs/bricks or CC 
+road normally having compacted strata below the tiled/CC surface, 
+irrespective of thickness of tiles/CC. 
+d) RCC Road: means the surface made of cement concrete duly reinforced with 
+steel bars normally having compacted strata below RCC, irrespective of 
+thickness of RCC. 
+e)   WBM road: means water bound mecadam surface made of stone, metal 
+and gravel and rolled with road roller. At road crossings, the trenches shall be 
+so dug that top of RCC pipe shall be at one-meter depth from ground level. 
+ 
+5.1.2.3 
+Excavation of Trenches 
+Before excavation of trenches the route should be marked for trenching. Care should 
+be taken to see that the route of the trench to excavate is reasonably straight avoiding 
+the existing underground service. 
+ 
+The Bidder should take trial pits to locate the underground services before 
+commencement of actual trenching. These trial pits shall be 30 cms. wide, 120 cms. deep 
+and 120 cms. long at right angles to the proposed trench at an interval of 20 to 50 Mtrs 
+along the proposed cable route. If a slab is encountered, the same may be removed and 
+trial pits may be made. 
+ 
+In city areas, the trench will normally follow the footpath or the road except where 
+it may have to come to the edge of carriage way or cutting across roads with the 
+specific permission from the concerned authorities maintaining the road (such 
+permission shall be obtained by the Bidder). Outside the city limits, the trench will 
+normally follow the boundary of the roadside land. However, where the roadside land 
+is full of burrow pits or when the cables have to cross culverts / bridges or streams, 
+the trench may come closer to the road edge or in some cases, over the embankment 
+or shoulder of the road (Permission for such deviations for cutting the embankment 
+as well as shoulder of the roads shall be obtained by the Bidder). 
+ 
+The alignment of the trench will be decided by Engineer-In-Charge or by TPA. Once 
+the alignment is marked, no deviation from the alignment is permissible except with 
+the approval of Engineer-In-Charge or TPA. While marking the alignment only the center 
+line will be marked and the Bidder shall set out all other works to ensure that, the 
+excavated trench is as straight as possible. The Bidder shall provide all necessary 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 41 of 78 - 
+ 
+ 
+ 
+assistance and labour, at his own cost for marking the alignment. Bidder shall 
+remove all bushes, undergrowth, stumps, rocks and other obstacles to facilitate 
+marking the center line without any extra charges. It is to be ensured that minimum 
+number of bushes and shrubs shall be removed to clear the way and the Bidder shall 
+give all consideration to the preservation of the trees. 
+The line-up of the trench must be such that cables shall be laid in a straight line except 
+at locations where it has to necessarily take a bend because of change in the alignment 
+or gradient of the trench. 
+ 
+5.1.3. Methods of Excavation: 
+In city limits as well as in built up areas, the Bidder shall resort to use of manual labour 
+only to ensure that no damage is caused to any underground or surface installations 
+belonging to other public utility services and / or private parties. However, along the 
+Highways and across country routes, there shall be no objection to the Bidder 
+resorting to mechanical means of excavation, provided that no underground 
+Installations exist in the path of excavation, if any, are damaged. There shall be no 
+objection to resort to horizontal boring to bore a hole of required size and to push 
+through G.I. Pipe through horizontal bore at road crossing or rail crossing or small 
+hillocks etc. 
+ 
+Necessary barricades, night lamps, warning boards and required watchman shall be 
+provided by the Bidder to prevent any accident to pedestrians or vehicles. When 
+trenches are excavated in slopes, uneven ground, inclined portion, and the lower edge 
+shall be treated as normal level of the ground for the purpose of measurement of depth 
+of the trench. In certain locations, such as uneven ground, hilly areas and all other 
+places, due to any reason whatsoever it can be ordered to excavate beyond standard 
+depth of 100 Cms. above the cable to keep the bed of the trench as smooth as possible. 
+ 
+If excavation is not possible to the minimum depth of 100 Cms. above the cable, as 
+detailed above, full facts shall be brought to the notice of the Engineer-In- Charge / 
+TPA in writing giving details of location and reason for not being able to excavate that 
+particular portion. Approval may be granted in writing under genuine circumstances. 
+The Bidder shall be responsible for all necessary arrangements to remove or pump 
+out water from trench. The Bidder should survey the soil conditions encountered in 
+the section and make his own assessment about dewatering arrangements that may 
+be necessary. Wherever the soil is hard due to dry weather conditions, if watering is 
+to be done for wetting the soil to make it loose, the same will be done by the 
+Bidder. 
+ 
+5.1.3.1 
+Trenching near culverts / Bridges: 
+At bridges and culverts the cable shall be laid in GI pipe of suitable size with the 
+permission of concerned authorities maintaining the roads/bridges. Such permission 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 42 of 78 - 
+ 
+ 
+ 
+shall be obtained by the Bidder. While carrying out the work on bridges and culverts, 
+adequate arrangement for cautioning the traffic by way of caution boards during day 
+time and danger lights at night shall be provided. The GI pipe should be clamped to the 
+outside of the parapet wall of the culvert or bridge with the help of clamps, nails, nuts, 
+bolts and screws of suitable size to ensure that the pipe is securely fixed. The GI 
+clamps should be of minimum 25 mm width and 3 mm thickness and should be fixed 
+at an interval of 50 cms. If necessary, the pipe should be taken to the parapet walls at 
+the ends where the wall diverges away from the roads. The work should be carried out 
+in consultation with the authorities concerned maintaining the roads and bridges. 
+ 
+In case of small bridges and culverts, where there is a likelihood of their subsequent 
+expansion and remodeling, the cable should be laid with some curve on both sides 
+of the culvert or the bridge to make some extra length available for readjustment 
+of the cable at the time of reconstruction of culvert or the bridge. 
+ 
+5.1.3.2 
+Excavation in Surfaced Strata: 
+ 
+i. Excavation on Footpath 
+The excavation of trenches in all types of footpaths including dismantling of asphalt/all 
+type of tiles/CC and WBM shall be done up to a depth such that the top of the cable 
+is 
+1.0 M below the normal ground level. The excavation on the footpaths will be done 
+manually. The Bidder shall have to provide shoring wherever necessary, in case the 
+depth of trench is more than one meter. It is expected that the other services may be 
+present below the footpath, therefore, extra care need to be exercised while 
+excavation of trenches. 
+ 
+ii. Excavation of Trenches along the roads (which are carpeted end to end) 
+The excavation of trenches along the roads which are carpeted from end to end including 
+dismantling of' asphalt, concrete and WBM shall be done up to a depth such that the 
+top of the cable is 1.0 M below the normal ground level. The excavation along the roads 
+shall be done manually. The Bidder shall have to provide shoring wherever necessary, 
+in case the depth of trench is more than one meter. It is expected that the other 
+services may be present below the roads, therefore, extra care need to be exercised 
+while excavation of trenches. 
+ 
+iii. Excavation at Road Crossings: 
+The excavation of trenches in all types of roads including dismantling of asphalt / all type 
+of tiles / CC and WBM shall be done up to a depth such that the top of the RCC pipe 
+is 1.0 meter below the normal ground level. After excavation of trench, RCC Pipes 
+of 100mm/ 150mm/225mm /300mm dia. shall be laid at the road crossings. The 
+roads, which are broad, may be opened for half their width, allowing the other half 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 43 of 78 - 
+ 
+ 
+ 
+for use of vehicular traffic. The second half of the width should be opened after laying 
+pipes and reinstating the first half of the trench. Pipes laid in the second half should 
+be coupled firmly with those laid in the first half. Care must be taken to couple the 
+pipes fully. The pipes should be laid with a slight slope from the center to the sides of 
+the road to prevent collection of water. 8 mm PP Rope shall be drawn through the 
+laid pipes to facilitate cleaning and cable pulling at a later date before closing the 
+trench.  
+As the work on road crossings entails lot of inconvenience to vehicular traffic and 
+pedestrians, it is desirable to bury extra pipes for future expansion at the initial stage 
+itself. The spare pipes must be sealed properly at both the ends of the road to obviate 
+the possibility of pipe getting chocked due to settlement of sedimentation etc. The 
+Bidder shall have to provide shoring, wherever necessary, in case the depth of trench 
+is more than one meter. Necessary barricades, night lamps, warning boards and 
+required watchman shall be provided by the Bidder to prevent any accident to 
+pedestrians or vehicles. 
+ 
+5.1.4. Trenches of Less Depth: 
+ 
+The depth of trench is very important for future life of cables. Therefore, it is 
+very much necessary for Bidder to ensure that the standard depth is maintained in 
+normal circumstances. However, due to obstructions, if the standard depth cannot 
+be achieved, lower depths up to certain limits are acceptable by the authorities with 
+extra protection as per specifications. The 
+relaxation shall be obtained from the 
+Engineering in charge/ TPA, giving reasons for not achieving standard depth. 
+ 
+5.1.5. Laying of Cables: 
+ 
+After excavation of trenches, approximately 5 CM. thick bed of soft soil/ or sand (in 
+case the excavated material contains sharp pieces of rock/stones) is laid before directly 
+laying the cable. Adequate care shall be exercised while laying the cables so that the 
+cables are not put to undue tension/pressure as this may adversely affect the electrical 
+characteristics of cables with passage of time. Sharp bends shall be avoided. Bends, if 
+any, the radius of curvature should be more than at least six times the diameter of the 
+cable. After the completion of laying, sand/ sieved earth, free of stones etc., shall be 
+placed over the cable to a height of 7.5 CM. duly levelled and rammed lightly to 
+form a bedding for warning bricks or Half round RCC pipes/ stone slab/ Pre cast RCC 
+slab for mechanical protection. 
+ 
+The cables may be required to be pulled through RCC/ GI Pipes at road crossings, 
+Extra care should be taken to avoid damage to the cable while pulling through pipes 
+which may occur due to kinks. The Bidder should have the required tools and 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 44 of 78 - 
+ 
+ 
+ 
+equipments for the purpose to complete the job in a professional manner. The 
+Bidder shall ensure that trenching and cable laying activities are continuous, 
+without leaving patches or portions incomplete in between. When there are number 
+of cables of the same size in the same trench it becomes difficult to identify the 
+particular cable at time of maintenance. Therefore, identification collars bearing L.I. 
+Number of the cable shall be tagged to all the cables. The identification collars shall 
+be provided at an interval of not more than 2 meters. 
+ 
+5.1.5.1 
+Laying of OFC through Horizontal Directional Drilling (H.D.D.) 
+ 
+Excavation of trench and laying of HDPE Pipes through H.D.D. technique. The Optical Fiber 
+Cable shall be laid through PLB HDPE pipes. Back filling and dressing of the 
+excavated trenches. Blowing/puling of Optical Fiber Cable with proper tools and 
+accessories. 
+ 
+5.1.6. Placing of Half Round RCC Pipes / Layer of Bricks 
+After laying of cables, it is covered by a consolidated layer of 8 CM. of soft earth (or sand 
+in special cases where excavated material contains sharp stones/objects) which should 
+be free from stones or other sharp objects, carefully pressed and lightly tamped. On this 
+layer of soft earth, a layer of half round RCC pipes (100/l50 mm dia) / Bricks is placed as a 
+warning layer and also as a mechanical protection. The choice for protection layer out of 
+half round RCC Pipes or bricks may be decided based on availability and comparative cost. 
+ 
+5.1.7. Back Filling and Compacting of the Excavated Trenches: 
+After laying the cables and providing warning/protection layer as per specifications, the 
+remaining portion of the trench shall be filled in and well tamped in steps. The trench should 
+be back filled in layers not exceeding 20 cms. each at a time and rammed. The Bidder shall 
+remove the excess earth from the site and leave only a crown of earth rising approximately 
+5 cms. in the centre. This allows for natural subsidence. When digging on footpaths, along 
+roads and crossings, care should be taken to see that the road is made motorable as soon 
+as the work is completed. The permanent reinstatement of roads and pavement shall be 
+done by the local authorities. 
+ 
+5.1.8.     Cable route and Joint Indicators: 
+Cable route and joint indicators are to be provided to indicate the cable route and location 
+joints. The route and joint indicators are to be used for cables laid in rural areas as 
+availability of land marks over wide expanse of lands is scanty. The route indicators are to 
+be placed at every 100 mts. and at every place where the cable changes direction. Joint 
+indicators are to be provided at all joints. For the sake of uniformity and from viewpoint of 
+identification of cable at later date for maintenance, the route / joint indicators shall be 
+provided in the alignment of the trench. The route/Joint indicators shall be painted with 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 45 of 78 - 
+ 
+ 
+ 
+Primer before painting with oil paint. The route indicators shall be painted with yellow paint 
+and joint indicators shall be painted with red paint. 
+ 
+5.1.9.     Documentation: 
+The documentation, consisting of route diagrams, depicting joint locations, termination 
+details of cables on MDF, pillars and D.Ps., is of immense help at the time of maintenance 
+or undertaking any re-arrangement work. The documentation shall be prepared primary 
+cable wise for one or more than one primary cables with all its pillars shown and for all 
+its pillars the distribution cables shown pillar wise, for each work order. Vender will 
+have to undertake preparation of route diagram depicting alignment of cables on roadsides 
+on a geographical map. Though it is desirable to prepare these diagrams on geographical 
+maps to the scale but in case geographical maps are not available, the maps should be 
+constructed to a reasonable accuracy by taking details from the local bodies of the area. On 
+this diagram, besides showing alignment of the cable, the topographical details of the road, 
+location of pillars and landmarks alongside should also be shown to locate the cable(s) easily 
+as and when required. 
+ 
+5.2. 
+FOR LAN WORKS 
+ 
+For OFC (Single Mode): 
+• Type of fiber: Single Mode (9/125 μm) or higher 
+• Cable Type: Armored Outdoor Fiber cable (with HDPE Jacket) 
+• Type of Armor: Corrugated Steel Tape Armor 
+• Standard: ISO/IEC-11801, ITU G.652D 
+• Quoted OFC should be RoHS, ETL/UL/TEC/CE, GoI/Meity/NABL certified/approved 
+as on bid submission date and manufactured in India only. The bidder has to 
+submit the Manufacturer test reports. 
+• OEM must have minimum presence of 5 years in India as on bid submission date 
+• The Manufacturer of the product (OEM) should have ISO 9001, ISO 14001, ISO 27001 
+& ISO 45001  
+• Performance Warranty: 20 years 
+For OFC (Multi Mode): 
+• Type of fiber: Multi Mode (50 or 62.5/125 μm) or higher. 
+• Cable Type: Armored Outdoor Fiber cable (with HDPE Jacket) 
+• Type of Armor: Corrugated Steel Tape Armour 
+• Standard: ISO/IEC-11801, ITU G.651 
+• Quoted OFC should be RoHS, ETL/UL/TEC/CE, GoI/Meity/NABL certified/approved 
+as on bid submission date and manufactured in India only. The bidder has to submit 
+the Manufacturer test reports. 
+• OEM must have minimum presence of 5 years in India as on bid submission date 
+• The Manufacturer of the product (OEM) should have ISO 9001, ISO 14001, ISO 27001 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 46 of 78 - 
+ 
+ 
+ 
+& ISO 45001  or latest 
+• Performance Warranty: 20 years 
+ 
+For the CAT‐6A cables: 
+• Unshielded Twisted Pair (UTP), Category 6A, Conductor Size: 23 AWG, Conductor: 
+Bare Copper, Standards: ANSI/TIA/EIA-568 C.2, ISO/IEC-11801, Jacket/ Sheath 
+Type: LSZH (Low Smoke Zero Halogen) 
+• Quoted CAT6A cables should be RoHS, ETL/UL/TEC/CE, GoI/Meity/NABL 
+certified/approved as on bid submission date and manufactured in India only. The 
+bidder has to submit the Manufacturer test reports. 
+• OEM must have minimum presence of 5 years in India as on bid submission date 
+• The Manufacturer of the product (OEM) should have ISO 9001, ISO 14001, ISO 27001 
+& ISO 45001  or latest 
+• Performance Warranty: 20 years 
+ 
+For the Passive Networking Components: 
+• 
+OEM must have minimum presence of 5 years for items like Patch Panels, 
+Information Outlets in India as on bid submission date 
+• 
+The Manufacturer of the items like Patch Panels, Information Outlets (OEM) should 
+have ISO 9001, ISO 14001, ISO 27001 & ISO 45001  or latest 
+ 
+For the Active Networking Components: 
+• 
+OEM must have minimum presence of 5 years in India as on bid submission date 
+• 
+The Manufacturer of the product (OEM) should have ISO 9001, ISO 14001, ISO 
+27001 & ISO 45001  or latest 
+ 
+For HDPE pipe: ISI approved HDPE pipe. The pipes shall be supplied with ISI mark on each pipe. 
+(The pipe offered shall bear ISI marking with License number. The copy of the valid ISI license 
+issued by Bureau of Indian Standard to the manufacturer for the offered pipe shall be 
+attached.) 
+ 
+For Casing Capping: ISI approved Casing Capping (The copy of the valid ISI license issued by 
+Bureau of Indian Standard to the manufacturer for the offered Casing Capping shall be 
+attached). 
+For Raceway; ISI approved Raceway (The copy of the valid ISI license issued by Bureau of 
+Indian Standard to the manufacturer for the offered Casing Capping shall be attached). 
+ 
+For Flexible PVC Pipe: ISI approved Flexible PVC pipe. The pipes shall be supplied with ISI 
+mark on each pipe. (The pipe offered shall bear ISI marking with License number. The copy 
+of the valid ISI license issued by Bureau of Indian Standard to the manufacturer for the 
+offered pipe shall be attached. 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 47 of 78 - 
+ 
+ 
+ 
+For Rigid PVC Pipe: ISI approved Rigid PVC pipe. The pipes shall be supplied with ISI mark on 
+each pipe. (The pipe offered shall bear ISI marking with License number. The copy of the 
+valid ISI license issued by Bureau of Indian Standard to the manufacturer for the offered pipe 
+shall be attached. 
+ 
+For Rack: Certifications like ISO 9001, ISO 14001, ISO 27001 & ISO 45001  (All rack should 
+be supplied with 6 socket AC power distribution unit, 4 Fan for cooling and 1U cable 
+manager) 
+ 
+CAT‐6A Patch Cord (1, 2 & 3 Meter) 
+Category 6A, UTP Patch Cord, Conductor: 24 AWG or better, Conductor: standard copper 
+wire, Standard Compliance: ANSI/TIA/EIA-568 C.2 
+ 
+CAT‐6A Patch Panel (12 & 24 Port) 
+Panel Frame: Steel with Black Painting, Easy Port Labeling Identification Provision 
+ 
+I/o Box for CAT6A Cable 
+Category 6A keystone jacks suitable for 22-26 AWG, Standards: ANSI/TIA/EIA-568 C.2,ISO/IEC- 
+11801 
+ 
+Fiber Patch Cord 
+Product: Optical Patch Cord, Standard: ANSI/TIA-568-C.3, ISO/IEC 11801 
+ 
+During the installation activities, records and route layout diagram must be kept of all items 
+installed, including reference to cable pathways used, final location, identity of cables and 
+equipment. The presentation of all of these records will provide the "As-Installed" basis for all 
+future reference to the installation. The Optical Fiber and UTP cabling shall be installed in 
+accordance with manufacturer’s installation instructions. The installer will ensure that the 
+manufacturer’s specifications for the Optical Fiber cable and the UTP cables meet the 
+transmission characteristics required by Cabling Standards. All installed cables, termination 
+boxes, distribution panels and wall outlets shall be marked and numbered in accordance with 
+Administration Standard for the Telecommunications Infrastructure. The documentation 
+required at the completion of the installation phases shall contain all of the following 
+information, together with any other information the installer has acquired during the 
+installation. 
+• “As-Installed” documentation, showing total cabling and connections installed using 
+floor space plans and cable record sheets. This documentation must show all cables 
+and outlets incorporating the full numbering and marking convention supplied. 
+• All test results and certification information, identified by cable, connection and 
+numbering convention, necessary for all Optical Fiber and copper cables. 
+ 
+5.3. 
+LAST MILE EQUIPMENTS 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 48 of 78 - 
+ 
+ 
+ 
+ 
+5.3.1. 
+L2 Switch: Gigabit Ethernet Manageable Switch 
+ 
+A. 8 Port Manageable Gigabit Ethernet Switch without SFP module (unloaded) 
+Min. Technical 
+Specification 
+Minimum 8 No’s 100/1000 Base-Tx PoE+ ports (full Duplex) with 2x 1G SFP Uplink Ports. Switch 
+PoE Power rating should be 125w or more. The device shall support IEEE 802.3at (PoE+) and be 
+backward compatible with IEEE 802.3af (PoE). 
+All ports should have features of auto- negotiate, flow control (802.3x), port- based network 
+access control (802.1x), port security, MAC filtering , Storm Control etc 
+Minimum Switching capacity of 8 Gbps or more 
+MAC address table of minimum of 8k per switch 
+Should be IPv4 and IPv6 ready from day one 
+Should have IEEE 802.1.d STP, 802.1w RSTP / 802.1s MSTP, IEEE 802.1Q VLAN 
+Features of DHCP, NTP/SNTP or equivalent, SNMPv1, v2 and v3, TELNET/ SSH, TFTP, Web/SSL 
+IGMP versions 1 and 2 snooping: supports 1K multicast groups 
+Should have console port for administration and management, CLI/ web based GUI 
+Support for IEEE 802.3ad Link Aggregation Control Protocol (LACP), Up to 6 groups, Up to 8 ports 
+per group 
+All necessary interfaces, connectors, patch cords (if any) and licenses must be delivered along 
+with the switch from day one. 
+The Switch should be Rack mountable and the switch should be supplied with Indian standard 
+AC power cord. 
+Relay of DHCP traffic to DHCP server in different VLAN. Works with DHCP Option 82 ping, trace 
+route, RADIUS/LDAP/ TACACS+, syslog, DNS client 
+ 
+ 
+B. 16 Port Gigabit Ethernet Manageable Switch without SFP module (unloaded): 
+ 
+Min. 
+Technical 
+Specificati
+on 
+Minimum 16 No’s of 100/1000 Base-Tx PoE + ports (full Duplex) and 2x 1G SFP Uplink Ports. Switch PoE 
+Power rating should be 280w or more. The device shall support IEEE 802.3at (PoE+) and be backward 
+compatible with IEEE 802.3af (PoE). 
+All ports should have features of auto- negotiate, flow control (802.3x), port- based network access control 
+(802.1x), port security, MAC filtering , Storm Control etc. 
+Minimum Switching capacity of 30 Gbps or more 
+MAC address table of minimum of 8k per switch 
+Should be IPv4 and IPv6 ready from day one 
+Should have IEEE 802.1.d STP, 802.1w RSTP / 802.1s MSTP, IEEE 802.1Q VLAN 
+Features of DHCP, NTP/SNTP or equivalent, SNMPv1, v2 and v3, TELNET/ SSH, TFTP, Web/SSL 
+IGMP versions 1 and 2 snooping: supports 1K multicast groups 
+Should have console port for administration and management, CLI/ web based GUI 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 49 of 78 - 
+ 
+ 
+ 
+Support for IEEE 802.3ad Link Aggregation Control Protocol (LACP), Up to 6 groups, Up to 8 ports per group 
+All necessary interfaces, connectors, patch cords (if any) and licenses must be delivered along with the 
+switch from day one. 
+The Switch should be Rack mountable and the switch should be supplied with Indian standard AC power 
+cord. 
+Relay of DHCP traffic to DHCP server in different VLAN. Works with DHCP Option 82 ping, traceroute, 
+RADIUS/LDAP/ TACACS+, syslog, DNS client 
+The Switch should support Multicast VLAN.  
+Switch should support Operation Temperature 0 ˚C to 50 ˚C and Dual Internal Power Supply.  
+The switch should have following certifications for EMI & Safety i.e. UL / CE / FCC or Equivalent Indian 
+Certificate. 
+Should support Head of Line blocking prevention for lower latency and better performance and 
+automatically throttles the impact of packet flooding into the switch's CPU. 
+The switch shall support robust security through port based and host based access control. It must be 
+compatible with industry standard authentication protocols such as IEEE 802.1X (EAP), TLS, TTLS, and PEAP 
+to ensure secure user and device authentication. 
+ 
+C. 
+24 Port Gigabit Ethernet Manageable Switch without SFP module (unloaded): 
+ 
+Min. Technical  
+Specification 
+Minimum 24 No’s of 100/1000 Base-Tx PoE + ports (full Duplex) and 2x 1G Uplink Ports. Switch PoE 
+Power rating should be 375w or more. The device shall support IEEE 802.3at (PoE+) and be backward 
+compatible with IEEE 802.3af (PoE). 
+All ports should have features of auto- negotiate, flow control (802.3x), port-based network access 
+control (802.1x), port security, MAC filtering , Storm Control etc. 
+Minimum Switching capacity of 50 Gbps or more 
+MAC address table of minimum of 8k per switch 
+Should be IPv4 and IPv6 ready from day one 
+Should have IEEE 802.1.d STP, 802.1w RSTP/802.1s MSTP, IEEE 802.1Q VLAN, 
+Features of DHCP, NTP/SNTP or equivalent, SNMPv1, v2 and v3, TELNET/ SSH, TFTP, Web/SSL 
+IGMP versions 1 and 2 snooping: supports 1K multicast groups 
+Should have console port for administration and management, CLI/web-based GUI 
+Support for IEEE 802.3ad Link Aggregation Control Protocol (LACP), Up to 6 groups, Up to 8 ports per 
+group 
+All necessary interfaces, connectors, patch cords (if any) and licenses must be delivered along with the 
+switch from day one. 
+The Switch should be Rack mountable and the switch should be supplied with Indian standard AC 
+power cord. 
+Relay of DHCP traffic to DHCP server in different VLAN. Works with DHCP Option 82 ping, trace route, 
+RADIUS/LDAP/ TACACS+, syslog, DNS client 
+The Switch should support Multicast VLAN.  
+Switch should support Operation Temperature 0 ˚C to 50 ˚C and Dual Internal Power Supply.  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 50 of 78 - 
+ 
+ 
+ 
+The switch should have following certifications for EMI & Safety i.e. UL / CE / FCC or Equivalent Indian 
+Certificate. 
+Should support Head of Line blocking prevention for lower latency and better performance and 
+automatically throttles the impact of packet flooding into the switch's CPU. 
+The switch shall support robust security through port based and host based access control. It must be 
+compatible with industry standard authentication protocols such as IEEE 802.1X (EAP), TLS, TTLS, and 
+PEAP to ensure secure user and device authentication. 
+ 
+D. 48 Port Gigabit Ethernet Manageable Switch without SFP module (unloaded): 
+ 
+Min. Technical Specification 
+Minimum 48 No’s of 100/1000 Base-Tx PoE+  ports (full Duplex) and 2x 1G/10G SFP+ 
+Dual-Rate Uplink Ports. Switch PoE Power rating should be 740w or more. . The device 
+shall support IEEE 802.3at (PoE+) and be backward compatible with IEEE 802.3af (PoE). 
+All ports should have features of auto- negotiate, flow control (802.3x), port-based 
+network access control (802.1x), port security, MAC filtering ,Storm Control etc. 
+Minimum Switching capacity of 100 Gbps or more 
+MAC address table of minimum of 8k per switch 
+Should be IPv4 and IPv6 ready from day one 
+Should have IEEE 802.1.d STP, 802.1w RSTP /802.1s MSTP, IEEE 802.1Q VLAN 
+Features of DHCP, NTP/SNTP or equivalent, SNMPv1, v2 and v3, TELNET/ SSH, TFTP, 
+Web/SSL 
+IGMP versions 1 and 2 snooping: supports 1K multicast groups 
+Should have console port for administration and management, CLI/ web-based GUI 
+Support for IEEE 802.3ad Link Aggregation Control Protocol (LACP), Up to 6 groups, Up to 
+8ports per group 
+All necessary interfaces, connectors, patch cords (if any) and licenses must be delivered 
+along with the switch from day one. 
+The Switch should be Rack mountable and the switch should be supplied with Indian 
+standard AC power cord. 
+Relay of DHCP traffic to DHCP server in different VLAN. Works with DHCP Option 82 
+ping,traceroute, RADIUS/LDAP/ TACACS+, syslog, DNS client 
+The Switch should support Multicast VLAN.  
+Switch should support Operation Temperature 0 ˚C to 50 ˚C and Dual Internal Power Supply.  
+The switch should have following certifications for EMI & Safety i.e. UL / CE / FCC or 
+Equivalent Indian Certificate. 
+Should support Head of Line blocking prevention for lower latency and better performance 
+and automatically throttles the impact of packet flooding into the switch's CPU. 
+The switch shall support robust security through port based and host based access control. 
+It must be compatible with industry standard authentication protocols such as IEEE 802.1X 
+(EAP), TLS, TTLS, and PEAP to ensure secure user and device authentication. 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 51 of 78 - 
+ 
+ 
+ 
+ 
+5.3.2. 
+Fiber L3 Switch with SFP/ SFP+/QSFP+/QSFP 28 modules (loaded): (Transceiver as per 
+specification in Section 5) 
+ 
+Sr. 
+No 
+Minimum Technical Specifications 
+1 
+The proposed Switch shall support standards like :  
+• 802.3z 1000BASE-X 
+•  802.3ae 10 Gigabit Ethernet 
+•  802.3ba 40 Gigabit Ethernet 
+•  802.3ba 100 Gigabit Ethernet 
+2 
+The proposed Switch Shall support minimum 24 Ports of 1G/ 10 G SFP+ dual rate Ports and minimum 2 
+Ports of 40G / 100 G of QSFP ports. It should support QSFP+  - 40 G & QSFP28 – 100 G transreceiver 
+module.  
+3 
+The Switch shall support 40 G QSFP for future scalability 
+4 
+The Switch shall support throughput of minimum 850Gbps full duplex and should be line rate 
+5 
+The Switch Shall provide System Memory of minimum 8 Gigabytes 
+6 
+The Switch shall provide minimum 2 Hot Swappable Fans and AC Power Supply for 1+1 redundant 
+Operations 
+7 
+The Switch Shall support option to boot from different images. 
+8 
+The Switch shall provide storage for images and configurations. 
+9 
+The Switch Shall support Redundancy protocols like VRRP /VRRPV6 (Virtual Switch Redundancy protocol) 
+or HSRP (Hot Standby Routing Protocol) 
+10 
+The Switch shall support VRF aware VRRP BFD 
+11 
+The Switch should support temperature from 0.to 45 deg C under normal operating conditions and  
+Thermal shock NEBS compliance test  
+12 
+The Switch Shall support IPv6, IPv4 features 
+13 
+The Switch Shall support L3 Routing protocols like OSPF, OSPFv3, BGP, MP-BGP, IS-IS, RIPv2 
+14 
+The Switch shall Support upto 4-Way Equal Cost Multipath Routing (ECMP) 
+15 
+Switch Shall support minimum 32K mac address scale or higher 
+16 
+Switch should support minimum 39K IP4 LPM routes 
+17 
+Switch should support minimum 16K IP6 LPM routes 
+18 
+Switch shall support minimum 8K or higher ACL entries 
+19 
+Switch shall support minimum 8K or higher multicast routes 
+20 
+The Switch shall support VRF 
+21 
+The Switch shall support Bi-Directional Forwarding Detection (BFD) 
+22 
+The Switch should support Quality of Service (QoS) features 
+23 
+The Switch Shall support Real time state streaming Telemetry 
+24 
+The Switch should support Quality of Service (QoS) features like : 802.1P based classification, DSCP 
+based classification and remarking Strict Priority Queuing 
+25 
+The Switch shall also support minimum 8 Queues per port 
+26 
+The Switch shall support VXLAN EVPN integrated routed and switching 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 52 of 78 - 
+ 
+ 
+ 
+27 
+The switch should be provided with licenses to activate mentioned capabilties on day 1 , if Vendor 
+/OEM has subscription based license then license cost for these features should be provided for 84 
+months 
+28 The Switch shall support IGMPv2 AND igmpV3 snooping 
+29 
+The Switch shall support IGMPv2 and IGMP v3 Querier 
+30 
+The Switch shall support IGMP snooping proxy 
+31 
+The Switch shall support IGMP host proxy 
+32 
+The Switch shall support PIM-SSM 
+33 
+The Switch shall support MSDP 
+34 
+The Switch shall support IP Multicast Multipath (ECMP) 
+35 
+The Switch shall support Bidirectional PIM 
+36 The Switch Shall support Ingress / Egress ACLs with L2, L3, L4 Fields 
+37 
+The Switch shall support minimum 8k or higher ACL entries 
+38 
+The Switch shall support Control Plane Protection 
+39 
+The Switch shall support DHCP Relay / Snooping 
+40 
+The Switch shall support Radius and TACACS + authentication 
+41 
+Tested and certified for EAL 4 / NDPP ( Network Device Protection Profile) or above under Common 
+Criteria Program for security related functions or under Indian Common Criteria Certification Scheme 
+(IC3S) by STQC, DEIT, Govt. of India. 
+42 The Switch OS Shall support Zero touch provisioning 
+43 
+The Switch should support at least 4 Port Mirroring Sessions. Device should support local and 
+encapsulated remote port mirroring with support for ACL filtering for targeted capture 
+analysis/reporting and simplified troubleshooting. simplified troubleshooting. 
+44 
+The Switch should support L2/L3/L4 Filtering 
+45 
+The Switch should support features like CLI Scheduler 
+46 
+The Switch shall support Event Managers, Even Monitor, Linux Tools and docker containers 
+47 
+The Switch shall support RFC 3176 Sflow 
+48 
+Switch shall support latency analyzer and micro burst detection capabilities to detect congestion on 
+interfaces 
+49 The Switch Shall have support for CLI, Telnet, SSHv2 and SNMPv3 S 
+50 
+The Switch shall have Configuration rollback features 
+51 
+The Switch shall support Real Time Telemetry 
+52 
+The Switch shall support Management over IPv6 
+53 The Total solution should come with all required feature licenses from first day of installation 
+54 
+Device Hardware, OS, optics, TAC support and NBD hardware replacement support should be quoted 
+from a single OEM. OEM should have 24x7 TAC support. 
+55 
+device should support Digital Optical Monitoring (DOM) 
+56 
+Device should support Environment Monitoring 
+57 
+All licences should be provided with the devices for the mentioned features. The licences should be 
+perpetual in nature or should be provided for 7yr on day-1 in case of subscription based licencing. 
+Hardware warranty 60 months. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 53 of 78 - 
+ 
+ 
+ 
+58 
+Device should support following safety and EMC Compliances: ; EAL/EAL2+/NDcPP/NIAP Common 
+Criteria Evaluation certificate (or) UL/CSA/IEC/EN 60950-1/FCC/CE 
+59 
+The Switch should support Link Aggregation Control Protocol (IEEE 802.3ad/802.1AX)   
+60 
+It should support clustering of two physical switches into a single logical unit. In this scenario, LACP 
+should be able to operate across both chassis, enabling link aggregation of interfaces physically 
+connected to separate switches. 
+ 
+Note:  
+1. The quoted L2/L3 Ethernet Switches shall be from an OEM having ISO 9001, ISO 14001, ISO 27001 
+& ISO 45001  certified manufacturing facilities.  
+2. The OEM shall comply with ISO/IEC 27001 for information security. 
+3. The offered switches must comply with TEC/MTCTE certification requirements and other 
+applicable Indian regulatory norms, including RoHS. 
+4. The switches shall support and comply with relevant IEEE standards, including but not limited to 
+802.3,802.1Q, 802.1p,802.1X,802.3ad,802.1AX, PoE standards (802.3af/at) for L2 switch. 
+5. The L2/L3 switches shall support reliable operation in outdoor environmental conditions. 
+6. Bidders are required to submit a compliance matrix for the L2/L3 switches, clearly indicating 
+compliance (Complied / Not Complied) against each technical parameter. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.3.3. 
+ Wireless Radio for Horizontal offices: 
+ 
+Sr. No 
+Specification 
+Wireless Radio 
+1 
+Should support communication requirement including voice, video, data applications 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 54 of 78 - 
+ 
+ 
+ 
+2 
+Should operate in 5.8GHz frequency band (ISM band) 
+3 
+Should support point-to-point mode 
+4 
+Should provide minimum throughput of 50Mbps 
+5 
+Should be able to connect locations at a distance of up to 30kms 
+6 
+Should support different type of antenna (Uni-directional, Omni-directional, Sectorial, etc.) 
+7 
+Should have 10/100 Base-Tx Ethernet interface to connect to WAN/LAN port 
+8 
+Should support 802.3u encoding 
+9 
+Should be manageable through Console, SNMP (v1, v2, v2c), Http/ssl. 
+10 
+Should support IPv6 from day 1 
+11 
+Should be discoverable in the existing NMS tool 
+12 
+The outdoor unit should be IP65 compliant 
+13 
+Operating Ambient Temperature: 0 to 55 ºC 
+The bidder has to take into consideration the internal temperature adjustment of the bracket/Enclosure and 
+other outdoor conditions at the location 
+14 
+Should have inbuilt surge protection mechanism 
+15 
+Should support traffic encryption 
+16 
+Should be WPC compliant / TEC approved at the time of bidding 
+ 
+ 
+5.3.4. 
+Transceiver/ Media Converter 
+ 
+(a) 
+1G SFP Transceiver Module Single Mode type for L2 switch: Small Form Factor Pluggable 
+module — 1000Base-LX module to support 1G speed over Single mode Fiber up to a 
+distance of 10 kms. The quoted SFP modules shall be fully compatible with the L2 switches 
+quoted under this Rate Contract. The offered modules must ensure seamless 
+interoperability, stability, and reliability, and must be proven for successful operation in 
+production environments in conjunction with the quoted L2 switches. 
+ 
+(b) 
+1G SFP Transceiver Module Multi Mode type for L2 switch: Small Form Factor Pluggable 
+module — 1000BASE-SX module to support 1G speed over Multi mode Fiber up to a 
+distance of 500 mts. The quoted SFP modules shall be fully compatible with the L2 
+switches quoted under this Rate Contract. The offered modules must ensure seamless 
+interoperability, stability, and reliability, and must be proven for successful operation in 
+production environments in conjunction with the quoted L2 switches. 
+ 
+(c) 
+1G SFP Transceiver Module Single Mode type for L3 switch: Small Form Factor Pluggable 
+module — 1000Base-LX module to support 1G speed over Single mode Fiber up to a 
+distance of 10 kms. The quoted SFP modules shall be fully compatible with the L3 switches 
+quoted under this Rate Contract. The offered modules must ensure seamless 
+interoperability, stability, and reliability, and must be proven for successful operation in 
+production environments in conjunction with the quoted L3 switches. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 55 of 78 - 
+ 
+ 
+ 
+ 
+(d) 
+1G SFP Transceiver Module Multi Mode type for L3 switch: Small Form Factor Pluggable 
+module — 1000BASE-SX module to support 1G speed over Multi mode Fiber up to a 
+distance of 500 mts. The quoted SFP modules shall be fully compatible with the L3 
+switches quoted under this Rate Contract. The offered modules must ensure seamless 
+interoperability, stability, and reliability, and must be proven for successful operation in 
+production environments in conjunction with the quoted L3 switches. 
+ 
+(e) 
+10G SFP+ Transceiver Module Single Mode type for L3 switch: 10G Small Form Factor 
+Pluggable Plus module — 10GBASE-LR module to support 10G speeds over Single mode 
+Fiber up to a distance of 10 kms. The quoted 10G SFP + modules shall be fully compatible 
+with the L3 switches quoted under this Rate Contract. The offered modules must ensure 
+seamless interoperability, stability, and reliability, and must be proven for successful 
+operation in production environments in conjunction with the quoted L3 switches. 
+ 
+(f) 
+10G SFP+ Transceiver Module Multiple Mode type for L3 switch: 10G Small Form Factor 
+Pluggable Plus  module — 10GBASE-SR module to support 10G speeds over Multi mode 
+Fiber up to a distance of 400 mtr. The quoted 10G SFP + modules shall be fully compatible 
+with the L3 switches quoted under this Rate Contract. The offered modules must ensure 
+seamless interoperability, stability, and reliability, and must be proven for successful 
+operation in production environments in conjunction with the quoted L3 switches. 
+(g) 
+10G SFP+ Transceiver Module Single Mode type for L2 switch: 10G Small Form Factor 
+Pluggable Plus module — 10GBASE-LR module to support 10G speeds over Single mode 
+Fiber up to a distance of 10 kms. The quoted 10G SFP + modules shall be fully compatible 
+with the L2 switches quoted under this Rate Contract. The offered modules must ensure 
+seamless interoperability, stability, and reliability, and must be proven for successful 
+operation in production environments in conjunction with the quoted L2 switches. 
+ 
+(h) 
+10G SFP+ Transceiver Module Multiple Mode type for L2 switch: 10G Small Form Factor 
+Pluggable Plus  module — 10GBASE-SR module to support 10G speeds over Multi mode 
+Fiber up to a distance of 400 mtr. The quoted 10G SFP + modules shall be fully compatible 
+with the L2 switches quoted under this Rate Contract. The offered modules must ensure 
+seamless interoperability, stability, and reliability, and must be proven for successful 
+operation in production environments in conjunction with the quoted L2 switches. 
+ 
+(i) 
+QSFP+ 40G Transceiver Module Single Mode type for L3 switch: 40G Quad Small Form 
+Factor Pluggable Plus module — 40GBASE-LR4 module to support 40G speeds over Single 
+mode Fiber up to a distance of 10 kms. The quoted 40G QSFP + modules shall be fully 
+compatible with the L3 switches quoted under this Rate Contract. The offered modules 
+must ensure seamless interoperability, stability, and reliability, and must be proven for 
+successful operation in production environments in conjunction with the quoted L3 
+switches. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 56 of 78 - 
+ 
+ 
+ 
+(j) 
+QSFP28 100G Transceiver Module Single Mode type for L3 switch: 100G Quad Small Form 
+Factor Pluggable 28 module — 100GBASE-LR4 module to support 100G speeds over Single 
+mode Fiber up to a distance of 10 kms. The quoted 100G QSFP28 modules shall be fully 
+compatible with the L3 switches quoted under this Rate Contract. The offered modules 
+must ensure seamless interoperability, stability, and reliability, and must be proven for 
+successful operation in production environments in conjunction with the quoted L3 
+switches. 
+(k) 
+Media Converter: For Multi-Mode Fiber (1000 Mbps) for 1 Port 
+• One RJ-45 1000 BASE-TX port ST or SC 1000 BASE-FX fiber port 
+• Data Transfer rate – 1000 Mbps Full Duplex 
+• Fiber Cable: 50 or 62.5/125 micron 
+• Cable Length: up to 550 MTR 
+• UTP Cable Type: Category 6 
+• Indicators: Power Indication, FX/RX Link Indication, UTP/RX Link Indication, 
+Full/Half Duplex Indication 
+• Compatibility: Standards IEEE 802.3 10Base-T, 802.3u 1000 Base-TX and 1000 
+Base-FX Protocol CSMA / CD Connection Specification: One RJ-45, ST or SC Option, 
+as required 
+ 
+(l) 
+Media Converter: For Single-mode Fiber (1000Mbps) for 1 port 
+• One RJ-45 1000 BASE-TX port ST or SC 1000 BASE-FX fiber port 
+• Data Transfer rate – 1000 Mbps Full Duplex 
+• Fiber Cable: 9/125 micron 
+• Cable Length:2 Km or above 
+• UTP Cable Type: Category 6 
+• Indicators: Power Indication, FX/RX Link Indication, UTP/RX Link Indication, 
+Full/Half Duplex Indication 
+• Compatibility: Standards IEEE 802.3 10Base-T, 802.3u 1000 Base-TX and 
+1000 Base-FX Protocol CSMA/ CD 
+• Connection Specification: One RJ-45, ST or SC Option, as required 
+ 
+5.3.5. 
+Voltage Stabilizer: 
+ 
+S/N 
+Parameter 
+Minimum Specification 
+1 
+Device capacity 
+400VA 
+2 
+Voltage Correction 
+Automatic, IC Controlled 
+3 
+Input Voltage Range 
+130 V to 280 V 
+4 
+Frequency Range 
+50 Hz +/- 5 % 
+5 
+Output Voltage Range 
+200 V to 230 V, +/-5 % 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 57 of 78 - 
+ 
+ 
+ 
+6 
+Efficiency 
+> 95% 
+7 
+Protection/Cut off 
+Over Voltage and over Current Protection, Thermal and Electronic Overload 
+8 
+Device Construction 
+Compact and modular construction for easy handling and servicing 
+9 
+Power Outlets 
+4 Nos. 5 Amp Indian Standard Power Outlets 
+10 
+Operating Temperature 
+0-55 ° C. The bidder has to take into consideration of the internal temperature 
+adjustment of the junction box 
+11 
+Status Display/ Indicator 
+Should display status of device like on/off, Low-high voltage indicator 
+ 
+ 
+5.3.6. 
+Surge Protector:  
+ 
+S/N 
+Parameter 
+Minimum Specification 
+1 
+Clamping Voltage 
+240 V 
+2 
+Response time 
+<10 ns 
+3 
+Energy Dissipation 
+Min 500 joules 
+4 
+Max voltage Spike protection 
+Up to 400 Volts 
+5 
+Max current Spike Protection 
+5000 Amps 
+6 
+Cable 
+Heavy duty Cable of standard Length 
+7 
+Power Outlet 
+Min. 4 Nos. 5 Amp Indian Standard Power Outlets 
+8 
+Operating Temperature 
+0-55 ° C. The bidder has to take into consideration of theinternal 
+temperature adjustment of the junction box 
+ 
+5.3.7. 
+Ethernet Surge Arrestor 
+ 
+Sr. No. 
+Parameter 
+Minimum Specification 
+1 
+Application 
+Protection of Ethernet data lines and PoE power lines for PoE-
+powered devices 
+2 
+Supported PoE Standards 
+IEEE 802.3af / IEEE 802.3at  
+3 
+Ethernet Interface 
+10/100/1000 Mbps (Gigabit Ethernet) 
+4 
+PoE Operating Voltage 
+Minimum 60 V DC or higher (polarity independent) 
+5 
+Protection Mode 
+Line-to-ground protection for all Ethernet pairs 
+6 
+Clamping Voltage 
+≤ 90 V (line-to-ground) 
+7 
+Response Time 
+< 1 nanosecond 
+8 
+Insertion Loss 
+≤ 0.3 dB 
+9 
+Maximum Data Throughput 
+Non-blocking, transparent to PoE and data traffic 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 58 of 78 - 
+ 
+ 
+ 
+10 
+Grounding 
+Dedicated grounding / earthing terminal provided 
+11 
+Installation Type 
+Inline or DIN-rail mountable 
+12 
+Environmental Protection 
+Indoor installation and/or Outdoor installation with minimum 
+IP65 rating (as applicable) 
+13 
+Operating Temperature 
+–40°C to +75°C 
+14 
+Application Scope 
+Suitable for IP phones, Wi-Fi 6 access points, IP cameras, and 
+other PoE devices 
+15 
+Quantity Requirement 
+One surge arrestor per Ethernet cable run for each outdoor or 
+exposed PoE device 
+16 
+Accessories 
+Supplied with all required mounting hardware and grounding 
+accessories 
+17 
+Standards Compliance 
+Compliance with relevant IEC / IEEE / international surge 
+protection standards 
+18 
+OEM Requirement 
+Product shall be from a reputed OEM; new and unused 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section – 6 TECHNICAL BID FORMAT: 
+ 
+Note: 
+ 
+The bidder has to upload/attach/submit a file as per below format along with relevant brochures 
+mentioning the item quoted, its make and model and Deviation/ Remarks (if any) as per 
+specifications mentioned in Section 5. 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 59 of 78 - 
+ 
+ 
+ 
+S/N 
+Item Description 
+Unit 
+Make and 
+Model 
+Matched/ 
+Not Matched 
+Deviation/ 
+Remarks If 
+any 
+Brochures/ 
+Supporting 
+Document 
+Attached 
+(Yes/No) 
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+3 
+  
+  
+  
+  
+  
+  
+4 
+  
+  
+  
+  
+  
+  
+5 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ Important Note: Immediate temporary Replacement of faulty equipment/s need to be provided to 
+end-users during the period of repair without any additional cost to Govt. of Gujarat. Bidder is 
+required to maintain sufficient spare inventory for the above purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 60 of 78 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section – 7: FINANCIAL BID FORMAT 
+ 
+S/N 
+Item Description 
+Total Price 
+(without Tax) 
+A 
+OFC Cabling (Including Civil work and Accessories line) (items 1 to 26 
+mentioned in  Annexure- III ) 
+  
+B 
+LAST MILE EQUIPMENTS (line items 27 to 44 mentioned in Annexure- III ) 
+  
+C 
+REPAIRING WORK along (line items 45 to 52 mentioned in Annexure- III ) 
+  
+D 
+STRUCTURED CABLING and ACCESSORIES (line items 53 to 68 mentioned in 
+Annexure- III ) 
+  
+E 
+RF Connectivity (installation and commissioning (line items 69 to 73 
+mentioned in Annexure- III ) 
+  
+Total (for all the line item)(with taxes) 
+  
+*(Amount in Rs. and without tax) 
+ 
+ 
+Special Terms and Conditions 
+ 
+ 
+ 
+1. Approval / Clearance: 
+1.1 
+Necessary approvals/ clearances from concerned authorities, for establishing the 
+proposed project are to be obtained by the bidder. 
+1.2 
+Necessary approvals/ clearances, from concerned authorities (like City Nagar, Nigam, 
+Public Works Department (PWD), Department of Irrigation, State Electricity Board, Fire 
+Department etc. for “Right of way”), as required, are to be obtained by the bidder for 
+laying their own cables to meet system requirements and Bidder will have to incur the 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 61 of 78 - 
+ 
+ 
+ 
+actual expenses for getting the RoW permission. 
+2. Contract Period: This contract is valid for an initial period of three years. Upon completion, 
+DST/GIL may consider extending the contract for an additional two years based on the bidder’s 
+performance. A total upward price revision of 5% shall be allowed for the extension period. 
+3. Work Order: Quantity mentioned in the financial Bid is notional value. DST/GIL will issue Work 
+Order (Off‐line) based on the actual requirement during the contract period. 
+4. All the bidders shall submit their offer as per the price bid and financial evaluation will be carried 
+out accordingly to identify the L1 bidder. 
+5. Selection of L1 bidder: The Criteria for selection will be the lowest cost to the TENDERER 
+i.e. Sum total of all the line items without taxes for the qualified bid. TENDERER/GIL may negotiate 
+the prices with L1 Bidder, under each item/head offered by Bidder. The negotiated percentage 
+will be considered against each line item and bidder has to submit accordingly price list of all line 
+item. 
+6. L1 bidder must have to submit price against each line item as mentioned under Annexure III 
+before RA and after negotiation with L1 bidder. 
+7. Any Bidder I.e. N-1 (N=Total No of qualified bidder) who agrees to match this L1 negotiated rates 
+will be empaneled for the contract duration. The work will be awarded on round robin basis 
+according to the allocated work completion pendency. 
+8. The existing GSWAN O&M agency shall not be eligible to participant under this RFP/BID. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 62 of 78 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section – 8 Format/Forms 
+ 
+Annexure A 
+ 
+On letterhead of Bidder 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a land 
+border with India. I certify that we as a bidder and quoted product from following OEMs are not from such a 
+country or, if from such a country, these quoted products OEM has been registered with competent authority. I 
+hereby certify that these quoted product & its OEM fulfills all requirements in this regard and is eligible to be 
+considered for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence for 
+valid registration by the competent authority, otherwise GIL/End user Dept. reserves the right to take legal action 
+on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 63 of 78 - 
+ 
+ 
+ 
+Annexure B 
+ 
+On letterhead of OEM 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a land 
+border with India. I certify that our quoted product and our company are not from such a country, or if from such 
+a country, our quoted product and our company have been registered with competent authority. I hereby certify 
+that these quoted product and our company fulfills all requirements in this regard and is eligible to be considered 
+for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence for 
+valid registration by the competent authority; otherwise GIL/End user Dept. reserves the right to take legal action 
+on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 64 of 78 - 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE ‐ I 
+ 
+Bid Processing Fees and Earnest Money Deposit Details 
+ 
+Sr. 
+Item 
+Amount (In) 
+Name of the Bank  and 
+Demand Draft 
+1 Earnest Money Deposit (E.M.D.) 
+  
+  
+  
+ 
+ 
+ANNEXURE ‐ II 
+ 
+Form No. E1 Experience in supply, installation commissioning and maintenance of the similar Systems 
+ 
+ 
+Name of the Bidder: 
+Sr. 
+No. 
+Name of Organization 
+Address of 
+the 
+installation 
+Start date 
+of the 
+project 
+Completion 
+Date of the 
+Project 
+Scope of 
+the 
+work. 
+Also 
+specify 
+the 
+system 
+installed 
+Specify No. 
+of Active 
+and Passive 
+Components 
+Value 
+of the 
+project 
+in 
+Rupees 
+1 
+  
+  
+  
+  
+  
+  
+  
+2   
+  
+  
+  
+  
+  
+  
+3   
+  
+  
+  
+  
+  
+  
+4   
+  
+  
+  
+  
+  
+  
+5   
+  
+  
+  
+  
+  
+  
+Note: Please attach purchase order/ contract agreement and completion certificate for each of project details 
+mentioned 
+ 
+ 
+Form no. E2 
+Authorization Letters 
+ 
+ 
+Sr.No. 
+Item 
+Make and Model 
+Name of OEM 
+Authorization letter attached? (Yes/No) 
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+3 
+  
+  
+  
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 65 of 78 - 
+ 
+ 
+ 
+ 
+Form no. E3 
+Manpower Details 
+ 
+ 
+Sr. 
+No. 
+Name 
+Date of 
+Joining 
+P.F. No./ ESIC 
+No. 
+Education 
+Qualification 
+Experience 
+Details 
+with 
+1 
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+3 
+  
+  
+  
+  
+  
+4 
+  
+  
+  
+  
+  
+5 
+  
+  
+  
+  
+  
+6 
+  
+  
+  
+  
+  
+7 
+  
+  
+  
+  
+  
+8 
+  
+  
+  
+  
+  
+9 
+  
+  
+  
+  
+  
+10 
+  
+  
+  
+  
+  
+Note: attach the necessary supporting proof/document for above details. 
+ 
+ 
+Form no. E4 
+Office in GUJARAT 
+ 
+Sr. No. 
+Address 
+Contact Person 
+Contact nos. 
+Type of 
+supporting 
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+Note: You may mention more than one office (if applicable)  
+ 
+ 
+Form no. E5 
+OEM Service Centers Detail 
+ 
+Sr. No. 
+Address 
+Contact Person 
+Contact nos. 
+Type of 
+supporting 
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+3 
+  
+  
+  
+  
+Note: You have to mention minimum 3 authorized service centers as per eligibility criterion. You may  add more 
+service centers (if applicable)  
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 66 of 78 - 
+ 
+ 
+ 
+ 
+Form No. E6 Bidder Turnover 
+ 
+Financial Year 
+Annual Turn Over 
+Related Annual 
+turnover (as 
+per eligibility 
+Criteria) 
+Audited 
+Accounts 
+submitted? 
+(Yes/No) 
+2022‐2023 
+  
+  
+  
+2023‐2024 
+  
+  
+  
+2024-2025 
+  
+  
+  
+Note: Please fill this form and attach the audited Annual Accounts for the last three financial years. (bidder 
+have to submit CA certificate for the same) 
+ 
+Form no. E7 ISO 9001, ISO 14001, ISO 27001 & ISO 45001  certification for Manufacturing 
+ 
+Sr. No. 
+Item 
+Make and 
+Model 
+Name of OEM 
+ISO certification 
+valid up to 
+ISO certification 
+attached? 
+(Yes/No) 
+1 
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+3 
+  
+  
+  
+  
+  
+4 
+  
+  
+  
+  
+  
+5 
+  
+  
+  
+  
+  
+6 
+  
+  
+  
+  
+  
+7 
+  
+  
+  
+  
+  
+ 
+Form no. E8 Check list for FAT (Final Acceptance Test) 
+ 
+Sr. No. 
+Item 
+Remarks 
+1 
+Device Should be configured as per GOG instruction. 
+  
+2 
+Numbering / tagging 
+  
+3 
+Site Drawing 
+  
+4 
+Network Layout 
+  
+5 
+Site Survey Report 
+  
+6 
+Bill of Materials details 
+  
+7 
+Customer Site completion report. 
+  
+8 
+Cable Route path 
+  
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 67 of 78 - 
+ 
+ 
+ 
+Format: For MAF / OEM Authorization. 
+ 
+ 
+No. __________________ dated ___________________ 
+ 
+ 
+To 
+_____________________________ 
+_____________________________ 
+_______________________________ 
+Ref: Tender No. ________________ 
+Subject: ___________________________________________________________________ 
+Dear Sir, 
+We, 
+___________________________________________________________________ 
+who 
+are 
+established and reputed Manufacturers of ___________________________________________ 
+_______ having factories at ___________________________________________________________ 
+________________________________________________(address of factory) do hereby authorize 
+M/s._____________________________________________________________________________ 
+______________(Name & Address of agent) to submit a bid, and sign the contract with you against 
+above mentioned tender No: ____________________________________. 
+ 
+We authorized the ________ (name of the bidder) for the following modules/products: 
+ 
+Sr. No. 
+Product Name 
+Make & Model 
+1 
+  
+  
+2 
+  
+  
+3 
+  
+  
+ 
+We hereby confirm that the offered Product in the referenced RFP will be provided unconditionally 
+with a back to back warranty, maintenance, support services and parts availability etc. for proposed 
+product etc. available for the period of five years from FAT through M/s___________________ 
+(SI/Bidder). 
+ 
+ 
+ 
+ 
+Yours faithfully, 
+(Name) 
+(Name of manufacturers) 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 68 of 78 - 
+ 
+ 
+ 
+Form1-: Format of Earnest Money Deposit in the form of Bank Guarantee 
+Ref: 
+Bank Guarantee No. 
+Date: 
+ 
+To, 
+GM (Networking) 
+Gujarat Informatics Limited Block 
+‐2, 2nd Floor, Karmyogi 
+Bhavan,Sector – 10A, Gandhinagar ‐ 382010 
+Gujarat, India 
+ 
+ 
+Whereas  ------------------------------------------------------------  (here  in  after  called  "the  Bidder")  has 
+submitted its bid dated ---------------- in response to the RFP no: 
+  
+for Rate Contract for cabling work and Local Area 
+Network (including internal office LAN) on TurnKey basis and Supply, Installation and Commissioning 
+of Last Miles Equipments for Government Offices in the State of Gujarat on behalf of Department of 
+Science and Technology, Government of Gujarat KNOW ALL MEN by these presents that WE 
+ 
+ 
+having our registered office at 
+- 
+ 
+(hereinafter 
+called "the Bank") are bound unto the 
+ 
+, Gujarat Informatics Limited in the sum of 
+---------------------- for which payment well and truly to be made to Gujarat Informatics Limited , the 
+Bank binds itself, its successors and assigns by these presents. Sealed with the Common Seal of the 
+said Bank this --------------day of---------------------------------2024. 
+ 
+THE CONDITIONS of this obligation are: 
+1. The E.M.D. may be forfeited: 
+a. if a Bidder withdraws its bid during the period of bid validity 
+b. Does not accept the correction of errors made in the tender document; 
+c. In case of a successful Bidder, if the Bidder fails: 
+(i) To  sign  the  Contract  as  mentioned  above  within  the  time  limit  stipulated  by 
+purchaser or 
+(ii) To furnish performance bank guarantee as mentioned above or 
+(iii) If the bidder is found to be involved in fraudulent practices. 
+(iv) If the bidder fails to submit the copy of purchase order and acceptance thereof. 
+We undertake to pay to the GIL/Purchaser up to the above amount upon receipt of its first written 
+demand, without GIL/ Purchaser having to substantiate its demand, provided that in its demand 
+GIL/ Purchaser will specify that the amount claimed by it is due to it owing to the occurrence of any 
+of the abovementioned conditions, specifying the occurred condition or conditions. 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 69 of 78 - 
+ 
+ 
+ 
+This guarantee will remain valid up to 9 months from the last date of bid submission. The Bank 
+undertakes not to revoke this guarantee during its currency without previous consent of the 
+OWNER/PURCHASER and further agrees that if this guarantee is extended for a period as mutually 
+agreed between bidder and owner/purchaser, the guarantee shall be valid for a period so extended 
+provided that a written request for such extension is received before the expiry of validity of 
+guarantee. 
+ 
+The Bank shall not be released of its obligations under these presents by any exercise by the 
+OWNER/PURCHAER of its liability with reference to the matters aforesaid or any of them or by 
+reason or any other acts of omission or commission on the part of the OWNER/PURCHASER or any 
+other indulgence shown by the OWNER/PURCHASER or by any other matter or things. 
+ 
+The Bank also agree that the OWNER/PUCHASER at its option shall be entitled to enforce this 
+Guarantee against the Bank as a Principal Debtor, in the first instance without proceeding against 
+the SELLER and not withstanding any security or other guarantee that the OWNER/PURCHASER may 
+have in relation to the SELLER’s liabilities. 
+ 
+Dated at 
+on this 
+day of 
+2024. 
+ 
+ 
+ 
+ 
+Signed and delivered by 
+ 
+ 
+ 
+For and on Behalf of 
+ 
+ 
+ 
+Name of the Bank and Branch and 
+its official Address 
+ 
+ 
+Approved Bank: All Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co‐Operative and Rural Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. no. FD/MSM/e‐file/4/2023/0057/DMO dated 
+21.04.2023 along with its earlier referenced GRs issued by Finance Department time to time or 
+further instruction issued by Finance department time to time. 
+ 
+ 
+ 
+ 
+ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 70 of 78 - 
+ 
+ 
+ 
+Form-2: Performa of Compliance letter/Authenticity of Information Provided 
+ 
+(On Non judicial Stamp paper of Rs. 300 duly attested by the First-class Magistrate/Notary Public) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 
+To, 
+General Manager (Networking) 
+Gujarat Informatics Ltd. 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, 
+Sector 10A, Gandhinagar – 382 010 
+ 
+Sub: Compliance with the Tender Terms & Conditions, Specifications and Eligibility Criteria. 
+ 
+Ref: 
+Tender No XXXXX 
+ 
+Dear Sir, 
+ 
+With reference to above referred tender, I, undersigned <<Name of Signatory>>, in the capacity of 
+<<Designation of Signatory>>, is authorized to give the undertaking on behalf of <<Name of the 
+bidder>>. 
+ 
+We wish to inform you that we have read and understood the technical specification and total 
+requirement of the above-mentioned bid submitted by us on DD.MM.YYYY. 
+ 
+We hereby confirm that all our quoted items meet or exceed the requirement and are absolutely 
+compliant with specifications mentioned in the bid document.  
+ 
+We also explicitly understand that all quoted items meet technical specification of the bid & that such 
+technical specification overrides the brochures/standard literature if the same contradicts or is absent 
+in brochures. 
+ 
+In case of breach of any tender terms and conditions or deviation from bid specification other than 
+already specified as mentioned above, the decision of GIL Tender Committee for disqualification will be 
+accepted by us. 
+ 
+The Information provided in our submitted bid is correct. In case any information provided by us are 
+found to be false or incorrect, you have right to reject our bid at any stage including forfeiture of our 
+EMD/ PBG/cancel the award of contract. In this event, GIL reserves the right to take legal action on us. 
+ 
+Thanking you, 
+Dated this _________ day of____________2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signature: ______________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+(In the Capacity of) :______________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+Duly authorized to sign bid for and on behalf of 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________ 
+ 
+Note: This form should be signed by authorized signatory of bidder   
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 71 of 78 - 
+ 
+ 
+ 
+Form-3: Performa of Contract-cum-Equipment Performance Bank Guarantee 
+(To be stamped in accordance with Stamp Act) 
+ 
+ 
+ 
+ 
+Ref: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank Guarantee No. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 
+ 
+To 
+Name & Address of the Purchaser/Indenter 
+____________________________ 
+ 
+____________________________ 
+ 
+Dear Sir, 
+ 
+In consideration of <<Name & Address of the Purchaser/Indenter, Government of Gujarat, 
+Gandhinagar>> (hereinafter referred to as the OWNER/PURCHASER which expression shall unless 
+repugnant to the context or meaning thereof include successors, administrators and assigns) having 
+awarded to M/s. …………….……………………………………………………………………… …………………….. having 
+Principal Office at ……………………………………………………… (herein after referred to as the “SELLER” which 
+expression shall unless repugnant to the context or meaning thereof include their respective 
+successors, administrators, executors and assigns) the supply of ____________________by issue of 
+Purchase Order No………………. Dated ………… issued by Gujarat Informatics Ltd. ,Gandhinagar for and on 
+behalf of the OWNER/PURCHASER and the same having been accepted by the SELLER resulting into 
+CONTRACT for  supplies of materials/equipments as mentioned in the said purchase order and the 
+SELLER having agreed to provide a Contract Performance and Warranty Guarantee for faithful 
+performance of the aforementioned contract and warranty quality to the OWNER/PURCHASER, 
+__________________________________having Head Office at (hereinafter referred to as the ‘Bank’ 
+which expressly shall, unless repugnant to the context or meaning thereof include successors, 
+administrators, executors and assigns) do hereby guarantee to undertake to pay the sum of 
+Rs._______________(Rupees________________________) to the OWNER/PURCHASER on demand at 
+any time up to________________ without a reference to the SELLER.  Any such demand made by the 
+OWNER/PURCHASER on the Bank shall be conclusive and binding notwithstanding any difference 
+between Tribunals, Arbitrator or any other authority. 
+ 
+The Bank undertakes not to revoke this guarantee during its currency without previous consent of the 
+OWNER/PURCHASER and further agrees that the guarantee herein contained shall continue to be 
+enforceable till the OWNER/PURCHASER discharges this guarantee.  OWNER/PURCHASER shall have 
+the fullest liberty without affecting in any way the liability of the Bank under this guarantee from time 
+to time to extend the time for performance by the SELLER of the aforementioned CONTRACT.  The 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 72 of 78 - 
+ 
+ 
+ 
+OWNER/ PURCHASER shall have the fullest liberty, without affecting this guarantee, to postpone from 
+time to time the exercise of any powers vested in them or of any right which they might have against 
+the SELLER, and to exercise the same at any time in any manner, and either to enforce to forebear to 
+enforce any covenants contained or implied, in the aforementioned CONTRACT between the 
+OWNER/PURCHASER and the SELLER or any other course of or remedy or security available to the 
+OWNER/PURCHASER. 
+ 
+The Bank shall not be released of its obligations under these presents by any exercise by the 
+OWNER/PURCHAER of its liability with reference to the matters aforesaid or any of them or by reason 
+or any other acts of omission or commission on the part of the OWNER/PURCHASER or any other 
+indulgence shown by the OWNER/PURCHASER or by any other matter or things. 
+ 
+The Bank also agree that the OWNER/PUCHASER at its option shall be entitled to enforce this Guarantee 
+against the Bank as a Principal Debtor, in the first instance without proceeding against the SELLER and 
+not withstanding any security or other guarantee that the OWNER/PURCHASER may have in relation to 
+the SELLER’s liabilities. 
+ 
+Notwithstanding anything contained herein above our liability under this Guarantee is restricted to Rs. 
+_________________ (Rupees _________________________) and it shall remain in force up to and 
+including ________________ and shall be extended from time to time for such period as may be desired 
+by the SELLER on whose behalf this guarantee has been given. 
+ 
+Dated at _______________ on this _________ day of ___________2025. 
+ 
+ 
+_____________________ 
+Signed and delivered by 
+ 
+_____________________ 
+   
+For & on Behalf of  
+ 
+ 
+Name of the Bank & Branch & 
+Its official Address 
+ 
+ 
+ 
+ 
+ 
+ 
+List of approved Banks 
+ 
+Approved Bank: All Nationalized Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative & Rural Banks (operating in India having branch at Ahmedabad/ 
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 73 of 78 - 
+ 
+ 
+ 
+Gandhinagar) as per the G.R. no. EMD/4/2022/0002/DMO dated 20.05.2022 issued by Finance 
+Department or further instruction issued by Finance department time to time  
+ 
+ 
+ 
+#Financial breakup 
+Annexure- III ‐ financial breakup of each line items 
+S/ N 
+Item Description 
+Make 
+& 
+Model 
+UoM 
+Quantity 
+Unit 
+Price 
+Total 
+Price 
+(without 
+Tax) 
+Rate 
+of 
+GST 
+in % 
+A 
+B 
+C 
+D 
+E 
+F 
+G=(E*F) 
+H 
+I 
+OFC Cabling (Including Civil work and Accessories) 
+# 
+Supply of single mode armored OFC  
+cable (UA ‐ Loose Tube Multi tube) (Unit 
+price should Inclusive of all the required line 
+items like Fiber Cost, Labour charges, 
+digging/laying, HDP pipe, RCC half- round 
+pipe, Route-marker/Indicator (Iron Made 
+with Reflective Painting with Min. height of 
+1ft) and any other item, if any as per the 
+Specification in this RFP) 
+  
+1 
+6 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+2 
+12 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+3 
+24 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+4 
+48 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+5 
+6  F  SM  OFC  TERMINATION  (Single  END) 
+Including   Rack   mount/Wall   mount   LIU-/ 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+FC/ST/SC to SC/LC/ST/FC (3 Nos.)/With 
+proper tagging and Identification of OFC 
+  
+No 
+1 
+  
+  
+  
+6 
+12 F SM OFC TERMINATION (Single END) 
+Including Rack mount/Wall mount LIU - / 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+FC/ST/SC to SC/LC/ST/FC (6 Nos.) / With 
+proper tagging and Identification of OFC 
+  
+No 
+1 
+  
+  
+  
+7 
+24 F SM OFC TERMINATION (Single END) 
+Including Rack mount/Wall mount LIU - / 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+  
+No. 
+1 
+  
+  
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 74 of 78 - 
+ 
+ 
+ 
+FC/ST/SC to SC/LC/ST/FC (12 Nos.) / With 
+proper tagging and Identification of OFC 
+8 
+48 F SM OFC TERMINATION (Single END) 
+Including rack mount/wall mount LIU - / 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+FC/ST/SC to SC/LC/ST/FC (24 Nos) / With 
+proper tagging and Identification of OFC 
+  
+No. 
+1 
+  
+  
+  
+# 
+Supply of multi-mode armored OFC 
+Cable (UA ‐ Loose Tube Multi tube) (Unit 
+price should Inclusive of all the required line 
+items like Fiber Cost, Labour charges, 
+digging/laying, HDP pipe, RCC half- round  
+pipe,  Route-marker/Indicator  (Iron Made 
+with Reflective Painting with Min. height of 
+1ft) and any other item, if any as per the 
+Section-5 (Specification) of this RFP) 
+  
+9 
+6 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+10 
+12 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+11 
+24 Core 
+  
+Mtr. 
+1 
+  
+  
+  
+12 
+48 Core 
+  
+Mtr 
+1 
+  
+  
+  
+13 
+6 F MM OFC TERMINATION (Single END) 
+Including rack mount/wall mount LIU - / 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+FC/ST/SC to SC/LC/ST/FC (3 Nos.) / With 
+proper tagging and Identification of OFC 
+  
+Nos 
+1 
+  
+  
+  
+14 
+12 F MM OFC TERMINATION (Single  END) 
+mount/wall mount LIU - / PIGTAILS-LC Type / 2 
+MTR 
+Duplex 
+Patch 
+Cord 
+FC/ST/SC 
+to 
+SC/LC/ST/FC (6 Nos.) / With proper  tagging  
+and  Identification  of Including rack OFC 
+  
+Nos 
+1 
+  
+  
+  
+15 
+24 F MM OFC TERMINATION (Single  END) 
+Including rack mount/wall mount LIU - / 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+FC/ST/SC to SC/LC/ST/FC (12 Nos.) / With 
+proper  tagging  and  Identification  of OFC 
+  
+Nos. 
+1 
+  
+  
+  
+16 
+48 F MM OFC TERMINATION (Single  END) 
+Including rack mount/wall mount LIU - / 
+PIGTAILS-LC Type / 2 MTR Duplex Patch Cord 
+FC/ST/SC to SC/LC/ST/FC (24 Nos.) / With 
+proper  tagging  and  Identification  of OFC 
+  
+Nos. 
+1 
+  
+  
+  
+17 
+Fiber to Fiber splicing, jointing and testing 
+  
+Nos. 
+1 
+  
+  
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 75 of 78 - 
+ 
+ 
+ 
+18 
+Horizontal Boring for Road Crossing for laying 
+OFC as per Guide lines mentioned in section 
+5. (Digging at 1.65 Mtrs. ) 
+  
+Mtr. 
+1 
+  
+  
+  
+19 
+Laying of Optical fiber cable in HDPE pipe duly 
+fixed on Wall including testing. 
+  
+Mtr 
+1 
+  
+  
+  
+20 
+Supply and Termination of Single Mode 
+Pigtails (LC/SC Type) Inclusive of all (Materail, 
+Labour etc..) 
+  
+Nos 
+1 
+  
+  
+  
+21 
+Supply and Termination of Multi-Mode 
+Pigtails (LC/SC Type) Inclusive of all (Material, 
+Labour etc…) 
+  
+Nos 
+1 
+  
+  
+  
+22 
+Fiber to Fiber splicing and testing including all 
+accessories, manpower etc 
+  
+Nos. 
+1 
+  
+  
+  
+23 
+Supply and Installation of Fiber Patch Cord 
+FC/ST/SC to SC/LC/ST/FC Patch cord for 
+Multimode Fiber Duplex 
+  
+Per 3 
+Mtr. 
+1 
+  
+  
+  
+24 
+Supply and Installation of Fiber Patch Cord 
+FC/ST/SC to SC/LC/ST/FC Patch cord for Single 
+Mode Fiber Duplex 
+  
+Per 3 
+Mtr. 
+1 
+  
+  
+  
+25 
+Supply and Installation of Fiber Patch Cord 
+FC/ST/SC to SC/LC/ST/FC Patch cord for 
+Multimode Fiber Duplex 
+  
+Per 5 
+Mtr. 
+1 
+  
+  
+  
+26 
+Supply and Installation of Fiber Patch Cord 
+FC/ST/SC to SC/LC/ST/FC Patch cord for Single 
+Mode Fiber Duplex 
+  
+Per 5 
+Mtr. 
+1 
+  
+  
+  
+II 
+LAST MILE EQUIPMENTS 
+  
+i 
+Transceiver/media converter (as per the specification mentioned in section -5) 
+  
+27 
+1G SFP Modules for L2 switch– Single mode 
+Fiber up to a distance of 10kms 
+  
+Nos 
+1 
+  
+  
+  
+29 
+1G SFP Modules for L2 switch – Multimode 
+Fiber up to a distance of 500 mtr 
+  
+Nos 
+1 
+  
+  
+  
+30 
+1G SFP Modules for L3 switch– Single mode 
+Fiber up to a distance of 10kms 
+  
+Nos 
+1 
+  
+  
+  
+31 
+10G SFP+ Modules for L3 switch – Single 
+mode Fiber up to a distance of 10kms 
+  
+Nos 
+1 
+  
+  
+  
+32 
+1G SFP Modules for L3 switch – Multimode 
+Fiber up to a distance of 500 mtr 
+  
+Nos 
+1 
+  
+  
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 76 of 78 - 
+ 
+ 
+ 
+33 
+10G SFP+ Modules for L3 switch – Multimode 
+Fiber up to a distance of 400 mtr 
+  
+Nos 
+1 
+  
+  
+  
+34 
+QSFP+ 40G Single Mode transceiver for L3 
+Switch- Quad Small form factor module plus, 
+should support distance upto 10 kms. 
+  
+Nos 
+1 
+  
+  
+  
+35 
+QSFP28 100G Single mode transceiver for L3 
+Switch - Quad Small form factor module 28, 
+should support distance upto 10 Kms. 
+  
+Nos 
+1 
+  
+  
+  
+36 
+RJ-45 port (1000 Base TX) 1000 Mbps Media 
+Converter 1000 BaseFx fiber port for multi 
+mode Fiber, as per the specification 
+mentioned in section -5 
+  
+Nos 
+1 
+  
+  
+  
+37 
+RJ-45 port (1000 Base TX) 1000 BaseFX fiber 
+port for single mode Fiber Media converter, 
+as per the specification mentioned in section -
+5 
+  
+Nos 
+1 
+  
+  
+  
+38 
+10G SFP+ Modules for L2 switch – Single 
+mode Fiber up to a distance of 10kms 
+ 
+Nos 
+1 
+ 
+ 
+ 
+39 
+10G SFP+ Modules for L2 switch – Multimode 
+Fiber up to a distance of 400 mtr 
+ 
+Nos 
+1 
+ 
+ 
+ 
+Ii 
+Network Switches 
+  
+40 
+8 Port Manageable Gigabit Ethernet Switch 
+(as per Specifications mentioned in section 5) 
+  
+Nos 
+1 
+  
+  
+  
+41 
+16 Port 10/100/1000 Mbps POE Ethernet 
+Switch (as per Specifications mentioned in 
+section 5) 
+  
+Nos 
+1 
+  
+  
+  
+42 
+24 Port 10/100/1000 Mbps POE Ethernet 
+Switch (as per Specifications mentioned in 
+section 5) 
+  
+Nos 
+1 
+  
+  
+  
+43 
+48 Port 10/100/1000 Mbps POE Ethernet 
+Switch (as per Specifications mentioned in 
+section 5) 
+  
+Nos 
+1 
+  
+  
+  
+44 
+24 Port Fiber L3 switch (As per Specifications 
+mentioned in section 5) 
+  
+Nos 
+1 
+  
+  
+  
+III 
+REPAIRING WORK 
+  
+45 
+Replacement of  faulty  power  adaptor  for 
+Transceivers 
+  
+Unit 
+1 
+  
+  
+  
+46 
+Removal of old cabling works including buy- 
+back of material retrieved 
+  
+Mtr 
+1 
+  
+  
+  
+47 
+I/o Box for CAT-6A Cable 
+  
+Nos 
+1 
+  
+  
+  
+48 
+Cashing Patti-32MM 
+  
+Mtr 
+1 
+  
+  
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 77 of 78 - 
+ 
+ 
+ 
+49 
+Cashing Patti-50MM 
+  
+Mtr 
+1 
+  
+  
+  
+50 
+Restructure of  Cabling  Including  Removal 
+and refixation /installation 
+  
+Mtr 
+1 
+  
+  
+  
+51 
+OFC terminating blocks rack mounted/ wall 
+mounted LIU (Supply, Installation and 
+termination) 
+  
+Nos. 
+1 
+  
+  
+  
+52 
+CAT 6A LAN Cable inclusive of supply, laying 
+etc. 
+  
+Mtr 
+1 
+  
+  
+  
+IV 
+STRUCTURED CABLING and ACCESSORIES 
+  
+I 
+Structured CAT 6 LAN cabling work (including 
+Supply, installation and Termination of 
+CAT6Acables, PVC flexible Pipes and 
+accessories, RJ45 termination at work station 
+along with I/O boxes, Face Plates, Casing and 
+Capping, conduits and concealed as per site 
+requirement, RJ-45/RJ-11 Connector and 
+configuring node in network) 
+  
+53 
+Single user end point 
+  
+Per 
+User 
+End 
+point 
+1 
+  
+  
+  
+54 
+Single user end point with concealed cabling 
+(as mentioned in scope of work) 
+  
+Per 
+User 
+End 
+point 
+1 
+  
+  
+  
+Ii 
+Patch Panel (Supply, Installation and 
+Termination) CAT-6A 
+  
+55 
+24 Port 
+  
+Nos 
+1 
+  
+  
+  
+56 
+12 Port 
+  
+Nos 
+1 
+  
+  
+  
+Iii 
+RACKS (Supply, Installation and Termination) 
+(Certifications like ISO 14001: 2004 and ISO 
+9001: 2008 (All rack should be supplied with 
+6 socket AC power distribution unit, 4 Fan 
+for cooling and 1U cable manager) 
+  
+57 
+19” 6U Wall Mount / floor mountable MS 
+Rack (Supply, Installation and Termination 
+with 600mm or more depth) 
+  
+Nos 
+1 
+  
+  
+  
+58 
+19” 12U Wall Mount / floor mountable MS 
+Rack (Supply, Installation and Termination 
+with 600mm or more depth) 
+  
+Nos 
+1 
+  
+  
+  
+59 
+19” 19U floor standing MS Rack (Supply, 
+Installation and Termination with 600mm or 
+more depth) 
+  
+Nos 
+1 
+  
+  
+  
+
+
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+- 78 of 78 - 
+ 
+ 
+ 
+Iv 
+Supply of CAT-6A cable Patch Cord with RJ‐
+45 at both end 
+  
+60 
+1 Mtr each 
+  
+Nos 
+1 
+  
+  
+  
+61 
+2 Mtr each 
+  
+Nos 
+1 
+  
+  
+  
+62 
+3 Mtr each 
+  
+Nos 
+1 
+  
+  
+  
+V 
+GENERAL ACCESSORIES 
+  
+63 
+Power Strip with 6 plug Sockets, switches, 
+Light Indicators, fuse protection and Spike 
+Suppressor (Reputed Make) 
+  
+Nos 
+1 
+  
+  
+  
+64 
+GI Pipe-4” dia 
+  
+Mtr 
+1 
+  
+  
+  
+65 
+RJ-45 connector 
+  
+Nos 
+1 
+  
+  
+  
+66 
+Voltage Stabilizer 
+  
+Nos 
+1 
+  
+  
+  
+67 
+Surge Protector 
+  
+Nos 
+1 
+  
+  
+  
+68 
+Ethernet Surge Arrestor (Supply, installation, 
+testing, and commissioning of Gigabit PoE 
+Surge Arrestor supporting IEEE 802.3af/at, 
+including grounding and all accessories, 
+complete.) 
+ 
+Nos 
+1 
+ 
+ 
+ 
+V 
+RF Connectivity (installation and 
+commissioning) 
+  
+69 
+RF link up to 2 Km (Connectivity from A end to 
+B end with necessary equipment radios, 
+cable, tower, etc) 
+  
+Nos 
+1 
+  
+  
+  
+70 
+RF link up to 2 to 5 Km (Connectivity from A 
+end to B end with necessary equipment 
+radios, cable, tower, etc) 
+  
+Nos 
+1 
+  
+  
+  
+71 
+RF link up to 5 to 10 Km (Connectivity from A 
+end to B end with necessary equipment 
+radios, cable, tower, etc) 
+  
+Nos 
+1 
+  
+  
+  
+72 
+RF link up to 10 to 30 Km (Connectivity from A 
+end to B end with necessary equipment 
+radios, cable, tower, etc) 
+  
+Nos 
+1 
+  
+  
+  
+73 
+Operation and Maintenance (CAMC) for RF 
+Connectivity for 3 Years from date of FAT 
+acceptance 
+  
+Nos 
+1 
+  
+  
+  
+Total (for all the line item) 
+  
+ 
+ 
+ 
+ 
+xxxxxxxx—END---xxxxxxxx 

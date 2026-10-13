@@ -1,0 +1,3499 @@
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+1 | P a g e 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Request for Proposal (RFP) 
+for 
+Selection of Telecom Service Providers for Inbound and 
+Outbound Calls and Toll-Free Services  
+through SIP Trunks 
+for the Chief Minister Helpline, Government of Gujarat 
+ 
+Tender No. XXXXXX 
+ 
+Issued by: 
+CM Helpline Coordination Unit, General Administration Department (ARTD), Government of Gujarat 
+ 
+ 
+ 
+ 
+ 
+ 
+CM Helpline Coordination Unit 
+6th floor, A wing, Block no.1, 
+Karmayogi Bhavan, Sector-10 
+Gandhinagar – 382010 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+2 | P a g e 
+ 
+Table of Contents 
+Abbreviations: ................................................................................................................................ 7 
+Disclaimer ....................................................................................................................................... 8 
+Fact Sheet ........................................................................................................................................ 9 
+1 
+About Project ........................................................................................................................ 11 
+2 
+Envisaged Solution ................................................................................................................ 11 
+3 
+Scope of Work ....................................................................................................................... 12 
+3.1 
+Scope of Services .............................................................................................................. 12 
+3.2 
+SIP Trunking and Capacity Requirements ......................................................................... 13 
+3.3 
+Network Connectivity and Architecture ........................................................................... 13 
+3.4 
+Toll-Free Services and Numbering Plan ............................................................................ 14 
+3.5 
+Infrastructure Provisioning and Deployment ................................................................... 16 
+3.6 
+Integration and Compatibility ........................................................................................... 16 
+3.7 
+Call Handling and Functional Features ............................................................................. 17 
+3.8 
+Quality of Service (QoS) .................................................................................................... 17 
+3.9 
+Security Requirements ...................................................................................................... 18 
+3.10 
+Business Continuity and Redundancy ............................................................................... 18 
+3.11 
+Operations, Monitoring and Support ............................................................................... 19 
+3.12 
+MIS, Reporting and Portal ................................................................................................. 19 
+3.13 
+Maintenance and Support ................................................................................................ 20 
+3.14 
+Scalability and Change Management ............................................................................... 20 
+3.15 
+Roles and Responsibilities of TSP ...................................................................................... 20 
+3.16 
+Service Availability ............................................................................................................ 20 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+3 | P a g e 
+ 
+3.17 
+Regulatory Compliance ..................................................................................................... 20 
+3.18 
+Deliverables ....................................................................................................................... 21 
+3.19 
+Commercial Framework .................................................................................................... 21 
+3.20 
+Redundant Telecom Service Provider (TSP) Requirement (Secondary SIP Trunking Setup)
+ 
+21 
+3.21 
+Project Duration ................................................................................................................ 23 
+3.22 
+Tri-Party Agreement ......................................................................................................... 23 
+4 
+Service level Agreement ....................................................................................................... 24 
+4.1 
+Up Time SLA ...................................................................................................................... 24 
+4.2 
+Point of Interconnect (PoI) Congestion SLA ...................................................................... 24 
+4.3 
+Voice Quality SLA .............................................................................................................. 25 
+5 
+Eligibility Criteria ................................................................................................................... 27 
+6 
+Instructions to the Bidders ................................................................................................... 30 
+6.1 
+General .............................................................................................................................. 30 
+6.2 
+Compliant Tenders / Completeness of Response ............................................................. 30 
+6.3 
+Pre-Bid Meeting & Clarifications....................................................................................... 30 
+6.4 
+Responses to Pre-Bid Queries and Issue of Corrigendum ................................................ 32 
+6.5 
+Key Requirements of the Bid ............................................................................................ 32 
+6.5.1 
+Right to Terminate the Process .................................................................. 32 
+6.5.2 
+Earnest Money Deposit (EMD) ................................................................... 32 
+6.5.3 
+Power of Attorney (PoA) ........................................................................... 33 
+7 
+Preparation and Submission of Proposal .............................................................................. 33 
+7.1 
+Proposal Preparation Costs ............................................................................................... 33 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+4 | P a g e 
+ 
+7.2 
+Language ........................................................................................................................... 33 
+7.3 
+Evaluation Process & Clarification .................................................................................... 33 
+7.4 
+Tender Opening ................................................................................................................ 34 
+7.5 
+Tender Validity .................................................................................................................. 34 
+7.6 
+Tender Evaluation ............................................................................................................. 34 
+7.7 
+Deciding Award of Contract .............................................................................................. 36 
+7.8 
+Reverse Auction and TSP Selection Process ..................................................................... 37 
+7.9 
+Modification and Withdrawal of Bids ............................................................................... 38 
+7.10 
+Proposal Forms ................................................................................................................. 38 
+7.11 
+Local Conditions ................................................................................................................ 38 
+7.12 
+Contacting the CM Helpline Coordination Unit, Gandhinagar, Gujarat ........................... 39 
+7.13 
+Tentative Schedule of Events ............................................................................................ 39 
+7.14 
+Opening of Proposal ......................................................................................................... 39 
+7.15 
+Confidentiality ................................................................................................................... 39 
+7.16 
+Execution of Agreement ................................................................................................... 41 
+7.17 
+Duration of the contract ................................................................................................... 41 
+8 
+Terms and Conditions: Applicable Post Award of Contract ................................................. 41 
+8.1 
+Payment Milestones ......................................................................................................... 41 
+8.2 
+Total Cost of Services ........................................................................................................ 41 
+8.3 
+Termination Clause ........................................................................................................... 42 
+8.3.1 
+Termination for Convenience ..................................................................... 42 
+8.3.2 
+Termination for Default ............................................................................. 42 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+5 | P a g e 
+ 
+8.3.3 
+Termination for Insolvency ........................................................................ 43 
+8.3.4 
+Termination due to Force Majeure ............................................................. 43 
+8.3.5 
+Consequences and Survival of Termination ................................................ 43 
+8.4 
+Dispute Resolution Mechanism ........................................................................................ 44 
+8.5 
+Notices .............................................................................................................................. 44 
+8.6 
+Failure to agree with Terms and Conditions of the TENDER ............................................ 44 
+8.7 
+Limitation of Liability ........................................................................................................ 44 
+8.8 
+Right of Monitoring, Inspection and Periodic Audit ......................................................... 45 
+8.9 
+Information Security ......................................................................................................... 45 
+8.10 
+Indemnity .......................................................................................................................... 45 
+8.11 
+Events of Default by the Selected Bidder ......................................................................... 45 
+8.12 
+Liquidated Damages.......................................................................................................... 46 
+8.13 
+Continuance of the Contract ............................................................................................ 46 
+8.14 
+Conflict of interest ............................................................................................................ 46 
+8.15 
+Severance .......................................................................................................................... 46 
+8.16 
+Governing Language ......................................................................................................... 46 
+8.17 
+“No Claim” Certificate ....................................................................................................... 46 
+8.18 
+Publicity ............................................................................................................................. 47 
+8.19 
+Intellectual Property Rights (IPR) ...................................................................................... 47 
+8.20 
+General .............................................................................................................................. 47 
+8.21 
+Fraud and Corrupt Practices ............................................................................................. 50 
+8.22 
+Terms of Payment ............................................................................................................. 51 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+6 | P a g e 
+ 
+8.23 
+Obligations ........................................................................................................................ 51 
+8.24 
+Notification of Award ........................................................................................................ 51 
+8.25 
+Contract Period ................................................................................................................. 52 
+8.26 
+Changes to Services (Authority Driven Change Management) ........................................ 52 
+8.27 
+Exit Management .............................................................................................................. 52 
+9 
+ANNEXURES .......................................................................................................................... 55 
+9.1 
+ANNEXURE 1: FORMAT FOR POWER OF ATTORNEY ........................................................ 55 
+9.2 
+ANNEXURE 2: DECLARATION FOR NOT BLACKLISTED ...................................................... 57 
+9.3 
+ANNEXURE 3: DRAFT BANK GUARANTEE FOR EARNEST MONEY DEPOSIT (EMD) ........... 58 
+9.4 
+ANNEXURE 4: PERFORMANCE BANK GUARANTEE/PERFORMANCE SECURITY (PBG)...... 61 
+9.5 
+ANNEXURE 5: PARTICULARS OF THE BIDDERS.................................................................. 64 
+9.6 
+ANNEXURE 6: PROPOSAL COVERING LETTER ................................................................... 65 
+9.7 
+ANNEXURE 7: FINANCIAL PROPOSAL FORMAT ................................................................ 67 
+9.8 
+ANNEXURE 8: NOT TERMINATED, NOT BEING INSOLVENT OR IN RECEIVERSHIP OR 
+BANKRUPT ..................................................................................................................................... 69 
+9.9 
+ANNEXURE 9: NON-DISCLOSURE AGREEMENT (NDA) ...................................................... 71 
+9.10 
+ANNEXURE 10: FORMAT FOR FINANCIAL SUMMARY OF THE BIDDER ............................. 79 
+9.11 
+ANNEXURE 11: FORMAT FOR SHOWCASING EXPERIENCE FOR ELIGIBILITY CRITERIA ..... 80 
+9.12 
+ANNEXURE 12: FORMAT FOR BIDDERS CHECKLIST FOR PRE QUALIFICATION AND 
+TECHNICAL QUALIFICATION CRITERIA .......................................................................................... 82 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+7 | P a g e 
+ 
+Abbreviations: 
+Sr. No. 
+Acronyms 
+Definition 
+1 
+ACD 
+Automatic call distributor 
+2 
+ACR 
+Abandoned Call rate 
+3 
+AHT 
+Average Handle Time 
+4 
+App 
+Mobile Application for Chief Minister Helpline for citizens 
+5 
+ASA 
+Average Speed of Answer 
+6 
+CMH-CU 
+CM Helpline – Coordination Unit 
+7 
+G2C 
+Government to Citizen 
+8 
+GoI 
+Government of India 
+9 
+GoG 
+Government of Gujarat 
+10 
+IGSMS 
+Integrated Grievance & Services Management System 
+11 
+L1 
+Qualified bidder with lowest commercial bid 
+12 
+MIS 
+Management Information System 
+13 
+NIC 
+National Informatics Center 
+14 
+PBG 
+Performance Bank Guarantee 
+15 
+POI 
+Point of Interconnect 
+16 
+PRI 
+Primary Rate Interface 
+17 
+RFP 
+Request for Proposal / Tender document 
+18 
+RFP 
+Request for Proposal 
+19 
+SIP 
+Session Initiation Protocol.  
+20 
+SLA 
+Service Level Agreement 
+21 
+SOP 
+Standard Operating Procedure 
+22 
+TAT 
+Turn Around Time 
+23 
+TC 
+Tender Committee 
+24 
+TSP 
+Telecom Service Provider 
+25 
+CMH-CU 
+CM Helpline – Coordination Unit 
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+8 | P a g e 
+ 
+Disclaimer 
+The information contained in this Tender or subsequently provided to Bidders, whether 
+verbally or in documentary or any other form by or on behalf of the Authority or any of its 
+employees or advisers, is provided to Bidders on the terms and conditions set out in this Tender 
+and such other terms and conditions subject to which such information is provided. This Tender 
+is issued by CM Helpline Coordination Unit (Authority). This Tender is not an agreement and is 
+neither an offer nor invitation by the Authority to the prospective Bidders or any other person.  
+The purpose of this Tender is to provide interested parties with information that may be useful 
+to them in the formulation of their Bid pursuant to this Tender. This Tender includes 
+statements, which reflect various assumptions and assessments arrived at by the Authority in 
+relation to the Selection of Bidder. Such assumptions, assessments and statements do not 
+purport to contain all the information that each Bidder may require. This Tender may not be 
+appropriate for all persons, and it is not possible for the Authority, its employees, or advisors 
+to consider the objectives, technical expertise and particular needs of each party who reads or 
+uses this Tender. The assumptions, assessments, statements, and information contained in this 
+Tender, may not be complete, accurate, adequate, or correct. Each Bidder should, therefore, 
+conduct its own investigations and analysis and should check the accuracy, adequacy, 
+correctness, reliability and completeness of the assumptions, assessments and information 
+contained in this Tender and obtain independent advice from appropriate sources. 
+CM Helpline Coordination Unit (Authority), their employees and advisors make no 
+representation or warranty and shall incur no liability under any law, statute, rules, or 
+regulations as to the accuracy, reliability, or completeness of the TENDER document. 
+CM Helpline Coordination Unit (Authority) may, in its absolute discretion, but without being 
+under any obligation to do so, update, amend or supplement the information in this TENDER 
+document. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+9 | P a g e 
+ 
+Fact Sheet 
+1 
+Tender No. 
+XXXXX/XXX/2026 
+2 
+Name of the Work 
+CM Helpline Coordination Unit (CMH-CU),  
+General Administration Department invites bids for the Providing 
+Inbound and Outbound Call and Toll-Free Services through SIP Trunks. 
+3 
+Name of the issuer of this 
+tender 
+CM Helpline Coordination Unit (CMH-CU) 
+General Administration Department 
+4 
+Date of issue of tender 
+document 
+24/Aug/2026 (Time as per GeM portal) 
+5 
+Last date sending Pre-Bid 
+Query 
+31/Aug/2026 by 12:00 PM 
+6 
+Pre-Bid Meeting 
+01/Sep/2026 at 03:00 PM  
+At Office of  
+ 
+CM Helpline Coordination Unit (CMH-CU) 
+General Administration Department (ARTD) 
+6th Floor, Wing-A, Block-1, Karmayogi Bhawan, Gandhinagar, Gujarat - 382010 
+Pre-bid queries will be answered to those Bidders only who have submitted 
+their queries before last date of submission of bid queries (as mentioned in 
+point no. 5 in this fact sheet). 
+ 
+Meeting Link: 
+https://teams.microsoft.com/meet/325225761382198?p=8kezuv4KVPT34ErlEi  
+Meeting ID: 325 225 761 382 198  
+Passcode: v88RV7qG 
+ 
+7 
+Last Date for Submission of Bid dd/Sep/2026 (Date & Time as per GeM portal) 
+ 
+Note: Technical Proposal to be submitted physically on or before
+17/September/2026 by 14:00 hrs at CMH-CU Office. 
+8 
+Date of Bid Opening  
+dd/Sep/2026 (Date & Time as per GeM portal) 
+9 
+Address of Communication 
+CM Helpline Coordination Unit (CMH-CU) 
+General Administration Department 
+6th Floor, Wing-A, Block-1, Karmayogi Bhawan, Gandhinagar, Gujarat - 382010 
+10 
+Earnest Money Deposit (EMD) 
+Rs. 20,00,000/- (INR Twenty Lakhs only) EMD may be submitted in the form of 
+Demand Draft/Bank Guarantee  
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+10 | P a g e 
+ 
+Scan copy of DD/BG should be uploaded in https://gem.gov.in/ portal.  
+Original copy of the DD/BG should be submitted to CMH-CU office between 03:00 
+PM to 05:00 PM on or before the last date of bid submission. 
+Please refer Annexure 3. 
+11 
+Availability of Tender 
+Document 
+TENDER can be downloaded from https://gem.gov.in/  
+12 
+Validity of EMD 
+EMD must remain valid for 180 days after the last date of Submission of Bid  
+13 
+Performance Bank Guarantee 
+(PBG) 
+5% of Contract Value; Non-conditional PBG drawn in favour of Under 
+Secretary, General Administration 
+Department payable at Gandhinagar (Annexure-4) 
+14 
+Method of Selection 
+Least Cost Selection (LCS) 
+15 
+Mode of Bid Submission 
+Bid submission will be online through https://gem.gov.in/  only. 
+16 
+Consortium or JV 
+Not permitted 
+17 
+Contact person for sending 
+queries 
+CM Helpline Coordination Unit (CMH-CU), 
+General Administration Department (ARTD), 
+6th Floor, Wing-A, Block-1, Karmayogi Bhawan, Sector- 10A, Gandhinagar,
+Gujarat - 382010 
+ 
+Email: cmhelpline-ccu@gujarat.gov.in  
+18 
+Reverse Auction 
+Yes 
+Note: 
+1. The date of opening of the commercial bids will be intimated to the qualified Bidders before 
+the due date through email. 
+2. The CM Helpline Coordination Unit (CMH-CU), General Administration Department 
+reserves the right to change any schedule of the bidding process. Please visit GeM 
+website (https://gem.gov.in/) regularly for the same.  
+3. Proposals must be received not later than time, date and venue mentioned in the Fact 
+Sheet. Proposals that are received after the deadline will not be considered in this 
+procurement process. 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+11 | P a g e 
+ 
+1 
+About Project 
+CM Helpline Coordination Unit (CMH-CU) intends to establish a dedicated Call Centre for the 
+Chief Minister Helpline for the Gujarat State Government. The Call Centre Agency (CCA) will 
+provide a streamlined platform for citizens to raise grievances, ensuring that their issues are 
+addressed in a timely and transparent manner. The Call Centre will be a key tool in improving 
+citizen-government interaction, fostering trust, and ensuring that the administration is 
+responsive to public needs. Here Telecom Service Provider (TSP) plays a key role by providing 
+stable, robust, secure, and uninterrupted telecom services by providing Inbound and Outbound 
+Call and Toll-Free Services through SIP Trunks for the CM Helpline, for a period of five years. The 
+contract may be extended by up to one (1) year at a time on the same terms and conditions, 
+subject to performance and mutual agreement, with the total contract duration not exceeding 
+seven (7) years. (Extension will be on sole discretion of CMH-CU/ Govt. of Gujarat.) 
+2 
+Envisaged Solution 
+All inbound calls originating from citizens shall be routed to the Call Centre through designated 
+Short Codes and Toll-Free Numbers. These numbers shall be mapped to the SIP Trunk 
+infrastructure, ensuring high availability, redundancy, and efficient call routing to the Call Centre 
+system. The TSP shall ensure minimal latency, high call quality (as per TRAI/DoT standards), and 
+adequate capacity to handle peak call volumes without congestion. The estimated call volume is 
+20,000 incoming calls per day, with an average call duration of approximately 180 seconds. 
+In addition to inbound services, the solution shall support outbound calling capabilities. Call 
+Centre Executives (CCE) shall be able to initiate outbound calls to citizens for purposes such as 
+feedback collection, grievance follow-ups, awareness campaigns, and other administrative 
+communications. The outbound calling facility shall also be routed through the SIP Trunk 
+provided by the TSP, with appropriate CLI masking and compliance with regulatory guidelines. 
+The TSP shall be responsible for: 
+• Provisioning, configuration, and maintenance of SIP Trunks 
+• Allocation and management of Toll-Free Numbers and Short Codes (Inbound & outbound) 
+• Ensuring uptime, redundancy, and disaster recovery support 
+• Adherence to all applicable regulatory and security requirements 
+• Providing detailed Call Detail Records (CDRs) and usage reports for monitoring and billing 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+12 | P a g e 
+ 
+• Providing cause code reports for analysis 
+The overall telecom infrastructure shall be designed to be scalable, secure, and compliant, 
+enabling uninterrupted and efficient communication between citizens and the Call Centre.  
+3 
+Scope of Work 
+The TSP shall design, supply, install, integrate, commission, operate, maintain, and support a 
+robust SIP trunking solution including all hardware, software, network components, and 
+associated services. 
+3.1 Scope of Services 
+3.1.1 The TSP shall undertake the complete lifecycle management of the SIP trunking solution, 
+including but not limited to design, supply, installation, integration, testing, commissioning, 
+operation, maintenance, monitoring, upgrade, and support throughout the contract period. 
+The SIP trunk services must be provisioned, billed, supported, and maintained directly by the 
+bidder, without involvement of third-party intermediaries based on usage validated by CCA. 
+3.1.2 The scope shall encompass provisioning and management of telecom connectivity, 
+infrastructure, toll-free services, call routing, redundancy mechanisms, reporting systems, and 
+regulatory compliance, ensuring uninterrupted and efficient functioning of the Call Centre 
+operations. SIP solution should be Standard SIP (no proprietary dependencies) 
+There will be two (2) Telecom Service Providers (TSPs) who will be appointed to ensure high 
+availability. 
+Primary Telecom Service Provider (TSP1): 
+The Primary Service Provider shall be responsible for handling 100% of inbound call traffic 
+through the designated Toll-Free Number(s) under normal operating conditions. In addition, 
+TSP1 shall also support outbound calling services as required by the Purchaser. 
+Secondary Telecom Service Provider (TSP2): 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+13 | P a g e 
+ 
+The Secondary Service Provider shall be primarily responsible for outbound calling services and 
+shall act as a redundant/failover service provider for inbound traffic in the event of degradation, 
+failure, or non-availability of services from TSP1. 
+TSP2 shall be required to comply with all technical, operational, and contractual terms and 
+conditions specified in this RFP, except for the requirement of provisioning Toll-Free 
+Number(s). 
+3.2 SIP Trunking and Capacity Requirements 
+3.2.1 The TSP shall provision SIP trunking infrastructure with a minimum capacity of: 
+• 
+One Hundred and Fifty (150) SIP Channels for inbound (toll-free) calls, (For TSP1) and 
+• 
+One Hundred Twenty (120) SIP channels for outbound calls (For TSP2) 
+These capacities should be operationalized at the designated Call Centre location. 
+3.2.2 seamless expansion to higher volumes, without degradation in quality of service. 
+ 3.2.3 The solution shall be designed to handle large call volumes, with indicative traffic 
+projections of approximately 20,000 inbound calls per day and 4,000 outbound calls per day, 
+which may vary depending on operational requirements. 
+3.2.4 The TSP shall ensure that the infrastructure is highly scalable, enabling increase and 
+decrease in no. of channels. 
+3.2.5 The Client reserves the right to increase or decrease the number of SIP trunks or channels 
+at any point during the contract period, based on operational needs. The TSP shall comply with 
+such changes within a notice period of 7 days, without any impact on the agreed pricing structure. 
+3.3 Network Connectivity and Architecture 
+3.3.1 The TSP shall provide SIP connectivity over an IP-based network, preferably using Ethernet 
+interfaces with RJ-45 termination and/or OFC plugin into Network switch, ensuring compatibility 
+with the Client’s existing infrastructure. The last-mile connectivity shall be provisioned over fiber 
+optic links, with dual, geographically diverse paths to ensure redundancy and resilience against 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+14 | P a g e 
+ 
+network failures.  The solution shall incorporate dual handoff architecture, where the primary 
+and secondary connections are routed through separate physical paths and, wherever feasible, 
+through different network providers to ensure high availability.  
+Both Telecom Service Providers (TSP-1 and TSP-2) shall terminate their respective services at the 
+following location: 
+6th Floor, Wing-E/F, Block-3, Karmayogi Bhawan, Sector 10 A, Gandhinagar, Gujarat – 382010 
+The TSPs shall be responsible for providing last mile connectivity up to the above-mentioned 
+location.  
+This includes provisioning, laying, testing, and commissioning of required telecom links, OFC 
+cabling, and associated infrastructure up to the designated demarcation point. Please note that 
+Connectivity on RF is not acceptable. Bidders need to provide confirmation on this by attaching 
+Network connectivity diagram. 
+The TSP shall implement automatic failover mechanisms, ensuring seamless transition between 
+redundant paths without service disruption or perceptible impact on call quality. TSP shall extend 
+similar connectivity to any additional sites that may be commissioned during the contract period. 
+3.4 Toll-Free Services and Numbering Plan 
+3.4.1 The TSP shall provide and manage toll-free services, including the configuration of short 
+codes (Inbound & outbound) and toll-free numbers, ensuring seamless access for citizens across 
+the country. 
+3.4.2 The system shall support masking of toll-free numbers with designated short codes, 
+ensuring ease of access and uniformity in communication. 
+3.4.3 The TSP shall ensure that all inbound calls are accessible from all telecom service providers 
+across India, including mobile, landline, prepaid, and postpaid connections. 
+3.4.4 All helpline numbers (incoming and outgoing) shall be maintained under the “Not to be 
+Barred” (NTB) category to prevent service interruptions. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+15 | P a g e 
+ 
+3.4.5 The TSP shall obtain all required approvals, licenses, and configurations from regulatory 
+authorities such as DoT and TRAI, and ensure compliance with all applicable guidelines. 
+3.4.6 All toll-free and short codes remain property of CMH-CU and must be ported without 
+dependency on TSP. 
+3.4.7 The Toll-Free Number Service shall support seamless switching between Primary and 
+Secondary Service Providers to ensure redundancy. In the event of a failure or outage of the 
+Primary Service Provider’s SIP trunks, all incoming calls on Toll Free Number shall automatically 
+switch over to the Secondary Service Provider without service disruption. Upon restoration of 
+the Primary Service Provider’s SIP trunks, the system shall automatically revert traffic back to the 
+Primary Service Provider. 
+3.4.8 The bidder shall provision and manage Direct Inward Dialing (DID) and Direct Outward 
+Dialing (DOD) numbers as part of the SIP Trunk service for the Call Center operations. The bidder 
+shall allocate a sufficient block/range of DID numbers as per the requirement. The bidder shall 
+enable Direct Outward Dialing (DOD) functionality for all required extensions/users. Outgoing 
+calls shall present Assigned DID/DOD numbers. 
+3.4.9 The bidder shall ensure full compliance with all applicable DoT/TRAI regulations regarding 
+CLI presentation for outbound calls. All outbound calls must display a valid and authorized Caller 
+Line Identification (CLI) which belongs to the allocated number range. 
+3.4.10 In case of any notifications, guidelines, or directives issued by Department of 
+Telecommunications (DoT) and/or Telecom Regulatory Authority of India (TRAI) regarding caller 
+ID masking, prefixing, or classification of calls, the bidder shall ensure Implementation of 
+prescribed prefixes such as 1600, 1400 etc. and/or any future numbering or masking scheme 
+instructed by regulators. The bidder shall ensure proper configuration of outbound CLI such that 
+the required regulatory prefix is correctly applied, the caller ID is accurately displayed on the 
+called party’s device, and no calls are transmitted with invalid, spoofed, or non-compliant CLI. 
+The bidder shall ensure proactive updates to comply with future regulatory changes, implement 
+such updates at no additional cost, and carry them out with minimal disruption to services. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+16 | P a g e 
+ 
+3.5 Infrastructure Provisioning and Deployment 
+3.5.1 The TSP shall be responsible for provisioning all necessary telecom infrastructure, including 
+but not limited to SIP gateways, routers, session border controllers, multiplexers, converters, 
+codecs, and associated network components required for delivering the services. 
+3.5.2 All equipment provided shall be: 
+• 
+Rack-mounted within the Client’s designated space 
+• 
+Equipped with dual power supply mechanisms 
+• 
+Fully compliant with IPv6 standards. 
+3.5.3 The infrastructure design shall include redundant hardware components and high-
+availability configurations to eliminate single points of failure. The Warranty and maintenance 
+will be taken care by the Service Provider themselves. 
+3.5.4 The TSP shall complete the deployment and commissioning of services within Fourteen (14) 
+days from the issuance of the Letter of Intent (LoI). 
+3.5.5 In case of expansion/transfer/relocation to new locations or additional sites, the TSP shall 
+complete deployment within 2 Weeks from the date of request without any incurred cost. 
+3.6 Integration and Compatibility 
+3.6.1 The TSP shall ensure seamless integration of the SIP trunking solution with the Client’s 
+existing and future Call Centre platforms, telephony systems, and ACD infrastructure. 
+3.6.2 The solution shall support standard SIP signaling protocols and shall incorporate encryption 
+mechanisms such as Secure SIP (SIPS) and Transport Layer Security (TLS). 
+3.6.3 The TSP shall support industry-standard audio codecs including G.711, G.722, G.729, AMR, 
+etc. and any other relevant codecs required to ensure optimal voice quality. 
+3.6.4 The TSP shall provide necessary interfaces such as APIs, secure FTP, or other integration 
+mechanisms for sharing Call Detail Records (CDRs), MIS reports, and other operational data. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+17 | P a g e 
+ 
+3.7 Call Handling and Functional Features 
+3.7.1 The TSP shall support Toll-frees inbound calling, including Onnet and Offnet 
+communication, on a per-second billing basis. 
+3.7.2 The solution shall include advanced call handling features such as: 
+• 
+Conference calling capabilities 
+• 
+Call Transfer facility 
+• 
+Intelligent call routing and load distribution 
+• 
+Automatic failover across multiple trunks 
+• 
+Pilot number-based routing for redundancy 
+3.7.3 The system shall also support integration with emergency/non-emergency helpline 
+numbers (e.g., 112, 108), including the ability to establish conference calls between multiple 
+parties when required. 
+3.7.4 The TSP shall provide detailed call-level information, including call disposition, release 
+cause codes, and failure reasons, to support operational monitoring and analysis. 
+3.8 Quality of Service (QoS) 
+3.8.1 The TSP shall implement robust Quality of Service (QoS) mechanisms to ensure consistent 
+and high-quality voice communication. 
+3.8.2 This shall include voice traffic prioritization using DSCP markings, implementation of Low 
+Latency Queueing (LLQ), and Weighted Fair Queuing (WFQ/CBWFQ) techniques. 
+3.8.3 Adequate bandwidth shall be reserved and dynamically managed for voice traffic to 
+minimize latency, jitter, and packet loss, even during peak traffic conditions. 
+3.8.4 The TSP shall ensure the following minimum voice quality benchmarks are always met 
+during the contract period: 
+Parameter 
+Minimum Standard 
+One-way Latency ≤ 100 milliseconds (end-to-end, TSP network segment) 
+Jitter 
+≤ 20 milliseconds 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+18 | P a g e 
+ 
+Parameter 
+Minimum Standard 
+Packet Loss 
+≤ 0.5% 
+Echo 
+Compliant with ITU-T G.131 
+3.8.5 The TSP shall deploy passive or active voice quality monitoring tools capable of measuring, 
+latency, jitter, and packet loss on an ongoing basis, and shall make this data available to the 
+Purchaser through the MIS portal in real time or near-real time (not exceeding 15-minute 
+intervals). 
+3.8.6 The TSP shall submit a monthly Voice Quality Report containing sampled, latency, jitter, and 
+packet loss statistics for the reporting period, along with the methodology and tools used for 
+measurement. 
+3.8.7 The Purchaser reserves the right to conduct independent third-party voice quality audits at 
+its own cost, and the TSP shall provide necessary access and cooperation for such audits. 
+3.9 Security Requirements 
+3.9.1 The TSP shall ensure the security of all communication channels through the 
+implementation of end-to-end encryption mechanisms, including TLS and SIPS protocols. 
+3.9.2 The TSP shall adopt robust key management practices, network segmentation, and access 
+control measures to safeguard the infrastructure from unauthorized access and cyber threats. 
+3.9.3 A comprehensive incident response framework shall be established, covering detection, 
+mitigation, reporting, and recovery from security incidents. 
+3.10 Business Continuity and Redundancy 
+3.10.1 The TSP shall design and implement a high-availability architecture that ensures 
+continuous service delivery with minimal downtime. 
+3.10.2 The solution shall incorporate: 
+• 
+Redundant network paths 
+• 
+Backup infrastructure 
+• 
+Automatic failover and rerouting capabilities 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+19 | P a g e 
+ 
+• 
+Primary to secondary & vice versa switch over facility  
+3.10.3 The TSP shall conduct periodic failover and resilience testing and provide documentation 
+of such tests along with corrective actions. 
+3.11 Operations, Monitoring and Support 
+3.11.1 The TSP shall provide round-the-clock monitoring and support services (24x7x365) 
+through a Network Operations Centre (NOC). 
+3.11.2 The NOC shall continuously monitor network performance and proactively identify and 
+resolve issues. 
+3.11.3 The TSP shall assign a dedicated Single Point of Contact (SPOC) and provide a well-defined 
+escalation matrix for issue resolution. 
+3.12 MIS, Reporting and Portal 
+3.12.1 The TSP shall provide a secure, web-based portal for real-time monitoring and reporting. 
+3.12.2 The portal shall offer detailed insights including but not limited to : 
+• 
+Service uptime and availability 
+• 
+SIP channel utilization 
+• 
+Call Detail Records (CDRs) 
+• 
+Cause Code Analysis report 
+• 
+Latency Report 
+• 
+Call performance and billing reports 
+• 
+DNC/NDNC (Do Not Call/National Do Not Call) Compliance Reports 
+3.12.3 The platform shall support: 
+• 
+API or file-based integration 
+• 
+Role-based access for authorized users 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+20 | P a g e 
+ 
+3.13 Maintenance and Support 
+3.13.1 The TSP shall be responsible for end-to-end maintenance of all equipment and services 
+provided under this contract. 
+3.13.2 Preventive maintenance shall be carried out on a quarterly basis, and reports shall be 
+submitted to the Client. 
+3.13.3 All incidents shall be managed in accordance with defined SLAs, and detailed Root Cause 
+Analysis (RCA) reports shall be provided. 
+3.14 Scalability and Change Management 
+3.14.1 The TSP shall ensure that the solution is fully scalable and flexible, allowing dynamic 
+adjustment of capacity based on demand. 
+3.14.2 The TSP shall support onboarding of additional locations and services under the same 
+contractual terms. 
+3.15 Roles and Responsibilities of TSP 
+3.15.1 The TSP shall act as the single point of accountability for the entire call connectivity and 
+shall manage all aspects of project execution and service delivery. 
+3.15.2 The TSP shall ensure adherence with all SLA compliances, regulatory requirements, and 
+security standards. 
+3.16 Service Availability 
+3.16.1 The services shall be operational on a 24x7X365 basis throughout the year. 
+3.17 Regulatory Compliance 
+3.17.1 The TSP shall ensure full compliance with all applicable telecommunication regulations, 
+guidelines, and statutory requirements issued by relevant authorities. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+21 | P a g e 
+ 
+3.17.2 The TSP shall provide necessary certifications confirming successful testing of services 
+across telecom circles and operators. 
+3.18 Deliverables 
+3.18.1 The TSP shall provide the following deliverables on monthly basis:  
+• 
+Network architecture diagrams 
+• 
+Compliance and certification documents 
+• 
+SLA and performance reports 
+• 
+Incident and RCA reports 
+• 
+Preventive maintenance reports 
+• 
+Cause Code Report 
+• 
+Latency Report 
+• 
+Uptime & Downtime report 
+3.19 Commercial Framework 
+3.19.1 The pricing model shall be based on: 
+• 
+Per-second call usage charges (Onnet/Offnet) 
+• 
+Per SIP channel charges, where applicable 
+3.19.2 Payments shall be made monthly against raised invoices for relevant monthly usage 
+subject to verification of service performance, applicable SLA compliance and penalty 
+compliance.  
+3.20 Redundant Telecom Service Provider (TSP) Requirement (Secondary SIP 
+Trunking Setup) 
+3.20.1 In order to ensure uninterrupted services and maintain high availability of inbound and 
+outbound calling operations, it is mandatory to have fully functional and operational redundant 
+SIP trunking setup through a Secondary Telecom Service Provider (TSP), in addition to the 
+primary TSP proposed under this RFP. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+22 | P a g e 
+ 
+3.20.2 The redundant SIP trunking solution shall be capable of handling complete incoming toll-
+free traffic in the event of failure, degradation, congestion, or non-availability of the primary 
+TSP’s network or services. All inbound calls shall automatically switch over to the secondary TSP 
+without the need for manual intervention, ensuring continuity of service. 
+3.20.3 The redundant SIP trunks must be configured, tested, and maintained in an active-standby 
+mode, as approved by the Purchaser, ensuring seamless failover and restoration of telecom 
+services. 
+3.20.4 The Secondary TSP shall provide independent, dedicated network paths, last-mile 
+connectivity, and routing arrangements, fully isolated from the primary TSP infrastructure, to 
+eliminate single points of failure and to ensure true redundancy at network, link, and service 
+levels. 
+3.20.5 The Bidder shall carry out full end-to-end integration of both Primary and Secondary SIP 
+trunks with the Purchaser’s telephony/contact center platforms and IGSMS application, including 
+call routing logic, failover logic, numbering plan configurations, and necessary interoperability 
+testing. 
+3.20.6 Periodic failover drills shall be conducted by the Bidder, in coordination with secondary 
+telecom providers, at intervals determined and/or as and when required by the Purchaser. The 
+Bidder shall submit failover test reports, call reachability reports, and corrective actions 
+undertaken. 
+3.20.7 The Bidder shall ensure that both Primary and Secondary TSPs support accessibility of the 
+Purchaser’s toll-free/short-code numbers across all telecom networks nationwide, including all 
+mobile and landline operators, as mandated by TRAI/DoT guidelines. 
+3.20.8 All costs related to provisioning, integrating, testing, maintaining, and operating the 
+redundant SIP trunks, including infrastructure, bandwidth, licenses, and associated equipment—
+shall be borne by the individual service providers and shall be deemed included in the quoted 
+commercial proposal.  
+3.20.9 The redundant SIP trunking setup shall adhere to  all security, QoS, encryption, 
+compliance, and reporting requirements stipulated in this RFP, without exception. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+23 | P a g e 
+ 
+3.20.10 Failure by the Primary Service Provider to provision and maintain the switch-over 
+mechanism to the Secondary TSP for redundancy shall constitute Non-Compliance, attracting 
+applicable SLA penalties and potentially resulting in termination of the contract for non-
+performance. 
+3.21 Project Duration 
+The contract shall initially be awarded for a period of five (5) years from the date of signing of the 
+Agreement. Subject to mutual consent of all Parties and satisfactory performance of the telecom 
+service providers, CMH-CU may extend the contract for up to one (1) year at a time, with the 
+total tenure not exceeding seven (7) years (5+1+1). For period of extension, revision in identified 
+rates may be subjected to consideration of CMH-CU. 
+3.22 Tri-Party Agreement  
+The successful Bidders (TSP-1 & TSP-2) shall mandatorily enter into a tri-party agreement with 
+the Call Centre Agency (CCA) and the CMH-CU. The agreement shall clearly define roles, 
+responsibilities, service boundaries, integration ownership, SLA obligations, incident 
+management, and dispute resolution mechanisms. No Bidder shall deny responsibility citing 
+dependency on the other party. Seamless end-to-end service delivery shall be the joint 
+responsibility of all the parties involved. The TSPs shall ensure end-to-end integration of their SIP 
+channels with the Call Centre platform in coordination with the CCA. 
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+24 | P a g e 
+ 
+4 
+Service level Agreement 
+4.1 Up Time SLA 
+4.2 Point of Interconnect (PoI) Congestion SLA 
+Point of Interconnect (PoI) Congestion refers to the condition where calls fail or are blocked at 
+the interconnection points between telecom networks due to insufficient capacity or network 
+congestion, resulting in call rejection, call blocking, or inability to complete call setup. 
+The congestion level is typically measured using Grade of Service (GoS), defined as the ratio of 
+blocked call attempts to total call attempts at the PoI. 
+Services 
+Offered 
+Service level 
+Penalties 
+Uptime of 
+Services 
+Uptime of the services 
+mentioned in tender / 
+agreement should meet level of 
+99.8%. 
+ 
+Uptime (%) = (Available Time - 
+Downtime) / Available Time) × 
+100 
+ 
+A. For mentioned service levels, if 
+service level falls below the defined 
+criteria, then it will attract a penalty 
+of 1% of monthly invoice amount for 
+every percentage of 
+downtime till 95.8% 
+B. For mentioned service levels, if 
+service level falls below 95.8% then it 
+will attract an additional penalty of 
+2% of monthly invoice for every 
+percentage of downtime. 
+e.g. If uptime is 90 %, the penalty 
+calculation shall be as follows: 
+i. 4% penalty for 99.8%- 95.8% 
+ii. 11.6 % (5.8*2) for 95.8%-90% 
+Total penalty :15.6% 
+Deployment of 
+services 
+including 
+hardware and 
+installation 
+The telecom service provider will 
+be required to start the services 
+within 14 Days of issuance of LoI 
+Any delay beyond the specified time 
+limit will attract a penalty of Rs. 
+5,000 every day. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+25 | P a g e 
+ 
+The Service Provider shall ensure that: 
+PoI congestion always remains within TRAI/DoT prescribed limits 
+Adequate capacity is provisioned at all interconnect points to avoid call blocking 
+% of call failures due to TSP 
+Internal network 
+Penalty 
+Source 
+Exclusions 
+More than 1% of the calls 
+failing due to errors like Call 
+attempt per second (CAPS) / 
+SBC overloading, Internal 
+errors etc within the TSP 
+network. 
+5% of total cost of 
+monthly bill 
+amount 
+Based on Cause 
+code mapping -  
+All planned events 
+notified at least 7 
+days in advance or 
+force majeure 
+events 
+More than 2 incidents of POI 
+(Point of Interconnect) 
+congestion beyond the TRAI / 
+DOT prescribed acceptable 
+limits 
+5% of total cost of 
+monthly bill 
+amount 
+Based on Cause 
+code mapping -  
+All planned events 
+notified at least 7 
+days in advance or 
+force majeure 
+events 
+Delay in submission of 
+preliminary RCA of an 
+incident 
+Rs 2,000 per day 
+(or part thereof) 
+for delay beyond 3 
+days 
+Based on the 
+recorded incident 
+Excluded if final 
+RCA is submitted 
+within 3 days 
+Delay in submission of final 
+RCA of an incident 
+Rs 2,000 per day 
+(or part thereof) 
+for delay beyond 7 
+days 
+Based on the 
+recorded incident 
+Excluded if final 
+RCA is submitted 
+within 7 days 
+4.3 Voice Quality SLA 
+Voice quality shall be measured on a monthly basis using the latency, jitter, and packet-loss data 
+reported under this RFP, computed as an average across all monitored calls (or a statistically valid 
+sample, minimum 5% of total call volume) for the billing month. 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+26 | P a g e 
+ 
+Parameter 
+Service 
+Level 
+Penalty 
+One way Latency 
+≤ 100ms 
+1% of monthly invoice for every 20 ms above threshold, 
+up to a maximum of 5% 
+Jitter 
+≤ 20 ms 
+1% of monthly invoice for every 10 ms above threshold, 
+up to a maximum of 5% 
+Packet Loss 
+≤ 0.5% 
+1% of monthly invoice for every 0.5% above threshold, up 
+to a maximum of 5% 
+Penalties for up-time SLA, call failure SLA and Voice Quality breach are applicable concurrently 
+and shall not exceed 20% of the billing amount for the month.  
+The CMH-CU reserves the right to impose penalty, which may be equal to the cost it incurs or the 
+loss it suffers for such failures. CMH-CU shall implement all penalty clauses after giving due notice 
+to the bidder. 
+If the Service Provider reaches the maximum penalty cap for three (3) billing cycles within a rolling 
+six-month period, it shall be deemed a material breach of contract. In such cases, the Authority 
+reserves the right to:  
+a) Terminate the contract without any financial liability to CMH-CU. (Refer clause 8.3) 
+b) Invoke the Performance Bank Guarantee  
+c) Engage alternate service provider at the risk and cost of the TSP  
+Upon reaching 90% of the penalty cap in any billing cycle, the Service Provider shall submit a 
+Performance Improvement Plan within 7 days.  
+Imposition of penalty or reaching cap shall not waive Authority’s right to take further action. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+27 | P a g e 
+ 
+5 
+Eligibility Criteria 
+# 
+Specific Requirements 
+Documents Required 
+1 
+a) The Bidder should be a legal entity 
+registered in India and be in operations for a 
+period of at least last 5 (Five years) as on 
+last date of submission of bid. 
+b) The Bidder should be: 
+A company registered under Companies Act, 
+1956/2013 
+OR 
+A partnership firm registered under 
+Partnership Act, 1932 
+OR 
+A Limited Liability Partnership registered 
+under Limited Liability Partnership Act, 2008. 
+• Certificate of Registration/ 
+Incorporation under Companies Act 
+1956/2013 or Partnership Act 1932 
+or Limited Liability partnership Act 
+2008, as the case may be. 
+• Memorandum and Articles of 
+Association. 
+• ITR of last 3 FYs (FY 2022-23, 2023-
+24 and 2024-25) along with 
+Chartered Accountant /Statutory 
+Auditor’s Certificate for business 
+operations continuity for FY 2024-25 
+2 
+The Bidder must have minimum average 
+annual turnover of INR 150 Crores during 
+the last three financial years (FY 2022-23, FY 
+2023-24, FY 2024-25).  
+• Audited financial statements (balance 
+sheet, profit and loss statement) for 
+last three Financial Years (FY 2022-23, 
+2023-24 and 2024-25) from Statutory 
+auditor / Chartered Accountant  
+• Turnover Certificate from Statutory 
+auditor / Chartered Accountant 
+3 
+The bidder must be a Telecom Service 
+Provider (TSP) holding a valid Unified 
+License, Unified Access Service License 
+(UASL), and National Long Distance (NLD) 
+issued by the Department of 
+Telecommunications (DoT), Government of 
+India. 
+(Participation through resellers, franchisees, 
+• Copy of valid telecom license issued 
+by DoT/TRAI 
+• Copy of DoT Unified License 
+• Certificate of Incorporation 
+• Audited financial statements 
+• Self-declaration of not being a 
+reseller/partner 
+• Network diagram / capability 
+statement 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+28 | P a g e 
+ 
+# 
+Specific Requirements 
+Documents Required 
+channel partners, system integrators, CPaaS 
+Providers, call aggregators are strictly 
+prohibited) 
+The bid must be submitted only by the 
+licensed Telecom Service Provider in its own 
+name.) 
+The bidder must own and operate core 
+telecom infrastructure (switching, routing, 
+numbering resources, and network 
+backbone) and should not rely on third-
+party leased SIP trunk services for delivery. 
+The bidder must provide SIP Trunk services 
+directly under its own licensed telecom 
+network. 
+The bidder must comply with DoT security 
+guidelines, Lawful Interception & 
+Monitoring (LIM) requirements, and other 
+regulatory obligations. 
+The license should remain valid for the 
+entire contract period. 
+4 
+The Bidder should have at least 3 years of 
+experience as on 31 March 2026 in 
+providing SIP trunks to Contact Centers, 
+BPOs, or Government organizations, and 
+should have successfully deployed and 
+operated a minimum of 100 SIP trunks for at 
+least 3 clients in India. 
+• Work Orders / Completion 
+Certificates/Agreements 
+5 
+The Bidder should have successfully 
+implemented at least 3 projects involving 
+SIP trunking for Government/PSU Call 
+Centers in the last five financial years (FYs 
+• Client certificates / Work Orders / 
+Agreements 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+29 | P a g e 
+ 
+# 
+Specific Requirements 
+Documents Required 
+2021–22, 2022–23, 2023–24, 2024–25, and 
+2025–26). 
+6 
+The Bidder must have a 24x7 Network 
+Operations Centre (NOC) and support 
+infrastructure in India. 
+• Self-certification / details of NOC 
+7 
+The Bidder should not be 
+blacklisted/debarred by any 
+Government/PSU organization as on bid 
+submission date. 
+• Affidavit of non-blacklisting/de-barred 
+signed & stamped by Bidder on stamp 
+paper of value INR 300 
+8 
+The Bidder should not be under insolvency, 
+bankruptcy, or liquidation proceedings and 
+should not have any regulatory violations. 
+• Undertaking on company letterhead 
+9 
+The Authorized Signatory must be duly 
+authorized to submit the bid and sign the 
+contract. 
+• Power of Attorney / Board Resolution 
+• POA in the name of Authorized 
+signatory to sign the bid on stamp 
+paper of value Rs. 300 
+10 The Bidder must have valid GST registration 
+in India. 
+• GST Certificate copy 
+Any Bid failing to meet any of the above stated qualification criteria shall be summarily rejected 
+and will not be considered for Financial Evaluation. 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+30 | P a g e 
+ 
+6 
+Instructions to the Bidders 
+6.1  General 
+• While every effort has been made to provide comprehensive and accurate background 
+Information and requirements, Bidders must form their own Conclusions about the 
+Telecom Service Provide required for Inbound and Outbound Call and Toll-Free Services 
+through SIP Trunks. Bidders and recipients of this Tender may wish to consult their own 
+legal advisers in relation to this Tender. 
+• All information supplied by Bidders may be treated as contractually binding on the 
+Bidders, on successful award of the assignment by the CMH-CU on the basis of this 
+Tender. 
+• No commitment of any kind, contractual or otherwise shall exist unless and until a formal 
+written contract has been executed by or on behalf of the CMH-CU. Any notification of 
+preferred Bidder status by the CMH-CU shall not give rise to any enforceable rights to the 
+Bidder. The CMH-CU may cancel this public procurement at any time prior to a formal 
+written contract being executed by or on behalf of the CMH-CU. 
+• This Tender supersedes and replaces any previous public documentation & 
+Communications, and Bidders should place no reliance on such communications. 
+6.2  Compliant Tenders / Completeness of Response 
+Bidders are advised to study all instructions, forms, requirements, appendices, and other 
+information in the Tender documents carefully. Online submission of the bid / proposal shall be 
+deemed to have been done after careful study and examination of the Tender document with 
+full understanding of its implications. 
+Failure to comply with the requirements of this paragraph may render the Proposal non-
+compliant and the Proposal may be rejected. Bidders must: 
+• 
+Comply with all requirements as set out within this Tender. 
+• 
+Include all supporting documentations specified in this Tender. 
+6.3  Pre-Bid Meeting & Clarifications 
+Bidders Queries 
+a) CMH-CU shall hold a pre-bid meeting with the prospective Bidders on Date & time and 
+Address mentioned in Fact Sheet of this document. 
+b) The two (2) authorized representatives of interested organization may attend pre-bid 
+conference at their own cost after giving prior intimation to CMH-CU.  
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+31 | P a g e 
+ 
+c) Pre-bid queries of only those Bidders will be responded who have registered 
+themselves on or before response of pre-bid queries is released. 
+d) Bidders are requested to submit the e-mail address and mobile no. of one authorized 
+person for all communications along with the registration. 
+e) The Bidders will have to ensure that their queries for Pre-Bid meeting should reach to 
+CMH-CU by email (Excel File only) on or before last date for sending pre-bid queries 
+mentioned in Fact Sheet of this document through the e-mail of only the authorized 
+representative of the Bidder. 
+f) Prospective Bidders may visit the project site to familiarize themselves with the 
+infrastructure. The date and time of such visit shall be informed to CMH-CU on the 
+date as mentioned in the Fact Sheet of this document. 
+g) The queries should necessarily be submitted in the following format: 
+Name of the Bidder<<………………………………………………………………………….>> 
+Contact Number and Address of the Bidder- <<………………………………………………>> 
+ 
+ 
+h) CMH-CU shall not be responsible for ensuring that the Bidder’s queries have been 
+received by them. Any requests for clarifications post the indicated date and time may 
+not be entertained by the CMH-CU. 
+i) Bidders must confirm their participation in advance. 
+The purpose of the meeting is to provide Bidders information regarding the Tender, project 
+requirements, and opportunity to seek clarification regarding any aspect of the Tender and the 
+project. However, the ‘CMH-CU’ reserves the right to hold or re-schedule the Pre-Bid meeting. 
+Sr. No. 
+Participant 
+Section No. 
+Page No. 
+Tender Clause 
+Query 
+Remarks 
+1 
+2 
+3 
+4 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+32 | P a g e 
+ 
+6.4  Responses to Pre-Bid Queries and Issue of Corrigendum 
+a) The Officer notified by the CMH-CU will endeavour to provide timely response to the 
+queries. However, CMH-CU makes no representation or warranty as to the completeness 
+or accuracy of any response made in good faith, nor does CMH-CU undertake to answer 
+all the queries that have been posed by the Bidders. 
+b) At any time prior to the last date for receipt of bids, CMH-CU may, for any reason, whether 
+at its own initiative or in response to a clarification requested by a prospective Bidder, 
+modify the TENDER Document by a corrigendum. 
+c) The Corrigendum (if any) & clarifications to the queries from all Bidders will be posted on 
+the GeM portal (https://gem.gov.in/). Any such corrigendum shall be deemed to be 
+incorporated into this Tender. 
+d) In order to provide prospective Bidders with reasonable time for taking the corrigendum 
+into account, CMH-CU may, at its discretion, extend the last date for the receipt of 
+Proposals. 
+6.5  Key Requirements of the Bid 
+6.5.1  Right to Terminate the Process 
+a) CMH-CU may terminate the Tender process at any time and without assigning any reason.  
+CMH-CU makes no commitments, express or implied, that this process will result in a 
+business transaction with anyone. 
+b) This Tender does not constitute an offer by CMH-CU. Participation in the tender process 
+only enables a bidder to be considered for selection by CMH-CU and, if selected, to 
+proceed toward execution of the Contract. 
+c) Order of Precedence: CMH-CU’s Guidelines, Rules, and Regulations outlined in this 
+document followed by corrigendum or addendum if any will take precedence over the 
+GeM Guidelines. 
+6.5.2  Earnest Money Deposit (EMD) 
+a) The agency must submit EMD as per details mentioned in Fact sheet. 
+b) EMD of all unsuccessful Bidders will be refunded by CMH-CU within 60 days of the 
+Bidder being notified as being unsuccessful after the contract agreement is signed 
+with the selected Bidder.  
+c) EMD amount is interest free and will be refundable to the unsuccessful Bidders 
+without any accrued interest on it. 
+d) The EMD may be forfeited: 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+33 | P a g e 
+ 
+i. If a Bidder withdraws its bid during the period of bid validity. 
+ii. In case of a successful Bidder, if the Bidder fails to sign the contract in 
+accordance with this Tender. 
+e) The EMD of successful Bidders (Primary and Secondary) will be returned after 
+submission of the security deposit in the form of a Bank Guarantee (as per Annexure-
+3) valid for the period of 5 years and 6 months, effective from the date of agreement. 
+Bank Guarantee is to be re-submitted additionally if extension is given. 
+6.5.3  Power of Attorney (PoA) 
+A Proposal should be accompanied by a power-of-attorney in the name of the signatory of the 
+Proposal as per Annexure 1 mentioned in this TENDER. 
+7 
+Preparation and Submission of Proposal 
+7.1 Proposal Preparation Costs 
+The Bidder shall be responsible for all costs incurred in connection with participation in the 
+Tender process, including, but not limited to, costs incurred in conduct of informative and other 
+diligence activities, participation in meetings/discussions/presentations, preparation of proposal, 
+providing any additional information required by CMH-CU to facilitate the evaluation process, 
+and in negotiation of a definitive contract or all such activities related to the bid process. CMH-
+CU will in no case be responsible or liable for those costs, regardless of the conduct or outcome 
+of the bidding process.  
+7.2 Language 
+The Proposal should be filled by the Bidders in the English language only. If any supporting 
+documents submitted are in any language other than English, translation of the same in English 
+language is to be duly attested by the Bidders. For purposes of interpretation of the documents, 
+the English translation shall govern. 
+7.3 Evaluation Process & Clarification 
+a) CMH-CU will constitute a Tender Evaluation Committee to evaluate the responses of the 
+Bidders. 
+b) The Tender Evaluation Committee constituted by the CMH-CU shall evaluate the 
+responses to the Tender and all supporting documents / documentary evidence. Inability 
+to submit requisite supporting documents / documentary evidence, may lead to rejection 
+of the bid. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+34 | P a g e 
+ 
+c) The decision of the Tender Evaluation Committee in the evaluation of responses to the 
+Tender shall be final. No correspondence will be entertained outside the process of 
+evaluation with the Committee. 
+d) The Tender Evaluation Committee may ask for meetings with the Bidders to seek 
+clarifications on their proposals. 
+e) The Tender Evaluation Committee reserves the right to reject any or all proposals on the 
+basis of any deviations (If any clarification is needed on the documents). 
+f) Each of the responses shall be evaluated as per the criterions and requirements specified 
+in this Tender. 
+g) In the event that the L1 bidder fails or refuses to sign the contract, or is otherwise unable 
+to proceed for any reason, the Committee reserves the right to consider the L2 and then 
+L3 bidders for further negotiation. 
+7.4 Tender Opening 
+Received bids will be opened online. Participated Bidders can be present online through portal 
+(https://gem.gov.in/) 
+7.5 Tender Validity 
+The offer submitted by the Bidders should be valid for a minimum period of 180 days from the 
+date of opening of the Tender. 
+7.6 Tender Evaluation 
+a) Initial Bid scrutiny will be held, and incomplete details as given below will be treated as 
+non-responsive.  
+i. If Proposals are not submitted in as specified in the Tender document. 
+ii. Received without the Letter of Authorization (Power of Attorney). 
+iii. Are found with suppression of details 
+iv. With incomplete information, subjective, conditional offers and partial offers submitted 
+v. Submitted without the documents requested in the checklist 
+vi. Have non-compliance with any of the clauses stipulated in the Tender 
+vii. With lesser validity period. 
+b) All responsive Bids will be considered for further processing as below. 
+Tender evaluation Committee will prepare a list of responsive Bidders, who comply with all 
+the Terms and Conditions of the Tender. All eligible bids will be considered for further 
+evaluation by a committee according to the Evaluation process defined in this TENDER 
+document. The decision of the Committee will be final in this regard. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+35 | P a g e 
+ 
+i. The Evaluation committee will examine the bids to determine whether they are complete, 
+whether any computational errors have been made, and whether the bids are generally in 
+order. 
+ii. CMH-CU may request additional clarification documents from Bidders based on the 
+submissions made as part of the bid response. However, no new documents will be 
+entertained for bid evaluation purposes after the bid submission deadline, except for those 
+specifically submitted in response to clarification requests raised by the Tendering 
+Authority. 
+iii. Further, the scope of the evaluation committee may also cover taking any decision with 
+regard to the Tender Document, execution/ implementation of the project including the 
+management period. 
+iv. The Proposal shall be opened in the presence of Bidders representatives who intend to 
+attend at their cost. The Bidders’ representatives who are present shall sign a register 
+giving evidence of their   attendance. 
+Proposal document shall be evaluated as per the following steps: 
+a. Preliminary Examination of Eligibility Criteria documents:  
+The Eligibility Criteria document will be examined to determine whether the Bidder meets the 
+eligibility criteria, whether the proposal is complete in all respects, whether the documents have 
+been properly signed and whether the bids are generally in order. Any bids found to be non-
+responsive for any reason or not meeting the minimum levels of the performance or eligibility 
+criteria specified in various sections of this Tender Document will be rejected and will not be 
+considered further. 
+b. Evaluation of document:  
+A detailed evaluation of the bids shall be carried out in order to determine whether the Bidders 
+are competent enough and whether the technical aspects are substantially responsive to the 
+requirements set forth in the Tender Document.  
+All supporting documents submitted in support of Eligibility Evaluation matrix should comply the 
+following: - 
+• Soft copies of supporting documents to be submitted on the GeM portal however 
+CMH-CU may request for clarification for incomplete details or may request for hard 
+copies in quality print as and when required. 
+• Supporting document should clearly indicate value of the completed project and 
+scope of work/ services should be clearly highlighted. 
+• Completion certificate should clearly indicate the value and duration of the project. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+36 | P a g e 
+ 
+• In case of projects where order for recurring /Extension and subsequent order has 
+been placed on the Bidder only the mentioned order value will be considered for 
+evaluation. 
+Bidders failing to comply any of the above then the Bid will be summarily rejected. 
+7.7 Deciding Award of Contract 
+a) CMH-CU reserves the right to ask for a technical elaboration/clarification from the Bidder 
+on the already submitted Proposal at any point of time before opening the Commercial 
+Proposal. The Bidder shall furnish the required information to CMH-CU and its appointed 
+representative on the date asked for, at no cost to the CMH-CU. The CMH-CU may at its 
+discretion, visit the office of the Bidder at any-time before the signing of Agreement. 
+b) CMH-CU shall inform those Bidders whose proposals did not meet the eligibility criteria 
+or were considered non-responsive, informing them that their Commercial Proposals will 
+be returned unopened/rejected online during selection process.  
+c) The Bidder’s name, the Financial Quotes, the total amount of each proposal and other 
+such details as the Tendering Authority may consider appropriate, will be announced and 
+recorded by the CMH-CU at the opening of the bid. 
+d) CMH-CU shall inform selected Bidders whose proposals are accepted via issuance of 
+Letter of Intent (LoI). The Bidder shall acknowledge the LoI and return the duplicate copy 
+duly sealed and signed, within seven days from the issue of the LoI by CMH-CU. 
+e) Since the requirement under this RFP is for empanelment of two (2) Telecom Service 
+Providers, the evaluation shall be undertaken separately for different commercial 
+components. 
+f) For the purpose of ensuring redundancy and uninterrupted service delivery, no single 
+bidder shall be awarded both the Inbound & Toll-Free Services (TSP-1) and Outbound 
+Call Services (TSP-2) categories. 
+g) The bidder declared as L1 for the Inbound & Toll-Free Services category shall be 
+awarded the contract as Primary Telecom Service Provider (TSP-1). In the event that the 
+same bidder is also ranked L1 for the Outbound Call Services category, such bidder shall 
+not be considered for award under the Outbound Call Services category. In such case, 
+the bidder ranked next in order of financial evaluation, namely L2, shall be awarded the 
+Outbound Call Services contract and designated as Secondary Telecom Service Provider 
+(TSP-2). 
+h) Separate Work Order will be issued to TSP1 and TSP2. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+37 | P a g e 
+ 
+i) After acceptance of LoI, Performance bank guarantee (PBG) 5 % of Total Bid Value ((5% 
+of final price quoted by TSP1 and TSP2) shall be deposited as specified in this document 
+for signing an Agreement with CMH-CU. 
+j) CMH-CU will sign the Agreement with selected Bidder for a period of 60 months. 
+k) In case L1 Bidder cannot execute or accept the work order then the decision to: 
+o issue the Work Order to the next eligible bidder after successful negotiation, or  
+o cancel/scrap the current RFP process and initiate a fresh tender, shall rest solely 
+with the Committee. 
+Bid Evaluation Methodology 
+(A) Evaluation for TSP 1 
+• 
+The bidder quoting the lowest inbound rate shall be designated as L1 (TSP1) 
+L1 = Lowest (Inbound Toll-Free Rate per second) 
+ 
+(B) Evaluation for Sec TSP 2 
+• 
+The bidder quoting the lowest unlimited calling plan shall be designated as L1 (TSP2) 
+L1 = Lowest unlimited calling plan.  
+7.8 Reverse Auction and TSP Selection Process 
+a) All qualified bidders shall participate in the Financial Bid Opening and the subsequent 
+Reverse Auction (RA-1 & RA-2 for TSP-1 and TSP-2 respectively). 
+b) The bidder emerging as L1 in RA-1 shall be selected as TSP-1 and considered for award of 
+Work Order. 
+c) Upon selection, TSP-1 shall be excluded from further participation in the selection 
+process for TSP-2. 
+d) A second Reverse Auction (RA-2) shall be conducted among the remaining qualified and 
+eligible bidders. 
+e) The bidder emerging as L1 in RA-2 shall be selected as TSP-2 and considered for award of 
+Work Order. 
+f) Under no circumstances may the same bidder be selected as both TSP-1 and TSP-2. The 
+two contracts shall be awarded to two different Telecom Service Providers to ensure 
+service redundancy. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+38 | P a g e 
+ 
+g) After completion of both the selection process, Lowest Bidder (L1) for TSP1 will be 
+selected and Lowest Bidder (L1) for TSP2 will be selected. 
+h) The Reverse Auction process, as applicable and prescribed under the GeM portal 
+guidelines prevailing at the time of procurement, shall be followed for finalization of the 
+contract. 
+7.9 Modification and Withdrawal of Bids 
+a) The Bidder is allowed to modify or withdraw its submitted proposal online any time prior 
+to the last date and time prescribed for receipt of bids as in accordance with GeM 
+guidelines. 
+b) Subsequent to the last date for receipt of bids, no modification of bids shall be allowed 
+online. 
+7.10 Proposal Forms 
+a) Wherever a specific form is prescribed in the Proposal document, the Bidder shall use the 
+form to provide relevant information. If the form does not provide space for any required 
+information, space at the end of the form or additional sheets shall be used to convey the 
+required information. 
+b) For all other cases, the Bidder shall design a form to hold the required information. 
+c) CMH-CU shall not be bound by any printed conditions or provisions in the Bidder’s 
+Proposal. 
+7.11 Local Conditions 
+a) Each Bidder is expected to become fully acquainted with the local conditions and factors, 
+which may affect the performance of the contract and /or the cost. 
+b) The Bidder is expected to know all conditions and factors, which may have any effect on 
+the execution of the contract after issue of letter of Award as described in the bidding 
+document. The CMH-CU shall not entertain any request for clarification from the Bidder 
+regarding such local conditions. 
+c) It is the Bidder’s responsibility that such factors have been properly investigated and 
+considered before submitting the proposal. No claim, what-so-ever, including that for 
+financial adjustment to the contract awarded under the bidding document will be 
+entertained by the CMH-CU. Neither any change in the time schedule of the contract nor 
+any financial adjustments arising there-of shall be permitted by the CMH-CU on account 
+of failure of the Bidder to know the local laws / conditions. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+39 | P a g e 
+ 
+d) The Bidder is expected to visit and examine and study the location as specified above and 
+its surroundings and obtain all information that may be necessary for preparing the 
+proposal at its own interest and cost. 
+7.12 Contacting the CM Helpline Coordination Unit, Gandhinagar, Gujarat 
+a) Any effort by a Bidder to influence the proposal evaluation, proposal comparison or 
+contract award decisions may result in the rejection of the proposal. 
+b)  The Bidder shall not approach any officers related to tender process, from the time of 
+the proposal opening till the time the Contract is awarded. 
+7.13 Tentative Schedule of Events 
+Tentative schedule of events regarding this tender shall be as per the dates and time given in the 
+Fact Sheet. 
+7.14 Opening of Proposal 
+First, the envelope containing Earnest Money Deposit (EMD) will be opened online, and if it is 
+found, that the Bidder has furnished all the documents in the prescribed manner, then the second 
+envelope containing Bidder’s Proposal will be opened online. 
+The commercial proposal will be opened for qualified Bidders. The Evaluation Committee or its 
+authorized representative will open the tenders.  
+Sequence of online Bid is as follows: 
+a) EMD 
+b) Eligibility Criteria 
+c) Commercial 
+7.15 Confidentiality 
+a) As used herein, the term “Confidential Information” means any information, including 
+information created by or for the other party, whether written or oral, which relates to 
+internal controls, computer or data processing programs, algorithms, electronic data 
+processing applications, routines, subroutines, techniques or systems, or information 
+concerning the business or financial affairs and methods of operation or proposed 
+methods of operation, accounts, transactions, proposed transactions or security 
+procedures of either party or any of its affiliates, or any CMH-CU of either party, except 
+such information which is in the public domain at the time of its disclosure or thereafter 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+40 | P a g e 
+ 
+enters the public domain other than as a result of a breach of duty on the part of the party 
+receiving such information. It is the express intent of the parties that all the business 
+processes and methods used by the Bidder in rendering the services hereunder are the 
+Confidential Information of the Bidder. 
+b) The Bidder shall keep confidential any information related to this tender, with the same 
+degree of care as it would treat its own confidential information. The Bidder shall note 
+that the confidential information will be used only for the purposes of this tender and 
+shall not be disclosed to any third party for any reason what-so-ever. 
+c) At all times during the performance of the services, the Bidder shall abide by all applicable 
+security rules, policies, standards, guidelines, and procedures. The Bidder should note 
+that before any of its employees or assignees are given access to the Confidential 
+Information, each such employee and assignees shall agree to be bound by the terms of 
+this tender and such rules, policies, standards, guidelines, and procedures applicable to 
+its employees or CCEs. 
+d) The Bidder should not disclose to any other party and shall keep confidential the terms 
+and conditions of this Contract agreement, any amendment hereof, and any Attachment 
+or Annexure hereof. 
+e) The obligations of confidentiality under this section shall survive even after completion of 
+this contract and the parties entering in to the contract shall sign a non-disclosure 
+agreement with CMH-CU and adhere to its provisions if any lapse is found or it is found 
+that the parties are using confidential data for any purpose without prior sanction of 
+CMH-CU , it will attract strict legal actions and they will have to pay the claims and 
+damages as may be asked by CMH-CU. 
+f) The successful Bidder must maintain absolute confidentiality of the documents/ maps/ 
+tools collected in any form including electronic media and any other data/information 
+provided to them for the execution of the work. 
+g) The Bidder should not use the Project data for any purpose other than the scope of work 
+specified in the document and added/ amended before signing the contract. 
+h) If at any stage it is found that the Bidder is using the data provided by the CMH-CU any 
+time during the contract execution or after completion of the contract for any other 
+purposes, stringent legal action will be initiated as per applicable law of land, and the 
+contract will be terminated without assigning any reasons. 
+i) Disclosure of any information, including personal data and IGSMS-related data, is strictly 
+prohibited. Any unauthorized access, sharing, or leakage of such information and/or data 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+41 | P a g e 
+ 
+shall constitute a serious violation and will attract stringent legal and disciplinary action, 
+including penalties as per applicable laws and organizational policies. 
+j) Bidder shall not disclose to anyone, any information marked as confidential and 
+communicated or made available or accessible by the firm during execution of the work. 
+7.16 Execution of Agreement 
+After acknowledgement of the LoI by the selected Bidders, a performance security of 5% of the 
+contract value must be deposited in the form of FDR/TDR/DD/BG of any nationalized /Scheduled 
+Bank in the name of the Under Secretary, General Administration Department (GAD) till the term 
+of the Agreement and shall sign the Agreement within Twenty-one (21) days from the issue of 
+LoI. 
+7.17 Duration of the contract 
+The engagement contract for selected Bidder shall initially be valid for a period of 5 years or 60 
+months from the date of signing of Agreement. CMH-CU may further extend the same for 1 year 
+and thereafter for a further period of one (1) year (i.e., 5+1+1 years) based on mutual consent. 
+8 
+Terms and Conditions: Applicable Post Award of Contract 
+8.1 Payment Milestones 
+The successful Bidder shall submit monthly invoices as per the actual service provided with below 
+mentioned supporting documents and it should be verified by concerned department. TSP shall 
+be paid as per the payment schedule detailed in the RFP.  
+The monthly payment will be initiated with following supporting documents along with Invoice. 
+• 
+SLA Compliance 
+• 
+MIS Reports 
+• 
+Payment verification form & penalty advice (if any) 
+8.2 Total Cost of Services 
+The total cost of the Services payable is set forth as per the successful Bidder proposal to 
+Concerned authority and as negotiated thereafter. 
+Payments under this Contract shall not exceed the amount specified in the Commercial Form. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+42 | P a g e 
+ 
+8.3 Termination Clause 
+8.3.1  Termination for Convenience 
+a) CMH-CU may, at its sole discretion and without assigning any reason, terminate this 
+Contract, either wholly or partially, by giving the Selected Bidder thirty (30) days’ prior 
+written notice. 
+b) Upon receipt of such notice, the Selected Bidder shall: a) Immediately cease all further 
+services, except such work as may be expressly directed by CMH-CU for the purpose of 
+orderly closure, protection of completed deliverables, or transition of services; b) Hand 
+over to CMH-CU all deliverables, documents, reports, data (where applicable), 
+configurations, records, and other materials developed or procured under the Contract 
+up to the effective date of termination. 
+c) During the notice period, both primary and secondary TSPs will, save as otherwise 
+provided therein, continue to perform their respective obligations under this Agreement 
+and shall not, whether by act of omission or commission, impede or otherwise interfere 
+with the party’s endeavor to remedy the default which gave rise to the commencement 
+of such notice period. 
+d) CMH-CU shall pay the Selected Bidder the Contract Price properly attributable to services 
+satisfactorily performed and formally accepted up to the termination date. 
+e) In case of termination, the Bidder will be paid for the work/services already delivered till 
+the date of termination after deduction of penalties, if any. 
+f) No compensation shall be payable for loss of profit, loss of opportunity, or any work not 
+executed. 
+8.3.2  Termination for Default 
+a) CMH-CU may terminate this Contract, in whole or in part, upon the occurrence of an 
+Event of Default as defined under Clause 8.11. 
+b) If SLAs are not maintained properly and do not provide services as per SLAs, then CMH-
+CU has right to foreclose contract. 
+c) If deductions on account of penalties & liquidated damages exceed more than 10% of the 
+total contract price. 
+d) In case the CMH-CU finds illegal use of hardware, software tools, manpower etc. that are 
+dedicated to the project. 
+e) In case the selected Bidder fails to deliver the quantity and/or service as stipulated in the 
+delivery schedule, the CMH-CU reserves the right to procure the same or similar services 
+from alternate sources at risk, cost, and responsibility of the selected Bidder. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+43 | P a g e 
+ 
+f) Upon occurrence of an event of default as set out in Clause above, either party will deliver 
+a default notice in writing to the other party which shall specify the event of default and 
+give the other party an opportunity to correct the default. 
+g) Upon expiry of the notice period, in the event that the Bidder fails to cure the default to 
+the satisfaction of the CMH-CU, the CMH-CU may terminate the Agreement without any 
+further liability. 
+h) Such termination shall be without prejudice to CMH-CU’s right to: 
+a. Levy Liquidated Damages.  
+b. Invoke Performance Security.  
+c. Recover additional costs incurred due to risk purchase. 
+d. Exercise any other remedies available under this Contract. 
+i) In case of termination of the Bidder, the CMH-CU shall forfeit the bank guarantee 
+(performance security) and may blacklist the Bidder and/or the OEM. 
+8.3.3  Termination for Insolvency 
+Notwithstanding anything contained elsewhere in this Contract, CMH-CU may terminate the 
+Contract with immediate effect, without any cure period, if the Selected Bidder: 
+a) Becomes insolvent or bankrupt. 
+b) Is subject to winding-up, liquidation, or dissolution proceedings; or 
+c) Has a receiver, liquidator, administrator, or similar authority appointed over its business 
+or assets. 
+8.3.4  Termination due to Force Majeure 
+a) Where a Force Majeure Event continues for a period exceeding sixty (60) days and 
+substantially prevents performance of the Contract, either Party may terminate the 
+Contract by giving thirty (30) days’ written notice. 
+b) Upon such termination, payments shall be restricted to services actually rendered and 
+accepted up to the date of termination. 
+c) Neither Party shall be liable for termination arising solely due to such Force Majeure 
+Event, except for accrued obligations. 
+8.3.5  Consequences and Survival of Termination 
+a) In the event of termination of the Contract due to any cause whatsoever, [whether 
+consequent to the stipulated term of the Contract or otherwise], CMH-CU shall be entitled 
+to impose any such obligations and conditions and issue any clarifications as may be 
+necessary to ensure an efficient transition and effective business continuity of the 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+44 | P a g e 
+ 
+Service(s), with which the Telecom Service Provider (TSP) shall be obliged to comply with 
+and take all available steps to minimize loss resulting from that termination/breach, and 
+further allow the next successor TSP to take over the obligations of the erstwhile TSP in 
+relation to the execution/continued execution of the scope of the Contract. 
+b) Nothing herein shall restrict the right of CMH-CU to invoke the Purchaser Guarantee and 
+other guarantees and pursue such other rights and/or remedies that may be available to 
+CMH-CU under law or otherwise. 
+c) The termination hereof shall not affect any accrued right or liability of either Party nor 
+affect the operation of the provisions of the Contract that are expressly or by implication 
+intended to come into or continue in force on or after such termination. 
+d) TSP shall support seamless port-out without downtime during exit. 
+8.4 Dispute Resolution Mechanism 
+The Parties shall first endeavour to resolve all disputes amicably through mutual consultation and 
+negotiation. 
+If unresolved within fifteen (15) days, the dispute shall be referred to arbitration in accordance 
+with the Arbitration and Conciliation Act, 1996, as amended. 
+Seat and venue: Gandhinagar or Ahmedabad, Gujarat 
+Each Party shall bear its own costs unless otherwise awarded. 
+8.5 Notices 
+All notices under this Contract shall be in writing and delivered by hand, registered post, email, 
+or facsimile to the designated addresses. 
+Notices shall be deemed effective upon delivery or tender, whichever is earlier. 
+8.6 Failure to agree with Terms and Conditions of the TENDER 
+Failure of the successful Bidder to agree with the Terms & Conditions of the TENDER shall 
+constitute sufficient grounds for the annulment of the award, in which event CMH-CU may award 
+the contract to the next best value Bidder or call for new proposals from the interested Bidders, 
+or invoke the PBG of the most responsive Bidder. 
+8.7 Limitation of Liability 
+The liabilities arising from fraud, wilful misconduct, indemnity obligations, breach of 
+confidentiality, intellectual property infringement, or violation of Applicable Laws, the aggregate 
+liability of the Selected Bidder shall not exceed the value of the relevant Work Order issued under 
+this Contract. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+45 | P a g e 
+ 
+8.8 Right of Monitoring, Inspection and Periodic Audit 
+CMH-CU shall have the right to monitor, inspect, and assess the performance of the Selected 
+Bidder at any time during the term of the Contract, upon providing reasonable prior notice. 
+CMH-CU may also conduct, either itself or through an authorized agency, periodic audits 
+(technical, financial, or process-related)  
+The Selected Bidder shall provide full cooperation, access to premises, systems, records, and 
+personnel for such audits. 
+Any non-compliance or deviation identified shall be rectified within the timeframe specified by 
+CMH-CU, failing which default proceedings may be initiated. 
+8.9 Information Security 
+The Selected Bidder shall ensure that all information, data, documents, and materials belonging 
+to CMH-CU are handled securely and shall not be removed, copied, disclosed, or transmitted 
+without prior written approval. 
+Upon termination of the Contract or upon demand by CMH-CU, the Selected Bidder shall 
+immediately return or securely destroy all such information, including copies in physical or 
+electronic form, and certify compliance where required. 
+8.10 Indemnity 
+The Selected Bidder shall indemnify, defend, and hold harmless CMH-CU from and against all 
+losses, damages, claims, costs, and expenses arising out of: 
+a) Negligence, fraud, wilful misconduct, or omissions of the Selected Bidder or its personnel. 
+b) Breach of any contractual obligation, representation, or warranty. 
+c) Third-party claims, including infringement of intellectual property rights. 
+The indemnity obligation shall be limited to one hundred percent (100%) of the total Contract 
+Value and shall survive termination or expiry of the Contract. 
+8.11 Events of Default by the Selected Bidder 
+An Event of Default shall occur if the Selected Bidder: 
+a) Fails to perform any of its obligations or comply with lawful instructions or directions 
+issued by CMH-CU. 
+b) Fails to meet agreed service levels, KPIs, milestones, or timelines; If SLA penalties exceed 
+20% of the monthly invoice value for three (3) billing cycles within a rolling six-month 
+period, it shall constitute an Event of Default.  
+c) Fails to rectify defects, deficiencies, or deviations notified by CMH-CU within the 
+prescribed time. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+46 | P a g e 
+ 
+d) Makes any representation or warranty that is found to be false or misleading. 
+e) Is in breach of any Applicable Law, statutory requirement, or regulatory direction; or 
+f) Becomes insolvent or subject to insolvency-related proceedings. 
+8.12 Liquidated Damages 
+If the Selected Bidder fails to meet timelines, milestones, or performance requirements, CMH-
+CU may levy Liquidated Damages at rates specified in the Contract, subject to an overall ceiling 
+of ten percent (10%) of the total Contract Value. 
+Liquidated Damages may be recovered from any amounts due to the Selected Bidder or by 
+invocation of Performance Security. 
+The Levy of Liquidated Damages shall not relieve the Selected Bidder from its obligation to 
+complete the Contract or from any other contractual liabilities. 
+8.13 Continuance of the Contract 
+Notwithstanding the existence of any dispute, arbitration proceedings, levy of Liquidated 
+Damages, or issuance of a Notice of Default, the Selected Bidder shall continue to perform its 
+obligations under the Contract so as to ensure continuity and uninterrupted delivery of services. 
+8.14 Conflict of interest 
+The Selected Bidder shall promptly disclose any actual or potential conflict of interest arising 
+during the performance of the Contract. 
+CMH-CU may require appropriate mitigation measures or take action, including termination, if 
+such conflict adversely affects the Contract. 
+8.15 Severance 
+If any provision of this Contract is held to be invalid or unenforceable, such provision shall be 
+severed, and the remaining provisions shall continue in full force and effect. 
+8.16 Governing Language 
+This Contract, and all correspondence relating thereto, shall be written and interpreted in the 
+English language. 
+8.17 “No Claim” Certificate 
+Upon final acceptance of services and submission of a “No Claim Certificate” in the prescribed 
+form, the Selected Bidder shall have no further claims against CMH-CU arising out of this 
+Contract. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+47 | P a g e 
+ 
+8.18 Publicity 
+The Selected Bidder shall not make or permit any public announcement, press release, or media 
+communication relating to this Contract without prior written approval of CMH-CU. 
+8.19 Intellectual Property Rights (IPR) 
+Use of documents and Information. 
+a) The Bidder shall not, without prior written consent from CMH-CU, disclose/share/use the 
+bid document, contract, or any provision thereof, or any specification, plan, drawing, 
+pattern, sample, or information furnished by or on behalf of the CMH-CU, in connection 
+therewith, to any person other than a person employed by the Bidder in the performance 
+of the contract. Disclosure to any such employed person shall be made in confidence and 
+shall extend only so far as may be necessary for purposes of such performance. 
+b) The Bidder shall not, without prior written consent of CMH-CU, make use of any 
+document or information made available for the project, except for purposes of 
+performing the Contract. 
+8.20 General 
+A. Relationship between the Parties 
+a) Nothing in the Contract constitutes any fiduciary relationship between the CMH-CU and 
+Selected Bidder/ Bidder’s Team or any relationship of employer employee, principal and 
+CCE, or partnership, between the CMH-CU and Selected Bidder. 
+b) No Party has any authority to bind the other Party in any manner whatsoever except as 
+agreed under the terms of the Contract. 
+c) CMH-CU will not be under any obligation to the Implementation Agency’s Team except 
+as agreed under the terms of the Contract. 
+B. No Assignment 
+The Selected Bidder shall not transfer any interest, right, benefit or obligation under the 
+contract without the prior written consent of CMH-CU. 
+C. Survival 
+The provisions of the clauses of the Contract in relation to documents, data, processes, 
+property, Intellectual Property Rights, indemnity, publicity and confidentiality and ownership 
+shall survive the expiry or termination of this Contract, and, in relation to confidentiality, the 
+obligations shall continue to apply unless CMH-CU notifies the Selected Bidder of its release 
+from those obligations. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+48 | P a g e 
+ 
+D. Entire Contract 
+The terms and conditions laid down in the Tender and all annexures thereto as well as the 
+Proposal and any attachments/annexes thereto shall be read in consonance with and form an 
+integral part of the Contract. The Contract supersedes any prior contract, understanding or 
+representation of the Parties on the subject matter. 
+E. Governing Law 
+This Contract shall be governed in accordance with the laws of India. 
+F. Jurisdiction of Courts 
+The High Court of Gujarat has exclusive jurisdiction to determine any proceeding in relation to 
+the Contract. 
+G. Compliance with Laws 
+ 
+The Selected Bidder shall comply with the laws in force in India in the course of performing the 
+Contract. 
+H. Notices 
+A “notice” means: 
+a notice or a consent, approval or other communication required to be in writing under the 
+Contract. All notices, requests or consent provided for or permitted to be given under this 
+Contract shall be in writing and shall be deemed to have been effectively given when personally 
+delivered or mailed by pre-paid certified/registered mail, return receipt requested, addressed 
+as follows and shall be deemed received two days after mailing or on the date of delivery, if 
+personally delivered: 
+To 
+The Director, 
+CM Helpline Coordination Unit 
+General Administration Department  
+6th Floor, Wing-A, Block-1, Sector-10A, Karmayogi Bhawan, 
+Gandhinagar, Gujarat - 382010 
+ 
+Contact No: 079-23255445 or 079-23255446 
+Email: cmhelpline-ccu@gujarat.gov.in  
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+49 | P a g e 
+ 
+To Selected Bidder at: 
+Attn: 
+Address: 
+Phone: 
+Any Party may change the address to which notices are to be directed, by giving a notice to the 
+other party in the manner specified above. A notice served on a Representative is taken to be 
+notice to that Representative’s Party. 
+I. Waiver 
+a) Any waiver of any provision of this Contract shall be effective only if is in writing and 
+signed by the Party waiving its rights. 
+b) A waiver by either Party in respect of a breach of a provision of this Contract by the 
+other Party is not a waiver in respect of any other breach of that or any other provision. 
+c) The failure of either Party to enforce at any time any of the provisions of this Contract 
+shall not be interpreted as a waiver of such provision. 
+J. Modification 
+Any modification of the Contract shall be in writing and signed by an authorized representative 
+of each Party. 
+K. Taxes 
+a) Bidders are required to quote the charges inclusive of all taxes. The same would be 
+shown as a separate line item in the commercial form in the GeM portal. 
+b) Any upward/downward revision of taxes or applicability of a new tax shall be 
+permissible at the time of invoicing. However, to arrive at the bid value of the respective 
+Bidder, Bidder has to quote the charges inclusive of all taxes mentioning the prevailing 
+tax rates. 
+L. Application 
+These General Conditions shall apply to the extent that provisions in other parts of the Contract 
+do not supersede them. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+50 | P a g e 
+ 
+8.21 Fraud and Corrupt Practices 
+a) The Bidders and their respective officers, employees, agents, representatives, and 
+advisers shall observe the highest standards of ethics, integrity, and probity during the 
+Selection Process and throughout the execution of the Contract. 
+b) Notwithstanding anything to the contrary contained in this Tender, CMH-CU shall be 
+entitled to reject a Proposal, without incurring any liability whatsoever to the Bidder, if it 
+determines that the Bidder has, directly or indirectly or through any agent, engaged in 
+any corrupt practice, fraudulent practice, coercive practice, undesirable practice, or 
+restrictive practice (collectively referred to as “Prohibited Practices”) in the Selection 
+Process. 
+c) In such an event, CMH-CU shall, without prejudice to any other rights or remedies 
+available under the Tender, the Contract or applicable law, be entitled to forfeit and 
+appropriate the Bid Security or the Performance Security, as applicable, as mutually 
+agreed genuine pre-estimated compensation and damages, towards the time, cost and 
+effort incurred by CMH-CU in relation to the Tender, including the examination, 
+evaluation and consideration of the Bidder’s Proposal. 
+d) Without prejudice to the above and to any rights and remedies available to CMH-CU 
+under the Letter of Intent or the Agreement, if a Bidder or the Selected Bidder, as the 
+case may be, is found to have engaged in any Prohibited Practices either during the 
+Selection Process or after issuance of the Letter of Intent or execution of the Agreement, 
+such Bidder shall be rendered ineligible to participate in any tender or procurement 
+process issued by CMH-CU for a period of two (2) years from the date on which such 
+determination is made by CMH-CU. 
+Definitions of Prohibited Practices 
+For the purposes of this Section, the following terms shall have the meaning 
+hereinafter respectively assigned to them. 
+a) “Corrupt practice” means: 
+I. The offering, giving, receiving, or soliciting, directly or indirectly, of anything of value 
+to influence the actions of any person connected with the Selection Process; or 
+II. Offering employment, engagement, or any benefit, directly or indirectly, to any 
+official who is or has been associated with the Selection Process, the Letter of Intent, 
+or the Agreement, at any time prior to the expiry of one (1) year from the date such 
+official resigns, retires, or otherwise ceases to be in the service of CMH-CU; or 
+III. Engaging, whether during the Selection Process or after issuance of the Letter of 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+51 | P a g e 
+ 
+Intent or execution of the Agreement, any person who has been or is a legal, financial, 
+or technical consultant or adviser of CMH-CU in relation to the Project, without 
+disclosure and approval. 
+b) “Fraudulent practice” means any misrepresentation, omission of facts or disclosure of 
+incomplete or misleading facts, made with an intent to influence the Selection Process 
+or the execution of the Contract. 
+c) “Coercive practice” means impairing, harming, or threatening to impair or harm, 
+directly or indirectly, any person or property with a view to influencing participation or 
+action in the Selection Process. 
+d) “Undesirable practice” means: 
+I. Establishing contact with any person connected with or employed or engaged by 
+CMH-CU for the purpose of canvassing. 
+II. Lobbying or attempting to influence, directly or indirectly, the Selection Process in 
+any manner; or 
+III. Having or failing to disclose a Conflict of Interest. 
+e) “Restrictive practice” means forming a cartel or entering into any understanding or 
+arrangement among Bidders with the objective of restricting or manipulating free and 
+fair competition in the Selection Process. 
+8.22 Terms of Payment 
+a) The Selected Bidder shall bear all costs relating to site surveys, conveyance, audits, 
+inspections, and any other incidental expenses required for performance of the Services. 
+b) The prices and payments under the Contract shall be inclusive of all costs associated with 
+the solution and Services, unless otherwise expressly provided in the Contract. 
+8.23 Obligations 
+The Selected Bidder shall be obligated to implement any changes, modifications, or 
+enhancements to the scope of Services or Deliverables once such changes are duly approved by 
+CMH-CU in accordance with the relevant provisions of the Contract. Such approved changes shall 
+take effect from the date mutually agreed upon between the Parties. 
+8.24 Notification of Award 
+Prior to the expiration of the Bid validity period, CMH-CU shall notify the successful Bidder(s) in 
+writing that their Bid has been accepted, through issuance of a Letter of Intent or Notification of 
+Award, subject to fulfilment of contractual conditions and execution of the Agreement. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+52 | P a g e 
+ 
+8.25 Contract Period 
+The engagement contract for selected Bidder shall initially be valid for a period of 5 years or 60 
+months from the date of signing of Agreement. CMH-CU may further extend the same for 1 year 
+and thereafter for a further period of one (1) year (i.e., 5+1+1 years) based on mutual consent. 
+8.26 Changes to Services (Authority Driven Change Management) 
+CMH-CU shall have the right, at any time during the term of the Contract, to require changes to 
+the scope of Services, Deliverables, service volumes, performance parameters, operating 
+procedures, reporting requirements, project schedules, or any other aspect of the Services, in 
+order to meet operational, regulatory, or business requirements. 
+Upon receipt of such request, the Selected Bidder shall assess the proposed change and submit 
+its impact assessment, including changes, if any, to manpower deployment, timelines, and 
+commercial terms, within the time period specified by CMH-CU. CMH-CU shall evaluate the 
+assessment and, if approved, issue a written change order (“Change Order”). 
+Notwithstanding anything to the contrary, minor variations, fluctuations in call volumes, changes 
+in shift patterns, reporting formats, scripts, escalation matrices, training material, operating 
+hours or performance benchmarks, which are incidental to delivery of Call Center services, shall 
+be treated as part of the scope of Services and shall not require a Change Order or any additional 
+payment, provided such changes do not materially alter the overall contract value. 
+Any change arising out of new or amended Applicable Laws, Government of India / Government 
+of Gujarat directives, policies, guidelines, or regulatory requirements applicable to Call Center 
+operations or public service delivery shall be implemented by the Selected Bidder without any 
+additional cost or claim, unless such change demonstrably and materially alters the nature of the 
+Services, in which case CMH-CU may, at its sole discretion, consider an appropriate Change 
+Order. 
+No additional payment or modification to commercial terms shall be applicable unless expressly 
+approved by CMH-CU through a duly executed Change Order. In the absence of such approval, 
+the Selected Bidder shall continue to provide the Services in accordance with the Contract 
+without disruption. 
+8.27 Exit Management 
+a) Exit Management Period  
+The Exit Management Period shall commence: 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+53 | P a g e 
+ 
+I. 
+In the event of expiry of the Contract, on the date of expiry of the Contract; or 
+II. 
+In the event of termination of the Contract, on the date on which the notice of 
+termination is issued to the Selected Bidder. 
+The Exit Management Period shall continue until the earlier of: 
+I. 
+The date mutually agreed in writing by CMH-CU and the Selected Bidder for 
+completion of exit activities; or 
+II. 
+One (1) month from the commencement of the Exit Management Period. 
+During the Exit Management Period, the Selected Bidder shall continue to provide such 
+support and assistance as may be required to ensure business continuity and smooth 
+transition of the Services. 
+b) Exit Management Plan 
+The Selected Bidder shall prepare and submit to CMH-CU, for review and approval, a detailed 
+Exit Management Plan as a contractual deliverable. 
+The Exit Management Plan shall cover the Contract as a whole, including Project 
+implementation and Operation & Maintenance / SLA obligations, and shall include, at a 
+minimum: 
+I.Transition & Handover Program 
+A detailed transition plan to enable smooth transfer of Services to CMH-CU or a 
+replacement Bidder, including: 
+• 
+timelines, milestones, and responsibilities. 
+• 
+measures to ensure uninterrupted service delivery during transition; and 
+• 
+governance and management arrangements during the exit period. 
+ 
+II.Stakeholder Communication Plan   
+A structured communication plan for coordination with subcontractors, personnel, 
+suppliers and other third parties to prevent any disruption to Project operations. 
+III.Post-Exit Support 
+Provision of reasonable handholding and contingent support to CMH-CU and/or the 
+newly selected Bidder for a mutually agreed period after completion of transition. 
+The Exit Management Plan shall be updated as required based on directions issued by 
+CMH-CU. 
+c) Handover of Assets, Data and Documentation 
+On or before completion of the Exit Management Period, the Selected Bidder shall hand over 
+to CMH-CU or its nominated agency, in a complete and usable form, all Project-related 
+artefacts, including but not limited to: 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+54 | P a g e 
+ 
+I. 
+complete databases, datasets, and system logs. 
+II. 
+source code, configurations, and build files. 
+III. 
+process documents, policies, SOPs, and manuals. 
+IV. 
+reports, records, and operational documentation; and 
+V. 
+operation and maintenance manuals and artifacts, 
+Updated up to the effective date of transition or divestment. 
+d) Compliance with Law and Transfer of Rights 
+The Selected Bidder shall comply with all Applicable Laws to ensure transfer and assignment 
+of all rights, title, and interest relating to the Project in favour of CMH-CU or its nominee, free 
+from all encumbrances, liens, or claims. 
+e) Enforcement and Withholding 
+Failure of the Selected Bidder to comply with its obligations under this Clause shall be 
+deemed a material breach of the Contract. 
+Without prejudice to any other rights available to CMH-CU, CMH-CU shall be entitled to: 
+• withhold any pending payments; and/or 
+• invoke the Performance Security; and/or 
+• recover costs incurred in completing exit and transition activities through alternate 
+means. 
+The obligations under this Clause shall survive expiry or termination of the Contract to the 
+extent necessary to give effect to an orderly exit and transition. 
+ 
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+55 | P a g e 
+ 
+9 
+ANNEXURES 
+9.1 ANNEXURE 1: FORMAT FOR POWER OF ATTORNEY 
+(To be provided scanned copy of original as part of Bidders Proposal on stamp paper of 
+value 300 required under law duly signed by Bidder for the tender) 
+Dated: ___________ 
+POWER OF ATTORNEY 
+To Whomsoever It May Concern 
+  
+Know all men by these presents, we_________(Name and Registered office address of the 
+Bidder) do hereby constitute, appoint and authorize Mr._________(Name of the Person(s)), 
+domiciled at___________(Address), acting as______(Designation and the name of the 
+firm), as Authorized Signatory and whose signature is attested below, as our attorney, to 
+do in our name and on our behalf, all such acts, deeds and things necessary in connection 
+with or  incidental to our Proposal for Selection Of Telecom Service Provider for Providing 
+Inbound and Outbound Call and Toll-Free Services through SIP Trunks For Chief Minister 
+Helpline for the State Of Gujarat, vide Invitation for Tender (xxxxx Tender Document) 
+Document dated____, issued by CMH-CU, GAD, including signing and submission of all 
+documents and providing information and responses to clarifications/enquiries etc. as may 
+be required by CMH-CU, GAD, Gandhinagar, Gujarat or any governmental authority, 
+representing us in all matters before CMH-CU, GAD, Gandhinagar, Gujarat, and generally 
+dealing with CMH-CU in all matters in connection with our Proposal for the Tender No. 
+…………dated……….. 
+We hereby agree to ratify all acts, deeds and things lawfully done by our said attorney 
+pursuant to this Power of Attorney and that all acts, deeds and things done by our aforesaid 
+attorney shall and shall always be deemed to have been done by us. 
+ For 
+--------------------- 
+(Signature) 
+(Name, Title, and Address) 
+Accept 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+56 | P a g e 
+ 
+(Attested signature of Mr._____________________________) 
+(Name, Title, and Address of the Attorney) 
+Notes: 
+To be executed by the Bidder 
+The mode of execution of the Power of Attorney should be in accordance with the 
+procedure, if any, laid down by the applicable law and the charter documents of the 
+executant(s), and when it is so required the same should be under common seal affixed in 
+accordance with the required procedure. 
+Also, wherever required, the executant(s) should submit for verification the extract of the 
+charter documents and documents such as a resolution / power of attorney in favour of the 
+Person executing this Power of Attorney for the delegation of power hereunder on behalf 
+of the executants(s). 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+57 | P a g e 
+ 
+9.2 ANNEXURE 2: DECLARATION FOR NOT BLACKLISTED 
+(To be provided scanned copy of original on stamp paper of value 300 required 
+under law duly signed by Bidder for the tender) 
+Affidavit of 300/- Stamp Paper 
+Date:................................... 
+To, 
+The Director, 
+CM Helpline Coordination Unit (CMH-CU) 
+General Administration Department 
+6th Floor, Block-1, Wing – A, Karmayogi Bhawan, Sector 10 A, 
+Gandhinagar, Gujarat – 382010.  
+Dear Sir, 
+Ref.: Tender No. 
+I/We...................................................hereby confirm that our firm has not been banned or 
+blacklisted by any government organization/Financial institution/Court/Public sector 
+Unit/Central Government. 
+  
+Signature of Bidder........... 
+Place: 
+Name.................... 
+Date: 
+Designation................... 
+Seal 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+58 | P a g e 
+ 
+9.3 ANNEXURE 3: DRAFT BANK GUARANTEE FOR EARNEST MONEY DEPOSIT 
+(EMD) 
+ 
+To, 
+Under Secretary 
+General Administration Department  
+Block No. 1, New Sachivalaya, Sector-10 
+Gandhinagar, Gujarat - 382010 
+Whereas ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (here in after called "the Bidder") has 
+submitted its bid dated ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ in response to the Tender no: xxxxxxxxxxxxxxxxxxx for 
+______________________________________________ KNOW ALL MEN by these presents 
+that WE ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+‐ having our registered office at ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ (hereinafter 
+called "the Bank") are bound unto the ______________, CMH-CU, GAD,  in the sum of ‐‐‐‐‐‐‐‐‐
+‐‐‐‐‐‐‐‐‐‐‐‐‐ for which payment well and truly to be made to Under Secretary, General 
+Administration Department, Government of Gujarat, the Bank binds itself, its successors and 
+assigns by these presents. Sealed with the Common Seal of the said Bank this ‐‐‐‐‐‐‐‐‐‐‐‐‐‐day 
+of ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐2026. 
+THE CONDITIONS of this obligation are: 
+The EMD may be forfeited, In case of a Bidder if: 
+1) The Bidder withdraws its bid during the period of bid validity. 
+a. The Bidder does not respond to requests for clarification of their Bid. 
+b. The Bidder fails to co‐operate in the Bid evaluation process. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+59 | P a g e 
+ 
+c. The Bidder, fails to furnish a Performance Bank Guarantee in time. 
+2) The Bidder fails to Sign the contract in accordance with this RFP. 
+3) The Bidder is found to be involved in fraudulent and corrupt practices. 
+We undertake to pay to the CMH-CU, GAD up to the above amount upon receipt of its first 
+written demand, without CMH-CU, GAD having to substantiate its demand, provided that in 
+its demand CMH-CU, GAD will specify that the amount claimed by it is due to it owing to the 
+occurrence of any of the above-mentioned conditions, specifying the occurred condition or 
+conditions. 
+This guarantee will remain valid up to 180 Days from the last date of bid submission. The Bank 
+undertakes not to revoke this guarantee during its currency without previous consent of the 
+CMH-CU, GAD and further agrees that the guarantee herein contained shall continue to be 
+enforceable till the CMH-CU, GAD discharges this guarantee The Bank shall not be released of 
+its obligations under these presents by any exercise by the CMH-CU, GAD of its liability with 
+reference to the matters aforesaid or any of them or by reason or any other acts of omission 
+or commission on the part of the CMH-CU, GAD or any other indulgence shown by the CMH-
+CU, GAD or by any other matter or things. 
+The Bank also agree that the CMH-CU, GAD at its option, shall be entitled to enforce this 
+Guarantee against the Bank as a Principal Debtor, in the first instance, without proceeding 
+against the SELLER and not withstanding any security or other guarantee that the TENDERER 
+may have in relation to the SELLER’s liabilities. 
+Dated at _______________ on this _________ day of ___________2026. 
+ 
+Signed and delivered by_____________________for & on Behalf of 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+60 | P a g e 
+ 
+Name of the Bank & Branch &__________________________ 
+Its official Address with seal______________________________________ 
+Approved Bank: All Nationalized Banks, including the public sector bank or Private Sector 
+Banks or Commercial Banks OR Co-Operative & Rural Banks (operating in India, having a 
+branch at Ahmedabad/ Gandhinagar) as per the G.R. No. EMD/4/2022/0002/DMO dated 
+20.05.2022 issued by the Finance Department or further instructions issued by the Finance 
+Department time to time. 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+61 | P a g e 
+ 
+9.4 ANNEXURE 4: PERFORMANCE BANK GUARANTEE/PERFORMANCE SECURITY 
+(PBG) 
+(To be stamped in accordance with Stamp Act) 
+Ref:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bank Guarantee No. 
+Date: 
+To, 
+Under Secretary 
+General Administration Department  
+Block No. 1, New Sachivalaya, Sector-10 
+Gandhinagar, Gujarat - 382010 
+Dear Sir, 
+WHEREAS............................. (Name of Bidder) hereinafter called “the Bidder" has undertaken, 
+in pursuance of the Agreement dated, (hereinafter referred to as "the Agreement for “RFP for 
+XXXXXXXXXX” (Tender No. xxxxxxxxxxxxxxxxx Dated: xx.xx.xxxx) for the CMH-CU, GAD, 
+Gandhinagar Gujarat. 
+AND WHEREAS it has been stipulated in the said Agreement that the Bidder shall furnish a 
+Bank Guarantee ("the Guarantee") from a scheduled bank for the sum specified therein as 
+security for implementing and maintaining the PROJECT. 
+1. WHEREAS we __________ ("the Bank", which expression shall be deemed to include its 
+successors and permitted assigns) have agreed to give the CMH-CU, GAD the Guarantee: 
+THEREFORE, the Bank hereby agrees and affirms as follows:  
+The Bank hereby irrevocably and unconditionally guarantees the payment of all sums due and 
+payable by the Bidder to CMH-CU, GAD under the terms of their Agreement dated 
+_______________. Provided, however, that the maximum liability of the Bank towards CMH-
+CU, GAD under this Guarantee shall not, under any circumstances, exceed 
+__________________________________ in aggregate. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+62 | P a g e 
+ 
+2. In pursuance of this Guarantee, the Bank shall, immediately upon the receipt of a written 
+notice from CMH-CU, GAD in that behalf and without delay/demur or set off, pay to CMH-CU, 
+GAD any and all sums demanded by CMH-CU, GAD under the said demand notice, subject to 
+the maximum limits specified above. A notice from CMH-CU, GAD to the Bank shall be sent by 
+Registered Post (Acknowledgement Due) at the following address: 
+_______________________ 
+_________________________ 
+_________________________ 
+Attention Mr. _____________. 
+3. This Guarantee shall come into effect immediately upon execution and shall remain in force 
+for a period of ____months from the date of its execution. The Bank shall extend the 
+Guarantee for a further period, which may be mutually decided by the Bidder and CMH-CU, 
+GAD.  
+The liability of the Bank under the terms of this Guarantee shall not, in any manner 
+whatsoever, be modified, discharged, or otherwise affected by: 
+• Any change or amendment to the terms and conditions of the Contract or the 
+execution of any further Agreements. 
+• Any breach or non‐compliance by the Bidder with any of the terms and conditions of 
+any Agreements/credit arrangement, present or future, between Bidder and the 
+Bank. 
+4. The BANK also agrees that CMH-CU, GAD at its option shall be entitled to enforce this 
+Guarantee against the Bank as a Principal Debtor, in the first instance without proceeding 
+against the BIDDER and not withstanding any security or other guarantee that CMH-CU, GAD 
+may have in relation to the Bidder’s liabilities. 
+5. The BANK shall not be released of its obligations under these presents by reason of any act 
+of omission or commission on the part of CMH-CU, GAD or any other indulgence shown by 
+CMH-CU, GAD or by any other matter or thing whatsoever which under law would, but for this 
+provision, have the effect of relieving the BANK. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+63 | P a g e 
+ 
+6. This Guarantee shall be governed by the laws of India, and the courts of Gandhinagar, 
+Gujarat shall have jurisdiction in the adjudication of any dispute which may arise hereunder. 
+Dated this ………………. Day of …………………….,2026 
+Witness: 
+(Signature)  
+ 
+ 
+ 
+ 
+ 
+ 
+(Signature) 
+(Name)  
+ 
+ 
+ 
+ 
+ 
+ 
+Bank Rubber Stamp 
+(Name) 
+(Official Address)  
+ 
+ 
+ 
+ 
+ 
+Designation with Bank Stamp 
+Plus, the Attorney, as per the 
+Power of Attorney No. 
+Dated: 
+Approved Bank: All Nationalized Banks, including the public sector bank or Private Sector 
+Banks or Commercial Banks or Co-Operative & Rural Banks (operating in India, having a 
+branch at Ahmedabad/ Gandhinagar) as per the G.R. no. G.R. No. EMD/4/2022/0002/DMO 
+dated 20.05.2022 issued by the Finance Department or further instructions issued by the 
+Finance Department from time to time. 
+Note: For the purpose of computation of the Performance Bank Guarantee (PBG), the contract 
+value for TSP-1 shall be derived assuming an average inbound traffic of 25,000 calls per day, 
+with an average call duration of three (3) minutes, over the entire five (5) year contract period. 
+The PBG shall be submitted for an amount equal to 5% of the calculated contract value. 
+For TSP-2, the contract value shall be determined based on the quoted monthly rental charges 
+for 120 SIP channels for the full five (5) year contract period, and the PBG shall be submitted 
+for an amount equal to 5% of such calculated contract value. 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+64 | P a g e 
+ 
+9.5 ANNEXURE 5: PARTICULARS OF THE BIDDERS 
+Scanned copy of original as (duly signed by Bidder) as part of Technical Proposal 
+to be uploaded online- 
+Sr. 
+No. 
+Information Sought 
+Details to be 
+Furnished 
+Document if 
+any Page No. 
+1 
+Name and address of the bidding 
+Company 
+  
+  
+2 
+Incorporation status of the firm 
+  
+  
+3 
+Year of Establishment 
+  
+  
+4 
+Date of registration 
+  
+  
+5 
+ROC Reference No. 
+  
+  
+6 
+Details of company/ firm registration 
+  
+  
+7 
+Details of registration with 
+appropriate authorities for Tax 
+  
+  
+8 
+Name, Address, email, Phone nos. 
+And Mobile Number of Contact 
+Person 
+  
+  
+  
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+65 | P a g e 
+ 
+9.6 ANNEXURE 6: PROPOSAL COVERING LETTER 
+Scanned copy of original (duly signed by Bidder) as part of Technical Proposal to be 
+uploaded online. 
+ 
+[Date] 
+To, 
+The Director, 
+CM Helpline Coordination Unit (CMH-CU) 
+General Administration Department 
+6th Floor, Block-1, Wing-A, Karmayogi Bhawan, Sector 10 A, 
+Gandhinagar, Gujarat – 382010. 
+ 
+Contact No: 079-23255445 or 079-23255446  
+Email: cmhelpline-ccu@gujarat.gov.in  
+              
+             Dear Sir, 
+We ………………………….. (Name of the Bidder) hereby submit our proposal in response to 
+notice inviting tender date …………….. and tender document no. ………  and confirm that: 
+1. 
+All information provided in this proposal and in the attachments is true and correct to 
+the best of our knowledge and belief. 
+2. 
+We shall make available any additional information if required to verify the correctness 
+of the above statement. 
+3. 
+We certify that the period of validity of bids is 180 days from the last date of submission 
+of proposal. 
+4. 
+We are quoting for all resources under all categories mentioned in the tender. 
+5. 
+We, the Bidders are not under a Declaration of Ineligibility for corrupt or fraudulent 
+practices or blacklisted by any of the Government agencies as on the date of submission 
+of Bid. CMH-CU, GAD, Gandhinagar, Gujarat may contact the following person for further 
+Information regarding this tender:  
+a. 
+Name and full address of office, Contact No., Email ID, Company Name 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+66 | P a g e 
+ 
+6. 
+We are submitting our Eligibility Criteria proposal bid documents and technical bid 
+documents. 
+a. In soft format in GeM portal, 
+b. Dated this__________Day of_______2026. 
+  
+(Signature)  
+ 
+ 
+(In the capacity of) 
+Duly authorized to sign the Tender Response for and on behalf of: 
+ 
+(Name and Address of Company)                                                            Seal/Stamp of Bidder
+ 
+ 
+Witness Signature: 
+Witness Name: 
+Witness Address: 
+CERTIFICATE AS TO AUTHORISED SIGNATORIES 
+  
+I, certify that I am …………………………… 
+of 
+the 
+…………………, 
+and 
+that 
+……………………………………………………………… who signed the above Bid is authorized to bind 
+the corporation by authority of its governing body. 
+Date……………………… 
+  
+(Seal here) 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+67 | P a g e 
+ 
+9.7 ANNEXURE 7: FINANCIAL PROPOSAL FORMAT 
+(To be filled online in GeM portal only) 
+Tender Document No. XXXXXXXXXX  
+To 
+The Director, 
+CM Helpline Coordination Unit (CMH-CU) 
+General Administration Department 
+6th Floor, Block-1, Wing-A, Karmayogi Bhawan, Sector 10 A, 
+Gandhinagar, Gujarat – 382010. 
+ 
+Sir, 
+I/We hereby submit our Proposal for the Selection of Telecom Service Provider for Providing 
+Inbound and Outbound Call and Toll-Free Services through SIP Trunks for Chief Minister 
+Helpline for the State Of Gujarat in accordance with the special Terms and Conditions as well 
+as Scope of work. The rates should be quoted in the prescribed format given below: - 
+ 
+Note: The rate quoted should be inclusive of all cost in accordance with Scope of Work, no 
+separate quotes will be entertained by competent authority. 
+The Bidder shall be required to provide the financial quotes as per the below table in the 
+Bid on the GeM website. 
+Financial Bid Terms & Conditions 
+1. Inclusive Pricing – The price quoted shall be inclusive of all services mentioned in the 
+Scope of Work (SOW), including manpower. Price quoted should include Application, 
+Administrative, setup, Installation, Maintenance, any kind of software charges.   
+2. Non-Variation Clause – The price shall remain firm for the entire contract period and 
+any of the services as specified in RFP shall not be affected by downsizing call traffic. 
+Any change in operational load will not alter the unit rate or contract value unless 
+approved under a formal Change Request. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+68 | P a g e 
+ 
+Price Bid for Telecom Service Provider - 1 (TSP1)  
+ (Toll Free Number Services and SIP Channels Qty.: 150) 
+Sr. 
+No. 
+Particulars 
+Call Charge per sec (₹) 
+ (from all Operators)  
+[Inclusive of tax] 
+1 
+Provision, operation, and management of toll-free 
+services, including 150 SIP Channels, along with 
+configuration and activation of toll-free numbers 
+and short codes to ensure seamless nationwide 
+accessibility. The Primary TSP shall carry 100% of 
+inbound call traffic on the designated toll-free 
+number(s). Additionally, TSP1 should support 
+outbound calling services as and when required. 
+(Including Rental charges for unlimited outbound 
+calls) 
+ 
+ 
+ 
+ 
+Price Bid for Telecom Service Provider - 2 (TSP2) 
+(SIP Channels Qty.: 120) 
+ 
+ 
+ 
+Sr. 
+No. 
+Particulars 
+Rental Charges (Rs.) 
+[inclusive of tax] 
+1 
+Provision, operation, and management of 120 SIP 
+Channels for unlimited incoming and outgoing calls 
+(rental charges). The TSP shall act as a 
+secondary/redundant service provider, ensuring 
+failover support for inbound traffic in case of 
+degradation, failure, or non-availability of services 
+from the primary TSP (TSP1). 
+ 
+ 
+Note: Bidders need to quote for both TSP1 and TSP2. Bid will be rejected if quoted for only one. 
+Signature of Bidder...........                                                                     Place………………………….  
+Name....................                                                                                    Date………………………….. 
+Designation...................  
+Seal 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+69 | P a g e 
+ 
+9.8 ANNEXURE 8: NOT TERMINATED, NOT BEING INSOLVENT OR IN 
+RECEIVERSHIP OR BANKRUPT                           
+ 
+(To be printed on INR 300/- Stamp Paper) 
+ 
+Date………………………….. 
+ 
+To,  
+The Director, 
+CM Helpline Coordination Unit 
+General Administration Department  
+6th Floor, Block No. 1, Wing-A, Karmayogi Bhawan, Sector-10A, 
+Gandhinagar, Gujarat – 382010 
+Sir,  
+In response to the Tender Ref. No. ____________________________ dated ___________ for 
+“Selection for Call Centre Agency for Establishment, Operation & Maintenance of CM Helpline 
+with IGSMS Portal.”, as an Owner/Partner/Director of _______________________, I/We hereby 
+declare that presently our Company/Firm ______________: 
+ 
+a. Has not been terminated by any Government/Semi-Government or Public Authority or Public 
+Institution in India or abroad, before the completion of respective Contract period for which 
+it has executed the project or in process of execution of such project, on account of its poor 
+performance, delay, or abandonment of work by it. 
+b. Is not insolvent, in receivership, bankrupt or being wound up, does not have its affairs 
+administered by a court or a judicial officer, not be declared defaulter by any financial 
+institution, not have its business activities suspended and must not be the subject of legal 
+proceedings for any of the foregoing reasons. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+70 | P a g e 
+ 
+c. Neither the Company/Firm nor its directors and officers have, been convicted of any criminal 
+offence related to their professional conduct or the making of false statements or 
+misrepresentations as to their qualifications to enter into a procurement contract within a 
+period of three years preceding the commencement of the procurement process, or has not 
+been otherwise disqualified pursuant to debarment proceedings. 
+ 
+If this declaration is found to be incorrect, then without prejudice to any other action that may 
+be taken, my/our security may be forfeited in full, and the tender, if any, to the extent accepted 
+may be cancelled. 
+ 
+Yours sincerely, 
+ 
+ 
+Authorized Signature (in Full and Initials)  
+Name and Title of Signatory: 
+Name of Firm:  
+Address: 
+Email Address:  
+Contact Number: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+71 | P a g e 
+ 
+9.9 ANNEXURE 9: NON-DISCLOSURE AGREEMENT (NDA) 
+NON-DISCLOSURE AGREEMENT 
+THIS NON - DISCLOSURE AGREEMENT (this ‘Agreement’) is executed at Gandhinagar, Gujarat on 
+(Date) by and between 
+(Authority) having its registered office at ……………… (hereinafter referred to as the “Disclosing 
+Party”, which expression shall unless repugnant to the context shall mean and include its 
+authorized personnel, agents, successors, and assigns). 
+AND  
+(Agency) having its registered office at (Address) (hereinafter referred to as the "Receiving 
+Party" (which expression, unless repugnant to the context, shall mean and include its authorized 
+personnel, agents, successors, and assigns)  
+In this Agreement, “(Authority)” (the Disclosing Party) and (Agency) (the Receiving Party) are 
+referred to collectively herein as “Parties” and individually as a “Party”. This agreement is made 
+effective on the (date). This Agreement is effective up to contract duration. 
+WHEREAS: 
+This agreement is being enacted in conjunction with the engagement of (Agency), which has 
+been appointed as the designated agency responsible for delivering its services in accordance 
+with the (Work Order No… date….) ".   
+NOW, THEREFORE, in consideration of the facts recited above, and in consideration of the 
+mutual promises and covenants contained herein, and pursuant to the laws of the State, the 
+parties hereby agree as follows: 
+1. Confidential Information: 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+72 | P a g e 
+ 
+1.1. Definition: "Confidential Information" shall mean and include any proprietary 
+information provided, disclosed, or submitted by the Disclosing Party to the Receiving 
+Party, under or related to this Agreement either directly or indirectly, in writing or orally, 
+or in physical/sample form, by inspection of tangible objects (including, without 
+limitation, documents, prototypes, samples, media, documentation, discs, and code).  
+1.2. This definition includes information of third parties considered confidential by the 
+Disclosing Party. Confidential Information encompasses, without limitation, security 
+features, materials, trade secrets, intellectual property rights, know-how, formulae, 
+processes, algorithms, ideas, strategies, inventions, data, network configurations, system 
+architecture, designs, flowcharts, drawings, hardware, software, media, and their 
+contents, proprietary information, business and marketing plans, financial and 
+operational information, and any other information considered confidential by the 
+Disclosing Party.  
+1.3. It also includes information disclosed to the Receiving Party by third parties on behalf of 
+the Disclosing Party or that may otherwise come into the possession or control of the 
+Receiving Party. The term "Confidential Information" also includes any derivatives 
+created from the Confidential Information of the Disclosing Party and any information 
+obtained through the use or inspection of the Confidential Information of the Disclosing 
+Party. Confidential Information also includes the Data Structure and Data Dictionary of 
+proprietary software jointly owned by the Disclosing Party and Receiving Party. 
+1.4. The Receiving Party will only use confidential information for fulfilling their contractual 
+obligations with the Disclosing Party and will not copy or share the information for any 
+other purposes. 
+1.5. The Receiving Party shall not use the Confidential Information in any unlawful manner. 
+1.6. The Receiving Party shall be responsible for any costs, expenses or damages incurred 
+by the Disclosing Party as a result of any violation of this agreement. This obligation 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+73 | P a g e 
+ 
+includes court and litigation expenses. 
+1.7. The Receiving Party agrees to support standards and procedures that ensure the 
+confidentiality, integrity, and availability of information and services, and to proactively 
+address any information security threats and vulnerabilities in connection with the 
+project. 
+1.8. The receiving party shall keep safe all and any materials provided by the disclosing party, 
+and shall not reproduce, part with possession of, modify or otherwise interfere or deal 
+with otherwise with such items, and shall return them immediately upon disclosing 
+party’s written request (as per clause 7 of this annexure) and in any event 
+spontaneously when no longer required for the purposes of the work order/project. 
+1.9. The receiving party shall notify the disclosing party immediately (within 2 days) upon 
+becoming aware of any breach of confidence by anybody to whom the Recipient has 
+disclosed the Confidential Information and give all necessary assistance in connection 
+with any steps, which the Disclosing party may wish to take to prevent, stop or obtain 
+compensation for such breach, or threatened breach. 
+2. Discretionary Disclosure: Nothing herein obligates the Disclosing Party to disclose any 
+information except what is necessary for the Purpose of this Agreement or to proceed with 
+any transaction with the Receiving Party or enter into any other contract with the Receiving 
+Party. 
+3.  Scope:  Work Oder No…………………… date…. 
+4. Ownership:  
+4.1. The Receiving Party acknowledges that the Disclosing Party is the sole and exclusive 
+owner of the Disclosing Party’s Intellectual Property. The Receiving agrees that save as 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+74 | P a g e 
+ 
+expressly permitted under this Agreement, it shall not at any time make use of Disclosing 
+Party’s Intellectual Property without the specific written consent of the Disclosing Party.  
+4.2. This Agreement does not grant the Receiving Party any license or other interest in the 
+Confidential Information, whether under this Agreement or any other agreement 
+between the Parties. Any breach of this provision shall be treated as a material breach 
+of the Agreement. 
+4.3. For the purposes of this Agreement, “Disclosing Party’s Intellectual Property” means any 
+and all know-how and processes, trade secrets, technical drawings, market intelligence, 
+designs, trademarks, service marks, product names, processes, designs, logos (including 
+the arrow plane logo), trade names, domain names, rights in goodwill, rights in, and other 
+similar or equivalent rights or forms of protection (whether registered or unregistered) 
+owned and registered by the Disclosing Party and all applications made by the Disclosing 
+Party (or rights to apply) for, and for renewals and extensions of, such rights as may now 
+or in the future exist anywhere in the world under the Disclosing Party’s registration or 
+ownership. 
+5. Term (Commencement and expiry): The term of this Agreement shall commence on 
+________________, 20____ and shall be effective till completion of the PoC or Acceptance 
+of the Completion of POC by Disclosing Party or as per the work order. 
+6. Notwithstanding any contrary provision in this Agreement, the confidentiality obligations 
+undertaken by the Receiving Party herein shall survive the expiry of this Agreement. 
+7. Return of Confidential Information: Within 10 days of a written request by the Disclosing 
+party, or upon expiration of the agreement, the Receiving Party shall return, destroyed, or 
+purged all the information promptly without retaining any copies thereof. Any copies that 
+cannot be returned shall be immediately destroyed in a manner ensuring they can never be 
+retrieved by any means or in any form. 
+8. Restrictions: 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+75 | P a g e 
+ 
+8.1. Protection and Non-Disclosure: The Receiving Party agrees to protect the Confidential 
+Information with the same degree of care as it uses to protect its own Confidential 
+Information, which shall be at least a reasonable degree of care. The Receiving Party shall 
+not disclose, copy, reproduce, modify, use, or otherwise transfer the Confidential 
+Information or any media containing it to any other person or entity without obtaining 
+prior express written consent from the Disclosing Party. Reverse engineering, 
+disassembling, or reverse compiling of prototypes, software, or tangible objects 
+embodying the Confidential Information provided to the Receiving Party is prohibited. 
+The Receiving Party shall not create any charge, lien, or encumbrance on the Confidential 
+Information. These restrictions also apply to any media containing the Confidential 
+Information. 
+8.2. Receiving Party Personnel: Receiving Party acknowledges that the Authorized Personnel 
+and its authorized employees/agents and shall not engage in any activities prejudicial to 
+the interest of the Disclosing Party. They are bound by the obligations of this Agreement. 
+The Receiving Party shall take all reasonable measures to ensure that its Personnel 
+comply with the terms of this Agreement and shall be responsible for any unauthorized 
+disclosure of Confidential Information by its Personnel. The Receiving Party shall ensure 
+that its Personnel are aware of the confidential nature of the Confidential Information 
+and shall instruct its Personnel to use the same degree of care in protecting such 
+information as the Receiving Party is obligated to use under this Agreement. The 
+Receiving Party shall immediately notify (within 2 days) the disclosing party in writing of 
+any unauthorized use or disclosure of Confidential Information by any of its Personnel of 
+which it becomes aware. 
+8.3. Confidential Communication: Receiving Party shall ensure that communications 
+regarding the documentation or Confidential Information of the Disclosing Party are not 
+conducted in public places or under circumstances where discussions may be overheard 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+76 | P a g e 
+ 
+or documents may be observed by others, particularly during travel on public 
+transportation. 
+9. Specific Enforcement: The Receiving Party agrees that all provisions of this Agreement shall 
+be specifically enforceable by the Disclosing Party against the Receiving Party and its agents, 
+employees, and assigns, including by injunctive and other equitable relief. All provisions 
+hereof shall survive the termination of this Agreement. 
+10. Public Announcements:  
+The Receiving Party and its officers and employees shall not, without prior written consent of 
+the Disclosing Party, release any report, make any public statement, public announcement, 
+or release to the press or other third parties with respect any Information as may be received 
+under this Agreement. 
+11. No other Relationship:  This Agreement for non-disclosure does not represent or imply any 
+agreement or commitment to enter into any further relationship. This Agreement does not 
+create any agency or partnership relationship between the Parties or authorize any Party to 
+use a Party’s name in any manner whatsoever.  
+12. Indemnity:  The Receiving Party shall be liable for and shall indemnify (and keep indemnified) 
+the Disclosing Party against each and every action, proceeding, liability, cost, claim, loss, 
+expense (including reasonable legal fees) and demands incurred or which arise directly or in 
+connection with the Receiving Party’s obligation and/or breach under this Agreement, non-
+compliance with any part of the applicable data protection obligation of the Receiving Party 
+or its employees, agents, representatives 
+13. Modifications and Amendments:  All modifications and amendments to this Agreement must 
+be made in writing. Additional oral agreements do not exist. 
+14. No Assignment: The Receiving Party shall not have the right to assign or otherwise transfer, 
+in whole or in part, any of its rights or obligations under this Agreement without obtaining 
+prior written consent from the Disclosing Party. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+77 | P a g e 
+ 
+15. Termination: Either party may terminate this Agreement at any time by giving [30] days' 
+written notice to the other party as per (Work order). 
+16. Governing Law: This Agreement shall be governed by and construed in accordance with the 
+laws of India and that of the State of Gujarat.  
+17. Jurisdiction and Venue: The Courts of Gujarat shall have exclusive jurisdiction and venue over 
+any dispute arising out of or relating to this Agreement shall be of Ahmedabad / Gandhinagar, 
+both the party to this agreement hereby agrees and give consents to the jurisdiction and 
+venue of such courts. 
+18. Arbitration: Any dispute or claim arising out of or in connection herewith, or the breach, 
+termination, or invalidity thereof, shall be settled by arbitration in accordance with the 
+provisions of Procedure of the Indian Arbitration & Conciliation Act, 1996, including any 
+amendments thereof. The language of the arbitration shall be English. The arbitration tribunal 
+shall be composed of a sole arbitrator, and such arbitrator shall be appointed mutually by 
+both Parties to this agreement or as per the order of court. The arbitral award shall be final 
+and binding upon the Parties. 
+19. Severability: If any provision hereof is found by a court to be invalid, void, or unenforceable, 
+the remaining provisions shall remain in full force and effect. 
+20. Execution: This Agreement may be executed in two counterparts, each of which shall 
+constitute one and the same instrument. 
+Both the parties to this agreement have caused their respective duly authorized representatives 
+to execute and deliver this Agreement. (Here, “Representative” of a Party means any employee, 
+agent, director, advisor, affiliate, investor, consultant, partner, or any other person concerned 
+or acting on their behalf.) 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+78 | P a g e 
+ 
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above 
+written. 
+ 
+Date:    
+ 
+For, CMH-CU, GAD, Government of Gujarat  
+Name:   
+Title: 
+Sign & Stamp: 
+For, Agency 
+Name:  
+Title: 
+Sign & Stamp: 
+Contact Number: 
+Contact Number:  
+ 
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+79 | P a g e 
+ 
+9.10 ANNEXURE 10: FORMAT FOR FINANCIAL SUMMARY OF THE BIDDER 
+(Same should be furnished by the Chartered Accountant / Statutory Auditor on their 
+letterhead) 
+ 
+Average Annual Turnover of the Bidder (from works related to Call Centre Establishment and its 
+Operation and Maintenance) 
+Sr. 
+No. 
+Financial Year 
+Annual Turnover (INR) 
+1. 
+FY 2022 – 2023 
+ 
+2. 
+FY 2023 - 2024 
+ 
+3. 
+FY 2024 - 2025 
+ 
+ 
+[Average Annual Turnover] 
+[indicate sum of above divided by 3] 
+Note: Bidders are required to provide data for the last three years ending 31st March 2025. 
+Audited Balance Sheets are also required to be submitted for the same. 
+UDIN No: ___________________________   
+ 
+Certificate from the Statutory Auditor 
+Note: 
+o The Bidder shall submit audited annual reports (financial statements: balance sheets, 
+profit and loss account, notes to accounts etc.) in support of the financial data, duly 
+certified by statutory auditor/s. In case the company does not have a statutory auditor/s, 
+it shall be certified by the chartered accountant who ordinarily audits the annual financials 
+of the company.  
+o Certificate(s) from the statutory auditors specifying the Turnover of the Bidder for FY 2022-
+23, FY 2023-24, and FY 2024-25. For the purpose of this RFP, net worth shall mean the sum 
+of subscribed and paid-up equity share capital and reserves from which shall be deducted 
+the sum of revaluation reserve, miscellaneous expenditure not written off and reserves 
+not available for distribution to equity shareholders. 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+80 | P a g e 
+ 
+9.11 ANNEXURE 11: FORMAT FOR SHOWCASING EXPERIENCE FOR ELIGIBILITY 
+CRITERIA 
+Date: _______________ 
+ 
+To,  
+The Director, 
+CM Helpline Coordination Unit 
+General Administration Department  
+6th Floor, Block No. 1, Wing-A, Karmayogi Bhawan, Sector 10A, 
+Gandhinagar, Gujarat – 382010. 
+A. Project Summary Sheet: 
+Sr. 
+no. 
+Name of 
+the Project 
+Completion 
+Date 
+Project 
+Duration 
+Eligibility 
+Criteria no. 
+Project 
+Cost 
+Client Name & 
+Contact number 
+or Email Address 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note: Add rows as required 
+B. Project Citation 
+(To be submitted for each project as per the table above, also sequence of above table must be 
+maintained while detailing below table. 
+Sr. No 
+Aspect 
+Details 
+1 
+Name of the Project 
+  
+2 
+Name of Client 
+  
+3 
+Start Date and End Date 
+DD/MM/YYYY to DD/MM/YYYY 
+4 
+Project Duration  
+  
+5 
+Project Cost 
+ 
+6 
+Current Stage 
+ 
+7 
+Client Contact Number & Email Address 
+Yes/No 
+8 
+Documentary Evidence being submitted 
+Choose from 
+▪ Work order 
+▪ Letter of Intent / Award 
+▪ Agreement 
+▪ Completion Certificate 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+81 | P a g e 
+ 
+Sr. No 
+Aspect 
+Details 
+9 
+Project Scope (In Brief) 
+<Project Scope highlighting all components 
+as asked in this bid> 
+10 
+Eligibility Criteria row no. 
+ 
+ 
+Note: Each project profile must be duly supported by documentary evidence from the client side 
+like Work Order, Agreement, and Completion Certificate for being considered for marking. Projects 
+without evidence may be rejected. Bidders are advised to highlight relevant sections of the 
+documentary evidence for quick reference of the Authority. Only eligible projects (as per terms & 
+conditions provided in RFP) shall be considered for marking. 
+ 
+Yours sincerely, 
+Authorized Signature (in Full and Initials)  
+Name and Title of Signatory: 
+Name of Firm:  
+Address: 
+Email Address:  
+Contact number: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Request for Proposal (RFP) for Selection of Telecom Service Providers for Inbound and Outbound Calls and Toll-Free Services 
+through SIP Trunks for the Chief Minister Helpline, Government of Gujarat 
+________________________________________________________________________________________________________ 
+ 
+82 | P a g e 
+ 
+9.12 ANNEXURE 12: FORMAT FOR BIDDERS CHECKLIST FOR PRE QUALIFICATION 
+AND TECHNICAL QUALIFICATION CRITERIA         
+Bidder(s) to provide a compliance checklist along with page-wise indexing of supporting 
+documents for Pre-Qualification and Technical Evaluation Criteria. Sequence of all criteria should 
+be maintained while preparing and compiling supporting Documents. 
+Checklist for Pre-Qualification Criteria (To be filled by the Bidder) 
+Sr. 
+No. 
+Basic Requirement 
+Document 
+Submitted 
+(Document 
+Name) 
+Page no. 
+in bid 
+Submitted 
+(Yes / No) 
+Compliance 
+(Yes / No) 
+Bidder 
+Remarks 
+1 
+Company Profile (Legal 
+Entity & Registration 
+status) 
+ 
+ 
+ 
+ 
+ 
+2 
+Company Financials- 
+Turnover 
+ 
+ 
+ 
+ 
+ 
+3 
+Valid Telecom Service 
+Provider Licenses 
+ 
+ 
+ 
+ 
+ 
+4 
+Experience in providing 
+SIP services to Call 
+Centres/BPOs and 
+Government 
+Organizations. 
+ 
+ 
+ 
+ 
+ 
+5 
+Projects of SIP Trunking 
+for Govt./PSU Call 
+Centres. 
+ 
+ 
+ 
+ 
+ 
+6 
+24 X 7 Network 
+Operation Centre (NOC) 
+ 
+ 
+ 
+ 
+ 
+7 
+Non-Blacklisting 
+ 
+ 
+ 
+ 
+ 
+8 
+Non insolvency and 
+bankruptcy 
+ 
+ 
+ 
+ 
+ 
+9 
+Power of Attorney 
+ 
+ 
+ 
+ 
+ 
+10 
+PAN, GST, EPF, ESIC 
+Registration 
+ 
+ 
+ 
+ 
+ 
+ 
+*** 

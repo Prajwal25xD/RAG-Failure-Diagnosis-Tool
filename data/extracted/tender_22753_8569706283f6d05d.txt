@@ -1,0 +1,659 @@
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+Bid for purchase of 02 Nos. Apple Laptop along 
+with 02 Nos. Microsoft Office on behalf of 
+Agriculture, Farmers Welfare and Co-operation 
+Department, 
+Gandhinagar 
+(Tender 
+no. 
+: 
+HWT19082026)  
+(
+)
+ 
+ 
+ 
+ 
+                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Date of Submission of Bid: 08.09.2026 till 1500 hours 
+ 
+Last Date of Submission of Bid Processing Fees: 08.09.2026 till 
+1500 hours 
+ 
+Date of Opening of Bid: 08.09.2026 on 1600 hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Submit DDs of the Bid-processing fee at following Address with the heading “Bid 
+processing Fees for Tender no. HWT19082026 regarding Bid for Purchase of 02 Nos. 
+Apple Laptop along with 02 Nos. Microsoft Office on behalf of Agriculture, Farmers 
+Welfare and Co-operation Department, Gandhinagar 
+ 
+GUJARAT INFORMATICS LIMITED 
+Block No. 2, 2nd Floor, 
+C & D Wing, Karmayogi Bhavan 
+Sector - 10 A, Gandhinagar – 382010. 
+Phone No: 23256022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bid Processing Fee: Rs. 1770/- (Including GST) 
+(Non-refundable) 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+Scope of Work 
+ 
+Bid for procurement of 02 Nos. Apple Laptops along with 02 Nos. Microsoft Office on 
+behalf of Agriculture, Farmers Welfare and Co-operation Department, Gandhinagar. 
+ 
+ 
+Contract Period 
+01 Year 
+Validity of offer from the date of tender 
+opening 
+180 Days 
+Time and Date for Closure for 
+submission of e-Tender 
+As per nProcure Portal 
+Time and Date for Opening of e-Tender 
+(Technical Bid) 
+As per nProcure Portal 
+ 
+1. The prospective bidders are requested to visit website https://tender.nprocure.com/ for more 
+details of tenders & corrigendum, if any. 
+ 
+2. Bidders 
+may 
+participate 
+in 
+above 
+E-tender 
+electronically 
+through 
+website 
+https://tender.nprocure.com/ only & submissions of manual offers against E-tender are not 
+allowed. Tender documents submitted manually will neither be opened nor considered.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+CHECK LIST FOR SUBMISSION OF DOCUMENTS 
+ 
+Sr No 
+Item 
+1. 
+Eligibility Criteria for the bidder  
+• Bidder Turn over: As per section-6 evaluation criteria mentioned in scope of work 
+• OEM Turn over: As per section-6 evaluation criteria mentioned in scope of work 
+2. 
+Past Performance Criteria (Bidder):  As per section -6 evaluation criteria mentioned in scope of 
+work 
+3. 
+Past Performance Criteria (OEM):  As per section -6 evaluation criteria mentioned in scope of 
+work 
+4. 
+Proof of bidder’s office in Gujarat   
+OR 
+The time of bid submission, bidder will have to submit undertaking letter to open office in Gujarat 
+within 45 days after award of the contract. 
+5. 
+Bidder self-declaration letter for acceptance of ATC 
+6. 
+One service center (OEM) in Gujarat details which is functional for quoted item 
+7. 
+Bidder & OEM should not be blacklisted / debarred letter in last two years as on last date of bid 
+submission 
+8. 
+OEM undertaking letter that manufacturing of the quoted items is not older than 1 year from the 
+date of delivery 
+9. 
+Bidder / OEM must provide Escalation Matrix & Dedicated/toll Free Telephone No. for Service 
+Support. 
+10. Bidder will have to submit Brochure & Technical specification compliance on OEM letter head 
+with duly signed & stamped along with bid number 
+11. Data Sheet of the product(s) offered in the bid 
+12. Manufacturer Authorization: Wherever Authorized Distributors/service providers are submitting 
+the bid, Authorization Form /Certificate with OEM/Original Service Provider details such as 
+name, designation, address, e-mail Id and Phone No. required to be furnished along with the bid 
+number and offered product name  
+13. Undertaking letter as per Ministry of Finance O.M dated 23.07.2020 & 08.02.2021 O.M. regarding 
+restriction on procurement from border countries--on Bidder's letterhead 
+14. Undertaking letter as per Ministry of Finance O.M dated 23.07.2020 & 08.02.2021 O.M. regarding 
+restriction on procurement from border countries--on OEM's  letterhead 
+15. Any certification : Mentioned in bid / scope of work 
+Note: 
+- 
+All the bidders are advised to go through the check list and up load all the requisite 
+documents to avoid disqualification. 
+- 
+This check list is indicative purpose only and not exhaustive. The bidders must go through 
+the complete tender documents and submit the required document accordingly  
+- 
+Include letter number, bid number and date in each documents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+SECTION-1 Technical Specifications 
+ 
+Product : Apple Macbook Pro (Quantity : 02 Nos.) 
+1. Chip : Apple M5 Chip 
+2. RAM Size (GB) : 16 GB. Configurable to 24 GB  
+3. Graphics : Integrated 
+4. Total Internal storage capacity : 1 TB SSD or higher 
+5. Operating System : macOS 
+6. Display Size (INCHES) : 14” or higher 
+7. Display Type : Non-Touch 
+8. Wireless Connectivity  : Yes 
+9. Ports : Three Thunderbolt 4 (USB-C) ports, USB 4 (up to 40 GBPS), HDMI port : Yes 
+10. Inbuilt Bluetooth connectivity : Yes 
+11. Inbuilt Speaker and Mic : Yes 
+12. Availability of Webcam integrated with Display : Yes 
+13. Battery Backup time : Up to 24 hours video streaming, Up to 16 hours wireless web 
+14. On Site OEM Warranty (Year) : 1 
+ 
+Product : Microsoft Office (Quantity : 02 Nos.) 
+• 
+Microsoft Office LTSC Standard 2024 - (Perpetual License) 
+ 
+Note:   
+• 
+Above mentioned specifications are technical minimum specifications, bidders may 
+quote same or higher specifications. 
+• 
+Bidder & OEM of the quoted product must meet Technical Specifications as 
+mentioned above only, Technical Specifications as mentioned above only will be 
+considered for evaluation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+SECTION – 2 Terms and conditions: 
+ 
+• 
+Only one make & model should be quoted by bidder against item in the bid. 
+• 
+Bidder will have to submit Brochure & Technical specification compliance on OEM letter 
+head with duly signed & stamped along with bid number. 
+• 
+Bidder will have to supply all the necessary required accessories/cables with quoted item 
+for make the supplied items functional/operational.  
+• 
+If in any case the quoted Item is not available in the market, the bidder will have to supply 
+Higher model for replacement of that Item in the quoted cost in the same time duration 
+with prior approval of GIL/Purchaser. No “End of Life / End of Support” product should be 
+quoted to minimize such instances. (Make & Model quoted by the bidder should be 
+available till the bid validity, duly supported for spares/OEM support for warranty period). 
+• 
+Price shall be inclusive of all freight, forwarding, transit insurance and installation charges. 
+• 
+Before delivery at respective site, bidder will have to offer inspection in the manner as 
+decided by GIL before delivering to the respective sites or at customer sites. The 
+arrangement of inspection of goods has to be done by supplier. Any deviation found in the 
+specification of the produced goods or delivered goods after inspection from the tender 
+specifications will lead to the cancellation of the order and prohibition in the participation 
+in the future purchase of Government of Gujarat. GIL/GoG will not be responsible for any 
+time delay which may arise due to any deviation from the bid technical specification found 
+at the time of inspection and the bidder has to deliver and install the ordered goods within 
+prescribed time limit. 
+• 
+In case of successful bidder is found in breach of any condition(s) of bid or supply 
+order/work order, at any stage during the course of supply / installation or warranty 
+period, the legal action as per rules/laws, shall be initiated against the successful bidder 
+besides debarring and blacklisting the bidder concerned for the time period as decided by 
+Govt., for further dealings with GoG.   
+• 
+The bidder will have to supply, install, maintain and provide operational training of 
+supplied hardware, Operating Software and carry out necessary integration at office. 
+ 
+Delivery & Installation :  Within 60 calendar days from the date of purchase order. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+SECTION-3 : Penalty Clause for delay in delivery  
+ 
+• 
+If the bidder fails to deliver and install the requisite hardware within the time limit as 
+mentioned in the bid, then 0.5% of the contract value of delayed qty. per week or part of 
+the week of delayed period shall be deducted proportionately. 
+ 
+• 
+The amount of penalty for delay in delivery will be subject to a maximum limit of 10% of 
+the total contract value. 
+ 
+• 
+In case, delay for delivery of the requisite hardware will be due to purchasing Department 
+OR its field offices, then penalty will not be imposed. 
+ 
+ 
+SECTION-4 : Warranty 
+ 
+• 
+Onsite warranty for 1 years for Apple Laptop from OEM from the date of supply. 
+ 
+• 
+If item gives continuous trouble, say more than 3 times in one month during the warranty 
+period, the bidder shall replace the systems with new system without any additional cost 
+to the purchaser. 
+ 
+• 
+Free maintenance services shall be provided by the Bidder during the period of warranty.  
+ 
+• 
+In case, bidder is not providing satisfactory support & doing unwarranted delay in 
+providing warranty support, Government offices reserves right to repair the equipment at 
+risk & cost of the bidder. (after providing notice/cure period of 10 days to bidder) 
+ 
+• 
+All the required cables & accessories are required to be supplied along with all items to 
+make item to be functional. 
+ 
+• 
+Bidder must ensure that the warranty support & service should be available up to delivery 
+locations to provide repairing cum replacement services of faulty equipment within 48 hrs. 
+ 
+ 
+SECTION-5 : Payment 
+ 
+• 
+Payment for Goods and Services shall be made by Department in Indian Rupees as follows: 
+o No advance payment will be made. 
+o 100% payment after successful inspection, delivery, installation, configuration 
+and acceptance by purchaser. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+SECTION – 6 : Evaluation Criteria 
+ 
+Bid Evaluation Criteria:  
+• 
+Bidder Turn over: The Bidder must have average annual turnover of Rs. 9 Lakhs in last 
+three financial Years (2022-23, 2023-24, 2024-25). The copies of Audited Annual 
+Accounts/ Statutory CA Certificate for last three years shall be uploaded along with the bid 
+number. 
+• 
+OEM Turn over: The OEM of quoted Apple Laptop must have average annual turnover of 
+Rs. 20 Lakhs in last three financial Years (2022-23, 2023-24, 2024-25). The copies of 
+Audited Annual Accounts/Statutory CA Certificate with UDIN number for last three years 
+shall be uploaded along with the bid number. 
+• 
+The bidder must have one office in Gujarat. Please upload the copy of any one of the 
+following: Property tax bill/Electricity Bill/Telephone Bill/GST Registration/Lease 
+agreement etc.. OR if bidder do not have office in Gujarat then at the time of bid 
+submission, they will have to submit undertaking letter to open office in Gujarat within 45 
+days after award of the contract. 
+• The bidder should be authorized by its OEM for Apple Laptop to quote the bid. (bid no. 
+must be mentioned). 
+• The bidder must have successfully executed/completed at least  
+o Single order of  Rs. 4 Lakhs OR  
+o 2 orders each of Rs. 2 Lakhs OR  
+o 3 orders each of Rs. 1.5 Lakhs  
+for same or similar product in last 3 years before the bid opening date to any 
+central / state Government / PSU/ Listed Company. Copies of relevant contracts to 
+be submitted along with bid. 
+• 
+The OEM of quoted Apple Laptop must have supplied 5 Nos. of same or similar product of 
+during the last 3 years before the bid opening date. Copies of relevant contracts to be 
+submitted along with bid. 
+• 
+Bidder will have to submit Self-Declaration letter for acceptance of ATC Given in bid. 
+• 
+The OEM(s) of Apple Laptop shall have minimum One service centre in Gujarat which 
+should be functional. A Self Certified letter by an authorized signatory of OEM mentioning 
+the address & Contact details of service centre is required to be submitted. 
+• 
+Bidder & OEM of quoted item should not be blacklisted/debarred by any state government 
+/ central government / PSU in last three years as on last date of bid submission. Bidder & 
+OEM will have to submit undertaking letter at the time of bidding. 
+• 
+OEM will have to submit undertaking letter by mentioning that manufacturing of the 
+quoted items manufactured in current Year. 
+ 
+Note:   
+• 
+In GeM bid, Eligibility Criteria are not mentioned, however bidder & OEM of the 
+quoted product must meet eligibility criteria as mentioned above only & Eligibility 
+Criteria as mentioned above will be considered for evaluation.  
+• 
+Consortium is not allowed. 
+• 
+If OEM would like to participate through their authorized partner, then the partner 
+must be Authorized by OEM. OEM & their authorized Partner should not participate 
+simultaneously & only one of them should participate. 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+Bidders are requested to kindly go through the Office Memorandum No.: F. No.6/18/2019-PPD dated 
+23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 of Ministry of Finance, 
+Dept. of Expenditure, Public Procurement division related restrictions on procurement from border 
+countries. As per this GR, bidders are required to quote/offer the product which adheres to this GR. The 
+undertaking as from bidder as well as from offered product OEM is required to be submitted along with 
+bid as per given Performa.  
+ 
+On letterhead of Bidder 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________                                                                   
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a 
+land border with India. I certify that we as a bidder and quoted product from following OEMs are not 
+from such a country or, if from such a country, these quoted products OEM has been registered with 
+competent authority. I hereby certify that these quoted product & its OEM fulfills all requirements in 
+this regard and is eligible to be considered for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority, otherwise GIL/End user Dept. reserves the 
+right to take legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+ 
+ 
+ 
+On letterhead of OEM 
+ 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of 
+Finance, Dept. of Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a 
+land border with India. I certify that our quoted product and our company are not from such a country, 
+or if from such a country, our quoted product and our company have been registered with competent 
+authority. I hereby certify that these quoted product and our company fulfills all requirements in this 
+regard and is eligible to be considered for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. reserves the 
+right to take legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+Gujarat Informatics Ltd, 
+Block No. 2, 2nd Floor, Karmayogi Bhavan, Sector - 10 A, Gandhinagar – 382010. 
+ 
+ 
+Bidder needs to provide compliance/ undertaking/ details for their quoted product under this 
+bid 
+ 
+In response to the Request for Proposal (RFP)/ Bid reference number issued by [Organization Name], 
+we, [Bidder’s Company Name], hereby provide the following undertaking/details regarding the 
+software product quoted in our proposal: 
+ 
+Sr. 
+No. 
+Product / Software 
+Description  
+Name 
+of 
+OEM 
+ 
+OEM Model / 
+Part No/ 
+Product Id of 
+OEM 
+Types of edition of 
+offered product 
+1 
+Microsoft Office LTSC Standard 
+2024 
+– 
+Perpetual 
+(Device 
+Based) 
+ 
+ 
+ 
+ 
+We [Organization Name] agrees to provide the quoted software product(s) within the timeframes and 
+under the conditions outlined in the bid. 
+ 
+ 
+ 
+(Signature and Seal) 
+Authorized Signatory of M/s <<Name of Company>> 

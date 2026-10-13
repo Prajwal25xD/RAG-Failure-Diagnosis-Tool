@@ -1,0 +1,3300 @@
+Sr. No.
+RFP Page No.,Section No. , Clause No.
+Existing Clause as per RFP
+Revised Clause / Specification / Requirement
+1
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 cr. work order should 
+be available in the last three financial years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+Clause Revise
+OEM Should have supplied following products i.e.(HCI Hardware,firewall)having 
+value of Rs. 30 cr. work order should be available in the last three financial years as 
+on bid submission. 
+ 
+OEM: HCI Hardware, Firewall. 
+2
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 3
+The OEM of the proposed product should have a total sum of 
+turnover of Rs. 60 Crore (Minimum) in the last three financial 
+years as on bid submission. 
+ 
+OEM: HCI solution, Firewall, Smart Rack,  Software part.
+Clause Revise
+The OEM of the proposed product should have a total sum of turnover of Rs. 60 
+Crore (Minimum) in the last three financial years as on bid submission. 
+OEM: HCI Hardware Firewall.
+Request for Proposal (RFP)Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development 
+Mission, Gandhinagar.(Bid No.  GEM/2026/B/7756393 dated 14.07.2026).
+Revise Corrigendum
+
+
+Sr. 
+No.
+RFP Page No.,Section No. , Clause No.
+Existing Clause as per RFP
+Revised Clause / Specification / Requirement
+1
+ Page No. 17, Section No. 1, Clause No. 
+Basic Information
+Number of Network ports per node  (Hint: Select '0' if not applicable - 3 or higher 
+Number of Network ports per node  (Hint: Select '0' if not applicable - 2 or higher 
+2
+RFP Page No: 10,
+5: Rear Door: 
+Lockable Perforated Steel Door
+OEM-standard locking mechanisms
+3
+RFP Page No: 10,
+ 
+7: Side Panels
+Removable with Key Locks
+Side Panels: Removable as per the OEM's standard design.
+4
+RFP Page No: 10,
+12: Secure Locks
+Secure Locks: Front and rear rack doors shall be secured using the OEM's standard 
+locking mechanism, integrated with a common biometric access control system, as 
+per the OEM's standard design
+5
+RFP Page No: 10,
+22: Intelligent Power
+Distribution: 2 x Intelligent Metered PDU, 32A, C13/C19 Mixed Outlets
+Distribution: 2 × Intelligent Metered 3-Phase, 32A PDUs with mixed C13/C19 
+outlets. PDU-level monitoring shall be provided
+6
+RFP Page No: 10,
+24: Cooling Capacity: 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy Preferred), 2 Units of 2 
+Ton AC which will run in redundancy mode.
+In-Rack Precision Cooling Solution (N+1 Redundancy Preferred). The bidder shall 
+propose the number and capacity of precision air conditioning units with sensible 
+cooling, as per the proposed solution, to maintain the recommended operating 
+conditions for the installed IT equipment.
+7
+RFP Page No: 10,
+34: Width: 
+900 mm or Higher
+The bidder shall conduct a site visit before proposing the solution. The rack 
+dimensions, cooling solution, and associated infrastructure shall be as per the site 
+feasibility, OEM's standard design, and the requirements of the RFP
+8
+RFP Page No: 10,
+35: Depth
+3600 mm or Higher
+Rack dimensions shall be as per the proposed solution and OEM's standard design, 
+meeting the requirements of the RFP.
+9
+Smart Rack 42 U (Technical specification) Humidity Control
+Active humidity control shall be optional, as per the proposed OEM solution, site 
+conditions, and industry-standard practices.
+10
+Smart Rack 42 U (Technical specification) UPS Rating : Min 20 KVA or higher
+The UPS with 20 KVA capacity and configuration shall be as per the proposed 
+solution, BOQ, and  site visit, meeting the requirements of the RFP.
+11
+Smart Rack 42 U (Technical specification) UPS Backup Time : Min 30 Minutes or Higher
+The UPS with minimum 20 KVA capacity and configuration shall be as per the 
+proposed solution, BOQ, and site visit, meeting the requirements of the RFP.
+12
+13
+The bidder shall conduct Factory Acceptance Testing (FAT), installation, 
+commissioning and operational acceptance of the proposed solution in coordination 
+with GUDM/GIL and obtain necessary sign-offs.
+Clause Revised : The bidder shall conduct Factory Final  Acceptance Test (FAT), 
+installation, commissioning and operational acceptance of the proposed solution in 
+coordination with GUDM/GIL and obtain necessary sign-offs.
+13
+4.4
+HCI is configuration of SSD/SAS/NL SAS/NVMe then the caching must be on
+appropriate capacity of SSD/NVME drives to meet the IOPS/performance 
+requirements.
+4. HCI is configuration of SSD/SAS/NL SAS/NVMe then the caching must be on 
+appropriate capacity of
+SSD/NVME drives to meet the IOPS/performance requirements.
+14
+4
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage
+Protocol
+6. iSCSI for Containers
+Supported industry protocols by HCI 
+1. NFS 
+2. CIFS 
+3. SMB 
+4. iSCSI 
+5. Equivalent IP Storage 
+Protocol 
+6. iSCSI for Containers 
+15
+Additional Eligibility Evaluation Criteria /
+Eligibility Criteria /Pg no. 1 / Serial no. 4
+Bidder should have Supply, Installation, Testing and Commissioning (SITC) of
+hyper-converged infrastructure (HCI) related work / Data Centre IT
+Infrastructure related experience i.e. Server, Storage, Virtualization,
+Network and Security and the following value of work order should be
+available in the last three financial years to any central / state Government /
+PSU/ Listed Company as on bid submission.
+•One work order having value of Rs. 10 Cr or
+•Two work orders, each work order having value of Rs. 6 Cr or
+•Three work orders, each work order having value of Rs. 5 Cr
+All work orders/contracts should be in the name of the bidder
+Bidder should have Supply, Installation, Testing and 
+Commissioning (SITC) of hyper-converged infrastructure (HCI) related work / Data 
+Centre IT Infrastructure related experience i.e. Server, Storage, Virtualization, 
+Network and Security and the following value of work order should be available in 
+the last Five financial years to any central / state Government / PSU/ Listed 
+Company as on bid submission. 
+• One work order having value of Rs. 10 Cr or  
+• Two work orders, each work order having value of Rs. 6 Cr or
+• Three work orders, each work order having value of Rs. 5 Cr  
+All work orders/contracts should be in the name of the bidder. 
+16
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 cr. work order should 
+be available in the last three financial years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+OEM Should have supplied HCI solution having value of 
+Rs. 30 cr. work order should be available in the last 
+three financial years as on bid submission. 
+ 
+OEM: HCI solution, Firewall.
+17
+Firewall Specification, Page no:24, 
+Point No. 7 
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces from day one. 
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces from day one. 
+18
+Bandwidth Page no:24
+Lease Line 50 Mbps
+Minimum 4 usable static Ips
+Clause Omitted
+19
+New Clause Added: Firewall
+New Clause Added: Firewall
+Heartbeat and  Auto Failover should be available from day 1 in the proposed 
+solution.
+Request for Proposal (RFP)Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban 
+Development Mission, Gandhinagar.(Bid No.  GEM/2026/B/7756393 dated 14.07.2026).
+Corrigendum
+
+
+Sr. No.
+RFP Page No.,Section 
+No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+1
+Page 1 of 16
+Clause No. 3
+The OEM of the proposed product should have a total sum of turnover of Rs. 60 Crore (Minimum) in the last three financial years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+Requested Amendment:The OEM of the proposed product 
+(applicable only for core HCI Hardware and Firewall OEM) should 
+have a total sum of turnover of Rs. 30 Crore (Minimum) in the last 
+three financial years as on bid submission.
+OEM: HCI Hardware , Firewall. 
+Please see corrigendum
+2
+Page 1 of 16
+Clause No. 5
+OEM Should have supplied HCI solution having value ofRs. 30 cr. work order should be available in the last three financial years as on bid submission.
+OEM: HCI solution, Firewall
+Requested Amendment:
+1. Kindly remove the word "HCI solution" and amend it to "HCI 
+Hardware , Firewall" components.
+2.The respective OEM for HCI Hardware and Firewall should have 
+supplied the relevant HCI Hardware / Firewall components having 
+a cumulative value of at least ₹30 Crore through one or more 
+work orders during the last three financial years as on the bid 
+submission date.
+Please see corrigendum
+3
+Performance
+IOPS delivered at 70:30 Read:Write Ratio on 8K block size with
+latency of 5ms maximum for each node 100000 Or higher
+Requested Amendment and Confirmation :
+Kindly confirm the following for the proposed 3-Node HCI 
+Solution:
+170 TB storage capacity shall be considered as usable capacity 
+after applicable data protection/replication, excluding HCI system 
+overhead and recommended operational free space.
+The required minimum 192 usable CPU cores shall be considered 
+as workload-available cores after reserving resources required for 
+the HCI software stack. Accordingly, bidders may size additional 
+physical cores to accommodate the required HCI overhead.
+OEMs may propose All-Flash or All-NVMe architecture, provided 
+the solution meets the specified capacity and performance 
+requirement of minimum 100,000 IOPS per node at 8K block size, 
+70:30 Read ratio and maximum 5 ms latency.
+For an All-NVMe architecture, a separate caching tier should not 
+be mandatory, since the capacity tier itself is based on enterprise 
+NVMe media.
+As per RFP
+4
+Supported industry 
+protocols by HCI
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage Protocol
+6. iSCSI for Containers
+Requested Amendment and Confirmation :
+The proposed storage solution shall support industry-standard 
+file, block and container storage protocols/interfaces, including 
+NFS, SMB, CSI-based Container Storage, and iSCSI or equivalent IP-
+based block storage protocol, as applicable to the proposed 
+solution and application requirements.
+The appropriate protocol/interface shall be finalized during 
+implementation based on the application and deployment 
+requirements.
+As per RFP
+Request for Proposal (RFP)Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, 
+Gandhinagar.(Bid No.  GEM/2026/B/7756393 dated 14.07.2026).
+Revise Response to Prebid Queries
+
+
+5
+Bidder should have Supply, Installation, Testing and
+Commissioning (SITC) of hyper-converged infrastructure (HCI) related work / Data
+Centre IT Infrastructure related experience i.e. Server, Storage, Virtualization, Network and Security and the following value of work order should be 
+available in
+the last Five financial years to any central / state Government / PSU/ Listed Company as on bid submission.
+Bidder should have Supply, Installation, Testing and
+Commissioning (SITC) of hyper-converged infrastructure (HCI) 
+related work / Data
+Centre IT Infrastructure related experience i.e. Server, Storage, 
+Virtualization, Network and Security and the following value of 
+work order should be available in
+the last Five financial years to any central / state Government / 
+PSU/ Listed / Private Ltd Company as on bid submission.
+As per RFP
+6
+Page 1 of 16
+Clause No. 3
+The OEM of the proposed product should have a total sum of turnover of Rs. 60 Crore (Minimum) in the last three financial years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+Requested Amendment:The OEM of the proposed product 
+(applicable only for core HCI Hardware and Firewall OEM) should 
+have a total sum of turnover of Rs. 30 Crore (Minimum) in the last 
+three financial years as on bid submission.
+OEM: HCI Hardware , Firewall. 
+Please see corrigendum
+7
+Page 1 of 16
+Clause No. 5
+OEM Should have supplied HCI solution having value of
+Rs. 30 cr. work order should be available in the last
+three financial years as on bid submission.
+OEM: HCI solution, Firewall
+Requested Amendment:
+1. Kindly remove the word "HCI solution" and amend it to "HCI 
+Hardware , Firewall" components.
+2.The respective OEM for HCI Hardware and Firewall should have 
+supplied the relevant HCI Hardware / Firewall components having 
+a cumulative value of at least ₹30 Crore through one or more 
+work orders during the last three financial years as on the bid 
+submission date.
+Please see corrigendum
+8
+Performance
+IOPS delivered at 70:30 Read:Write Ratio on 8K block size with
+latency of 5ms maximum for each node 100000 Or higher
+Requested Amendment and Confirmation :
+Kindly confirm the following for the proposed 3-Node HCI 
+Solution:
+170 TB storage capacity shall be considered as usable capacity 
+after applicable data protection/replication, excluding HCI system 
+overhead and recommended operational free space.
+The required minimum 192 usable CPU cores shall be considered 
+as workload-available cores after reserving resources required for 
+the HCI software stack. Accordingly, bidders may size additional 
+physical cores to accommodate the required HCI overhead.
+OEMs may propose All-Flash or All-NVMe architecture, provided 
+the solution meets the specified capacity and performance 
+requirement of minimum 100,000 IOPS per node at 8K block size, 
+70:30 Read ratio and maximum 5 ms latency.
+For an All-NVMe architecture, a separate caching tier should not 
+be mandatory, since the capacity tier itself is based on enterprise 
+NVMe media.
+As per RFP
+
+
+9
+Supported industry 
+protocols by HCI
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage Protocol
+6. iSCSI for Containers
+Requested Amendment and Confirmation :
+The proposed storage solution shall support industry-standard 
+file, block and container storage protocols/interfaces, including 
+NFS, SMB, CSI-based Container Storage, and iSCSI or equivalent IP-
+based block storage protocol, as applicable to the proposed 
+solution and application requirements.
+The appropriate protocol/interface shall be finalized during 
+implementation based on the application and deployment 
+requirements.
+As per RFP
+10
+Page 1 of SOW 
+document
+IMPLEMENTATION 
+TIMELINES &
+PENALTIES, Sr. No.: 2
+Delivery of Components (Hardware, Software, License, etc.)
+T1 = T + 12 weeks
+We request you to kindly modify the clause as below :
+T1 = T + 16 weeks
+As per RFP
+11
+Page No. 21,Section No. 
+7, Clause No. ATC 
+Clause
+The proposed HCI solution and virtualization platform should No. ATC Clause support seamless migration and deployment of workloads/applications from 
+UAT environment to existing VMwareTanzu/containerized ecosystem at GSDC Production Environment, wherever applicable. Bidder shall ensure smooth 
+migration, integration, and operational continuity during implementation.
+The proposed HCI solution and virtualization platfrom should 
+support migration of contanerized applications.
+As per RFP
+12
+Page 1 of SOW 
+document
+IMPLEMENTATION 
+TIMELINES &
+PENALTIES, Sr. No.: 2
+Delivery of Components (Hardware, Software, License, etc.)
+T1 = T + 12 weeks
+We request you to kindly modify the clause as below :
+T1 = T + 16 weeks
+As per RFP
+13
+Supported industry prot
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage Protocol
+6. iSCSI for Containers
+1.NFS
+4. iSCSI
+5. Equivalent IP Storage Protocol
+As per RFP
+14
+Page no 1, Delivery
+Bid Offer Validity (From End Date) - 180 days
+As per RFP
+15
+Page 1 of 16
+Clause No. 3
+The OEM of the proposed product should have a total sum of turnover of Rs. 60 Crore (Minimum) in the last three financial years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+Requested Amendment:The OEM of the proposed product 
+(applicable only for core HCI Hardware and Firewall OEM) should 
+have a total sum of turnover of Rs. 30 Crore (Minimum) in the last 
+three financial years as on bid submission.
+OEM: HCI Hardware , Firewall. 
+Please see corrigendum
+16
+Page 1 of 16
+Clause No. 5
+OEM Should have supplied HCI solution having value of
+Rs. 30 cr. work order should be available in the last
+three financial years as on bid submission.
+OEM: HCI solution, Firewall
+Requested Amendment:
+1. Kindly remove the word "HCI solution" and amend it to "HCI 
+Hardware , Firewall" components.
+2.The respective OEM for HCI Hardware and Firewall should have 
+supplied the relevant HCI Hardware / Firewall components having 
+a cumulative value of at least ₹30 Crore through one or more 
+work orders during the last three financial years as on the bid 
+submission date.
+Please see corrigendum
+
+
+17
+Performance
+IOPS delivered at 70:30 Read:Write Ratio on 8K block size with
+latency of 5ms maximum for each node 100000 Or higher
+Requested Amendment and Confirmation :
+Kindly confirm the following for the proposed 3-Node HCI 
+Solution:
+170 TB storage capacity shall be considered as usable capacity 
+after applicable data protection/replication, excluding HCI system 
+overhead and recommended operational free space.
+The required minimum 192 usable CPU cores shall be considered 
+as workload-available cores after reserving resources required for 
+the HCI software stack. Accordingly, bidders may size additional 
+physical cores to accommodate the required HCI overhead.
+OEMs may propose All-Flash or All-NVMe architecture, provided 
+the solution meets the specified capacity and performance 
+requirement of minimum 100,000 IOPS per node at 8K block size, 
+70:30 Read ratio and maximum 5 ms latency.
+For an All-NVMe architecture, a separate caching tier should not 
+be mandatory, since the capacity tier itself is based on enterprise 
+NVMe media.
+As per RFP
+18
+Supported industry 
+protocols by HCI
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage Protocol
+6. iSCSI for Containers
+Requested Amendment and Confirmation :
+The proposed storage solution shall support industry-standard 
+file, block and container storage protocols/interfaces, including 
+NFS, SMB, CSI-based Container Storage, and iSCSI or equivalent IP-
+based block storage protocol, as applicable to the proposed 
+solution and application requirements.
+The appropriate protocol/interface shall be finalized during 
+implementation based on the application and deployment 
+requirements.
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+1
+Additional Eligibility Evaluation 
+Criteria /
+Eligibility Criteria /Pg no. 1 / Serial 
+no. 4
+Bidder should have Supply, Installation, Testing and 
+Commissioning (SITC) of
+hyper-converged infrastructure (HCI) related work / Data 
+Centre IT
+Infrastructure related experience i.e. Server, Storage, 
+Virtualization,
+Network and Security and the following value of work order 
+should be
+available in the last three financial years to any central / state 
+Government /
+PSU/ Listed Company as on bid submission.
+•
+One work order having value of Rs. 10 Cr or
+•
+Two work orders, each work order having value of Rs. 6 Cr or
+•
+Three work orders, each work order having value of Rs. 5 Cr
+All work orders/contracts should be in the name of the bidder
+Bidder should have Supply, Installation, Testing and 
+Commissioning (SITC) of hyper-converged infrastructure 
+(HCI) related work / Data Centre IT Infrastructure related 
+experience i.e. Server, Storage, Virtualization, Network and 
+Security and the following value of work order should be 
+available in the last three financial years to any central / 
+state Government / PSU/ Listed Company as on bid 
+submission.
+• One work order having value of Rs. 8 Cr or
+• Two work orders, each work order having value of Rs. 5 Cr 
+or
+• Three work orders, each work order having value of Rs. 1.5 
+Cr
+All work orders/contracts should be in the name of the 
+bidder
+Please see corrigendum.
+2
+"50 Mbps Lease Line with minimum 4 usable Static IPs"
+As per RFP
+3
+ Page No. 17, Section No. 1, Clause 
+No. Basic Information
+Total usable Cores available (after installation of HCI software 
+resources required for solution) in the offered solution (Hint :- 
+Select '0' if not applicable) - Minimum 192 cores or higher 
+Please change to minimum 174 cores or higher 
+As per RFP
+4
+ Page No. 17, Section No. 1, Clause 
+No. Basic Information
+Number of Network ports per node  (Hint: Select '0' if not 
+applicable - 3 or higher 
+Minimum 2 X Dual Port 10/25
+Please see corrigendum.
+5
+ Page No. 20, Section No. 5, Clause 
+No. Generic Parameters
+Number of nodes HCI supports in same cluster/deployment, 
+such that any node out of the offered be able to use the 
+storage of all other nodes* - Minimum 16 Node Or higher  
+Minimum 32 nodes in single cluster or higher
+As per RFP
+6
+ Page No. 20, Section No. 5, Clause 
+No. Generic Parameters
+HCI Support - Proposed solution shall support any one or more 
+industry-standard enterprise hypervisors such as AHV, Hyper-
+V, vSphere, Xen, KVM, RHEV, or equivalent. 
+Proposed solution shall support any one or more industry-
+standard enterprise hypervisors  such as AHV, Hyper-V, 
+vSphere, or equivalent
+ The specified requirement is the minimum requirement. Bidders may propose solutions supporting one or more 
+industry-standard enterprise hypervisors, meeting the requirements of the RFP.
+7
+ Page No. 21,Section No.  7, Clause 
+No. ATC Clause
+The proposed HCI solution and virtualization platform should 
+support seamless migration and deployment of 
+workloads/applications from UAT environment to existing 
+VMwareTanzu/containerized ecosystem at GSDC Production 
+Environment, wherever applicable. Bidder shall ensure 
+smooth migration, integration, and operational continuity 
+during implementation. 
+The proposed HCI solution and virtualization platfrom should 
+support migration of contanerized applications. 
+ATC clause mandatory: Seamless migration to Tanzu/containerized ecosystem required.
+8
+UAT & Staging: 
+As per RFP
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+9
+• GPU Memory: Minimum 48 GB ECC GPU Memory or higher; 
+Tensor Cores: Minimum 500 or higher; GPU shall support 
+AI/ML, Deep Learning, NLP, LLM, and containerized 
+workloads. GPU should be compatible with the proposed 
+server platform. 
+10
+• CPU – 8 Cores, 16 GB RAM 
+11
+• Storage – 500 GB 
+12
+• OS – Ubuntu 22.04 or above Further, the Production 
+environment infrastructure will be proposed separately.  The 
+container platform must support GPU resource allocation for 
+AI/ML workloads
+13
+ Page No. 15, Section No. 8 , Clause 
+No. Scope Of Work
+The bidder shall provide and configure a dedicated 1 GPU 
+based single node with capacity of 48 GB or higher for AI/ML, 
+analytics and future application requirements. 
+Contradictory with ATC Clause, please clarify the GPU node 
+requirement, whether we have to provide standalone server 
+hardware or HCI node for this requirement   
+The bidder may propose the GPU solution either as a standalone dedicated GPU server or as part of the proposed 
+HCI solution, as per the proposed solution architecture, provided all RFP technical requirements are met. 
+However, the cost of the dedicated GPU server shall be included under the HCI Solution head in the Price Bid. 
+After completion of the Reverse Auction (RA), the successful bidder shall submit a separate line-item-wise price 
+breakup for the GPU server and associated components.
+14
+ Page No. 24, Section No. 1, Clause 
+No. Bandwidth
+Lease Line 50 Mbps Minimum 4 usable static IPs
+ISP provides the lease line, hence request you to remove this 
+point 
+please see corrigendum.
+15
+Page No. 24, Section No. 5, Clause 
+No. Migration at GSDC
+GUDM’s Intimation date for Migration at production stage (4 
+weeks from date of intimation) - A penalty of 0.5% of Contract 
+Value per week or part
+thereof.
+Please remove the penalty clause for migration as migration 
+is timeline is depend of multiple parameters i.e. site 
+readyness, number of physical servers/VMs, total data 
+capacity & data type, downtime availability, bandwidth 
+requirement etc.
+As per RFP
+16
+Page No. 26, Section No. 1, Clause 
+No. Milestone Based Payment Terms
+Delivery of all components (Hardware, Software, Licenses, 
+etc.) - 50 % of the total GEM contract value
+We request you to kindly modify the criteria as below : 
+90 % of the total GEM contract value
+As per RFP
+17
+Page No. 26, Section No. 2, Clause 
+No. Milestone Based Payment Terms
+Successful installation, Testing, Integration, Commissioning - 
+20 % of the total GEM contract value
+We request you to kindly modify the criteria as below : 
+10 % of the total GEM contract value
+As per RFP
+18
+Page 1 of SOW document
+Additional Eligibility Evaluation 
+Criteria: Sr. No.: 4
+Bidder should have Supply, Installation, Testing and
+Commissioning (SITC) of hyper-converged infrastructure (HCI)
+related work / Data Centre IT Infrastructure related 
+experience
+i.e. Server, Storage, Virtualization, Network and Security and
+the following value of work order should be available in the
+last three financial years to any central / state Government /
+PSU/ Listed Company as on bid submission.
+• One work order having value of Rs. 10 Cr or
+• Two work orders, each work order having value of Rs. 6 Cr
+or
+• Three work orders, each work order having value of Rs. 5 Cr
+All work orders/contracts should be in the name of the bidder
+We request you to kindly modify the criteria as below : 
+Bidder should have Supply, Installation, Testing and
+Commissioning (SITC) of hyper-converged infrastructure 
+(HCI)
+related work / Data Centre IT Infrastructure related 
+experience
+i.e. Server, Storage, Virtualization, Network and Security and
+the following value of work order should be available in the
+last five financial years to any central / state Government /
+PSU/ Listed Company as on bid submission.
+• One work order having value of Rs. 10 Cr or
+• Two work orders, each work order having value of Rs. 6 Cr
+or
+• Three work orders, each work order having value of Rs. 5 
+Cr
+All work orders/contracts should be in the name of the 
+bidder
+Please see corrigendum.
+19
+Page 1 of SOW document
+IMPLEMENTATION TIMELINES & 
+PENALTIES, Sr. No.: 2
+Delivery of Components (Hardware, Software, License, etc.)
+T1 = T + 12 weeks
+We request you to kindly modify the clause as below : 
+T1 = T + 16 weeks
+As per RFP
+20
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+We hereby request to consider SmartRack OEM having value 
+of Rs 3Cr work order should be available in the last three 
+financial years as on bid submission.
+Please see corrigendum.
+ Page No. 21,Section No.  7, Clause 
+No. ATC Clause
+The GPU shall be provided on a standalone physical server 
+and shall not form part of the HCI infrastructure. GUDM may 
+provide details regarding the application deployment 
+architecture, including whether the application will be 
+deployed on Virtual Machine(s) or as containerized 
+workloads, along with the corresponding resource 
+requirements, if applicable.
+The GPU solution may be proposed either as a standalone server or as part of the proposed HCI infrastructure, as per 
+the bidder's proposed solution architecture, provided it meets all the technical, functional, performance, and 
+compatibility requirements specified in the RFP.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+21
+RFP Page No: 10,
+5: Rear Door: 
+Lockable Perforated Steel Door
+This is a requirement for a Smart Rack with an integrated 
+closed-loop cooling system. As per industry best practices, 
+the rear rack door should be a split plain door to ensure ease 
+of access, maintenance, and compatibility with the cooling 
+design.
+Both the front and rear rack doors shall be equipped with 
+magnetic locks. The doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, ensuring secure and centralized 
+access management.
+We herbey request to consider the same and kindly make 
+necessory corrigendum for the same
+Please see corrigendum.
+22
+RFP Page No: 10,
+ 
+7: Side Panels
+Removable with Key Locks
+We hereby request you to consider that the side panels shall 
+be removable and secured using latch locks, key locks, or 
+screws, as per the OEM's standard design and best practices.
+Please see corrigendum.
+23
+RFP Page No: 10,
+12: Secure Locks
+With reference to Serial/Point No. 29 regarding the 
+Biometric Access Control System, we hereby request you to 
+consider that the front and rear rack doors shall be equipped 
+with magnetic locks. Both doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, as per the OEM's standard design.
+Please see corrigendum.
+24
+RFP Page No: 10,
+22: Intelligent Power
+Distribution: 2 x Intelligent Metered PDU, 32A, C13/C19 Mixed 
+Outlets
+Kindly specify whether the required Rack PDU is 1-Phase (7.3 
+kW) or 3-Phase (22 kW). Based on this information, the OEM 
+will be able to provide the appropriate solution 
+prerequisites, including the electrical input cable sizing and 
+input power capacity requirements.
+Also, last remark after point/Serial no 36, kinldly clarify that 
+PDU required PDU level monitoring or socket level 
+monitoring.
+Please see corrigendum.
+25
+RFP Page No: 10,
+23: Power Strips
+Minimum 2
+Pls spcify the number of socket, types of socket and Amp 
+rating for the same
+The bidder shall provide the required number, type, and rating of outlets as per the proposed solution to meet the 
+functional and technical requirements of the RFP
+26
+RFP Page No: 10,
+24: Cooling Capacity: 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy 
+Preferred), 2 Units of 2 Ton AC which will run in redundancy 
+mode.
+Please note that 20 kW of cooling capacity is approximately 
+equivalent to 5.7 TR, whereas 2 TR is approximately 
+equivalent to 7 kW. Kindly clarify the actual cooling capacity 
+requirement, i.e., whether the requirement is 20 kW or 7 
+kW.
+Further, if the department intends to procure a 20 kW 
+cooling unit, we recommend specifying that the unit shall 
+deliver a net sensible cooling capacity of 20 kW under the 
+following operating conditions to ensure reliable 
+performance during the peak summer conditions in 
+Gandhinagar:
+Ambient temperature: 46°C: which is peak Summer ambient 
+of the Gandhinagar city
+Supply air temperature: 22 ± 1°C
+Return air temperature: 35°C
+This approach will ensure that the cooling unit is 
+appropriately sized and capable of maintaining the desired IT 
+operating environment under the site's maximum design 
+ambient conditions
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+27
+RFP Page No: 10,
+30: Monitoring Interface: 
+Integrated Monitoring and Alerting Dashboard
+Wrt to point no 36 and remark after it, We hereby request to 
+consider as Detailed Monitoring & Diagnostics through 
+Monitoring hardware device,1U rack mountable, with 
+redundant input power supplies & capable of single window 
+monitoring of all the environmental parameters like 
+temperature, humidity, door access, smoke etc along with 
+UPS & air conditioning through a single window dashboard 
+over ethernet & Capable for sending Email Alerts
+The monitoring unit should support IPMI protocol to enable 
+feature to Access server Service Processor. The Monitoring 
+unit should have feature to enable graceful shutdown of the 
+IT servers supporting IPMI Protocol.
+Monitoring unit should be integrated with energy meter of 
+the Smart rack DB Panel & should be able to monitor the 
+Main Input power Voltage, Current, power consumption.
+As per RFP
+28
+RFP Page No: 10,
+34: Width: 
+900 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, Rack width shall be 
+800 mm or higher which needs to integrated with an In-Row 
+cooling system. Racks with a width of 900 mm or 1000 mm 
+are typically designed for in-rack cooling systems, which 
+generally support cooling capacities of up to 7 kW.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+29
+RFP Page No: 10,
+35: Depth
+3600 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, the Rack depth shall 
+be 1800mm which includes Front 300mm ColdAisle 
+containtment, 1200mm IT Rack depth and rear 300mm Hot 
+Aisle containtment. this is best prectices across the OEM 
+with an In-Row cooling system offering. where In-Rack 
+cooling system support up to 12000mm rack depth. 
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+30
+Page no:11, 
+Serial Number: NA
+Clause: NA
+The  Smart  Rack  shall  support  installation  of  HCI  nodes,  
+Top-of-Rack  (ToR) switches,  firewall appliances,   intelligent   
+PDUs,   UPS,   cooling   units,   and   associated   
+power/network   cabling infrastructure with provision for 
+future scalability. The rack shall provide integrated 
+monitoring, environmental controls, security, and power 
+management capabilities under a unified management 
+framework.
+We hereby request to elaborate and clarify the requirement 
+for "power management capabilities under a unified 
+management framework"
+Power Management Capabilities: The proposed solution shall provide centralized monitoring and management of the 
+Smart Rack power infrastructure, including UPS, intelligent PDUs, power consumption, input voltage/current, alarms, 
+events, and power status through a unified management dashboard.
+31
+NA
+Site Survery for Smart Rack room/DC room
+We hereby request the department to kindly share the room 
+layout, including the proposed Outdoor Unit (ODU) 
+installation location. Alternatively, we request permission to 
+conduct a site visit and site survey to assess the civil and 
+electrical prerequisites, verify the feasibility of the 
+installation, and evaluate the department's readiness for the 
+activities falling under its scope of work.
+Clarification
+"Adequate Room Size will be provided as per solution requirement "
+32
+Smart Rack 42 U (Technical 
+specification)
+Rear Door : Lockable Perforated Steel Door
+Please consider plain sheet door without any perforation to 
+avoide any air leakage 
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+33
+Smart Rack 42 U (Technical 
+specification)
+Side Panels : Removable with Key Locks
+Please mention as "removable with key lock or screw fixed'' 
+the screw based  side panel will be fixed properly compared 
+to lock and key based side panels
+Please see corrigendum.
+34
+Smart Rack 42 U (Technical 
+specification)
+Cooling Capacity : Minimum 20 kW
+Please precise the load , in single rack if load will not atleast 
+40% of total cooling it will create efficiency issue, Also in 
+single rack the 20kW load is to high
+Please see corrigendum.
+35
+Smart Rack 42 U (Technical 
+specification)
+Humidity Control
+integrated solution mostly not required the humidity control 
+for low load , also if room temperature and humidity is 
+maintained not required additional humidifier!
+Please see corrigendum.
+36
+Smart Rack 42 U (Technical 
+specification)
+Fire Suppression System : Integrated Automatic Fire 
+Suppression
+mostly requires rear door opening provison, please clarify 
+The Integrated Automatic Fire Suppression System shall be as per the proposed OEM solution, and any access 
+provisions required for its operation and maintenance shall be considered by the bidder.
+37
+Smart Rack 42 U (Technical 
+specification)
+Cooling  Capacity : Minimum 20 kW In-Rack Precision Cooling 
+(N+1 Redundancy Preferred)
+, 2 Units of 2 Ton AC which will run in redundancy mode.
+20kw = 5.6 Ton , 2 ton = 7kW please confirm what capacity is 
+required, usually in single smart rack 7kw load is ideal , We 
+would suggest to consider Zero U rack mounted 7kw cooling 
+unit 
+Also confirm the Indoor unit to Outdoor unit distance
+Please see corrigendum.
+38
+Smart Rack 42 U (Technical 
+specification)
+UPS Rating : Min 20 KVA or higher
+please pr cise the capacity , for 7kw IT load 10kva is 
+sufficient, Please confirm if rack mounted UPS required of 
+floor mounted ? do redundant UPS required ?
+Please see corrigendum.
+39
+Smart Rack 42 U (Technical 
+specification)
+UPS Backup Time : Min 30 Minutes or Higher
+is this 15 mins on each UPS , so combined backup will be 
+30mins, 
+Also the batteries need to install outside the Rack, If 
+batteries requires inside the Rack it will consume more space 
+inside rack, Please confirm minimum U space required for IT 
+equipment
+Please see corrigendum.
+40
+Smart Rack 42 U (Technical 
+specification)
+Monitoring Interface : Integrated Monitoring and Alerting 
+Dashboard
+mostly requires at front door , however single biometric can 
+secure rear door also as per OEM standard design
+As per RFP
+41
+Smart Rack 42 U (Technical 
+specification)
+Network Integration : Support for integration with DCIM/NMS 
+tools
+please add HMI display for local monitoring of all rack 
+parameters 
+As per RFP
+42
+Smart Rack 42 U (Technical 
+specification)
+Depth : 3600 mm or Higher
+it can be minimum 1200mm depth , looks like a typing error
+Please see corrigendum.
+43
+Smart Rack 42 U (Technical 
+specification)
+ADDITIONAL PERFORMAN CE PARAMETER 
+• The Smart Rack Should advance modular server and network 
+equipment enclosure designed for optimized space utilization, 
+enhanced airflow, and simplified cable management.
+• It provides secure housing with lockable doors, adjustable 
+mounting rails, and built-in monitoring options for 
+temperature, humidity, and power usage.
+• Ideal for data centers, IT rooms, and network closets, the 
+Smart Rack ensures efficient equipment organization, easy 
+maintenance, and improved operational reliability while 
+supporting scalability for growing
+infrastructure needs.
+looks like this is TOR design , and load might not more than 
+7kw please check and consider 7kw=2Ton Rack zero U 
+mounted cooling unit (N+N) design 
+Please see corrigendum.
+44
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+We hereby request to consider SmartRack OEM having 
+value of Rs 3Cr work order should be available in the last 
+three financial years as on bid submission.
+please see corrigendum.
+45
+Bandwidth 
+Page no:24
+Lease Line 50 Mbps
+Minimum 4 usable static Ips
+Request you kindly exclude bandwidth requirement from 
+this tender as services for the bandwidth is completely 
+depended on the service provider. SLA of Bandwidth 
+providers are completely different than Hardware/Software 
+Infra. Also SI has no role to play in this. 
+please see corrigendum.
+46
+Firewall Specification, Page no:24, 
+Point No. 7 
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces 
+from day one. 
+smaller appliance doesn’t come with 25 Gbps ports. Need to 
+relax this clause with :
+Appliance shall have minimum 2× 10G SFP+ interfaces from 
+day one. 
+please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+47
+HCI Specification, 
+Page no:21, 
+Point No. 7 ATC Clause
+Networking part: 24 x 10/25GbE SFP+ & 4 x 100GbE QSFP data 
+center grade switch + L3 License All 24 ports should be 
+populated with 25G Module from day 1
+25 Gbps ports moslty come with 48 Ports model. 
+Request you kindly allow 48 port switch option for maximum 
+OEM Partition.
+The specified switch configuration is the minimum requirement. Bidders may offer a Datacenter standard switch with 
+higher port density, without any additional cost to GoG, provided the proposed solution meets all the requirements 
+of the RFP
+48
+Page 3, Scope of Work, Clause 6; and 
+Page 9, ATC Clause
+The proposed solution shall support migration and 
+deployment of applications from the UAT/Development 
+environment to the GSDC Production Environment and shall 
+be compatible with the VMware Tanzu platform deployed at 
+GSDC. The bidder shall provide all necessary migration, 
+integration, testing and deployment support without any 
+additional cost.
+We request clarification on the intent of "compatible with 
+VMware Tanzu platform." Kindly confirm whether this 
+requirement means:
+(a) the proposed HCI/virtualization platform must natively 
+run or host VMware Tanzu itself; OR
+(b) the proposed solution must support 
+migration/interoperability of Tanzu-based containerized 
+workloads (namespaces, configurations, persistent volumes, 
+etc.) to the GSDC Production environment, achievable 
+through supported migration tools and services regardless of 
+the underlying hypervisor/container platform used in the 
+proposed HCI solution.
+This clarification is essential as several leading enterprise HCI 
+platforms achieve Tanzu/Kubernetes workload portability 
+through migration tooling rather than native Tanzu hosting. 
+We request that such solutions be treated as compliant, 
+provided functional migration and interoperability is 
+demonstrated.
+The requirement refers to supporting migration, deployment, and interoperability of applications/workloads from 
+the UAT/Development environment to the existing VMware Tanzu-based Production Environment at GSDC. The 
+proposed solution is not required to natively host VMware Tanzu. The bidder shall ensure seamless migration and 
+operational compatibility using supported migration tools, services, or industry-standard mechanisms, wherever 
+applicable.
+49
+Page 9, ATC Clause (GPU/Container 
+Platform requirement); read with 
+Page 3, Scope of Work Clause 8
+Currently, we are working on an AI-based chatbot within the 
+scope defined in the RFP... However, if GUDM plans to extend 
+this to an advanced chatbot using NLP/LLM-based capabilities, 
+additional GPU-based infrastructure will be required for UAT 
+and Staging environments. The indicative configuration is as 
+below: UAT & Staging: GPU Memory: Minimum 48 GB ECC 
+GPU Memory or higher; Tensor Cores: Minimum 500 or 
+higher... The container platform must support GPU resource 
+allocation for AI/ML workloads.
+[Scope of Work Clause 8]: The bidder shall provide and 
+configure a dedicated 1 GPU based single node with capacity 
+of 48 GB or higher for AI/ML, analytics and future application 
+requirements.
+We seek clarification on the following points regarding the 
+GPU/container platform requirement:
+(1) Is the GPU node specified in Scope of Work Clause 8 (48 
+GB capacity) the same physical node referenced in the ATC 
+clause for the AI-chatbot/NLP-LLM use case, or is this an 
+additional, separate GPU node contingent on GUDM 
+extending the chatbot scope? Kindly confirm whether 
+provisioning of only one GPU node (as per Clause 8) fulfills 
+both requirements, or whether bidders should price for GPU 
+infrastructure separately for the base scope versus the 
+indicative future chatbot extension.
+(2) Regarding "the container platform must support GPU 
+resource allocation for AI/ML workloads" — kindly confirm 
+whether this refers to a specific container orchestration 
+platform (e.g., Kubernetes, OpenShift, VMware Tanzu), or 
+whether any enterprise-grade container platform capable of 
+GPU resource scheduling/allocation (native to the proposed 
+HCI solution or third-party) will be considered compliant.
+(3) Kindly confirm whether the minimum Tensor Core count 
+(500 or higher) and 48GB ECC GPU memory requirement is 
+indicative/aligned to a specific reference architecture, or a 
+firm minimum specification applicable to all OEM GPU 
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+50
+Page 3, Scope of Work, Clause 8 & 
+Page 9 - GeM Tender File Minimum 
+Specification Point No. 7 (ATC 
+Clause)
+Scope of Work Clause 8 states: "The bidder shall provide and 
+configure a dedicated 1 GPU based single node with capacity 
+of 48 GB or higher for AI/ML, analytics and future application 
+requirements."
+Whereas in GeM Tender File Minimum Specification Point 
+No. 7 (ATC Clause) states: "Currently, we are working on an AI-
+based chatbot within the scope defined in the RFP, primarily 
+to assist citizens through FAQs and scenario-based automated 
+responses for respective ULB services. However, if GUDM 
+plans to extend this to an advanced chatbot using NLP/LLM-
+based capabilities, additional GPU-based infrastructure will be 
+required for UAT and Staging environments."
+This two clauses appear contradictory — Scope of Work 
+Clause 8 mandates the GPU node unconditionally, while the 
+ATC Clause states GPU infrastructure will be required only 
+"if" GUDM extends to an advanced NLP/LLM chatbot in 
+future.
+Kindly clarify whether we need to consider the GPU Node 
+commercial in the Price Bid from Day One or not.
+The bidder shall include the cost of the dedicated GPU server under the HCI Solution head in the Price Bid. After 
+completion of the Reverse Auction (RA), the successful bidder shall submit a separate line-item-wise price breakup 
+for the GPU server and associated components. 
+The Application  for the migration activity Bidder has to coordinate with the development team will provided 
+within 15 Days after completion of FAT(Final Acceptance Test)
+51
+Page 8, Scope of Work, Clause 5 - 
+HCI Generic Parameters
+Minimum 16 Node Or higher Number of nodes HCI supports 
+in same cluster/deployment, such that any node out of the 
+offered be able to use the storage of all other nodes*
+Request you to Amend with : 
+Minimum 32 Node or Higher for have better scalability in 
+future which is supported by most of the enterprise grade 
+hci solution
+The requirement specified in the RFP is the minimum requirement. Bidders may propose a solution supporting a 
+higher number of nodes, provided all other RFP requirements are met.
+52
+Page 7, Scope of Work, Clause 5 - 
+HCI Generic Parameters
+HCI support -
+Proposed solution shall support any one or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, or equivalent.
+Request you to Amend as : 
+Proposed solution shall support any two or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, or equivalent.
+The specified requirement is the minimum requirement. Bidders may propose solutions supporting one or more 
+industry-standard enterprise hypervisors, meeting the requirements of the RFP.
+53
+Page 4, Scope of Work, Clause 1 - 
+BASIC INFORMATION
+Number of Network ports per node 
+(Hint: Select '0' if not applicable 3 or higher
+Request you to Amend as : 
+Number of Network ports per node (Hint: Select '0' if not 
+applicable 2 X Dual Port or higher To achieve the card level 
+redundancy
+Please see corrigendum.
+54
+Page 4, Scope of Work, Clause 1 - 
+BASIC INFORMATION
+Total usable Cores available (after installation of HCI software 
+resources required for solution) in the offered solution (Hint :- 
+Select '0' if not applicable) Minimum 192 cores or higher
+Request you to clarify below point : 
+As per the this clauses, the requested configuration 3 node 
+will provide 192 raw cores. The total usable core available 
+after HCI software will be less than 192 cores. Please clarify if 
+we should offer raw 192 cores or more cores/nodes needs to 
+be factored. Please clarify
+The requirement of minimum 192 cores refers to the usable CPU cores available after allocation of resources 
+required for the HCI software/platform. The bidder shall size and propose the required hardware configuration 
+accordingly to meet the minimum usable core requirement specified in the RFP.
+55
+RFP Page No: 10,
+5: Rear Door: 
+Lockable Perforated Steel Door
+This is a requirement for a Smart Rack with an integrated 
+closed-loop cooling system. As per industry best practices, 
+the rear rack door should be a split plain door to ensure ease 
+of access, maintenance, and compatibility with the cooling 
+design.
+Both the front and rear rack doors shall be equipped with 
+magnetic locks. The doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, ensuring secure and centralized 
+access management.
+We herbey request to consider the same and kindly make 
+necessory corrigendum for the same
+Please see corrigendum.
+56
+RFP Page No: 10,
+ 
+7: Side Panels
+Removable with Key Locks
+We hereby request you to consider that the side panels shall 
+be removable and secured using latch locks, key locks, or 
+screws, as per the OEM's standard design and best practices.
+Request you kindly amend with :
+Removable with Key Locks/Latch Locks
+Please see corrigendum.
+57
+RFP Page No: 10,
+12: Secure Locks
+With reference to Serial/Point No. 29 regarding the 
+Biometric Access Control System, we hereby request you to 
+consider that the front and rear rack doors shall be 
+equipped with magnetic locks. Both doors shall operate on 
+a fail-safe principle and be controlled through a common 
+biometric access control system, as per the OEM's standard 
+design.
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+58
+RFP Page No: 10,
+22: Intelligent Power
+Distribution: 2 x Intelligent Metered PDU, 32A, C13/C19 Mixed 
+Outlets
+Kindly specify whether the required Rack PDU is 1-Phase (7.3 
+kW) or 3-Phase (22 kW). Based on this information, the OEM 
+will be able to provide the appropriate solution 
+prerequisites, including the electrical input cable sizing and 
+input power capacity requirements.
+Also, last remark after point/Serial no 36, kinldly clarify that 
+PDU required PDU level monitoring or socket level 
+monitoring.
+Please see corrigendum.
+59
+RFP Page No: 10,
+23: Power Strips
+Minimum 2
+Pls spcify the number of socket, types of socket and Amp 
+rating for the same
+The bidder shall provide the required number, type, and rating of outlets as per the proposed solution to meet the 
+functional and technical requirements of the RFP
+60
+RFP Page No: 10,
+24: Cooling Capacity: 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy 
+Preferred), 2 Units of 2 Ton AC which will run in redundancy 
+mode.
+Please note that 20 kW of cooling capacity is approximately 
+equivalent to 5.7 TR, whereas 2 TR is approximately 
+equivalent to 7 kW. Kindly clarify the actual cooling capacity 
+requirement, i.e., whether the requirement is 20 kW or 7 
+kW.
+Further, if the department intends to procure a 20 kW 
+cooling unit, we recommend specifying that the unit shall 
+deliver a net sensible cooling capacity of 20 kW under the 
+following operating conditions to ensure reliable 
+performance during the peak summer conditions in 
+Gandhinagar:
+Ambient temperature: 46°C: which is peak Summer ambient 
+of the Gandhinagar city
+Supply air temperature: 22 ± 1°C
+Return air temperature: 35°C
+This approach will ensure that the cooling unit is 
+appropriately sized and capable of maintaining the desired IT 
+operating environment under the site's maximum design 
+ambient conditions
+Please see corrigendum.
+61
+RFP Page No: 10,
+30: Monitoring Interface: 
+Integrated Monitoring and Alerting Dashboard
+Wrt to point no 36 and remark after it, We hereby request to 
+consider as Detailed Monitoring & Diagnostics through 
+Monitoring hardware device,1U rack mountable, with 
+redundant input power supplies & capable of single window 
+monitoring of all the environmental parameters like 
+temperature, humidity, door access, smoke etc along with 
+UPS & air conditioning through a single window dashboard 
+over ethernet & Capable for sending Email Alerts
+The monitoring unit should support IPMI protocol to enable 
+feature to Access server Service Processor. The Monitoring 
+unit should have feature to enable graceful shutdown of the 
+IT servers supporting IPMI Protocol.
+Monitoring unit should be integrated with energy meter of 
+the Smart rack DB Panel & should be able to monitor the 
+Main Input power Voltage, Current, power consumption.
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+62
+RFP Page No: 10,
+34: Width: 
+900 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, Rack width shall be 
+800 mm or higher which needs to integrated with an In-Row 
+cooling system. Racks with a width of 900 mm or 1000 mm 
+are typically designed for in-rack cooling systems, which 
+generally support cooling capacities of up to 7 kW.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+63
+RFP Page No: 10,
+35: Depth
+3600 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, the Rack depth shall 
+be 1800mm which includes Front 300mm ColdAisle 
+containtment, 1200mm IT Rack depth and rear 300mm Hot 
+Aisle containtment. this is best prectices across the OEM 
+with an In-Row cooling system offering. where In-Rack 
+cooling system support up to 12000mm rack depth.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+64
+Page no:11, 
+Serial Number: NA
+Clause: NA
+The  Smart  Rack  shall  support  installation  of  HCI  nodes,  
+Top-of-Rack  (ToR) switches,  firewall appliances,   intelligent   
+PDUs,   UPS,   cooling   units,   and   associated   
+power/network   cabling infrastructure with provision for 
+future scalability. The rack shall provide integrated 
+monitoring, environmental controls, security, and power 
+management capabilities under a unified management 
+framework.
+We hereby request to elaborate and clarify the requirement 
+for "power management capabilities under a unified 
+management framework"
+Power Management Capabilities: The proposed solution shall provide centralized monitoring and management of the 
+Smart Rack power infrastructure, including UPS, intelligent PDUs, power consumption, input voltage/current, alarms, 
+events, and power status through a unified management dashboard.
+65
+NA
+Site Survery for Smart Rack room/DC room
+We hereby request the department to kindly share the room 
+layout, including the proposed Outdoor Unit (ODU) 
+installation location. Alternatively, we request permission to 
+conduct a site visit and site survey to assess the civil and 
+electrical prerequisites, verify the feasibility of the 
+installation, and evaluate the department's readiness for the 
+activities falling under its scope of work.
+Clarification
+Adequate Room Size will be provided as per solution requirement.
+66
+RFP Page No: 22
+Payment Terms : 6.1
+Request you kindly Amend the payment terms with : 
+1. 80% on Successful Delivery of Hardware, Software 
+Licenses, & Installation. 
+2. 20% on Successful of Migration of entire
+solution, Final Acceptance Testing (FAT) and Training.
+As per RFP
+67
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+We hereby request to consider SmartRack OEM having value 
+of Rs 3Cr work order should be available in the last three 
+financial years as on bid submission.
+Please see corrigendum.
+68
+RFP Page No: 10,
+5: Rear Door: 
+Lockable Perforated Steel Door
+This is a requirement for a Smart Rack with an integrated 
+closed-loop cooling system. As per industry best practices, 
+the rear rack door should be a split plain door to ensure ease 
+of access, maintenance, and compatibility with the cooling 
+design.
+Both the front and rear rack doors shall be equipped with 
+magnetic locks. The doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, ensuring secure and centralized 
+access management.
+We herbey request to consider the same and kindly make 
+necessory corrigendum for the same
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+69
+RFP Page No: 10,
+ 
+7: Side Panels
+Removable with Key Locks
+We hereby request you to consider that the side panels shall 
+be removable and secured using latch locks, key locks, or 
+screws, as per the OEM's standard design and best practices.
+Please see corrigendum.
+70
+RFP Page No: 10,
+12: Secure Locks
+With reference to Serial/Point No. 29 regarding the 
+Biometric Access Control System, we hereby request you to 
+consider that the front and rear rack doors shall be equipped 
+with magnetic locks. Both doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, as per the OEM's standard design.
+Please see corrigendum.
+71
+RFP Page No: 10,
+22: Intelligent Power
+Distribution: 2 x Intelligent Metered PDU, 32A, C13/C19 Mixed 
+Outlets
+Kindly specify whether the required Rack PDU is 1-Phase (7.3 
+kW) or 3-Phase (22 kW). Based on this information, the OEM 
+will be able to provide the appropriate solution 
+prerequisites, including the electrical input cable sizing and 
+input power capacity requirements.
+Also, last remark after point/Serial no 36, kinldly clarify that 
+PDU required PDU level monitoring or socket level 
+monitoring.
+Please see corrigendum.
+72
+RFP Page No: 10,
+23: Power Strips
+Minimum 2
+Pls spcify the number of socket, types of socket and Amp 
+rating for the same
+The bidder shall provide the required number, type, and rating of outlets as per the proposed solution to meet the 
+functional and technical requirements of the RFP
+73
+RFP Page No: 10,
+24: Cooling Capacity: 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy 
+Preferred), 2 Units of 2 Ton AC which will run in redundancy 
+mode.
+Please note that 20 kW of cooling capacity is approximately 
+equivalent to 5.7 TR, whereas 2 TR is approximately 
+equivalent to 7 kW. Kindly clarify the actual cooling capacity 
+requirement, i.e., whether the requirement is 20 kW or 7 
+kW.
+Further, if the department intends to procure a 20 kW 
+cooling unit, we recommend specifying that the unit shall 
+deliver a net sensible cooling capacity of 20 kW under the 
+following operating conditions to ensure reliable 
+performance during the peak summer conditions in 
+Gandhinagar:
+Ambient temperature: 46°C: which is peak Summer ambient 
+of the Gandhinagar city
+Supply air temperature: 22 ± 1°C
+Return air temperature: 35°C
+This approach will ensure that the cooling unit is 
+appropriately sized and capable of maintaining the desired IT 
+operating environment under the site's maximum design 
+ambient conditions
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+74
+RFP Page No: 10,
+30: Monitoring Interface: 
+Integrated Monitoring and Alerting Dashboard
+Wrt to point no 36 and remark after it, We hereby request to 
+consider as Detailed Monitoring & Diagnostics through 
+Monitoring hardware device,1U rack mountable, with 
+redundant input power supplies & capable of single window 
+monitoring of all the environmental parameters like 
+temperature, humidity, door access, smoke etc along with 
+UPS & air conditioning through a single window dashboard 
+over ethernet & Capable for sending Email Alerts
+The monitoring unit should support IPMI protocol to enable 
+feature to Access server Service Processor. The Monitoring 
+unit should have feature to enable graceful shutdown of the 
+IT servers supporting IPMI Protocol.
+Monitoring unit should be integrated with energy meter of 
+the Smart rack DB Panel & should be able to monitor the 
+Main Input power Voltage, Current, power consumption.
+As per RFP
+75
+RFP Page No: 10,
+34: Width: 
+900 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, Rack width shall be 
+800 mm or higher which needs to integrated with an In-Row 
+cooling system. Racks with a width of 900 mm or 1000 mm 
+are typically designed for in-rack cooling systems, which 
+generally support cooling capacities of up to 7 kW.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+76
+RFP Page No: 10,
+35: Depth
+3600 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, the Rack depth shall 
+be 1800mm which includes Front 300mm ColdAisle 
+containtment, 1200mm IT Rack depth and rear 300mm Hot 
+Aisle containtment. this is best prectices across the OEM 
+with an In-Row cooling system offering. where In-Rack 
+cooling system support up to 12000mm rack depth.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+77
+Page no:11, 
+Serial Number: NA
+Clause: NA
+The  Smart  Rack  shall  support  installation  of  HCI  nodes,  
+Top-of-Rack  (ToR) switches,  firewall appliances,   intelligent   
+PDUs,   UPS,   cooling   units,   and   associated   
+power/network   cabling infrastructure with provision for 
+future scalability. The rack shall provide integrated 
+monitoring, environmental controls, security, and power 
+management capabilities under a unified management 
+framework.
+We hereby request to elaborate and clarify the requirement 
+for "power management capabilities under a unified 
+management framework"
+Power Management Capabilities: The proposed solution shall provide centralized monitoring and management of the 
+Smart Rack power infrastructure, including UPS, intelligent PDUs, power consumption, input voltage/current, alarms, 
+events, and power status through a unified management dashboard.
+78
+NA
+Site Survery for Smart Rack room/DC room
+We hereby request the department to kindly share the room 
+layout, including the proposed Outdoor Unit (ODU) 
+installation location. Alternatively, we request permission to 
+conduct a site visit and site survey to assess the civil and 
+electrical prerequisites, verify the feasibility of the 
+installation, and evaluate the department's readiness for the 
+activities falling under its scope of work.
+Clarification
+Adequate Room Size will be provided as per solution requirement.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+79
+Page No. 3 / Scope of Work - Clause 
+No. 5
+The proposed solution shall support migration, deployment 
+and integration of applications from the UAT and 
+Development environment to the GSDC Production 
+Environment. The bidder shall provide all necessary 
+assistance, tools, accessories, configuration support and 
+technical services required  for  seamless  migration  of  
+workloads,  applications,  virtual  machines,  containers  and 
+associated data.
+Please provide further details of existing setup at GSDC.
+The GSDC Production Environment is based on the VMware Tanzu platform. The successful bidder shall ensure 
+seamless migration, deployment, and integration with the existing environment by providing all necessary support, 
+tools, and technical services without any additional cost to GoG
+80
+Page No. 3 / Scope of Work - Clause 
+No. 7
+ Any Hardware, software, accessories, tools configuration, 
+interoperability or migration-related activities required for 
+successful deployment in the VMware Tanzu environment 
+shall be in the scope of the bidder without any additional cost 
+to GUDM.
+Does GUDM want to implement containerised application 
+only on Vmware Tanzu? There are multiple containerised 
+platform. This clause is pointing to specific OEM.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+81
+Page No. 3 / Scope of Work - Clause 
+No. 11
+The bidder shall ensure integration of the proposed 
+infrastructure with the existing GSDC/GUDM network  and  
+security  environment  and  comply  with  all  applicable  
+policies,  standards  and guidelines. Any security, 
+vulnerabilities identified by GSOC/GSDC in hardware or 
+application has to be resolved in co-ordination with 
+application and security team.
+Please provide further details of existing setup at GSDC.
+The GSDC Production Environment is based on the VMware Tanzu platform. The successful bidder shall ensure 
+seamless migration, deployment, and integration with the existing environment by providing all necessary support, 
+tools, and technical services without any additional cost to GoG
+82
+Page No. 4 / Minimum Specification - 
+Clause No. 1 Basic Information
+Total usable Cores available (after installation of HCI software 
+resources required for solution) in the offered solution (Hint :- 
+Select '0' if not applicable) - Minimum 192 cores or higher
+As per the below clauses, the requested configuration node 
+will provide 192 cores. The total usable core available after 
+HCI software will be less than 192 cores. Please clarify if we 
+should offer raw 192 cores or more cores/nodes. Please 
+clarify
+The requirement of minimum 192 cores refers to the usable CPU cores available after allocation of resources 
+required for the HCI software/platform. The bidder shall size and propose the required hardware configuration 
+accordingly to meet the minimum usable core requirement specified in the RFP.
+83
+Page No. 12 / Implementation 
+Timelines & Penalties - Clause No. 2 
+Delivery of Components
+Delivery of 
+Components 
+(Hardware, 
+Software, License, 
+etc.) T1 = T + 12 Weeks
+As per the current global scenario the delivery time lines 
+pertaining to Hardware / Software components has been 
+hampered, hence we will request you to amend the delivery 
+timeline from current T1 = T + 12 Weeks to T1 = T + 24 
+Weeks.
+As per RFP
+84
+Page No. 11 / Minimum Specification 
+- Clause No. 7
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces 
+from day one. 
+smaller appliance doesn’t come with 25 Gbps ports. Need to 
+relax this clause. / Appliance shall have minimum 2× 10G 
+SFP+ interfaces from day one. 
+please see corrigendum.
+85
+Page No. 9 / Minimum Specifications 
+- Clause No. 7
+Networking part: 24 x 10/25GbE SFP+ & 4 x 100GbE QSFP data 
+center grade switch + L3 License All 24 ports should be 
+populated with 25G Module from day 1
+25 Gbps ports moslty come with 48 Ports model not in 24 
+Port option for all OEM particiaption pleaseallow 48 port 
+option. / Allow 48 x 25G Ports.
+The specified switch configuration is the minimum requirement. Bidders may offer a Datacenter standard switch with 
+higher port density, without any additional cost to GoG, provided the proposed solution meets all the requirements 
+of the RFP
+86
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+We hereby request to consider SmartRack OEM having value 
+of Rs 3Cr work order should be available in the last three 
+financial years as on bid submission.
+Please see corrigendum.
+87
+RFP Page No: 10,
+5: Rear Door: 
+Lockable Perforated Steel Door
+This is a requirement for a Smart Rack with an integrated 
+closed-loop cooling system. As per industry best practices, 
+the rear rack door should be a split plain door to ensure ease 
+of access, maintenance, and compatibility with the cooling 
+design.
+Please see corrigendum.
+88
+RFP Page No: 10,
+ 
+7: Side Panels
+Removable with Key Locks
+We hereby request you to consider that the side panels shall 
+be removable and secured using latch locks, key locks, or 
+screws, as per the OEM's standard design and best practices.
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+89
+RFP Page No: 10,
+12: Secure Locks
+With reference to Serial/Point No. 29 regarding the 
+Biometric Access Control System, we hereby request you to 
+consider that the front and rear rack doors shall be equipped 
+with magnetic locks. Both doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, as per the OEM's standard design.
+Please see corrigendum.
+90
+RFP Page No: 10,
+22: Intelligent Power
+Distribution: 2 x Intelligent Metered PDU, 32A, C13/C19 Mixed 
+Outlets
+Kindly specify whether the required Rack PDU is 1-Phase (7.3 
+kW) or 3-Phase (22 kW). Based on this information, the OEM 
+will be able to provide the appropriate solution 
+prerequisites, including the electrical input cable sizing and 
+input power capacity requirements.
+Also, last remark after point/Serial no 36, kinldly clarify that 
+PDU required PDU level monitoring or socket level 
+monitoring.
+Please see corrigendum.
+91
+RFP Page No: 10,
+23: Power Strips
+Minimum 2
+Pls spcify the number of socket, types of socket and Amp 
+rating for the same
+The bidder shall provide the required number, type, and rating of outlets as per the proposed solution to meet the 
+functional and technical requirements of the RFP
+92
+RFP Page No: 10,
+24: Cooling Capacity: 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy 
+Preferred), 2 Units of 2 Ton AC which will run in redundancy 
+mode.
+Please note that 20 kW of cooling capacity is approximately 
+equivalent to 5.7 TR, whereas 2 TR is approximately 
+equivalent to 7 kW. Kindly clarify the actual cooling capacity 
+requirement, i.e., whether the requirement is 20 kW or 7 
+kW.
+Further, if the department intends to procure a 20 kW 
+cooling unit, we recommend specifying that the unit shall 
+deliver a net sensible cooling capacity of 20 kW under the 
+following operating conditions to ensure reliable 
+performance during the peak summer conditions in 
+Gandhinagar:
+Ambient temperature: 46°C: which is peak Summer ambient 
+of the Gandhinagar city
+Supply air temperature: 22 ± 1°C
+Return air temperature: 35°C
+This approach will ensure that the cooling unit is 
+appropriately sized and capable of maintaining the desired IT 
+operating environment under the site's maximum design 
+ambient conditions
+Please see corrigendum.
+93
+RFP Page No: 10,
+30: Monitoring Interface: 
+Integrated Monitoring and Alerting Dashboard
+Wrt to point no 36 and remark after it, We hereby request to 
+consider as Detailed Monitoring & Diagnostics through 
+Monitoring hardware device,1U rack mountable, with 
+redundant input power supplies & capable of single window 
+monitoring of all the environmental parameters like 
+temperature, humidity, door access, smoke etc along with 
+UPS & air conditioning through a single window dashboard 
+over ethernet & Capable for sending Email Alerts
+The monitoring unit should support IPMI protocol to enable 
+feature to Access server Service Processor. The Monitoring 
+unit should have feature to enable graceful shutdown of the 
+IT servers supporting IPMI Protocol.
+Monitoring unit should be integrated with energy meter of 
+the Smart rack DB Panel & should be able to monitor the 
+Main Input power Voltage, Current, power consumption.
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+94
+RFP Page No: 10,
+34: Width: 
+900 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, Rack width shall be 
+800 mm or higher which needs to integrated with an In-Row 
+cooling system. Racks with a width of 900 mm or 1000 mm 
+are typically designed for in-rack cooling systems, which 
+generally support cooling capacities of up to 7 kW.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+95
+RFP Page No: 10,
+35: Depth
+3600 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, the Rack depth shall 
+be 1800mm which includes Front 300mm ColdAisle 
+containtment, 1200mm IT Rack depth and rear 300mm Hot 
+Aisle containtment. this is best prectices across the OEM 
+with an In-Row cooling system offering. where In-Rack 
+cooling system support up to 12000mm rack depth.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+96
+Page no:11, 
+Serial Number: NA
+Clause: NA
+The  Smart  Rack  shall  support  installation  of  HCI  nodes,  
+Top-of-Rack  (ToR) switches,  firewall appliances,   intelligent   
+PDUs,   UPS,   cooling   units,   and   associated   
+power/network   cabling infrastructure with provision for 
+future scalability. The rack shall provide integrated 
+monitoring, environmental controls, security, and power 
+management capabilities under a unified management 
+framework.
+We hereby request to elaborate and clarify the requirement 
+for "power management capabilities under a unified 
+management framework"
+Power Management Capabilities: The proposed solution shall provide centralized monitoring and management of the 
+Smart Rack power infrastructure, including UPS, intelligent PDUs, power consumption, input voltage/current, alarms, 
+events, and power status through a unified management dashboard.
+97
+NA
+Site Survery for Smart Rack room/DC room
+We hereby request the department to kindly share the room 
+layout, including the proposed Outdoor Unit (ODU) 
+installation location. Alternatively, we request permission to 
+conduct a site visit and site survey to assess the civil and 
+electrical prerequisites, verify the feasibility of the 
+installation, and evaluate the department's readiness for the 
+activities falling under its scope of work.
+Clarification
+"Adequate Room Size will be provided as per solution requirement "
+98
+Page 3, Scope of Work, Clause 6, 
+Page 9, ATC Clause
+The proposed solution shall support migration and 
+deployment of applications from the UAT/Development 
+environment to the GSDC Production Environment and shall 
+be compatible with the VMware Tanzu platform deployed at 
+GSDC. The bidder shall provide all necessary migration, 
+integration, testing and deployment support without any 
+additional cost.
+kindly provide clarification on existing Prod setup and 
+integration to be done.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+99
+Page 4, Scope of Work, Clause 1 - 
+BASIC INFORMATION
+Number of Network ports per node 
+(Hint: Select '0' if not applicable
+3 or higher
+Request you to modify as below to achieve the card level 
+redundancy : 
+Number of Network ports per node 
+(Hint: Select '0' if not applicable
+2 X Dual Port or higher
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+100
+Page 4, Scope of Work, Clause 1 - 
+BASIC INFORMATION
+Total usable Cores available (after installation of HCI software 
+resources required for solution) in the offered solution (Hint :- 
+Select '0' if not applicable)
+Minimum 192 cores or higher
+Request you to clarify below point : 
+As per the this clauses, the requested configuration 3 node 
+will provide 192 raw cores. The total usable core available 
+after HCI software will be less than 192 cores. Please clarify if 
+we should offer raw 192 cores or more cores/nodes needs to 
+be factored. Please clarify
+The requirement of minimum 192 cores refers to the usable CPU cores available after allocation of resources 
+required for the HCI software/platform. The bidder shall size and propose the required hardware configuration 
+accordingly to meet the minimum usable core requirement specified in the RFP.
+101
+Page 8, Scope of Work, Clause 5 - 
+HCI Generic Parameters
+Minimum 16 Node Or higher Number of nodes HCI supports in 
+same cluster/deployment, such that any node out of the 
+offered be able to use the storage of all other nodes
+Request you to modify as below : 
+Minimum 32 Node or Higher for have better scalability in 
+future which is supported by most of the enterprise grade 
+hci solution
+bidder may provided as an additional feature but is not mandatory
+102
+Page 7, Scope of Work, Clause 5 - 
+HCI Generic Parameters
+HCI support -
+Proposed solution shall support any one or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, or equivalent.
+Please modify the clause as below for flexibility to chose 
+the enterprise grade hypervisors and avoid vendor lock-in : 
+Proposed solution shall support any two or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, or equivalent.
+The specified requirement is the minimum requirement. Bidders may propose solutions supporting one or more 
+industry-standard enterprise hypervisors, meeting the requirements of the RFP.
+103
+RFP Page No: 1
+Eligibility Criteria:
+Serial Number: 5
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+We hereby request to consider SmartRack OEM having value 
+of Rs 3Cr work order should be available in the last three 
+financial years as on bid submission.
+Please see corrigendum.
+104
+RFP Page No: 10,
+5: Rear Door: 
+Lockable Perforated Steel Door
+This is a requirement for a Smart Rack with an integrated 
+closed-loop cooling system. As per industry best practices, 
+the rear rack door should be a split plain door to ensure ease 
+of access, maintenance, and compatibility with the cooling 
+design.
+Both the front and rear rack doors shall be equipped with 
+magnetic locks. The doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, ensuring secure and centralized 
+access management.
+We herbey request to consider the same and kindly make 
+necessory corrigendum for the same
+Please see corrigendum.
+105
+RFP Page No: 10,
+ 
+7: Side Panels
+Removable with Key Locks
+We hereby request you to consider that the side panels shall 
+be removable and secured using latch locks, key locks, or 
+screws, as per the OEM's standard design and best practices.
+Please see corrigendum.
+106
+RFP Page No: 10,
+12: Secure Locks
+With reference to Serial/Point No. 29 regarding the 
+Biometric Access Control System, we hereby request you to 
+consider that the front and rear rack doors shall be equipped 
+with magnetic locks. Both doors shall operate on a fail-safe 
+principle and be controlled through a common biometric 
+access control system, as per the OEM's standard design.
+Please see corrigendum.
+107
+RFP Page No: 10,
+22: Intelligent Power
+Distribution: 2 x Intelligent Metered PDU, 32A, C13/C19 Mixed 
+Outlets
+Kindly specify whether the required Rack PDU is 1-Phase (7.3 
+kW) or 3-Phase (22 kW). Based on this information, the OEM 
+will be able to provide the appropriate solution 
+prerequisites, including the electrical input cable sizing and 
+input power capacity requirements.
+Also, last remark after point/Serial no 36, kinldly clarify that 
+PDU required PDU level monitoring or socket level 
+monitoring.
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+108
+RFP Page No: 10,
+23: Power Strips
+Minimum 2
+Pls spcify the number of socket, types of socket and Amp 
+rating for the same
+The bidder shall provide the required number, type, and rating of outlets as per the proposed solution to meet the 
+functional and technical requirements of the RFP
+109
+RFP Page No: 10,
+24: Cooling Capacity: 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy 
+Preferred), 2 Units of 2 Ton AC which will run in redundancy 
+mode.
+Please note that 20 kW of cooling capacity is approximately 
+equivalent to 5.7 TR, whereas 2 TR is approximately 
+equivalent to 7 kW. Kindly clarify the actual cooling capacity 
+requirement, i.e., whether the requirement is 20 kW or 7 
+kW.
+Further, if the department intends to procure a 20 kW 
+cooling unit, we recommend specifying that the unit shall 
+deliver a net sensible cooling capacity of 20 kW under the 
+following operating conditions to ensure reliable 
+performance during the peak summer conditions in 
+Gandhinagar:
+Ambient temperature: 46°C: which is peak Summer ambient 
+of the Gandhinagar city
+Supply air temperature: 22 ± 1°C
+Return air temperature: 35°C
+This approach will ensure that the cooling unit is 
+appropriately sized and capable of maintaining the desired IT 
+operating environment under the site's maximum design 
+ambient conditions
+Please see corrigendum.
+110
+RFP Page No: 10,
+30: Monitoring Interface: 
+Integrated Monitoring and Alerting Dashboard
+Wrt to point no 36 and remark after it, We hereby request to 
+consider as Detailed Monitoring & Diagnostics through 
+Monitoring hardware device,1U rack mountable, with 
+redundant input power supplies & capable of single window 
+monitoring of all the environmental parameters like 
+temperature, humidity, door access, smoke etc along with 
+UPS & air conditioning through a single window dashboard 
+over ethernet & Capable for sending Email Alerts
+The monitoring unit should support IPMI protocol to enable 
+feature to Access server Service Processor. The Monitoring 
+unit should have feature to enable graceful shutdown of the 
+IT servers supporting IPMI Protocol.
+Monitoring unit should be integrated with energy meter of 
+the Smart rack DB Panel & should be able to monitor the 
+Main Input power Voltage, Current, power consumption.
+As per RFP
+111
+RFP Page No: 10,
+34: Width: 
+900 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, Rack width shall be 
+800 mm or higher which needs to integrated with an In-Row 
+cooling system. Racks with a width of 900 mm or 1000 mm 
+are typically designed for in-rack cooling systems, which 
+generally support cooling capacities of up to 7 kW.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+112
+RFP Page No: 10,
+35: Depth
+3600 mm or Higher
+As per Smart Rack OEM design standards, if the department 
+is considering a 20 kW cooling capacity, the Rack depth shall 
+be 1800mm which includes Front 300mm ColdAisle 
+containtment, 1200mm IT Rack depth and rear 300mm Hot 
+Aisle containtment. this is best prectices across the OEM 
+with an In-Row cooling system offering. where In-Rack 
+cooling system support up to 12000mm rack depth.
+Accordingly, we request the department to kindly make 
+necessory corrigendum for the same.
+Please see corrigendum.
+113
+Page no:11, 
+Serial Number: NA
+Clause: NA
+The  Smart  Rack  shall  support  installation  of  HCI  nodes,  
+Top-of-Rack  (ToR) switches,  firewall appliances,   intelligent   
+PDUs,   UPS,   cooling   units,   and   associated   
+power/network   cabling infrastructure with provision for 
+future scalability. The rack shall provide integrated 
+monitoring, environmental controls, security, and power 
+management capabilities under a unified management 
+framework.
+We hereby request to elaborate and clarify the requirement 
+for "power management capabilities under a unified 
+management framework"
+The Smart Rack shall provide centralized monitoring and management of power-related components such as PDUs, 
+UPS, and associated infrastructure through a unified management interface.
+114
+NA
+Site Survery for Smart Rack room/DC room
+We hereby request the department to kindly share the room 
+layout, including the proposed Outdoor Unit (ODU) 
+installation location. Alternatively, we request permission to 
+conduct a site visit and site survey to assess the civil and 
+electrical prerequisites, verify the feasibility of the 
+installation, and evaluate the department's readiness for the 
+activities falling under its scope of work.
+Clarification
+Adequate Room Size will be provided as per solution requirement.
+115
+3
+The OEM of the proposed product should have a total sum of 
+turnover of Rs. 60 Crore (Minimum) in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+Requested to change as per below : 
+The OEM of the proposed product should have a total sum of 
+turnover of Rs. 60 Crore (Minimum) in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack.
+As per RFP
+116
+5
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+Requested to change as per below : 
+OEM Should have supplied HCI solution having value of Rs. 
+30 cr. work order should be available in the last three 
+financial years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack.
+Please see corrigendum.
+117
+3
+Bidder should be authorized by the OEM to quote this bid. 
+MAF of HCI solution, Firewall, Smart Rack, Software should be 
+submitted.
+Requested to change as per below : 
+Bidder should be authorized by the OEM to quote this bid. 
+MAF of HCI solution, Firewall, Smart Rack should be 
+submitted.
+As per RFP
+118
+1
+The bidder shall supply, install, configure, test and commission 
+the proposed Hyper-Converged Infrastructure (HCI), Network, 
+Security, Software and all associated hardware/software 
+components, including required licenses, for the GUDM e-
+Nagar Project.
+Requested to change as per below : 
+The bidder shall supply, install, configure, test and 
+commission the proposed Hyper-Converged Infrastructure 
+(HCI), Network, Security, Software and all associated 
+hardware/software components, including required licenses, 
+for the GUDM e-Nagar Project.
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+119
+6
+The proposed solution shall support migration and 
+deployment of applications from the UAT/Development 
+environment to the GSDC Production Environment and shall 
+be compatible with the VMware Tanzu platform deployed at 
+GSDC. The bidder shall provide all necessary migration, 
+integration, testing and deployment support without any 
+additional cost.
+GSDC may scrap this RFP and float a separate PAC RFP if 
+existing Vmware Tanzu Cluster is to be expanded.
+Else Kindly remove this Point.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+120
+7
+Any Hardware, software, accessories, tools configuration, 
+interoperability or migration-related activities required for 
+successful deployment in the VMware Tanzu environment 
+shall be in the scope of the bidder without any additional cost 
+to GUDM.
+GSDC may scrap this RFP and float a separate PAC RFP if 
+existing Vmware Tanzu Cluster is to be expanded.
+Else Kindly remove this Point.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+121
+8
+The bidder shall provide and configure a dedicated 1 GPU 
+based single node with capacity of 48 GB or higher for AI/ML, 
+analytics and future application requirements.
+Requested to clarify
+The bidder may propose the GPU solution either as a standalone dedicated GPU server or as part of the proposed 
+HCI solution, as per the proposed solution architecture, provided all RFP technical requirements are met. However, 
+the cost of the dedicated GPU server shall be included under the HCI Solution head in the Price Bid. After 
+completion of the Reverse Auction (RA), the successful bidder shall submit a separate line-item-wise price 
+breakup for the GPU server and associated components.
+122
+9
+The bidder shall provide and configure the UTM/Next 
+Generation Firewall, network switches, smart rack, UPS, 
+cooling, monitoring, and all other supporting infrastructure 
+required for successful operation of the solution. Any 
+electrification required will be extended by the bidder.
+Requested to clarify
+Clarification
+The bidder shall be responsible for all internal electrification, power distribution, cabling, installation, configuration, 
+and commissioning required for successful implementation of the proposed solution.
+123
+11
+The bidder shall ensure integration of the proposed 
+infrastructure with the existing GSDC/GUDM network and 
+security environment and comply with all applicable policies, 
+standards and guidelines. Any security, vulnerabilities 
+identified by GSOC/GSDC in hardware or application has to be 
+resolved in co-ordination with application and security team.
+Requested to change as per below : 
+The bidder shall ensure integration of the proposed 
+infrastructure with the existing GSDC/GUDM network and 
+security environment and comply with all applicable policies, 
+standards and guidelines. Any security, vulnerabilities 
+identified by GSOC/GSDC in proposed solution has to be 
+resolved in co-ordination with application and security team.
+The bidder shall ensure integration of the proposed infrastructure with the existing GSDC/GUDM network and 
+security environment and comply with all applicable policies, standards and guidelines. Any security vulnerabilities 
+identified by GSOC/GSDC in the proposed solution shall be resolved by the bidder. The bidder shall coordinate with 
+the application and security teams for application-related issues, wherever applicable
+124
+13
+The bidder shall conduct Factory Acceptance Testing (FAT), 
+installation, commissioning and operational acceptance of the 
+proposed solution in coordination with GUDM/GIL and obtain 
+necessary sign-offs.
+Requested Changes as per Below : 
+The bidder shall conduct User Acceptance Testing (UAT), 
+installation, commissioning and operational acceptance of 
+the proposed solution in coordination with GUDM/GIL and 
+obtain necessary sign-offs.
+Please see corrigendum.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+125
+14
+The bidder shall rectify all discrepancies observed during FAT, 
+testing, commissioning or acceptance activities and ensure 
+successful completion of the project as per the contractual 
+requirements.
+Requested Changes as per Below : 
+The bidder shall rectify all discrepancies observed during 
+UAT, testing, commissioning or acceptance activities and 
+ensure successful completion of the project as per the 
+contractual requirements.
+As per RFP
+126
+1
+Total usable Cores available (after installation of HCI software 
+resources required for solution) in the offered solution (Hint :- 
+Select '0' if not applicable)
+Requested to Clarify
+The requirement of minimum 192 cores refers to the usable CPU cores available after allocation of resources 
+required for the HCI software/platform. The bidder shall size and propose the required hardware configuration 
+accordingly to meet the minimum usable core requirement specified in the RFP.
+127
+1
+The offered HCI solution shall provide minimum 170 TB usable 
+storage (without deduplication and compression benefits) and 
+the same usable capacity shall be available under N+1 failure 
+condition (failure of any one node).
+Requested Changes as per Below. 
+The offered HCI solution shall provide minimum 170 TB 
+usable storage (without deduplication and compression 
+benefits) and the same usable capacity shall be available 
+under N+1 failure condition (failure of any one node) and 
+should provide 100% Data Availability Guarantee and Cyber 
+Resilliance (protection against ransomware attacks) from HCI 
+Solution OEM.
+As per RFP
+128
+1
+Throghput Per Network port : 10/25 Gbps Or higher Type of 
+Network port : SFP+
+Requested Changes as per below : 
+Throghput Per Network port : 10/25 Gbps Or higher
+Type of Network port : SFP28
+Please see corrigendum.
+129
+4
+HCI is configuration of SSD/SAS/NL SAS/NVMe then the 
+caching must be on appropriate capacity of SSD/NVME drives 
+to meet the IOPS/performance requirements.
+Requested to remove this POINT.
+Please see corrigendum.
+130
+4
+Capable of creating instant snapshots of virtual machines and 
+maintaining multiple copies of snapshots & clones.
+Requested Changes as per below : 
+Capable of creating instant immutable snapshots of virtual 
+machines and maintaining multiple copies of snapshots & 
+clones.
+The requirement specified in the RFP is the minimum requirement. Support for immutable snapshots may be 
+allowed as an additional feature but is not mandatory.
+131
+6
+HCI having built-in security for data.
+Requested Changes as per below : 
+HCI having self encrypting drives for built-in security for 
+data.
+This feature may be provided as an additional feature but is not mandatory
+132
+HCI Features 4
+3. Support for VM or APP consistent snapshot/backup.
+Requested Changes as per below : 
+3. Support for VM or APP consistent immutable 
+snapshot/backup.
+The requirement specified in the RFP is the minimum requirement. Support for immutable snapshots may be 
+allowed as an additional feature but is not mandatory.
+133
+Supports
+2. Antivirtus, 3. Anti malware
+Kinldy clarify
+The proposed solution shall support Anti-Virus and Anti-Malware features/capabilities, as applicable, in accordance 
+with the RFP requirements.
+134
+Supported industry protocols by HCI : 
+1. NFS 2. CIFS 3. SMB 4. iSCSI 5. Equivalent IP Storage Protocol 
+6. iSCSI for Containers
+Requested Changes as per below : 
+1. NFS 2. CIFS 3. SMB 4. iSCSI 5. ISCSI / NVME over TCP
+The proposed storage solution shall support NFS, CIFS/SMB, iSCSI, Container Storage, and/or equivalent industry-
+standard IP storage protocols, as applicable to the proposed solution and application requirements. The actual 
+protocol(s) to be utilized shall be based on the application and deployment requirements during implementation.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+135
+ATC
+The proposed HCI solution and virtualization platform should 
+support seamless migration and deployment of 
+workloads/applications from UAT environment to existing 
+VMware Tanzu/containerized ecosystem at GSDC Production 
+Environment, wherever applicable.
+GSDC may scrap this RFP and float a separate PAC RFP if 
+existing Vmware Tanzu Cluster is to be expanded.
+Else Kindly remove this Point.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+136
+ATC
+However, if GUDM plans to extend this to an advanced 
+chatbot using NLP/LLM-based capabilities, additional GPU-
+based infrastructure will be required for UAT and Staging 
+environments. The indicative configuration is as below: UAT & 
+Staging: • GPU Memory: Minimum 48 GB ECC GPU Memory or 
+higher; Tensor Cores: Minimum 500 or higher; GPU shall 
+support AI/ML, Deep Learning, NLP, LLM, and containerized 
+workloads. GPU should be compatible with the proposed 
+server platform. • CPU – 8 Cores, 16 GB RAM • Storage – 500 
+GB • OS – Ubuntu 22.04 or above Further, the Production 
+environment infrastructure will be proposed separately. The 
+container platform must support GPU resource allocation for 
+AI/ML workloads
+Requested to clarify
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+137
+ATC
+Networking part: 24 x 10/25GbE SFP+ & 4 x 100GbE QSFP data 
+center grade switch + L3 License All 24 ports should be 
+populated with 25G Module from day 1
+Requested Changes as per Below : 
+Networking part: 24 x 10/25GbE SFP28 & 4 x 100GbE QSFP 
+data center grade switch + L3 License All 24 ports should be 
+populated with 25G Module from day 1 
+Also requested to clarify if Bidder to Consider 2 x 12 Port 25G 
+Considered under HA or 1 x 24 Port 25G Switch.
+The specified switch configuration is the minimum requirement. Bidders may offer a Datacenter standard switch with 
+higher port density, without any additional cost to GoG, provided the proposed solution meets all the requirements 
+of the RFP
+138
+Uptime: It is required to maintain uptime of 99.741%. Further, 
+the bidder is responsible for providing comprehensive 
+warranty and support (24x7x365) for the period of five years 
+from the date of successful completion of FAT.
+Requested Changes as Below : 
+Uptime: It is required to maintain uptime of 99.741% along 
+with 100% Data Availability Guarantee. Further, the bidder is 
+responsible for providing comprehensive warranty and 
+support (24x7x365) for the period of five years from the date 
+of successful completion of UAT.
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+139
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy 
+Preferred) , 2 Units of 2 Ton AC which will run in redundancy 
+mode.
+Requested Changes a per Below :
+Minimum 20 KWA or Higher In-Rack Precision Cooling in High 
+Availability. 
+Please see corrigendum.
+140
+Additional Eligibility Evaluation Criter
+ia:
+Page No. 1
+The bidder should have a total sum of turnover of Rs. 24 Crore 
+(Minimum)   in   the   last   three   financial   years   as   on   bid 
+submission.
+We request the authority to kindly amend the eligibility 
+criterion and increase the minimum cumulative turnover 
+requirement from ₹24 Crore to ₹100 Crore during the last 
+three financial years.
+As per RFP
+141
+Additional Eligibility Evaluation Criter
+ia:
+Page No. 1
+Bidder    should    have    Supply,    Installation,    Testing    and 
+Commissioning (SITC) of hyper-converged infrastructure (HCI) 
+related work / Data Centre IT Infrastructure related 
+experience
+i.e. Server, Storage, Virtualization, Network and Security and 
+the following value of work order should be available in the 
+last three financial years to any central / state Government / 
+PSU/ Listed Company as on bid submission.
+ One work order having value of Rs. 10 Cr or
+ Two work orders, each work order having value of Rs. 6 Cr or
+ Three work orders, each work order having value of Rs. 5 Cr 
+All work orders/contracts should be in the name of the bidder
+We request the authority to kindly amend the experience 
+criteria as follows:
+The bidder should have successfully executed Supply, 
+Installation, Testing & Commissioning (SITC) of Hyper-
+Converged Infrastructure (HCI) / Data Centre IT 
+Infrastructure comprising Server, Storage, Virtualization, 
+Networking, and Security for Central/State 
+Government/PSU/Listed Companies, with any one of the 
+following during the last three financial years as on the bid 
+submission date:
+One completed work order having a minimum value of ₹20 
+Crore, or
+Two completed work orders, each having a minimum value 
+of ₹15 Crore, or
+Three completed work orders, each having a minimum value 
+of ₹10 Crore.
+Please see Corrigendum
+142
+Addition of Certification
+Addition of Certification
+We request the authority to kindly amend the eligibility 
+criteria to require that the bidder possesses a minimum of 
+three (3) of the following valid certifications:
+ISO 9001 
+ISO 27001
+ISO 20000-1 
+CMMI Level 3 
+As per RFP
+143
+Firewall (Minimum Specification) 
+Page NO. 12
+Clause No. 7
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces 
+from day one. 
+smaller appliance doesn’t come with 25 Gbps ports. Need to 
+relax this clause
+Please see Corrigendum
+144
+HCI Solution As per GEM
+ATC clause
+Page NO. 10
+Networking part: 24 x 10/25GbE SFP+ & 4 x 100GbE QSFP data 
+center grade switch + L3 License All 24 ports should be 
+populated with 25G Module from day 1
+25 Gbps ports moslty come with 48 Ports model not in 24 
+Port option for all OEM particiaption pleaseallow 48 port 
+option 
+The specified switch configuration is the minimum requirement. Bidders may offer a Datacenter standard switch with 
+higher port density, without any additional cost to GoG, provided the proposed solution meets all the requirements 
+of the RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+145
+Page 3, Scope of Work, Clause 6, 
+Page 9, ATC Clause
+The proposed solution shall support migration and 
+deployment of applications from the UAT/Development 
+environment to the GSDC Production Environment and shall 
+be compatible with the VMware Tanzu platform deployed at 
+GSDC. The bidder shall provide all necessary migration, 
+integration, testing and deployment support without any 
+additional cost.
+kindly provide clarification on existing Prod setup and 
+integration to be done.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+146
+Page 4, Scope of Work, Clause 1 - 
+BASIC INFORMATION
+Number of Network ports per node 
+(Hint: Select '0' if not applicable
+3 or higher
+Request you to modify as below to achieve the card level 
+redundancy : 
+Number of Network ports per node 
+(Hint: Select '0' if not applicable
+2 X Dual Port or higher
+Please see corrigendum.
+147
+Page 4, Scope of Work, Clause 1 - 
+BASIC INFORMATION
+Total usable Cores available (after installation of HCI software 
+resources required for solution) in the offered solution (Hint :- 
+Select '0' if not applicable)
+Minimum 192 cores or higher
+Request you to clarify below point : 
+As per the this clauses, the requested configuration 3 node 
+will provide 192 raw cores. The total usable core available 
+after HCI software will be less than 192 cores. Please clarify if 
+we should offer raw 192 cores or more cores/nodes needs to 
+be factored. Please clarify
+The requirement of minimum 192 cores refers to the usable CPU cores available after allocation of resources 
+required for the HCI software/platform. The bidder shall size and propose the required hardware configuration 
+accordingly to meet the minimum usable core requirement specified in the RFP.
+148
+Page 8, Scope of Work, Clause 5 - 
+HCI Generic Parameters
+Minimum 16 Node Or higher Number of nodes HCI supports in 
+same cluster/deployment, such that any node out of the 
+offered be able to use the storage of all other nodes
+Request you to modify as below : 
+Minimum 32 Node or Higher for have better scalability in 
+future which is supported by most of the enterprise grade 
+hci solution
+As per RFP
+149
+Page 7, Scope of Work, Clause 5 - 
+HCI Generic Parameters
+HCI support -
+Proposed solution shall support any one or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, or equivalent.
+Please modify the clause as below for flexibility to chose 
+the enterprise grade hypervisors and avoid vendor lock-in : 
+Proposed solution shall support any two or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, or equivalent.
+ The specified requirement is the minimum requirement. Bidders may propose solutions supporting one or more 
+industry-standard enterprise hypervisors, meeting the requirements of the RFP.
+150
+Page no 24, Minimum Specification, 
+Firewall, Clause no 2
+Minimum 240 GB or higher onboard storage
+Please modify as: 
+Minimum 120 GB or higher onboard storage
+As per RFP
+151
+Page no 24, Minimum Specification, 
+Firewall, Clause no 4
+Minimum 2 Gbps Firewall throughput
+Please modify as: 
+Minimum 6 Gbps Firewall throughput
+It is minimum requirement bidder can propose Higher side without additional cost to GUDM.
+152
+Page no 24, Minimum Specification, 
+Firewall, Clause no 5
+Minimum 2 Gbps IPS throughput
+Please modify as: 
+Must have at least 25,000 IPS signature and must have TPM 
+module on hardware
+As per RFP
+153
+Page no 24, Minimum Specification, 
+Firewall, Clause no 6
+Minimum 1 Gbps Threat Protection throughput
+Please modify as: 
+Minimum 4 Gbps Threat Protection throughput
+It is minimum requirement bidder can propose Higher side without additional cost to GUDM.
+154
+Page no 24, Minimum Specification, 
+Firewall, Clause no 7
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces 
+from day one
+Please modify as: 
+Appliance shall have minimum 2× 1G/10G SFP/SFP+ 
+interfaces from day one
+please see corrigendum.
+155
+Page no 24, Minimum Specification, 
+Firewall, Clause no 9
+Minimum 5 Gbps IPSec VPN throughput
+Please modify as: 
+Minimum 4 Gbps IPSec VPN throughput
+As per RFP
+156
+Page no 24, Minimum Specification, 
+Firewall, Clause no 16
+Supports minimum 1 Million concurrent sessions
+Please modify as: 
+Supports minimum 350K concurrent sessions
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+157
+Page no 24, Minimum Specification, 
+Firewall, Clause no 20
+Appliance shall be supplied with all required 
+subscriptions/licenses for IPS, URL Filtering, Anti-Malware, 
+Application Control, and Threat Protection from Day-1.
+Please modify as: 
+Appliance shall be supplied with all required 
+subscriptions/licenses for IPS, URL Filtering, Anti-Malware, 
+Application Control, DNS Security, Sandoxing and Threat 
+Protection from Day-1.
+As per RFP
+158
+Page 11, Smart Rack 42 U, Physical 
+Dimensions, Item 36
+Existing Clause: Depth: 3600 mm or Higher
+Query/Suggestion: A rack depth of 3600 mm (3.6 meters) is 
+highly non-standard for a single 42U server enclosure. 
+Standard enterprise server racks typically have a depth 
+between 1000 mm and 1200 mm. Kindly clarify if this is a 
+typographical error and confirm if the intended requirement 
+is 1000 mm / 1200 mm.
+Please see corrigendum.
+159
+Page 10, Smart Rack 42 U, 
+Specification Parameter, Item 13 & 
+24
+Existing Clause: Item 13: Cooling Capacity: Minimum 20 kW
+Item 24: Minimum 20 kW In-Rack Precision Cooling (N+1 
+Redundancy Preferred) , 2 Units of 2 Ton AC which will run in 
+redundancy mode.
+Query/Suggestion: There is a thermodynamic mismatch in 
+this requirement. Two units of 2 Ton ACs operating in an N+1 
+redundancy configuration (where 1 unit is active) provide 
+approximately 7 kW of cooling capacity (1 TON = 3.517 kW). 
+Even combined, they only yield 14 kW, which falls short of 
+the mandated 20 kW cooling capacity. Kindly clarify the 
+exact heat load dissipation requirement and configuration.
+Please see corrigendum.
+160
+Page 3, Scope of Work, Clause 6 & 7
+Existing Clause: 
+Clause 6: The proposed solution shall support migration and 
+deployment of applications from the UAT/Development 
+environment to the GSDC Production Environment and shall 
+be compatible with the VMware Tanzu platform deployed at 
+GSDC…
+Clause 7: Any Hardware, software, accessories, tools 
+configuration, interoperability or migration-related activities 
+required for successful deployment in the VMware Tanzu 
+environment shall be in the scope of the bidder without any 
+additional cost to GUDM.
+Query/Suggestion: The HCI specifications allow for multiple 
+hypervisors (AHV, Hyper-V, vSphere, KVM, etc.), but cross-
+platform container migration into a production VMware 
+Tanzu environment requires specific cross-cloud 
+orchestration licenses. Kindly confirm if GUDM will provide 
+the necessary VMware Tanzu migration tools/licenses at the 
+production end, or if the bidder must budget for external 
+migration tool licenses in the price schedule.
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+161
+Page 12, Firewall, Minimum 
+Specification, Item 3 & 6
+Existing Clause: Item 3: Minimum 2 Gbps Firewall throughput.
+Item 6: Appliance shall have minimum (2x 10g / 25G 
+SFP+)interfaces from day one.
+Query/Suggestion: A firewall processing engine restricted to 
+2 Gbps of throughput will create a massive network 
+bottleneck if traffic is routed across the requested 10 Gbps 
+or 25 Gbps physical interface lines. To align with standard 
+data center practices, we request increasing the minimum 
+Firewall throughput benchmark to match line-rate scaling, or 
+clarifying the expected internal cross-zone throughput.
+Please see Corrigendum
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+162
+Page 5, Minimum Specification HCI 
+Solution, Basic Information, Row 2 & 
+Row 9
+Existing Clause: Row 2: Total usable Storage in TB available 
+without using Deduplication, Compression... Minimum 170 TB 
+usable storage... under N+1 failure condition.
+Row 9: Type of storage media offered with the solution: 4. 
+NVMe
+Query/Suggestion: The specification does not define disk 
+performance and endurance parameters. To ensure long-
+term stability over the mandatory 5-year support cycle 
+under heavy database and container workloads, kindly 
+specify the minimum SSD Drive Writes Per Day (DWPD) 
+requirement and the minimum cache-to-capacity tier ratio.
+As per RFP
+163
+Additional Eligibility Evaluation 
+Criteria:
+Clause 4, Page 1
+Bidder should have Supply, Installation, Testing and 
+Commissioning (SITC) of hyper-converged infrastructure (HCI) 
+related work / Data Centre IT Infrastructure related 
+experience i.e. Server, Storage, Virtualization, Network and 
+Security and following value of work order should be available 
+in the last three financial years as on bid submission.
+? One work order having value of Rs. 10 Cr or
+? Two work orders, each work order having value of Rs. 6 Cr or
+? Three work orders, each work order having value of Rs. 5 Cr
+ 
+All work orders/contracts should be in the name of the bidder
+As per Rule 173(i) of the General Financial Rules (GFR) and 
+the Public Procurement Policy for MSEs Order, central and 
+state autonomous bodies are encouraged to relax prior 
+experience and turnover criteria for MSEs to promote 
+healthy market competition, provided they meet technical 
+specifications. Request to completely relax the past 
+experience requirement for Micro and Small Enterprises 
+(MSEs) / Startups in line with the Public Procurement Policy 
+and standard GeM guidelines.
+As per RFP
+164
+Additional Eligibility Evaluation 
+Criteria:
+Clause 5, Page 1
+OEM Should have supplied HCI solution having value of Rs. 30 
+cr. work order should be available in the last three financial 
+years as on bid submission.
+OEM: HCI solution, Firewall, Smart Rack, Software part.
+As per our understanding, this experience applies to the 
+Core HCI component. Separate specialized OEMs (Firewall, 
+Smart Rack) should not be bound by this bundled Rs. 30 Cr 
+HCI clause. Please confirm.
+please see corrigendum.
+165
+Additional Eligibility Evaluation 
+Criteria:
+Note, Clause 2, Page 2
+2. Bidder?s experience and bidder?s turnover criteria will not 
+be considered for the GeM bid; however, the bidder must 
+match the eligibility criteria, experience, and bidder?s 
+turnover criteria as mentioned in this document and will be 
+considered for evaluation.
+As per Rule 173(i) of the General Financial Rules (GFR) and 
+the Public Procurement Policy for MSEs Order, central and 
+state autonomous bodies are encouraged to relax prior 
+experience and turnover criteria for MSEs to promote 
+healthy market competition, provided they meet technical 
+specifications. Request to completely relax the past 
+experience requirement for Micro and Small Enterprises 
+(MSEs) / Startups in line with the Public Procurement Policy 
+and standard GeM guidelines.
+As per RFP
+166
+Point-4, 
+Additional Eligibility Evaluation Criter
+ia:
+Bidder    should    have    Supply,    Installation,    Testing    and 
+Commissioning (SITC) of hyper-converged infrastructure (HCI) 
+related work / Data Centre IT Infrastructure related 
+experience
+i.e. Server, Storage, Virtualization, Network and Security and 
+the following value of work order should be available in the 
+last three financial years to any central / state Government / 
+PSU/ Listed Company as on bid submission.
+ One work order having value of Rs. 10 Cr or
+ Two work orders, each work order having value of Rs. 6 Cr or
+ Three work orders, each work order having value of Rs. 5 Cr 
+All work orders/contracts should be in the name of the bidder
+Request for consider Group company / Owned child 
+company experience, for HCI experience eligibility criteria.
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+167
+Generic node HCI (consisting of both Compute and Storage)
+Offered storage should be a next generation storage 
+platform which shall offer the functionality of both 
+Converged as well as Hyper-converge with independent 
+scaling of both Storage and Compute without any downtime.
+Offered Platform must have complete independence for the 
+scaling of both Compute and Storage platform. Scaling of 
+both components shall be completely independent without 
+any immediate disk re-balancing operation.
+As per RFP
+168
+Total usable Storage in TB available without using 
+Deduplication, Compression (after installation of HCI software 
+resources required for solution) in the offered solution
+The offered HCI solution shall provide minimum 170 TB usable 
+storage (without deduplication and compression benefits) and 
+the same usable capacity shall be available under N+1 failure 
+condition (failure of any one node).
+The offered HCI solution shall provide minimum 170 TB 
+usable storage (without deduplication and compression 
+benefits) and the same usable capacity shall be available 
+under N+2 failure condition (failure of any two nodes at 
+once). Even in the event of failure of 2 out of 3 nodes, 
+complete 170TB usable capacity must be available for the 
+3rd Node.
+As per RFP
+169
+Number of Network ports per node  (Hint: Select '0' if not 
+applicable 3 or higher
+4 x 10/25G SFP+/SFP28 or higher
+Please see corrigendum.
+170
+PERFORMANCE
+IOPS delivered at 70:30 Read:Write Ratio on 8K block size with 
+latency of 5ms maximum for each node 100000 Or higher
+1,00,000 or higher with underlying condition that offered 
+platform shall have flexibility to utilize all offered drives on 
+storage layer for a given virtual machine for both read and 
+write operations and shall not be limited to local node 
+allocation with sub milli sec latency.
+There shall be absolutely no performance de-gradation 
+whatsoever during critical support activities like Firmware 
+upgrade, patch upgrade etc.
+As per RFP
+171
+HCI Features 1
+1. HCI have all the features of offered industry standard 
+hypervisor.
+2. HCI have independently scale storage and compute as and 
+when needed without any downtime.
+3. HCI have mechanism for Metadata protection for all offered 
+nodes within the cluster so as to provide high availability and 
+no single point of failure.
+4. HCI is configuration of SSD/SAS/NL SAS/NVMe then the 
+caching must be on appropriate capacity of
+SSD/NVME drives to meet the IOPS/performance 
+requirements.
+5. HCI supports thin provisioning of both storage entities and 
+virtual machine hard disks.
+6. HCI provides automatic failover in case of hardware failure.
+7. VLAN for networking and integrated VM IP’s Management 
+capabilities.
+8. HCI has security compliance methodology to ensure highly 
+secure environment.
+9. HCI has data replication with WAN optimization.
+1. HCI have all the features of offered industry standard 
+hypervisor.
+2. HCI must have independently scale storage and compute 
+as and when needed without any downtime and must be 
+offered with 100% data availability guarantee storage tier.
+3. HCI have mechanism for Metadata protection for all 
+offered nodes within the cluster so as to provide high 
+availability and no single point of failure.
+4. HCI solution should be all-NVMe solution.
+5. HCI supports thin provisioning of both storage entities and 
+virtual machine hard disks.
+6. HCI provides automatic failover in case of hardware 
+failure.
+7. VLAN for networking and integrated VM IP’s Management 
+capabilities.
+8. HCI has security compliance methodology to ensure highly 
+secure environment.
+9. HCI has data replication with WAN optimization for a 
+minimum of 100 VMs license from day one.
+Clarification
+VM Detail Provide to the Successful Bidder.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+172
+HCI Features 5
+1. Management tool is built into the solution, scales with the 
+cluster, and does not require separate hardware 
+infrastructure.
+2. Integrated/Software based Remote Data 
+recovery/Replication solution.
+3. Data Integrity Checks.
+4. Management tool provides visibility of network 
+infrastructure.
+5. Integrated management for hyperconverged infrastructure 
+and virtual environments with Storage &
+Compute/Storage/Network/Compute.
+6. Intelligent data distribution across all nodes and uniform 
+capacity utilization across all nodes at all time.
+1. Management tool is built into the solution, scales with the 
+cluster, and does not require separate hardware 
+infrastructure.
+2. Integrated/Software based Remote Data 
+recovery/Replication solution with RPO<=5 mins must be 
+bundled for a minimum of 100 VMs license from day one.
+3. Data Integrity Checks.
+4. Management tool provides visibility of network 
+infrastructure.
+5. Integrated management for hyperconverged 
+infrastructure and virtual environments with Storage &
+Compute/Storage/Network/Compute.
+6. Intelligent data distribution across all nodes and uniform 
+capacity utilization across all nodes at all time.
+Clarification
+VM Detail Provide to the Successful Bidder.
+173
+Supported industry protocols by HCI
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage Protocol
+6. iSCSI for Containers
+1. NFS
+4. iSCSI
+5. Equivalent IP Storage Protocol
+The proposed storage solution shall support NFS, CIFS/SMB, iSCSI, Container Storage, and/or equivalent industry-
+standard IP storage protocols, as applicable to the proposed solution and application requirements. The actual 
+protocol(s) to be utilized shall be based on the application and deployment requirements during implementation.
+174
+HCI support
+Proposed solution shall support any one or more industry-
+standard enterprise hypervisors such as AHV,
+Hyper-V, vSphere, Xen, KVM, RHEV, or equivalent.
+Proposed solution shall support any one or more industry-
+standard enterprise hypervisors such as AHV, Hyper-V, 
+vSphere, Xen, KVM, RHEV, HPE Morpheus VM Essentials or 
+equivalent.
+ The specified requirement is the minimum requirement. Bidders may propose solutions supporting one or more 
+industry-standard enterprise hypervisors, meeting the requirements of the RFP.
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+175
+ATC clause
+The proposed HCI solution and virtualization platform should 
+support seamless migration and deployment of 
+workloads/applications from UAT environment to existing 
+VMware anzu/containerized
+ecosystem at GSDC Production Environment, wherever 
+applicable. Bidder shall ensure smooth migration, integration, 
+and operational continuity during implementation. Currently, 
+we are working on an AI-based chatbot within the scope 
+defined in the RFP, primarily to assist citizens through FAQs 
+and scenario based automated responses for respective ULB 
+services. However, if GUDM plans to extend this to an 
+advanced chatbot using NLP/LLM-based capabilities, 
+additional GPU based infrastructure will be required for UAT 
+and Staging environments. The indicative configuration is as 
+below:
+UAT & Staging:
+• GPU Memory: Minimum 48 GB ECC GPU Memory or higher; 
+Tensor Cores: Minimum 500 or higher; GPU shall support 
+AI/ML, Deep Learning, NLP, LLM, and containerized 
+workloads. GPU should be compatible with the proposed 
+server platform.
+• CPU – 8 Cores, 16 GB RAM
+• Storage – 500 GB
+• OS – Ubuntu 22.04 or above Further, the Production 
+environment infrastructure will be proposed separately.  The 
+The proposed HCI solution and virtualization platform should 
+support seamless migration and deployment of 
+workloads/applications from UAT environment to wherever 
+possible and feasible. Bidder shall ensure smooth migration, 
+integration, and operational continuity during 
+implementation. Currently, we are working on an AI-based 
+chatbot within the scope defined in the RFP, primarily to 
+assist citizens through FAQs and scenario based automated 
+responses for respective ULB services. However, if GUDM 
+plans to extend this to an advanced chatbot using NLP/LLM-
+based capabilities, additional GPU based infrastructure will 
+be required for UAT and Staging environments. The 
+indicative configuration is as below:
+UAT & Staging:
+• GPU Memory: Minimum 48 GB ECC GPU Memory or 
+higher; Tensor Cores: Minimum 500 or higher; GPU shall 
+support AI/ML, Deep Learning, NLP, LLM, and containerized 
+workloads. GPU should be compatible with the proposed 
+server platform.
+• CPU – 8 Cores, 16 GB RAM
+• Storage – 500 GB
+• OS – Ubuntu 22.04 or above Further, the Production 
+environment infrastructure will be proposed separately.  The 
+container platform must support GPU resource allocation for 
+AI/ML workloads
+The bidder may propose any enterprise-grade virtualization and/or container platform for UAT/Development 
+environment. However, the proposed solution shall support seamless migration, deployment, and interoperability of 
+applications and workloads to the existing VMware Tanzu-based GSDC Production Environment. The bidder shall 
+provide all necessary migration, integration, testing, and deployment support using OEM-supported tools and 
+services, without any additional cost to GoG.
+176
+Important Industry Standards 
+missing in the RFP
+Important Clause to be added
+Industry Standard Compliance:
+ACPI 6.4 Compliant
+PCIe 5.0 Compliant
+Wake on LAN (WoL) Support
+Microsoft® Logo certifications
+PXE Support
+Energy Star 4.0
+SMBIOS 3.1
+Redfish API
+IPMI 2.0
+Secure Digital 4.0
+Advanced Encryption Standard (AES)
+Triple Data Encryption Standard (3DES)
+SNMP v3
+TLS 1.2
+DMTF Systems Management Architecture for Server 
+Hardware Command Line Protocol (SMASH CLP)
+Active Directory v1.0
+ASHRAE A3/A4
+As per RFP
+
+
+Sr. No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Bid for Selection of System Integrator (SI) for Supply, Installation, and support/services HCI based solution for 5 years on behalf of the Gujarat Urban Development Mission, Gandhinagar.(Bid No.  
+GEM/2026/B/7756393 dated 14.07.2026).
+Response to Pre-Bid Queries
+177
+Important Security Standards 
+missing in the RFP
+Important Clause to be added
+Security Compliance:
+UEFI Class 3 (Unified Extensible Firmware Interface Forum)
+UEFI Secure Boot and Secure Start support
+Immutable Silicon Root of Trust
+FIPS 140-3 validation
+Common Criteria certification
+Configurable for PCI DSS compliance
+Advanced Encryption Standard (AES) and Triple Data 
+Encryption Standard (3DES) on browser
+Support for Commercial National Security Algorithms (CNSA)
+Tamper-free updates - components digitally signed and 
+verified
+Secure Recovery - recover critical firmware to known good 
+state on detection of compromised firmware
+Ability to rollback firmware
+Secure erase of NAND/User data
+TPM (Trusted Platform Module) 2.0
+Bezel Locking Kit option
+Chassis Intrusion detection option
+As per RFP
+178
+4.4
+HCI is configuration of SSD/SAS/NL SAS/NVMe then the 
+caching must be on
+appropriate capacity of SSD/NVME drives to meet the 
+IOPS/performance requirements.
+If possible, please remove SSD/SAS/NLSAS. NVMe is the 
+industry standard drive and using other media can affect 
+performance.
+please see corrigendum.
+179
+4.8
+HCI has security compliance methodology to ensure highly 
+secure environment.
+Please specify the required security standards/compliance 
+frameworks such as STQC, CERT-In, ISO 27001, encryption at 
+rest, FIPS 140-2/140-3, or any government-specific 
+requirements.
+As per RFP
+180
+4
+1. NFS
+2. CIFS
+3. SMB
+4. iSCSI
+5. Equivalent IP Storage
+Protocol
+6. iSCSI for Containers
+Among NFS, SMB, CIFS, iSCSI and Container Storage, 
+which protocols are mandatory and 
+what percentage of workload is expected on each protocol?
+The proposed storage solution shall support NFS, CIFS/SMB, iSCSI, Container Storage, and/or equivalent industry-
+standard IP storage protocols, as applicable to the proposed solution and application requirements. The actual 
+protocol(s) to be utilized shall be based on the application and deployment requirements during implementation.
+181
+DR Expectations
+Please clarify the expected RPO and RTO requirements for 
+critical applications and whether Active-Active or Active-
+Passive DR architecture is expected.
+The proposed infrastructure is intended for UAT and Development environments. No separate Disaster Recovery (DR) 
+infrastructure is envisaged under the current scope of work.
+182
+WorkLoad Mix
+Kindly provide the expected workload profile such as 
+databases, VDI, virtual machines, ERP, GIS, video 
+surveillance, analytics, AI/ML etc
+Bidders are advised to size and propose the solution based on the specifications and requirements defined in the 
+RFP.
+183
+Scalability
+What is the expected infrastructure growth over the next 
+3–5 years in terms of compute, storage and application 
+expansion?
+As per RFP
+184
+Cloud Native Readiness
+Considering the Government's digital transformation 
+roadmap, would solutions offering integrated 
+Kubernetes/OpenShift platform capabilities for future cloud-
+native applications be considered advantageous?
+Bidder may provided as an additional feature but is not mandatory.

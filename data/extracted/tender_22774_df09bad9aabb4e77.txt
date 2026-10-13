@@ -1,0 +1,171 @@
+Scope of Work 
+Component 
+Specification 
+ 
+Processor 
+Dual processor configuration with minimum 28 cores per processor, base frequency ≥ 2.2 GHz, cache ≥ 50 MB, 
+supporting DDR5 memory and PCIe Gen5 architecture. Processor should be latest generation Intel Xeon Scalable or
+AMD EPYC equivalent 
+Chipset 
+Compatible enterprise chipset 
+ 
+RAM 
+Minimum 256 GB DDR5 ECC RDIMM, 5600 MHz or 
+higher, expandable up to minimum 16 DIMM slots. 
+NVMe
+Minimum 960 GB Enterprise Grade NVMe SSD
+HDD (Data)
+Minimum 1 × 20 TB Enterprise Grade 3.5" SATA HDD
+Raid 
+System should support optional hardware RAID controller for future storage expansion. 
+GPU
+1x Nvidia RTX 6000 ADA (48 GB)
+GPU Support 
+System should support installation of high- performance GPU cards with required PCIe Gen5 slots and power 
+connectors 
+NIC (On-board)
+Higher speed NIC may be considered
+Exp. Slots 
+Slot configuration may vary across OEM platforms; system should support sufficient PCIe Gen5 slots for GPU and 
+expansion cards. 
+Ports
+Minimum 4 × USB 3.0 or higher ports
+Monitor
+None
+KB/Mouse
+Wired Keyboard and mouse
+Security
+System should support TPM 2.0 and secure boot.
+Chassis 
+Chassis should support adequate internal storage expansion and GPU installation. 
+OS 
+Latest Ubuntu 
+Power Supply 
+Power supply should be sufficient to support GPU and system components. 
+Cooling 
+System should support adequate cooling for high- performance GPU and dual processor configuration 
+Warranty 
+OEM onsite support 3 years warranty 
+Turnover Criteria 
+Bidder Turnover 
+Minimum 40 Lakhs in Last 3 Years 
+OEM Turnover 
+Minimum 1 Crore in Last 3 Years 
+Note : Bidder will have to submmit the CA Certificate with UDIN no at the time of Bidding. 
+Experience Criteria 
+ 
+ 
+Bidder Experience 
+1. For 1 Order each of Rs 15 Lakhs of Supplied GPU workstation in Last 3 Years. 
+2. For 2 Orders each of Rs 10 Lakhs of Supplied GPU workstation in Last 3 Years. 
+3. For 3 Orders each of Rs 8 Lakhs of Supplied GPU workstation in Last 3 Years. 
+ 
+OEM Experience 
+ 
+Supplied of Rs. 50 Lakhs GPU workstation in Last 3 Years 
+
+
+Please submit the undertaking letter as per Ministry of Finance Memorandum No.: F. 
+No.6/18/2019-PPD dated 23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated 
+08.02.2021 as per Performa given below on OEM letterhead as well as on bidder’s letterhead. 
+ 
+ 
+On Letterhead of Bidder 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 published by Ministry of Finance, Dept. of 
+Expenditure, Public Procurement division 
+ 
+Ref: Bid Number:  
+ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that shares a 
+land border with India. I certify that we as a bidder and quoted product from the following OEMs are 
+not from such a country or if from such a country, these quoted products OEM has been registered 
+with the competent authority. I hereby certify that these quoted product & its OEM fulfills all 
+requirements in this regard and is eligible to be considered for procurement for Bid 
+number 
+. 
+ 
+No. 
+Item Category 
+Quoted Make & Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority, otherwise GIL/End user Dept. reserves 
+the right to take legal action on us. 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>> 
+
+
+On Letterhead of OEM 
+ 
+ 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 published by Ministry of Finance, Dept. of 
+Expenditure, Public Procurement division 
+ 
+Ref: Bid Number:  
+ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country that shares a 
+land border with India. I certify that our quoted product and our company are not from such a 
+country, or if from such a country, our quoted product and our company have been registered with 
+the competent authority. I hereby certify that these quoted products and our company fulfills all 
+requirements in this regard and is eligible to be considered for procurement for Bid 
+number 
+. 
+ 
+No. 
+Item Category 
+Quoted Make & Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. reserves 
+the right to take legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>> 
+
+
+Bidder Contact Information 
+ 
+Name 
+ 
+Designation 
+ 
+Company Address 
+ 
+Telephone 
+ 
+Mobile No 
+ 
+Email 
+ 
+ 

@@ -1,0 +1,1170 @@
+बड ववरण/Bid Details
+बड बंद होने क तारख/समय /Bid End Date/Time
+10-08-2026 15:00:00
+बड खुलने क तारख/समय /Bid Opening
+Date/Time
+10-08-2026 15:30:00
+बड पेशकश वैधता (बंद होने क तारख से)/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय/रा!य का नाम/Ministry/State Name
+Gujarat
+वभाग का नाम/Department Name
+Industries And Mines Department Gujarat
+संगठन का नाम/Organisation Name
+Commissioner Of Geology And Mining
+काया%लय का नाम/Office Name
+Head Office, Gandhinagar
+िशकायत िनवारण के संपक% ववरण/ Contact details of
+Grievance redressal
+HOD Email id :hod1.cgm.gj@gembuyer.in 
+Buyer Email id: dydir-admin-cgm@gujarat.gov.in
+कुल मा ा/Total Quantity
+26
+व'तु (ेणी /Item Category
+Wired Headphones, Earphones and Communication
+Headsets (Q2) , data wall display (Q2) , Audio Digital Signal
+Processor (Q3) , Audio Amplifier (V3) (under BIS Scheme - II)
+(Q2) , Conference Speakerphone without Bluetooth (Q2) ,
+Speaker (V3) (Q2) , Video Conferencing Camera / Web
+Camera (V2) (Q2) , Entry and Mid Level Desktop Computer
+(Q2)
+वष+ के अनुभव एवं टन%ओवर से एमएसई को छूट 3ा4 है /
+MSE Relaxation for Years Of Experience
+and Turnover
+Yes | Complete
+'टाट%अप के िलए अनुभव के वष+ और टन%ओवर से छूट 3दान
+क गई है / Startup Relaxation for Years Of
+Experience and Turnover
+Yes | Complete
+व6ेता से मांगे गए द'तावेज़/Document required
+from seller
+Experience Criteria,Certificate (Requested in ATC),OEM
+Authorization Certificate,Additional Doc 1 (Requested in
+ATC),Compliance of BoQ specification and supporting
+document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+ 
+बड सं8या/Bid Number: GEM/2026/B/7796056
+9दनांक /Dated: 20-07-2026
+बड द'तावेज़ / Bid Document
+1 / 19
+
+
+@या आप िनवदाकारB Cारा अपलोड 9कए गए द'तावेज़B को
+िनवदा मD भाग लेने वाले सभी िनवदाकारB को 9दखाना
+चाहते हF? संदभ% मेनू है/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड लगाने क समय सीमा 'वतः नहं बढ़ाने के िलए
+आवJयक बड क सं8या। / Minimum number of
+bids required to disable automatic bid
+extension
+3
+9दनB क सं8या, Mजनके िलए बड लगाने क समय-सीमा
+बढ़ाई जाएगी। / Number of days for which Bid
+would be auto-extended
+7
+ऑटो ए@सटDशन अिधकतम 9कतनी बार 9कया जाना है। /
+Number of Auto Extension count
+1
+बड से Pरवस% नीलामी स96य 9कया/Bid to RA enabled
+Yes
+Pरवस% नीलामी योQयता िनयम/RA Qualiﬁcation Rule
+H1-Highest Priced Bid Elimination
+बड का 3कार/Type of Bid
+Two Packet Bid
+3ाथिमक उTपाद (ेणी/Primary product category
+data wall display
+तकनीक मूUयांकन के दौरान तकनीक 'पWीकरण हेतु
+अनुमत समय /Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+िनरXण आवJयक (सूचीबY िनरXण 3ािधकरण /जेम के साथ
+पूव% पंजीकृत एजDिसयB Cारा)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूUयांकन पYित/Evaluation Method
+Total value wise evaluation
+म[य'थता खंड/Arbitration Clause
+No
+सुलह खंड/Mediation Clause
+No
+बड ववरण/Bid Details
+ईएमड ववरण/EMD Detail
+एडवाईजर बFक/Advisory Bank
+State Bank of India
+ईएमड रािश/EMD Amount
+136000
+ईपीबीजी ववरण /ePBG Detail
+एडवाइजर बFक/Advisory Bank
+State Bank of India
+ईपीबीजी 3ितशत (%)/ePBG Percentage(%)
+5.00
+2 / 19
+
+
+ईपीबीजी क आवJयक अविध (माह) /Duration of ePBG
+required (Months).
+38
+(a). जेम क शत+ के अनुसार ईएमड छूट के इ^छुक बडर को संबंिधत केटेगर के िलए बड के साथ वैध समिथ%त द'तावेज़ 3'तुत करने है। एमएसई
+केटेगर के अंतग%त केवल व'तुओं के िलए विनमा%ता तथा सेवाओं के िलए सेवा 3दाता ईएमड से छूट के पा  हF। _यापाPरयB को इस नीित के दायरे से
+बाहर रखा गया है।/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).ईएमड और संपादन जमानत रािश, जहां यह लागू होती है, लाभाथ` के पX मD होनी चा9हए। / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(c).ईएमड और संपादन जमानत रािश लाभाथ` के पX मD होनी चा9हए। / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथ` /Beneficiary : 
+--
+Industries and Mines Department Gujarat, Commissioner of Geology and Mining, Gandhinagar
+(--)
+बोली वभाजन लागू नहं 9कया गया/ Bid splitting not applied.
+एमएसई खरद वरयता/MSE Purchase Preference
+एमएसई खरद वरयता/MSE Purchase Preference
+No
+एमआईआई खरद वरयता/MII Purchase Preference
+एमआईआई खरद वरयता/MII Purchase Preference
+No
+1. If the bidder is a Micro or Small Enterprise as per latest orders issued by Ministry of MSME, the bidder shall be
+relaxed from the eligibility criteria of "Experience Criteria" as defined above subject to meeting of quality and
+technical specifications. The bidder seeking Relaxation from Experience Criteria, shall upload the supporting
+documents to prove his eligibility for Relaxation.
+2. If the bidder is a Micro or Small Enterprise (MSE) as per latest orders issued by Ministry of MSME, the bidder
+shall be relaxed from the eligibility criteria of "Bidder Turnover" as defined above subject to meeting of quality
+and technical specifications. If the bidder itself is MSE OEM of the offered products, it would be relaxed from the
+"OEM Average Turnover" criteria also subject to meeting of quality and technical specifications. The bidder
+seeking Relaxation from Turnover, shall upload the supporting documents to prove his eligibility for Relaxation.
+3. If the bidder is a DPIIT registered Startup, the bidder shall be relaxed from the the eligibility criteria of
+"Experience Criteria" as defined above subject to their meeting of quality and technical specifications. The bidder
+seeking Relaxation from Experience Criteria, shall upload the supporting documents to prove his eligibility for
+Relaxation.
+4. If the bidder is a DPIIT registered Startup, the bidder shall be relaxed from the the eligibility criteria of "Bidder
+Turnover" as defined above subject to their meeting of quality and technical specifications. If the bidder is DPIIT
+Registered OEM of the offered products, it would be relaxed from the "OEM Average Turnover" criteria also
+subject to meeting of quality and technical specifications. The bidder seeking Relaxation from Turnover shall
+upload the supporting documents to prove his eligibility for Relaxation. 
+5. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+3 / 19
+
+
+based on competitive prices received in Bid / RA process. 
+6. Reverse Auction would be conducted amongst all the technically qualified bidders except the Highest quoting
+bidder. The technically qualified Highest Quoting bidder will not be allowed to participate in RA. However, H-1
+will also be allowed to participate in RA in following cases:
+i. If number of technically qualified bidders are only 2 or 3.
+ii. If Buyer has chosen to split the bid amongst N sellers, and H1 bid is coming within N.
+iii. In case Primary product of only one OEM is left in contention for participation in RA on elimination of H-1.
+iv. If L-1 is non-MSE and H-1 is eligible MSE and H-1 price is coming within price band of 15% of Non-MSE L-1
+v. If L-1 is non-MII and H-1 is eligible MII and H-1 price is coming within price band of 20% of Non-MII L-1
+Wired Headphones, Earphones And Communication Headsets ( 4 pieces )
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Product
+Configuration
+Device Form Factor
+Over Ear Headphones, On Ear Headphones, In Ear
+Earphones
+Interface & Controls
+Microphone Architecture
+No Microphone, In-line Microphone, Boom Microphone
+Interface Connector Type
+3.5 mm Audio Jack, USB Type A, USB Type C,
+Lightning Connector
+Warranty (in Year)
+1 Or higher
+Additional Specification Parameters - Wired Headphones, Earphones And Communication Headsets (
+4 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+4
+30
+Data Wall Display ( 1 pieces )
+4 / 19
+
+
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Specification
+Display Technology
+DLP, LCD, LED
+Lamp /Light Source
+LED, Laser
+Diagonal Screen Size (cm)
+115 or higher, 125 or higher, 135 or higher, 175 or
+higher, 325 or higher
+Horizontal Resolution
+(Pixel)
+Any applicable numeric value
+Vertical Resolution (Pixel)
+Any applicable numeric value
+Bezel to Bezel Width (mm)
+0.5, 1.8, 3.5, 0, 1
+Brightness (nits)
+450 - 9999
+Availability of Data wall
+controller (For multiscreen
+viewing)
+Yes, No
+On Site OEM Warranty
+(Year)
+1, 3, 4, 5 (year)
+Additional Specification Parameters - Data Wall Display ( 1 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+1
+30
+Audio Digital Signal Processor ( 1 pieces )
+तकनीक विशWयाँ /Technical Specifications
+5 / 19
+
+
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Performance
+Specifications
+Inputs
+Mic, Line, Mic / Line Or higher
+Outputs
+Main, Other Or higher
+FEATURES
+DSP Expandablility option
+Yes, No
+Limiter
+Yes, No
+Filters
+Yes, No
+Feedback supressor
+Yes, No
+Mixer
+Yes, No
+Matrix
+Yes, No
+Others
+Warranty
+1, 2, 3, 4, 5 Or higher
+Additional Specification Parameters - Audio Digital Signal Processor ( 1 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+1
+30
+Audio Amplifier (V3) (under BIS Scheme - II) ( 1 pieces )
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+6 / 19
+
+
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Generic Parameters
+Type of Amplifier
+Amplifier, Amplifier with Built in Mixer
+Number of output channel
+1, 2, 4 Or higher
+Power Output (RMS per
+Channel) (in Watt)
+2000-2100, 2100-2200, 2200-2300, 2300-2400, 2400-
+2500, 2500-2600, 2600-2700, 2700-2800, 2800-2900,
+2900-3000, 3000-3100, 3100-3200, 3200-3300, 3300-
+3400, 3400-3500, 3500-3600, 3600-3700, 3700-3800,
+3800-3900, 3900-4000, 4000-4100, 4100-4200, 4200-
+4300, 4300-4400, 4400-4500, 4500-4600, 4600-4700,
+4700-4800, 4800-4900, 4900-5000, 5000-5100, 5100-
+5200, 5200-5300, 5300-5400, 5400-5500, 5500-5600,
+5600-5700, 5700-5800, 5800-5900, 5900-6000, 6000-
+6100, 6100-6200, 6200-6300, 6300-6400, 6400-6500,
+6500-6600, 6600-6700, 6700-6800, 6800-6900, 6900-
+7000, 7000-7100, 7100-7200, 7200-7300, 7300-7400,
+7400-7500, 7500-7600
+Performance
+Parameters
+Maximum Total Harmonic
+Distortion (THD)
+<=0.1%, <=1%, <=2%, <=5%, <=10% Or higher
+Nominal Impedance of
+Amplifier
+2?, 4?, 6?, 8?, 16?
+Additional Specification Parameters - Audio Amplifier (V3) (under BIS Scheme - II) ( 1 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+1
+30
+Conference Speakerphone Without Bluetooth ( 1 pieces )
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+7 / 19
+
+
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Audio
+Microphone Configuration
+per Unit
+1, 2, 3, 4, 5, 6, 8, 10, 12, 16 Or higher
+Cascading Capability
+No, Yes - Up to 2, Yes - Up to 3, Yes - Up to 4, Yes - Up
+to 5 Or higher
+Wireless Cascading
+Not Applicable, No, Yes Or higher
+External Microphone
+0, 1, 2, 3, 4 Or higher
+Microphone Unit Pickup
+Range -Radius (in meter)
+Up to 3, Up to 4, Up to 5, Up to 6 Or higher
+Speakerphone Power per
+Unit (in watts)
+3 to 4.9, 5.0 to 9.9, 10 to 14.9, 15 to 19.9 Or higher
+Duplex Audio Processing
+Support
+Half, Full Or higher
+Connectivity
+Connectivity Interface
+Wired USB, 3.5 mm Audio Jack, Wireless USB Dongle
+(RF), Near Field Communication (NFC)
+System
+Microphone Expansion
+Capability
+Yes - Wired, Yes - Wireless, No
+Power
+Power Source
+USB Powered, Built-in Rechargeable Battery, USB
+Powered with Rechargeable Battery Backup
+Minimum Battery Capacity
+(in mAh)
+No Battery, 1500 to 1999, 2000 to 2499, 2500 to
+2999, 3000 to 3499, 3500 to 4499, 4500 to 5499,
+5500 to 6499, 6500 to 7499, 7500 to 10000 Or higher
+Compliance
+Warranty (in Year)
+1, 3 Or higher
+Additional Specification Parameters - Conference Speakerphone Without Bluetooth ( 1 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+8 / 19
+
+
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+1
+30
+Speaker (V3) ( 4 pieces )
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Generic Parameters
+Speaker Type
+Passive Speaker, Active Speaker (with inbuilt
+amplifier), Subwoofer, Active Subwoofer (with inbuilt
+amplifier)
+Total Power Rating (RMS)
+(Watt)
+4-10, 10-20, 20-30, 30-40, 40-50, 50-75, 75-100, 100-
+150, 150-200, 200-250, 250-500, 500-750, 750-1000,
+1000-1250, 1250-1500, 1500-1750, 1750-2000
+Total Number of Driver
+1, 2, 3, 4, 5 Or higher
+Construction
+Parameters
+Mounting Type of Speaker
+Floor-standing, Wall-mounted, Pole-mounted, Ceiling
+Mounting
+Additional Specification Parameters - Speaker (V3) ( 4 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+4
+30
+9 / 19
+
+
+Video Conferencing Camera / Web Camera (V2) ( 1 pieces )
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+Description/Applicati
+on
+Genric Description
+Web Camera, Video Conferencing Camera
+Genric
+PTZ Function
+No, Yes (e-PTZ) only, Yes (High Precision Motorized-
+PTZ) Or higher
+Resolution (Maximum) each
+camera
+HD (1280 x 720 Pixel), Full HD (1920 x 1080 Pixel), 4K
+HD (3840 X 2160 Pixel) Or higher
+Zoom Range Optical
+(Maximum)
+2X, 3X, 4X, 5X, 10X, 12X, 16X, 20X, 22X, 30X, NA Or
+higher
+Field of View (Degree)
+45-60, more than 60-75, more than 75-90, more than
+90-105, more than 105-120
+Warranty / Service
+Comprehensive on site
+Warranty (Year)
+1, 2, 3, 4, 5 Or higher
+Additional Specification Parameters - Video Conferencing Camera / Web Camera (V2) ( 1 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+1
+30
+Entry And Mid Level Desktop Computer ( 13 pieces )
+तकनीक विशWयाँ /Technical Specifications
+* जेम केटेगर विशW के अनुसार / As per GeM Category Speciﬁcation
+10 / 19
+
+
+ववरण/Speciﬁcation
+विशW का नाम /Specification
+Name
+बड के िलए आवJयक अनुमत मूUय /Bid Requirement
+(Allowed Values)
+PROCESSOR
+Description of Stores
+Desktop Computer with Table Mount Monitor System
+with Compatible Chipset as per Processor Make with
+Minimum 6 USB Port
+Computer Type
+Entry Level, Mid Level
+Processor Number
+AMD Ryzen 3 5300G, Intel Core i3 12100, AMD Ryzen
+5 5600G, Intel Core i5 12400 Or higher
+OPERATING SYSTEM
+Factory Pre-loaded
+Operating System by
+Desktop OEM
+Window 11 Professional, Window 11 Home, DOS or
+Equivalent, Linux, Window 11 STF (Shape the Future)
+MEMORY (RAM)
+RAM Size (Memory
+Card/Module) (in GB)
+(Capacity to be installed in
+the System)
+16, 32 Or higher
+STORAGE
+Type of Storage Installed
+with the System
+NVMe-SSD Plus HDD@5400 RPM, NVMe-SSD Plus
+HDD@7200 RPM, HDD @5400RPM, HDD @7200RPM,
+NVMe-SSD
+SSD - Storage Capacity (in
+GB)
+0 as HDD Only Installed, 500, 512, 1024, 2048 Or
+higher
+HDD - Storage Capacity (in
+GB)
+0 as SSD only Installed, 500, 1000, 2000 Or higher
+Monitor
+Availibility of Monitor
+Yes as per IS 13252 (Part 1), No
+Screen Size (in CMs)
+48.26 - 53 (19.0" - 20.87"), 53.1 - 58 (20.91" -
+22.83"), 58.1 - 63 (22.87" - 24.8"), 63.1 - 68 (24.84" -
+26.77"), 68.1 - 73 (26.81" - 28.74"), 73.1 - 78 (28.78"
+- 30.71"), 78.1 - 83 (30.75" - 32.68"), 83.1 - 88
+(32.72" - 34.65"), NA as No Monitor
+WARRANTY
+On Site OEM Warranty (in
+Year)
+1, 2, 3, 4, 5 Or higher
+Additional Specification Parameters - Entry And Mid Level Desktop Computer ( 13 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+Please refer to the
+specifications mentioned in the
+SoW in ACT
+Please refer to the specifications mentioned in the SoW in ACT
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/Pरपो9टbग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+11 / 19
+
+
+6.सं./S.N
+o.
+परेषती/Pरपो9टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+9डलीवर के 9दन/Delivery
+Days
+1
+Maheshkumar
+Motibhai Chaudhary
+382010,Commissioner of
+Geology and Mining, Block No-
+15, Dr.Jivraj Mehta Bhavan,
+Sector-10, Gandhinagar-
+382010
+13
+30
+Buyer added Bid Specific Additional Scope of Work
+6.सं./S.N
+o.
+Document Title
+Description
+Pरवस% 3भार के अनुसार
+जीएसट/Applicable i.r.o. Items
+1
+Scope Of Work
+View
+Scope Of Work
+Data Wall Display(1)
+The uploaded document only contains Buyer specific Additional Scope of Work and / or Drawings for the bid items added
+with due approval of Buyer’s competent authority. Buyer has certified that these additional scope and drawings are
+generalized and would not lead to any restrictive bidding.
+Special terms and conditions-Version:1 effective from 06-08-2025 for category Speaker (V3)
+1. Minimum Warranty T&C:
+Product (including components provided/with the Product) will be in working condition at the time of
+delivery.
+ 
+The Minimum warranty shall include:
+Any manufacturing defects,
+Defects in material and workmanship
+Malfunctioning components (such as drivers, amplifiers in active speakers, input/output
+connections, power supplies)
+abnormal performance
+Faults arising during normal usage under recommended operating conditions
+The supplier shall provide a minimum standard warranty for the period mentioned in the contract
+from the date of delivery.
+Special terms and conditions-Version:1 effective from 22-11-2024 for category Video Conferencing
+Camera / Web Camera (V2)
+1. Note to Buyers:
+The Central Ministries/ Departments and other government buyers, as applicable, shall note that this
+category is covered under Scheme - II (Compulsory Registration Scheme) of BIS (Bureau of Indian
+Standards).
+Compulsory registration of goods / articles in this category shall conform to IS 616: 2017 and shall bear
+the “Standard Mark” under a license from Bureau of Indian Standards as per Scheme-II of Schedule-II of
+Bureau of Indian Standards(Conformity Assessment) Regulations,2018.
+Buyer shall verify and confirm compliance with the applicable BIS order during the procurement and
+fulfilment process.
+Note to Sellers:
+Sellers shall offer and supply products conforming to the corresponding Indian Standard and mandatorily
+12 / 19
+
+
+registration as per Scheme-2 of BIS.
+Non-compliance shall result in action as per GeM IM policy.
+Buyers and sellers may refer to the relevant S.O at https://www.bis.gov.in/product-certification/products-
+under-compulsory-certification/scheme-ii-registration-scheme/
+ 
+Special terms and conditions-Version:6 effective from 28-07-2025 for category Entry and Mid Level
+Desktop Computer
+1. 
+For Buyers:
+The category has been created in accordance with the Model Technical Specification issued by the
+Ministry of Electronics and Information Technology (MeitY) vide letter no. W-43/4/2020-IPHW dated 19th
+August 2024, and is based on the parameters defined therein. The specifications applicable to this
+category are as per the MeitY Model Technical Specification dated 19th August 2024. Accordingly, buyers
+shall not specify or mandate any particular processor, processor brand, or manufacturer in the Additional
+Terms and Conditions (ATC). In this context, reference may also be made to Clause 2(e) of the GeM
+General Terms and Conditions (GTC), which inter alia states: "The Specifications shall identify the key
+parameters defining the products with all necessary validations related to configuration, type of data,
+restrictions, range / allowed values, allowed units etc. Sellers as well as Buyers while offering / buying the
+Goods / services shall have to comply with the validation rules / restrictions provided for in the Category
+Specification. Buyers / Sellers cannot add parameters and / or drop down values not provided for in
+category Specification." In view of the above, buyers are not permitted to amend or modify any technical
+specification through the Additional Terms and Conditions, and must ensure full compliance with the
+predefined category specifications
+1
+Product
+Verification
+A unique device serial number shall be provided by the seller at the time of supply,
+which is mentioned on the product. The buyer/consignee shall be able to verify the
+complete product details, including configuration, through the OEM website. The
+buyer/consignee should be able to perform these verifications without needing to
+create an account on the OEM website.
+2
+Operating
+System
+1. There is no requirement that the OEM of the Desktop System should be a
+device partner of Microsoft or hold a valid authorisation from Microsoft.
+2. Microsoft OS may be sourced directly from Microsoft by OEMs holding device
+partner status, and those not holding device partner status may source from
+authorized distributors, i.e., Ingram/Reddington and their authorized channel
+partners.
+3. Buyers may ensure that the authorisation from Microsoft shall not be made a
+mandatory requirement in bids.
+4. If supplies are made as per brands of OEMs who are global device partners,
+then the serial number of the machine supplied can be used to check the
+details of the product from the website of the OEM.
+5. In the case of local device partners of Microsoft, OS details such as the digital
+key number should be produced with supplies, and the buyer may verify them
+from Microsoft.
+6. In case of other OEMs who are sourcing from authorized distributors of
+Microsoft, Reddington, or Ingram, a copy of the invoice which contains the
+relevant serial number of Windows OS shall be submitted with supplies, and
+the buyer/consignee can verify the same from the OS server website or by
+telephone, or both.
+7. In respect of verification of OS, the consignee shall take necessary steps at the
+time of acceptance. For device partner machines, buyers can check the
+Computer OEM website to verify the OS by entering the PC's serial number and
+part code number. For entities that are not device partners and source OS from
+distributors' networks, they may verify the serial number through the Microsoft
+website or by telephone, or both.
+8. In case the product offered is with a DOS or Linux operating system, such
+verification of OS shall not be applicable.
+9. Buyer shall request for Windows Hardware Compatibility Certificate for window
+operating system to ensure the supplied hardware is compatible with Windows
+operating system
+13 / 19
+
+
+3
+Requirement
+of OEM logo 
+Buyers are advised to note that incorporating a condition stipulating an OEM logo on
+the motherboard is restrictive and may not be incorporated into the bids.
+4
+Processors
+Intel and AMD Processors are added as per Model Technical Specification of Desktop
+Computer issued by Ministry of Electronics and Information Technology (MeitY-IPHW
+Division) W-43/4/2020 dated 19 Aug 2024
+5
+Scope of
+Installation
+Installation requirements shall be indicated in the bid by the buyer under the
+Installation, Commissioning and Testing in Bid (ICT) clause. In case installation is
+specified in the bid, it shall be the responsibility of the seller to ensure that all
+systems are installed and satisfactory working is shown to the consignee or
+authorized representative of the buyer. However, in case of Direct and L1 Purchase,
+installation of the computer system by the seller/OEM is mandatory. Installation does
+not include the supply of antivirus, MS Office, etc., which are to be separately
+procured by the buyer only.
+6
+Buyer/Consign
+ee Obligations
+relating to
+installation
+It is necessary that the buyer/consignee provide the seller or authorized
+representative access to locations, areas, or rooms for the installation of equipment.
+The seller or authorized representative will install systems and connect them to
+existing power lines/networking at no additional charge. The buyer/consignee will be
+responsible for electrical wiring, networking, or any other work connected to the
+installation area. The seller shall be only responsible for ensuring the setup of the
+desktop systems, configuring, etc., as well as loading software etc. (to be provided by
+the buyer/consignee). Any other site preparation required before installation and
+connection of the desktop shall be the responsibility of the buyer/consignee. The
+buyer/consignee, if required, will provide space at the installation site for the safe
+storage of tools, test equipment, and other materials used for installation at no
+charge. In case there is a requirement of obtaining an entry pass for allowing
+representatives to the premises, the same shall be arranged by the consignee.
+Similarly, if there is a requirement of a gate pass for bringing items required for
+installation, the same is to be arranged by the consignee. In scenarios where multiple
+location installations are required, the buyer must indicate complete installation
+addresses in the bid document. In the case of other modes of purchase, as soon as
+the order is placed, complete details regarding installation may be informed to the
+seller. This ensures smooth coordination and delivery of products to the respective
+locations.
+7
+Warranty
+The buyer may ensure that as soon as supplies are received, a request for a warranty
+certificate is made, along with logging into the OEM website/call centre to verify the
+certificate.
+8
+OM related to
+MII, Local
+content and
+MeitY advice
+on Model
+technical
+specifications 
+Buyers are requested to refer to various OMs pertaining to DPIIT and MeitY, as issued
+from time to time, while making procurement and follow relevant provisions as
+applicable.
+14 / 19
+
+
+9
+Check points
+during
+Acceptance of
+Supplies 
+Before generating the Consignee Receipt and Acceptance Certificate (CRAC), the
+consignee may inspect the system condition and verify that it complies with the
+agreed specifications and configurations. In the case of a large number of units to be
+procured, then the buyer may opt for bidding and accordingly stipulate conditions
+regarding installation, inspection by consignees/inspection agency. Consignees who
+receive the supplies should be vigilant and should complete checking to ensure that
+there is no scope for the supply of refurbished products. At the time of receiving
+supplies, the consignee may adhere to the following to ensure that any discrepancies
+in supplies can be flagged, taken into account, and reflected while generating the
+CRAC: 
+i. Packing should be checked properly
+ii. A warranty certificate from the OEM should be insisted upon and checked.
+iii. Instruction manuals and the OS installed should be checked.
+iv. The machine serial number should also be checked through settings and can
+be verified from the OEM website. The above points are for guidance, and the
+buyer/consignee may take steps considered suitable by them for checking at
+the consignee end before acceptance of systems.
+v. An escalation matrix for customer grievance redressal shall be insisted upon
+by the buyer from the seller at the time of delivery.
+10
+HDD/SSD
+Storage
+Retention
+Buyer may add their requirement of retention of securely store all Hard Disk Drives
+(HDDs) or Solid-State Drives (SSDs) used in the desktop computer under ATC clause.
+11
+Higher
+Configuration
+The buyer may permit products delivered with advanced USB standards. For example,
+a USB Type-A 3.2 Gen 2 port may be acceptable in place of USB Type A Port (Version
+3 point 2 Gen 1)
+ 
+For Seller:
+1
+OEM Website
+Link/Part No
+for product
+verification 
+The OEM shall share the OEM website link with the buyer at the time of delivery. The
+offered model details/configuration should be available on their website. A unique
+device serial number shall also be provided at the time of supply, which is also
+mentioned on the product. The buyer/consignee shall be able to verify the complete
+product details, including configuration, through the shared OEM website link.
+2
+Changing or
+altering the
+configuration
+The seller must refrain from changing or altering the configuration of the factory
+pre-loaded machine. The machine should be delivered to the Consignee in its
+original, factory-approved configuration.
+3
+Warranty
+The seller shall furnish a valid warranty Certificate/Tag from the OEM to the
+purchaser, guaranteeing the product's coverage under the specified warranty
+terms. The warranty certificate should be verifiable through the OEM
+website/customer care centre.
+4
+Compliance of
+extended
+producer’s
+responsibility
+With effect from 1.4.23, as per the E-waste rules 2022, EPR registration is
+mandatory for manufacturing entities. Therefore, all OEMs shall hold valid EPR
+registration, and the registration number should be reflected in the catalog
+parameter. OEMs shall ensure compliance with all responsibilities as per EPR
+registration applicable from time to time.
+5
+Mandatory /
+Statutory
+requirements
+as applicable
+OEMs shall have to ensure compliance with the mandatory/statutory requirements
+as per the Government of India Notifications issued from time to time for hardware
+and software components, as applicable.
+15 / 19
+
+
+6
+Operating
+System
+1. It shall be the responsibility of OEMs to ensure that supplies are made with
+genuine operating systems.
+2. Seller shall ensure to have Windows Hardware Compatibility Certificate for
+window operating systems
+7
+Scope of
+Installation 
+It shall be the responsibility of the seller to ensure that all systems are installed, and
+satisfactory working is shown to the consignee or authorized representative of the
+buyer. However, in the case of Direct and L1 Purchase, installation of Computer
+System by the seller/OEM is mandatory.
+8
+Category
+Specification
+1. The seller may list products with advanced USB standards. For example, a
+USB Type-A 3.2 Gen 2 port may be acceptable in place of USB Type A Port
+(Version 3 point 2 Gen 1)
+2. The supply of the monitor shall be in accordance with the parameter
+'Availability of Monitor'. The details mentioned under 'Description of Store'
+regarding the monitor are applicable only if the monitor is being Supplied.
+6ेता Cारा जोड़ गई बड क वशेष शतe/Buyer Added Bid Specific Terms and Conditions
+1. Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2. Service & Support
+Availability of Service Centres: Bidder/OEM must have a Functional Service Centre in the State of each
+Consignee's Location in case of carry-in warranty. (Not applicable in case of goods having on-site
+warranty). If service center is not already there at the time of bidding, successful bidder / OEM shall have
+to establish one within 30 days of award of contract. Payment shall be released only after submission of
+documentary evidence of having Functional Service Centre.
+3. Generic
+Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+4. Certificates
+Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+Bid document, ATC and Corrigendum if any.
+5. Generic
+Bidders are advised to check applicable GST on their own before quoting. Buyer will not take any
+responsibility in this regards. GST reimbursement will be as per actuals or as per applicable rates
+(whichever is lower), subject to the maximum of quoted GST %.
+6. Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+16 / 19
+
+
+Legal Entity: The lead bidder partner should be an IT Company registered under the Companies Act, 195
+6 (or) and should have been in existence for a period of at least one year as on 31st March, 2025. Copy of 
+Certificate of Incorporation of a Company submitted by the bidder.
+OEM Turnover: The minimum average annual financial turnover of the OEM during the last three years, e
+nding on 31st March of the previous financial year, should be Rs. 3.4 Cr (2022-23 & 2023-24 & 2024-25) in
+the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant perio
+ds or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for the r
+elevant period shall be uploaded with the bid.
+OEM Experience: The OEM must have supplied same or a similar product of Rs. 1.7 Cr of order value duri
+ng the last 3 years before the bid opening date.
+Bidder Turnover: The minimum average annual financial turnover of the bidder during the last three year
+s, ending on 31st March of the previous financial year, should be Rs. 1.36 Cr in the bid document. Docume
+ntary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the 
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be upl
+oaded with the bid.
+Bidder Past Experience: The bidder must have successfully executed/completed at least one single orde
+r of Rs. 54.40 Lacs of estimated bid value or 2 Orders each of Rs. 34 Lacs of estimated bid value or 3 Order
+s each of Rs.27.20 Lacs of estimated bid value for similar products/services in the last 3 years to any centr
+al/ state Government / PSU/ Listed Company.
+Note: Bidder’s experience and bidder’s turnover criteria will not be considered of GeM bid. However, the b
+idder must match the eligibility criteria, experience, bidder’s turnover criteria, etc. as per Buyer Added text
+-based ATC and will be considered for evaluation. EMD should be submitted by bidder as per GEM.
+The Pre-Bid Meeting shall be held on 28-07-2026 (Tuesday) at 12:00 N
+oon in the Conference Room, Gujarat Informatics Limited (GIL), Block N
+o. 2, 2nd Floor, Karmayogi Bhavan, Sector-10A, Gandhinagar – 382010.
+The pre-bid queries/clarifications if any, should be submitted in writing to Gujarat Informatics Limited at le
+ast 2 days before the pre-bid meeting date. Thereafter, the clarifications received from the bidders will not
+be entertained.
+.
+7. Buyer Added Bid Specific ATC
+Buyer uploaded ATC document Click here to view the file.
+8. Rate Contract
+Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers
+for Service Support.
+9. Rate Contract
+Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free
+Telephone No. for Service Support.
+10. Rate Contract
+ISO 9001: The bidder or the OEM of the offered products must have ISO 9001 certification.
+11. Rate Contract
+NET WORTH: Net Worth of the OEM should be positive as per the last audited financial statement.
+12. Generic
+Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers
+can match and verify the Data Sheet with the product specifications offered. In case of any unexplained
+mismatch of technical parameters, the bid is liable for rejection.
+17 / 19
+
+
+13. Generic
+Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the
+bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation,
+address, e-mail Id and Phone No. required to be furnished along with the bid
+14. Financial Criteria
+NET WORTH: Net Worth of the OEM should be positive as per the last audited financial statement.
+15. Certificates
+The bidder is required to upload, along with the bid, all relevant certificates such as BIS licence, type test
+certificate, approval certificates and other certificates as prescribed in the Product Specification given in
+the bid document.
+अ'वीकरण/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+1. Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3. Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5. Publishing bids on GeM for procurement of works.
+6. Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7. Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8. Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9. Creating bid for items from incorrect categories.
+10. Reference of conditions published on any external site or reference to external documents/clauses.
+11. Asking for any Tender fee / Bid Participation fee, as the case may be.
+12. Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13. Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14. In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+18 / 19
+
+
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+यह बड सामाfय शत+ के अंतग%त भी शािसत है /This Bid is also governed by the General Terms and Conditions
+जेम क सामाfय शत+ के खंड 26 के संदभ% मD भारत के साथ भूिम सीमा साझा करने वाले देश के बडर से खरद पर 3ितबंध के संबंध मD
+भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी बडर इस िनवदा मD बड देने के िलए तभी पा  होगा जब वह बड देने वाला
+सXम 3ािधकार के पास पंजीकृत हो।बड मD भाग लेते समय बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा 9कए जाने
+व इसका अनुपालन न करने पर अनुबंध को तTकाल समा4 करने और कानून के अनुसार आगे क कानूनी कार%वाई का आधार होगा।/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---धfयवाद/Thank You---
+19 / 19

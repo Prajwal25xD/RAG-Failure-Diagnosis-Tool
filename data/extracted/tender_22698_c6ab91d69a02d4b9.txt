@@ -1,0 +1,40 @@
+ 
+ 
+Response to queries raised by bidders 
+ 
+Sr. 
+no. 
+Terms in the tender 
+Bidder's query 
+Response to bidders 
+1 
+Red Hat Enterprise Linux server 7.7 or 
+above latest version 
+Could you please confirm whether you are looking for 
+the Standard or Premium subscription?  
+Please see 
+corrigendum 
+2 
+Red Hat Enterprise Linux server 7.7 or 
+above latest version 
+The details regarding the payment terms, Service Level 
+Agreement 
+(SLA), 
+penalty 
+clauses, 
+and 
+warranty/support terms have not been specified 
+Please refer GeM 
+GTC 
+ 
+ 
+ 
+ 
+Corrigendum dated 09.07.2026 
+ 
+“Premium support is required for three years for  
+a. 4 of Red Hat Enterprise Linux server 7.7 or above latest version and  
+b. 4 of Red Hat HA suite latest version “ 
+ 
+All other criteria are as per bid. 
+ 

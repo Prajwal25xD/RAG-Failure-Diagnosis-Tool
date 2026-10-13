@@ -1,0 +1,1486 @@
+बड ववरण/Bid Details
+बड बंद होने क तारख/समय /Bid End Date/Time
+29-09-2026 17:00:00
+बड खुलने क तारख/समय /Bid Opening
+Date/Time
+30-09-2026 17:00:00
+बड पेशकश वैधता (बंद होने क तारख से)/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय/रा!य का नाम/Ministry/State Name
+Gujarat
+वभाग का नाम/Department Name
+Information And Broadcasting Department Gujarat
+संगठन का नाम/Organisation Name
+Directorate Of Information
+काया%लय का नाम/Office Name
+Gandhinagar
+िशकायत िनवारण के संपक% ववरण/ Contact details of
+Grievance redressal
+HOD Email id :adir-inb@gujarat.gov.in 
+Buyer Email id: de1-rbc-inb@gujarat.gov.in
+व'तु (ेणी /Item Category
+Annual Maintenance Service - Desktops, Laptops and
+Peripherals - Desktop PC; Acer , Annual Maintenance Service
+- Desktops, Laptops and Peripherals - Desktop PC; Dell ,
+Annual Maintenance Service - Desktops, Laptops and
+Peripherals - Desktop PC; HLBS , Annual Maintenance
+Service - Desktops, Laptops and Peripherals - Desktop PC;
+Lenovo , Annual Maintenance Service - Desktops, Laptops
+and Peripherals - Laptop; Dell , Annual Maintenance Service
+- Desktops, Laptops and Peripherals - Printer (Monochrome ,
+Laser , Composite Cartridge ); Samsung , Annual
+Maintenance Service - Desktops, Laptops and Peripherals -
+Multi-function Printer (Colour , Laser , Composite Cartridge,
+Mid range); hp , Annual Maintenance Service - Desktops,
+Laptops and Peripherals - Printer (Monochrome , Laser ,
+Composite Cartridge ); hp , Annual Maintenance Service -
+Desktops, Laptops and Peripherals - Printer (Monochrome ,
+Laser , Composite Cartridge ); Canon , Annual Maintenance
+Service - Desktops, Laptops and Peripherals - Printer
+(Monochrome , Laser , Composite Cartridge ); Brother ,
+Annual Maintenance Service - Desktops, Laptops and
+Peripherals - Printer (Monochrome , Laser , Composite
+Cartridge ); Kyocera , Annual Maintenance Service -
+Desktops, Laptops and Peripherals - Scanner; Canon ,
+Annual Maintenance Service - Desktops, Laptops and
+Peripherals - Scanner; Avision , Annual Maintenance Service
+- Desktops, Laptops and Peripherals - Scanner; Epson ,
+Annual Maintenance Service - Desktops, Laptops and
+Peripherals - Network Attached Storage (NAS) 8TB/16TB;
+QSAN/QNAP , Annual Maintenance Service - Desktops,
+Laptops and Peripherals - Manpower; Resident Engineer
+अनुबंध अविध /Contract Period
+ 2 Year(s)
+ 
+बड सं+या/Bid Number: GEM/2026/B/7941819
+,दनांक /Dated: 08-09-2026
+बड द'तावेज़ / Bid Document
+1 / 23
+
+
+टन%ओवर के िलए एमएसई को छूट ;ा< है / MSE
+Relaxation for Turnover
+Yes | Complete
+टन%ओवर के िलए 'टाट%अप को छूट ;ा< है / Startup
+Relaxation for Turnover
+Yes | Complete
+व=ेता से मांगे गए द'तावेज़/Document required
+from seller
+Bidder Turnover,Certificate (Requested in ATC),Additional
+Doc 1 (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+>या आप िनवदाकार@ Aारा अपलोड ,कए गए द'तावेज़@ को
+िनवदा मB भाग लेने वाले सभी िनवदाकार@ को ,दखाना
+चाहते हD? संदभ% मेनू है/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड लगाने क समय सीमा 'वतः नहं बढ़ाने के िलए
+आवHयक बड क सं+या। / Minimum number of
+bids required to disable automatic bid
+extension
+3
+,दन@ क सं+या, Kजनके िलए बड लगाने क समय-सीमा
+बढ़ाई जाएगी। / Number of days for which Bid
+would be auto-extended
+7
+ऑटो ए>सटBशन अिधकतम ,कतनी बार ,कया जाना है। /
+Number of Auto Extension count
+2
+बड से Nरवस% नीलामी स,=य ,कया/Bid to RA enabled
+Yes
+Nरवस% नीलामी योOयता िनयम/RA Qualiﬁcation Rule
+H1-Highest Priced Bid Elimination
+बड का ;कार/Type of Bid
+Two Packet Bid
+तकनीक मूPयांकन के दौरान तकनीक 'पRीकरण हेतु
+अनुमत समय /Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+मूPयांकन पSित/Evaluation Method
+Total value wise evaluation
+मTय'थता खंड/Arbitration Clause
+No
+सुलह खंड/Mediation Clause
+No
+बड ववरण/Bid Details
+ईएमड ववरण/EMD Detail
+एडवाईजर बDक/Advisory Bank
+State Bank of India
+ईएमड रािश/EMD Amount
+20354
+ईपीबीजी ववरण /ePBG Detail
+2 / 23
+
+
+एडवाइजर बDक/Advisory Bank
+State Bank of India
+ईपीबीजी ;ितशत (%)/ePBG Percentage(%)
+5.00
+ईपीबीजी क आवHयक अविध (माह) /Duration of ePBG
+required (Months).
+26
+(a). जेम क शतX के अनुसार ईएमड छूट के इYछुक बडर को संबंिधत केटेगर के िलए बड के साथ वैध समिथ%त द'तावेज़ ;'तुत करने है। एमएसई
+केटेगर के अंतग%त केवल व'तुओं के िलए विनमा%ता तथा सेवाओं के िलए सेवा ;दाता ईएमड से छूट के पा  हD। ZयापाNरय@ को इस नीित के दायरे से
+बाहर रखा गया है।/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).ईएमड और संपादन जमानत रािश, जहां यह लागू होती है, लाभाथ\ के प] मB होनी चा,हए। / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(c).ईएमड और संपादन जमानत रािश लाभाथ\ के प] मB होनी चा,हए। / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथ\ /Beneficiary : 
+-
+EMD and PBG in Favour of "Director of Information", Commissionerate of Information, Block No. 19/1, Dr. Jivraj
+Mehta Bhavan, Gandhinagar-382010, Gujarat.
+(-)
+बोली वभाजन लागू नहं ,कया गया/ Bid splitting not applied.
+एमआईआई अनुपालन/MII Compliance
+एमआईआई अनुपालन/MII Compliance
+Yes
+एमएसई खरद वरयता/MSE Purchase Preference
+एमएसई खरद वरयता/MSE Purchase Preference
+No
+1. If the bidder is a Micro or Small Enterprise (MSE) as per latest orders issued by Ministry of MSME, the bidder
+shall be relaxed from the eligibility criteria of "Bidder Turnover" as defined above subject to meeting of quality
+and technical specifications. If the bidder itself is MSE OEM of the offered products, it would be relaxed from the
+"OEM Average Turnover" criteria also subject to meeting of quality and technical specifications. The bidder
+seeking Relaxation from Turnover, shall upload the supporting documents to prove his eligibility for Relaxation.
+2. If the bidder is a DPIIT registered Startup, the bidder shall be relaxed from the the eligibility criteria of "Bidder
+Turnover" as defined above subject to their meeting of quality and technical specifications. If the bidder is DPIIT
+Registered OEM of the offered products, it would be relaxed from the "OEM Average Turnover" criteria also
+subject to meeting of quality and technical specifications. The bidder seeking Relaxation from Turnover shall
+upload the supporting documents to prove his eligibility for Relaxation. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+4. Reverse Auction would be conducted amongst all the technically qualified bidders except the Highest quoting
+3 / 23
+
+
+bidder. The technically qualified Highest Quoting bidder will not be allowed to participate in RA. However, H-1
+will also be allowed to participate in RA in following cases:
+i. If number of technically qualified bidders are only 2 or 3.
+ii. If Buyer has chosen to split the bid amongst N sellers, and H1 bid is coming within N.
+iii. In case Primary product of only one OEM is left in contention for participation in RA on elimination of H-1.
+iv. If L-1 is non-MSE and H-1 is eligible MSE and H-1 price is coming within price band of 15% of Non-MSE L-1
+v. If L-1 is non-MII and H-1 is eligible MII and H-1 price is coming within price band of 20% of Non-MII L-1
+अितNर^ योOयता /आवHयक डेटा/Additional Qualification/Data Required
+Additional SOW if not readily covered in the Scope of Works incorporated in STC of Services:Scope of
+Work
+Asset Details and its Distribution across the consignee /user locations:1787218014.pdf
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Desktop PC; Acer (
+52 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Desktop PC
+Make/Brand of Assets
+Acer
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+4 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+52
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Desktop PC; Dell (
+100 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Desktop PC
+Make/Brand of Assets
+Dell
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+5 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+100
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Desktop PC; HLBS
+( 28 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Desktop PC
+Make/Brand of Assets
+HLBS
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+6 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+28
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Desktop PC;
+Lenovo ( 3 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Desktop PC
+Make/Brand of Assets
+Lenovo
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+7 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+3
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Laptop; Dell ( 20 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Laptop
+Make/Brand of Assets
+Dell
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+8 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+20
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Printer
+(Monochrome , Laser , Composite Cartridge ); Samsung ( 18 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Printer (Monochrome , Laser ,
+Composite Cartridge )
+Make/Brand of Assets
+Samsung
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update
+on client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+9 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+18
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Multi-function
+Printer (Colour , Laser , Composite Cartridge, Mid Range); Hp ( 1 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Multi-function Printer (Colour , Laser ,
+Composite Cartridge, Mid range)
+Make/Brand of Assets
+hp
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and
+Patch update on client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+10 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+1
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Printer
+(Monochrome , Laser , Composite Cartridge ); Hp ( 1 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Printer (Monochrome , Laser ,
+Composite Cartridge )
+Make/Brand of Assets
+hp
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update
+on client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+11 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+1
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Printer
+(Monochrome , Laser , Composite Cartridge ); Canon ( 23 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Printer (Monochrome , Laser ,
+Composite Cartridge )
+Make/Brand of Assets
+Canon
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update
+on client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+12 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+23
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Printer
+(Monochrome , Laser , Composite Cartridge ); Brother ( 25 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Printer (Monochrome , Laser ,
+Composite Cartridge )
+Make/Brand of Assets
+Brother
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update
+on client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+13 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+25
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Printer
+(Monochrome , Laser , Composite Cartridge ); Kyocera ( 33 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Printer (Monochrome , Laser ,
+Composite Cartridge )
+Make/Brand of Assets
+Kyocera
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update
+on client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+14 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+33
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Scanner; Canon ( 6
+)
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Scanner
+Make/Brand of Assets
+Canon
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+15 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+6
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Scanner; Avision (
+7 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Scanner
+Make/Brand of Assets
+Avision
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+16 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+7
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Scanner; Epson (
+11 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Scanner
+Make/Brand of Assets
+Epson
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+17 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+11
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Network Attached
+Storage (NAS) 8TB/16TB; QSAN/QNAP ( 4 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Network Attached Storage
+(NAS) 8TB/16TB
+Make/Brand of Assets
+QSAN/QNAP
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on
+client compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+18 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+4
+Number of
+Resident engineers
+: 0
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+Annual Maintenance Service - Desktops, Laptops And Peripherals - Manpower;
+Resident Engineer ( 1 )
+तकनीक विशRयाँ /Technical Specifications
+ववरण/ Specification
+मूPय/ Values
+कोर / Core
+Type of Asset
+Manpower
+Make/Brand of Assets
+Resident Engineer
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Periodicity of Preventive Maintenance Services
+Quarterly
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document.
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+compute machines
+Inclusive
+एडऑन /Addon(s)
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price defined by Buyer
+=ेता Aारा िनधा%Nरत `यूनतम मूPय/Minimum Floor Price
+defined by Buyer
+No
+अितNर^ विशR द'तावेज़ /Additional Specification Documents
+परेषती/Nरपो,टbग अिधकार /Consignees/Reporting Officer and Quantity
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+19 / 23
+
+
+1
+Patel Hina
+Yatrikkumar
+382016,DIRECTORATE OF
+INFORMATION, ELECTRONICS
+MEDIA BHAVAN, WORKSHOP
+BRANCH, OPP. VIDHYA
+LIBRARY, SECTOR 16,
+GANDHINAGAR, GUJARAT,
+382016
+1
+Number of
+Resident engineers
+: 1
+Number of
+technicians : 0
+=.सं./S.N
+o.
+परेषती/Nरपो,टbग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन@ क मा ा
+/ Number of
+each Asset
+for AMC
+अितNर^ आवHयकता
+/Additional
+Requirement
+=ेता Aारा जोड़ गई बड क वशेष शतe/Buyer Added Bid Specific Terms and Conditions
+1. Generic
+OPTION CLAUSE 50% : The buyer can increase or decrease the contract quantity or contract duration up
+to 50 percent at the time of issue of the contract. However, once the contract is issued, the contract
+quantity or contract duration can only be increased up to 50 percent. Bidders are bound to accept the
+revised quantity or duration.
+For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to
+50 percent with the consent of the service provider
+2. Generic
+Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+3. Service & Support
+Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM  must have  Dedicated/toll Free
+Telephone No. for Service Support.
+4. Service & Support
+Escalation Matrix For Service Support : Bidder/OEM must provide  Escalation Matrix of Telephone Numbers
+for Service Support.
+5. Forms of EMD and PBG
+Bidders can also submit the EMD with Account Payee Demand Draft in favour of
+Director of Information
+payable at
+Block No.19/1, Dr. Jivraj Mehta bhavan, Gandhinagar-382010
+.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy
+to the Buyer within 5 days of Bid End date / Bid Opening date.
+6. Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+Bidder Additional Eligibility criteria
+·         Service Center: The Bidder must have functional service center in Ahm
+edabad or Gandhinagar. (Document is need to be submitted with details S
+ervice center name, Address, Contact number).
+20 / 23
+
+
+·         Bidder Turnover: 20.35 Lakhs
+The minimum average annual financial turnover of the bidder during the l
+ast three years (FY: 2023-24, 2024-25, 2025-26), ending on 31st March of
+the previous financial year, should be Rs.20.35 lakhs in the bid document.
+Documentary evidence in the form of certified Audited Balance Sheets of 
+relevant periods and a certificate from the Chartered Accountant / Cost Ac
+countant indicating the turnover details with UDIN number for the relevan
+t period shall be uploaded with the bid.
+·         Bidder Past Performance:
+The Bidder must have successfully executed/completed similar AMC Servi
+ces during the last three financial years i.e., FY 2023-24, 2024-25 & 2025-
+26, from any Central / State Government Organization, PSU, or Listed Co
+mpany, meeting any one of the following criteria for work orders issued b
+etween 01.04.2023 and the bid submission due date:
+¨      One single work order of value not less than Rs. 8.14 Lakhs, OR
+¨      Two work orders, each of value not less than Rs. 5.08 Lakhs, OR
+¨      Three work orders, each of value not less than Rs. 4.07 Lakhs.
+·         Bidder should be having valid ISO certification to IT infrastructure repair 
+and Maintenance i.e. 9001:2015 or higher version certification of IT servic
+es or AMC/maintenance scope. Document must be submitted.
+·         MSEs and Start-ups shall be eligible for exemption from Turnover/EMD
+if the bid related services are specifically mentioned in the MSE document
+and in the case of Start-ups, the IT services is mentioned in the Startup re
+cognition document.
+·         Bidder has to submit undertaking to provide onsite one resource
+during contract period.
+ 
+Note: - No bidders will be exempted from Past Performance criteria of bidder .
+ 
+.
+7. Buyer Added Bid Specific ATC
+Buyer uploaded ATC document Click here to view the file.
+अ'वीकरण/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+21 / 23
+
+
+the bid forthwith, without issuance of any prior notice or intimation :-
+1. Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3. Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4. Mandating submission of documents (other than EMD and signed Integrity Pact - which can be submitted
+within 5 days of bid opening) in physical form as a pre-requisite to qualify bidders.
+5. Publishing bids on GeM for procurement of works.
+6. Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7. Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8. Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9. Creating bid for items from incorrect categories.
+10. Reference of conditions published on any external site or reference to external documents/clauses.
+11. Asking for any Tender fee / Bid Participation fee, as the case may be.
+12. Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13. Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14. In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+22 / 23
+
+
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+This Bid is governed by the सामा`य िनयम और शतe/General Terms and Conditions, conditions stipulated in Bid and
+Service Level Agreement specific to this Service as provided in the Marketplace. However in case if any condition
+specified in सामा`य िनयम और शतe/General Terms and Conditions is contradicted by the conditions stipulated in
+Service Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+जेम क सामा`य शतX के खंड 26 के संदभ% मB भारत के साथ भूिम सीमा साझा करने वाले देश के बडर से खरद पर ;ितबंध के संबंध मB
+भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी बडर इस िनवदा मB बड देने के िलए तभी पा  होगा जब वह बड देने वाला
+स]म ;ािधकार के पास पंजीकृत हो।बड मB भाग लेते समय बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा ,कए जाने
+व इसका अनुपालन न करने पर अनुबंध को तiकाल समा< करने और कानून के अनुसार आगे क कानूनी कार%वाई का आधार होगा।/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---ध`यवाद/Thank You---
+23 / 23

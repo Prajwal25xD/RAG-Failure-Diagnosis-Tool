@@ -1,0 +1,4477 @@
+Sr. 
+No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Revised Clause / Specification / Requirement
+1
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.1 - Rack Server;
+Sr. No.7;
+Page No.86
+The specification at Sr. No. 7 – "Primary 
+Storage: 4 TB Enterprise NVMe SSD"
+The specification under Sr. No. 7 – "Primary 
+Storage" shall stand revised as: "3.84 TB or 
+higher Enterprise NVMe SSD".
+2
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.1 - Rack Server;
+Sr. No.9;
+Page No.86
+The specification at Sr. No. 9 – "RAID 
+Controller: Enterprise Hardware RAID 
+Controller with Cache & BBU"
+The specification at Sr. No. 9 – "RAID Controller" 
+shall stand revised as: "Enterprise PCIe 5.0 
+Hardware RAID Controller with Cache and 
+Battery Backup Unit (BBU)".
+3
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.6;
+Page No.87
+The specification at Sr. No. 6 – "RAID 
+Controller: Integrated PCIe 3.0 12Gb/s SAS 
+Raid Controller with 8GB Cache to support 
+both internal hard drives of the compute sled 
+as well as the hard disks in the storage sled, 
+supporting RAID 0, 1, 5, 6, 10, 50, 60"
+The specification at Sr. No. 6 – "RAID Controller" 
+shall stand revised as: "Integrated PCIe 5.0  
+12Gb/s SAS RAID Controller with minimum 8 GB 
+Cache, supporting both internal hard drives and 
+the hard disks in the storage enclosure/sled, and 
+supporting RAID 0, 1, 5, 6, 10, 50 and 60".
+4
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.7;
+Page No.87
+The specification at Sr. No. 7 – "Disk 
+Configuratio: 2 x 480 GB SSD SATA (RAID 1) 
+for OS; Usable 3 TB SAS Storage (RAID 5)
+The specification at Sr. No. 7 – "Disk 
+Configuration" shall stand revised as:  "2 x 480 
+GB SSD SATA (RAID 1) for OS; Usable 3 TB 
+SAS/SSD Storage (RAID 5)".
+5
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.10;
+Page No.87
+The specification at Sr. No. 10 – "Certification 
+and compliances: Microsoft Windows Server, 
+Hyper-V, VMWare, Red Hat Enterprise Linux 
+(RHEL), SUSE Linux Enterprise Server (SLES)" 
+The specification at Sr. No. 10 – "Certification 
+and Compliances" shall stand revised as: 
+"Microsoft Windows Server, Hyper-V, VMware, 
+and Red Hat Enterprise Linux (RHEL)".
+6
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.5 - L2 Manageable 
+Network Switch - 48 Port;
+Sr. No.4;
+Page No.90
+The specification at Sr. No. 4 – "Uplink Ports: 
+Minimum 2 × 10 Gbps Ethernet ports and 
+Minimum 2 × 10 Gbps fiber ports along with 
+require SFP"
+The specification at Sr. No. 4 – "Uplink Ports" 
+shall stand revised as: "Minimum 4 × 10 Gbps 
+SFP+ uplink ports along with required 
+fiber/copper SFP modules, as per deployment 
+requirement".
+7
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.5 - L2 Manageable 
+Network Switch - 48 Port;
+Page No.91
+Note:- Switch should be supplied with 4 uplink 
+fibre module of 40 Gbps QSFP+ and 18 access 
+port fibre module of 25 Gbps (SFP28) of same 
+brand as switch.
+The Note under the "L2 Manageable Network 
+Switch - 48 Port" shall stand revised as: "The 
+switch shall be supplied with the required 10 
+Gbps SFP+ uplink modules (fiber and/or copper, 
+as applicable to the proposed solution) and all of 
+the same OEM/brand as the proposed switch".
+8
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.11 - LED TV – 43 Inch;
+Sr. No.14;
+Page No.96
+The specification at Sr. No. 14 – "RF Input: 
+YES" 
+The specification at Sr. No. 14 – "RF Input: Yes" 
+stands deleted.
+9
+SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.3;
+Page No.98
+The specification at Sr. No. 3 – "Doors: Dual 
+front & dual rear doors"
+The specification at Sr. No. 3 – "Doors" shall 
+stand revised as: "Lockable single or dual front 
+and rear doors".
+10 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.15 - Virtualization 
+Software;
+Sr. No.4;
+Page No.100
+The specification at Sr. No. 4 – "The solution 
+shall provide High Availability (HA) such that, 
+in case of host failure, all virtual machines are 
+automatically restarted on another host. The 
+feature shall be independent of guest OS 
+clustering and support multiple host failures 
+using both network and datastore heartbeats."
+The specification at Sr. No. 4 shall stand revised 
+as: "The solution shall provide High Availability 
+(HA) such that, in case of host failure, all virtual 
+machines are automatically restarted on another 
+host. The feature shall be independent of guest 
+OS clustering and support multiple host failures 
+using both network or datastore heartbeats".
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar
+Municipal
+Corporation
+(BMC)
+with
+Five
+(5)
+Years
+of
+Operation
+and
+Maintenance
+(O&M)
+Services
+(GEM/2026/B/7466944)
+Corrigendum
+
+
+Sr. 
+No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Revised Clause / Specification / Requirement
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar
+Municipal
+Corporation
+(BMC)
+with
+Five
+(5)
+Years
+of
+Operation
+and
+Maintenance
+(O&M)
+Services
+(GEM/2026/B/7466944)
+Corrigendum
+11 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.15 - Virtualization 
+Software;
+Sr. No.8;
+Page No.100
+The specification at Sr. No. 8 – "The solution 
+shall provide simple and effective centralized 
+management of VM templates, ISO images, and 
+virtual appliances, with support for 
+synchronization across sites"
+The specification at Sr. No. 8 shall stand revised 
+as: "The solution shall provide simple and 
+effective centralized management of VM 
+templates, ISO images, and virtual appliances, 
+with support for future multi-site and Disaster 
+Recovery (DR) scenarios through native features 
+and/or OEM-supported tools and capabilities".
+12 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.15 - Virtualization 
+Software;
+Sr. No.11;
+Page No.100
+The specification at Sr. No. 11 – "The 
+virtualization platform shall natively support a 
+distributed virtual switch spanning multiple 
+hosts, enabling centralized network 
+provisioning, monitoring, traffic management, 
+and network aggregation."
+The specification at Sr. No. 11 shall stand revised 
+as: "The virtualization platform shall support a 
+distributed virtual switch or equivalent network 
+virtualization solution spanning multiple hosts, 
+enabling centralized network provisioning, 
+monitoring, traffic management, and network 
+aggregation".
+13 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.16 - Virtualization 
+Management Suite;
+Sr. No.8;
+Page No.101
+The specification at Sr. No. 8 – "The platform 
+shall support non-disruptive migration (P2V 
+and V2V) of existing physical and virtual 
+workloads (Windows and Linux) into the 
+proposed virtualized environment."
+The specification at Sr. No. 8 shall stand revised 
+as: "The platform, along with supported 
+migration tools, shall support non-disruptive 
+migration (P2V and/or V2V) of existing physical 
+and virtual workloads (Windows and Linux) into 
+the proposed virtualized environment".
+14 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.16 - Virtualization 
+Management Suite;
+Sr. No.15;
+Page No.101
+The specification at Sr. No. 15 – "The platform 
+shall provide Single Sign-On (SSO) with role-
+based access control (RBAC) for secure and 
+simplified administration."
+The specification at Sr. No. 15 shall stand revised 
+as: "The platform shall support Single Sign-On 
+(SSO) or integration with User Directory services 
+(e.g., Active Directory/LDAP) with Role-Based 
+Access Control (RBAC) for secure and simplified 
+administration".
+15 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.16 - Virtualization 
+Management Suite;
+Sr. No.16;
+Page No.101
+The specification at Sr. No. 16 – "The solution 
+shall provide centralized content library 
+management for VM templates, ISO images, 
+and virtual appliances with multi-site 
+synchronization capability."
+The specification at Sr. No. 16 shall stand revised 
+as: "The solution shall provide centralized 
+content library management or equivalent 
+capability for VM templates, ISO images, and 
+virtual appliances. The solution shall support 
+future integration and expansion for multi-site 
+synchronization".
+16 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.20 - Dome Camera;
+Sr.No.6 & 8;
+Page No.106
+The specification at Sr. No. 6 – "Focal Length 
+(mm): 3.6 ~ 12" 
+The specification at Sr. No. 8 – " Field of View: 
+Horizontal: 90° - 120°, Vertical: 45° - 60° "
+The specification at Sr. No. 6 – "Focal Length 
+(mm): 3.6 ~ 12" stands deleted.
+The specification at Sr. No. 8 – "Field of View" 
+shall be revised as: "Minimum Horizontal: 75°; 
+Minimum Vertical: 45° ".
+17 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.21 - Network Video 
+Recorder with 16 TB 
+Storage(NVR);
+Sr. No.1;
+Page No.107
+The specification at Sr. No. 1 – "Video Input & 
+Storage Capacity: 16 Channels or better NVR 
+with supports up to 8 SATA hard drives each 
+support up to 10TB, should be loaded with 16 
+TB Capacity of HDDs. Should support RAID 0, 
+1, 5, 6 & 10.Should have the option to increase 
+25% extra cameras in same NVR without 
+adding any additional hardware.
+The specification at Sr. No. 1 – "Video Input & 
+Storage Capacity" shall stand revised as: "16 
+Channels or better NVR with minimum 4 SATA 
+hard drive bays, each supporting up to 10 TB 
+HDD capacity. The NVR shall be supplied with 16 
+TB HDD storage. The NVR shall support RAID 0 
+& 1".
+18 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.21 - Network Video 
+Recorder with 16 TB 
+Storage(NVR);
+Sr. No.2;
+Page No.107
+The specification at Sr. No. 2 – "Max 
+Resolution: Support 4K streaming, Support 32 
+Channel up to (3840*2160) Resolution. 
+Support 300 Mbps of incoming Bandwidth and 
+support USB 2.0 & 3.0 ports"
+The specification at Sr. No. 2 – "Max Resolution" 
+shall stand revised as: "Support Full HD (1920 × 
+1080) resolution or higher. Support 16-channel 
+live view & recording, 120 Mbps or higher 
+incoming bandwidth, and USB 2.0 / USB 3.0 
+ports".
+
+
+Sr. 
+No.
+RFP Page No.,Section No. , 
+Clause No.
+Existing Clause as per RFP
+Revised Clause / Specification / Requirement
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar
+Municipal
+Corporation
+(BMC)
+with
+Five
+(5)
+Years
+of
+Operation
+and
+Maintenance
+(O&M)
+Services
+(GEM/2026/B/7466944)
+Corrigendum
+19 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.21 - Network Video 
+Recorder with 16 TB 
+Storage(NVR);
+Sr. No.6;
+Page No.107
+The specification at Sr. No. 6 – "Output port: 
+VGA and HDMI, 2 nos. of USB port, e-SATA,"
+The specification at Sr. No. 6 – "Output Port" 
+shall stand revised as: "VGA and HDMI, 2 Nos. of 
+USB ports".
+20 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.21 - Network Video 
+Recorder with 16 TB 
+Storage(NVR);
+Sr. No.7;
+Page No.107
+The specification at Sr. No. 7 – "Backup Option: 
+should support Network, USB & e-SATA data 
+backup"
+The specification at Sr. No. 7 – "Backup Options" 
+shall stand revised as: "Should support Network 
+and USB data backup".
+21 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.21 - Network Video 
+Recorder with 16 TB 
+Storage(NVR);
+Sr. No.8;
+Page No.107
+The specification at Sr. No. 8 – "Alarms: Should 
+support 16 in & 4 out Alarm interfaces and 2 
+serial interfaces (RS232/RS485)"
+The specification at Sr. No. 8 – "Alarms" shall 
+stand revised as: "Should support a minimum of  
+8 Alarm Inputs and 4 Alarm Outputs, along with 
+2 serial interfaces (RS232/RS485)".
+22 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.22 - Network Video 
+Recorder with 64 TB 
+Storage(NVR);
+Sr. No.6;
+Page No.108
+The specification at Sr. No. 6 – "Output port: 
+VGA and HDMI, 2 nos. of USB port, e-SATA,"
+The specification at Sr. No. 6 – "Output Port" 
+shall stand revised as: "VGA and HDMI, 2 Nos. of 
+USB ports".
+23 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.22 - Network Video 
+Recorder with 64 TB 
+Storage(NVR);
+Sr. No.7;
+Page No.108
+The specification at Sr. No. 7 – "Backup Option: 
+should support Network, USB & e-SATA data 
+backup"
+The specification at Sr. No. 7 – "Backup Options" 
+shall stand revised as: "Should support Network 
+and USB data backup".
+24 SECTION-VI: MINIMUM 
+TECHNICAL SPECIFICATION;
+Item No.22 - Network Video 
+Recorder with 64 TB 
+Storage(NVR);
+Sr. No.8;
+Page No.108
+The specification at Sr. No. 8 – " Alarms: 
+Should  support  64  in  &  4  out  Alarm  
+interfaces and 2 serial interfaces 
+(RS232/RS485)"
+The specification at Sr. No. 8 – "Alarms" shall 
+stand revised as: "Should support a minimum of 
+32 Alarm Inputs and 4 Alarm Outputs, along with 
+2 serial interfaces (RS232/RS485)".
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+1
+GeM Bid Document
+EMD Detail
+Page No.2
+EMD Amount: 3300000
+Please Exempt MSE System Integrators from 
+EMD
+As per the RFP
+2
+SECTION-I: INTRODUCTION;
+Item No.1.4 - Important Dates & Details;
+Sr. No.2;
+Page No.6
+Work Duration: 5 Month for SITC & 5 Years of 
+O&M Service after Go-Live
+We request that the installation and 
+commissioning timeline be extended from 5 
+months to 8 months
+As per the RFP
+3
+SECTION-I: INTRODUCTION;
+Item No.1.4 - Important Dates & Details;
+Sr. No.2;
+Page No.6
+Work Duration: 5 Month for SITC & 5 Years of 
+O&M Service after Go-Live
+The implementation period of 5 months for SITC 
+appears insufficient considering the project 
+scope, including assessment, design, 
+procurement, installation, migration, testing and 
+commissioning of the Data Centre infrastructure. 
+We request BMC to extend the SITC duration to a 
+minimum of 6 to 8 months to ensure successful 
+project execution without compromising quality.
+As per the RFP
+4
+SECTION-I: INTRODUCTION;
+Item No.1.9 - Location of Works;
+Page No.10
+The infrastructure proposed under this RFP is 
+required to be established and maintained at the 
+following three locations:
+1) BMC Head Office [Address: Sir Mangalsinhji 
+Road, Near Kalanala, Bhavnagar – 364001, 
+Gujarat]
+2) BMC East Zonal Office [Address: 150 Feet Ring 
+Road, Tarasamiya, Bhavnagar – 364002, Gujarat]
+3) BMC West Zonal Office [Address: Near Aakhlol 
+Jakatnaka, Rajkot Road, Bhavnagar – 364004, 
+Gujarat
+Three zone locations are mentioned, but the 
+device-wise installation locations are not 
+specified. Kindly provide detailed deployment 
+information
+Bidders are advised to conduct the mandatory 
+site visit for assessment of existing components 
+before bid submission.
+5
+SECTION-I: INTRODUCTION;
+Item No.1.10 - Site Visit;
+Sr. No.a;
+Page No.10
+All prospective bidders are required to conduct a 
+mandatory site visit to the existing Data Centre at 
+BMC before submitting their proposals.
+Kindly clarify that the mandatory site visit is 
+intended only for familiarization with the existing 
+facilities. Since bidders are not permitted to 
+dismantle or inspect concealed electrical, 
+mechanical, utility or civil infrastructure during 
+the pre-bid stage, the site visit shall not be 
+construed as acceptance of all existing site 
+conditions or transfer of associated risks to the 
+bidder.
+As per the RFP
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+6
+SECTION-II: SUBMISSION & EVALUATION OF BID;
+Item No.2.1 - Pre-Qualification/Eligibility Criteria 
+for the Bidder;
+Sr. No.2;
+Page No.12
+Financial Capabilities:–
+a) The Bidder should have average annual 
+turnover of at least ₹22 Crore from IT/ITeS in the 
+last three audited financial years (i.e. FY 2022-23, 
+FY 2023-24, FY 2024-25).
+b) The bidder must have positive net worth and 
+should be profit making as on 31st March 2025.
+We request the Purchaser to revise the Average 
+Annual Turnover criteria to a minimum of ₹50 
+Crore from IT/ITeS business during the last three 
+audited financial years.
+As per the RFP
+7
+SECTION-II: SUBMISSION & EVALUATION OF BID;
+Item No.2.1 - Pre-Qualification/Eligibility Criteria 
+for the Bidder;
+Sr. No.3;
+Page No.13
+Similar Work Experience:–
+The Bidder should be an established IT System 
+Integrator and should have been demonstrable 
+experience in SITC or O&M Services in Data 
+center or ITeS projects with the following 
+capacity during the last 7 years in Central Govt. / 
+State Govt. / ULB / PSU / BFSI / Listed Company.
+• 1 project, with a value of ₹8.8 Crore or above 
+(including GST); OR
+• 2 projects, each with a value of ₹5.5 Crore or 
+above (including GST); OR
+• 3 projects, each with a value of ₹4.4 Crore or 
+above (including GST).
+Request the Authority to revise the Similar Work 
+Experience criteria to: (i) 1 project of ₹8 Crore or 
+above, or (ii) 2 projects of ₹5 Crore or above 
+each, or (iii) 3 projects of ₹4 Crore or above each 
+(including GST), to encourage wider participation 
+while maintaining competition.
+As per the RFP
+8
+SECTION-II: SUBMISSION & EVALUATION OF BID;
+Item No.2.1 - Pre-Qualification/Eligibility Criteria 
+for the Bidder;
+Sr. No.3;
+Page No.13
+Similar Work Experience:–
+The Bidder should be an established IT System 
+Integrator and should have been demonstrable 
+experience in SITC or O&M Services in Data 
+center or ITeS projects with the following 
+capacity during the last 7 years in Central Govt. / 
+State Govt. / ULB / PSU / BFSI / Listed Company.
+• 1 project, with a value of ₹8.8 Crore or above 
+(including GST); OR
+• 2 projects, each with a value of ₹5.5 Crore or 
+above (including GST); OR
+• 3 projects, each with a value of ₹4.4 Crore or 
+above (including GST).
+We request the Purchaser to revise the Similar 
+Work Experience criteria as follows: The Bidder 
+should have successfully completed SITC and/or 
+O&M services for Data Centre / IT Infrastructure / 
+ITeS projects during the last 7 years, with either
+(i) One project of value ₹30 Crore or above 
+(including GST); OR 
+(ii) Two projects, each of value ₹20 Crore or 
+above (including GST); OR
+(iii) Three projects, each of value ₹15 Crore or 
+above (including GST).
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+9
+SECTION-II: SUBMISSION & EVALUATION OF BID;
+Item No.2.1 - Pre-Qualification/Eligibility Criteria 
+for the Bidder;
+Sr. No.4;
+Page No.13
+Certifications:-
+The Bidder must possess minimum one 
+certification from below list as proof of their 
+adherence to recognized standards:
+1) ISO 9001 (Quality management systems)
+2) ISO 27001 (For information security) or 
+equivalent
+3) ISO 20000-1 (For IT Service Management)
+We request the Purchaser to include CMMI Level 
+3 (or higher) as an additional eligible certification 
+or make it mandatory for bidders undertaking 
+Data Centre implementation and managed 
+services projects
+As per the RFP
+10
+SECTION-II: SUBMISSION & EVALUATION OF BID;
+Item No.2.1 - Pre-Qualification/Eligibility Criteria 
+for the Bidder;
+Page No.14
+Important Note:-
+(2) “Similar Work” shall mean a project in which 
+the Bidder has successfully carried out Supply, 
+Installation, Testing, and Commissioning (SITC) 
+and/or Operation and Maintenance (O&M) 
+services related to Data Centre or IT 
+Infrastructure(like servers, storage system, 
+networking components, IT security components 
+etc.).
+“Similar Work” shall mean a project in which the 
+Bidder has successfully carried out Supply, 
+Installation, Testing, and Commissioning (SITC) 
+and/or Operation and Maintenance (O&M) 
+services related to Data Centre or IT 
+Infrastructure(like servers, storage system, 
+networking components, IT security components, 
+Laptops/Desktops, Workstations etc.). 
+As per the RFP
+11
+SECTION-III: SCOPE OF WORK;
+Item No.3.1 - 3.11;
+Page No.19 to 30
+Scope includes assessment, migration, 
+installation, integration and commissioning.
+Please confirm whether application migration, 
+database migration, OS migration, virtualization 
+migration, storage migration, network migration, 
+testing and rollback activities are entirely within 
+SI scope.
+Application, database, OS, virtualization, storage 
+and network migration, along with testing and 
+rollback planning, are within the SI's scope of 
+work as specified in Sections 3.1 to 3.11 of the 
+RFP.
+12
+SECTION-III: SCOPE OF WORK;
+Item No.3.1 - 3.11;
+Page No.19 to 30
+SI shall perform migration and integration 
+activities.
+Kindly confirm whether third-party application 
+vendors will be available during migration, 
+integration and testing wherever required.
+Third-party application vendor availability, where 
+applicable, shall be facilitated by BMC to the 
+extent feasible; however, coordination for 
+migration/integration/testing remains the SI's 
+responsibility as per Section-3 of the RFP.
+13
+SECTION-III: SCOPE OF WORK;
+Item No.3.1 - General;
+Sr. No.c;
+Page No.19
+The SI shall execute the project on a turnkey 
+basis and shall be responsible for delivering a 
+complete, integrated, and operational solution. 
+All components, accessories, licenses, tools, 
+services, and consumables required for 
+successful completion of the project, whether 
+explicitly mentioned or not, shall be deemed to 
+be included in the scope.
+Kindly clarify that the above provision shall be 
+limited only to incidental accessories required for 
+proper installation and commissioning of the 
+specified BOQ items. Any additional electrical 
+works, utility augmentation, civil modifications, 
+structural changes or equipment not covered 
+under the BOQ shall be treated as additional 
+scope and paid separately.
+Turnkey responsibility under Clause 3.1(c) 
+includes all incidental accessories, tools and 
+consumables required for successful 
+commissioning of the specified BOQ items. Any 
+major additional works beyond BOQ scope, if 
+required due to genuine site limitations identified 
+during As-Is Assessment, shall be dealt with 
+through the change management/variation 
+process.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+14
+SECTION-III: SCOPE OF WORK;
+Item No.3.2 -Assessment of Existing 
+Infrastructure (As-Is Study);
+Sr. No.a;
+Page No.19
+The SI shall conduct a detailed assessment of the 
+current Data Centre environment including 
+servers, storage, network, security, power, 
+cooling, racks, cabling, physical security, and 
+monitoring systems.
+Kindly clarify that the detailed As-Is Assessment 
+shall be carried out only by the successful bidder 
+after award of contract for preparation of 
+detailed engineering and implementation plan, 
+and shall not be treated as a basis for imposing 
+additional obligations beyond the scope defined 
+in the RFP and BOQ.
+The As-Is Assessment under Clause 3.1(b)/3.2 
+shall be prepared by the successful bidder post-
+award for detailed engineering; this does not 
+relieve the SI of its obligation to complete the 
+scope of work within the BOQ and RFP terms.
+15
+SECTION-III: SCOPE OF WORK;
+Item No.3.2 -Assessment of Existing 
+Infrastructure (As-Is Study);
+Sr. No.a;
+Page No.19
+The SI shall conduct a detailed assessment of the 
+current Data Centre environment including 
+servers, storage, network, security, power, 
+cooling, racks, cabling, physical security, and 
+monitoring systems.
+Kindly provide existing electrical Single Line 
+Diagram (SLD), UPS distribution drawings, DG 
+distribution drawings, PAC layout, earthing 
+drawings, rack layouts and cable routing 
+drawings to enable accurate estimation of work.
+Existing electrical/UPS/DG/PAC drawings, rack 
+layouts etc., to the extent available with BMC, 
+may be reviewed by bidders during the 
+mandatory site visit. No further data beyond 
+RFP/Annexures is available.
+16
+SECTION-III: SCOPE OF WORK;
+Item No.3.2 -Assessment of Existing 
+Infrastructure (As-Is Study);
+Sr. No.c;
+Page No.19
+The SI shall submit a detailed report of the As-Is 
+Assessment to the BMC, including findings, gaps, 
+risks, and recommendations.
+Kindly clarify that if discrepancies are observed 
+between actual site conditions and the 
+information provided in the RFP/BOQ after award 
+of contract, such deviations shall be jointly 
+verified by BMC and treated through a formal 
+Change Request mechanism without imposing 
+delay penalties on the successful bidder.
+Discrepancies between actual site conditions and 
+RFP/BOQ information, if identified post-award, 
+shall be jointly verified by BMC and the SI and 
+resolved through the applicable change 
+management/variation mechanism under the 
+Contract, without altering the SI's turnkey 
+responsibility.
+17
+SECTION-III: SCOPE OF WORK;
+Item No.3.2 -Assessment of Existing 
+Infrastructure (As-Is Study);
+Page No.19
+Assessment of Existing Infrastructure (As-Is 
+Study)
+Please confirm whether the existing IT 
+infrastructure components are presently under 
+OEM warranty/support/AMC/CAMC. Kindly 
+provide component-wise details including OEM 
+name, model, support type, and support validity 
+period.
+Existing OEM warranty/AMC/CAMC status, to the 
+extent available, is indicated in Annexure 'P' or 
+may be verified during the mandatory site visit.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+18
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Page No.19
+Supply, Installation, Integration and 
+Commissioning
+Kindly clarify that any augmentation of existing 
+electrical infrastructure such as LT Panels, UPS 
+capacity, PDBs, earthing network, electrical 
+feeders or civil strengthening, if required due to 
+existing site limitations, shall be considered 
+additional work unless specifically included in the 
+BOQ.
+The scope of the SI shall remain as defined in the 
+RFP. The SI shall be responsible for the complete 
+design, supply, installation, integration, testing, 
+commissioning, and maintenance of the 
+proposed electrical infrastructure, including all 
+internal electrical distribution, LT Panels, Power 
+Distribution Boards (PDBs), cabling, earthing, 
+protection systems, UPS, DG integration, and all 
+other allied electrical works required for 
+successful implementation and operation of the 
+upgraded Data Centre. Bidders shall quote 
+accordingly after assessing the site conditions.
+19
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Sr. No.b(3);
+Page No.19
+Installation and Integration:
+• The SI shall ensure seamless interoperability 
+between new and existing infrastructure 
+components.
+Kindly clarify that seamless interoperability shall 
+be subject to the health, capacity and 
+compatibility of the existing infrastructure. Any 
+deficiencies identified in the existing installation 
+shall be rectified through mutually agreed 
+additional scope.
+The SI shall ensure seamless interoperability 
+between the newly procured infrastructure and 
+the existing infrastructure to the maximum 
+extent technically feasible. Any limitations arising 
+due to the health, hardware obsolescence, OEM 
+restrictions, firmware/software incompatibility, 
+or unsupported configurations of the existing 
+infrastructure shall be identified and brought to 
+the notice of BMC during the implementation 
+phase. Such  deficiencies rectified through 
+mutually agreed.
+20
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Sr. No.a(3);
+Page No.20
+Supply of Equipment:
+All equipment supplied shall be accompanied by 
+valid OEM warranty certificates, licenses (where 
+applicable), and support entitlements.
+Kindly clarify whether any existing 
+hardware/software components are presently 
+covered under OEM Warranty/AMC and whether 
+the SI is expected to coordinate with the 
+respective OEMs during the contract period.
+Existing OEM warranty/AMC status, where 
+available, is indicated in Annexure 'P'. SI shall 
+coordinate with respective OEMs during the 
+warranty/AMC period for components under 
+O&M scope, as part of its turnkey responsibility.
+21
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Sr. No.a(5);
+Page No.20
+Supply of Equipment: The date of manufacture of 
+supplied equipment shall not be older than 12 
+months from the date of delivery, unless 
+otherwise approved in writing by the 
+Department.
+Equipment not older than 12 months,	Request to 
+increase manufacturing period to 18 months, as 
+enterprise OEM products are supplied based on 
+global manufacturing cycles.
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+22
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Sr. No.b(1) & b(3);
+Page No.20
+Installation and Integration: 
+The SI shall install, configure, integrate, test, and 
+commission all supplied components including 
+but not limited to servers, storage systems, 
+network devices, firewalls, UPS systems, DG Set, 
+cooling systems, and security devices.
+The SI shall ensure seamless interoperability 
+between new and existing infrastructure 
+components.
+The tender does not clearly specify the 
+new/existing infrastructure components and the 
+required integration scope. Complete details for 
+servers, storage, network, firewall, UPS, DG, 
+cooling, and security systems should be provided.
+Kindly refer Annexure-'P' and 'Q' of the RFP. 
+Additionally, bidders are advised to conduct the 
+mandatory site visit for assessment of existing 
+components before bid submission.
+24
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Page No.20
+Supply, Installation, Integration and 
+Commissioning
+Kindly confirm that BMC shall provide 
+uninterrupted access to all work areas, required 
+electrical shutdown permissions and utility 
+isolation required for execution. Delays due to 
+non-availability of such permissions shall qualify 
+for extension of time without levy of Liquidated 
+Damages.
+BMC shall provide reasonable access, electrical 
+shutdown and utility isolation permissions 
+required for execution, subject to advance 
+coordination by the SI; delays solely attributable 
+to BMC's non-availability of such permissions 
+shall be considered for timeline relief on a case-
+to-case basis.
+23
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Sr. No.c;
+Page No.20
+Rack Layout and Cabling:
+• The SI shall prepare a detailed rack layout plan 
+for approval prior to installation, ensuring 
+optimal placement of all new and existing 
+equipment.
+• The rack layout shall consider weight 
+distribution, airflow management, power 
+redundancy, cable segregation (power and data), 
+and future scalability.
+• Structured cabling shall be implemented using 
+industry-standard copper and/or fiber cabling as 
+specified in the RFP.
+• All network, fiber, and power cables shall be 
+properly dressed, routed, and labeled in 
+accordance with the Department instructions to 
+ensure clear identification and traceability.
+• Cable management accessories such as cable 
+trays, organizers, Velcro ties, patch panels, and 
+labeling tags shall be provided as part of the 
+scope.
+Kindly provide existing rack utilization details, 
+available rack space (in U), available power 
+capacity per rack and cooling capacity to enable 
+proper estimation.
+Existing rack utilization, available rack space, 
+power and cooling capacity, to the extent 
+available, may be assessed by bidders during the 
+mandatory site visit.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+25
+SECTION-III: SCOPE OF WORK;
+Item No.3.4 - Supply, Installation, Integration and 
+Commissioning;
+Page No.20
+Supply, Installation, Integration and 
+Commissioning
+Kindly   clarify   ownership   and   disposal   
+responsibility   of   dismantled equipment, cables, 
+racks and scrap if any generated during 
+execution.
+Ownership and disposal of dismantled 
+equipment/scrap generated during execution 
+vests with BMC unless otherwise specified (e.g., 
+buyback items as per Clause 3.12/3.14); SI to 
+hand over such items to BMC as directed.
+26
+SECTION-III: SCOPE OF WORK;
+Item No.3.5 - Compute and Virtualization;
+Sr. No.c(2);
+Page No.22
+SECTION-III: SCOPE OF WORK;
+Item No.3.6 -Integration, Migration, and Facility 
+Support for Existing Non-O&M Infrastructure;
+Sr. No.a;
+Page No.49
+3.5 (c) Workload Migration:
+Migration of workloads from existing legacy 
+servers to the upgraded environment shall be 
+executed without data loss, corruption, or 
+unauthorized access.
+3.6 (a) Certain existing components/equipment 
+(such as blade servers, blade chassis, SAN 
+storage, backup solution etc.) are not covered 
+under Operations & Maintenance (O&M) 
+services; however, these components shall 
+continue to be used by BMC and shall remain 
+installed within the Data Centre (DC) premises.
+We request you to disclose the OEM, model, 
+generation and age of existing blade servers, 
+blade chassis, SAN storage and backup solution, 
+along with the current hypervisor brand/version 
+and production VM count, in view of the 
+workload migration obligation under Section 
+3.5(c) which requires cross-platform 
+compatibility assessment before the proposed 
+virtualization platform can be selected.
+Details of existing blade servers, chassis, SAN 
+storage, backup solution and hypervisor, to the 
+extent available, may be verified by bidders 
+during the mandatory site visit.
+27
+SECTION-III: SCOPE OF WORK;
+Item No.3.6 - Storage Infrastructure;
+Sr. No.b;
+Page No.23
+Storage Architecture and Features:
+• The solution shall provide the following 
+minimum features:
+vi) Storage Quality of Service (QoS)
+The proposed solution supports file-level QoS 
+and network traffic control mechanisms that 
+provide workload prioritization and bandwidth 
+management. Since QoS implementations vary 
+significantly across storage vendors (IOPS-based, 
+throughput-based, file-system-based, or network-
+based), it is requested that equivalent QoS 
+mechanisms be accepted rather than mandating 
+a specific storage-controller-level QoS 
+implementation.
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+29
+SECTION-III: SCOPE OF WORK;
+Item No.3.7 - Backup and Recovery Solution;
+Sr. No.d;
+Page No.25
+Monitoring and Reporting: 
+• The backup solution shall provide centralized 
+monitoring dashboard.
+• Automated reports shall be generated for:
+i) Backup success/failure
+ii) Storage consumption
+iii) Policy compliance
+iv) Restore testing results
+• Alerts shall be configured for backup failures 
+and threshold breaches.
+NMS, logging, monitoring, and reporting 
+requirements are mentioned in the tender, but 
+the NMS solution is not included in the BoM. 
+Kindly clarify the scope and required 
+components.
+NMS/Monitoring solution is part of the 
+Centralized Monitoring System covered under 
+Section 3.16 of the RFP. Bidders shall include the 
+necessary monitoring tool/license as part of their 
+solution design and cost it within the relevant 
+BOQ line item; no separate BOQ line is provided 
+for NMS. No change in RFP.
+30
+SECTION-III: SCOPE OF WORK;
+Item No.3.9 -Firewall Systems;
+Page No.26
+Redundant Internet Bandwidth links
+Please clarify whether BMC provide the primary 
+and redundant Internet bandwidth links or 
+whether the successful bidder is required to 
+procure, size, install and maintain the Internet 
+connectivity. If BMC will provide the bandwidth, 
+kindly share the existing ISP details, bandwidth 
+capacity, redundancy architecture and public IP 
+availability.
+BMC shall provide the primary and redundant 
+Internet bandwidth links. The SI shall coordinate 
+with ISP.
+28
+SECTION-III: SCOPE OF WORK;
+Item No.3.7 -Backup and Recovery Solution;
+Sr. No.b;
+Page No.24
+Backup Architecture
+• The backup architecture shall support Disk-to-
+Disk (D2D), Disk-to-Tape (D2T), and/or Disk-to-
+Cloud (D2C) as specified.
+• The solution shall support:
+i) Full, incremental, and differential backups
+ii) Scheduled and policy-based backups
+iii) Application-aware backups
+iv) Deduplication and compression
+v) Encryption of backup data (in transit and at 
+rest)
+vi) Linux, Unix and Windows OS platforms
+vii) Compatible with proposed and existing 
+virtulization software
+• Backup retention policies shall be configurable 
+in accordance with Department requirements.
+We request you to confirm the required backup 
+architecture (D2D, D2T, D2C or a specific 
+combination), whether an existing tape library 
+must be retained and integrated, and provide 
+current data volumes with daily change rate, in 
+view of the substantial cost difference between 
+D2D and D2T solutions and the pricing ambiguity 
+created by the 'and/or' language.
+The proposed backup solution shall support the 
+backup and recovery requirements of the newly 
+procured infrastructure as well as the existing 
+infrastructure that continues to remain 
+operational in the Data Centre, to the extent 
+technically feasible and supported by the 
+proposed solution.
+The backup architecture (D2D, D2T and/or D2C) 
+shall be designed by the SI based on the 
+proposed solution and the functional 
+requirements of the RFP.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+31
+SECTION-III: SCOPE OF WORK;
+Item No.3.9 -Firewall Systems;
+Sr. No.a(1);
+Page No.26
+Sr. No.b(2);
+Page No.26
+Sr. No.d(1);
+Page No.28
+a) Supply and Deployment of Firewall Systems
+• The SI shall supply, install, configure, test, and 
+commission 2 enterprise-grade Next-Generation 
+Firewall (NGFW) appliances of identical make and 
+model at the Data Centre.
+b) Design and Architecture
+• The two firewalls shall operate in High 
+Availability (HA) mode (Active–Active).
+d) VPN and Inter-Site Connectivity
+• The firewall solution shall support IPSec site-to-
+site VPN connectivity between the Data Centre 
+and all Zonal Offices.
+We request you to share the existing firewall 
+OEM/model and current network topology 
+diagram and clarify whether the NGFW 
+deployment is a full replacement or addition to 
+existing firewalls, in view of the fact that firewall 
+design, rule-set migration scope and VPN 
+architecture cannot be accurately proposed 
+without knowledge of existing infrastructure.
+Existing firewall OEM/model and network 
+topology, to the extent available, may be 
+reviewed during the mandatory site visit. NGFW 
+deployment under Clause 3.9 is a fresh supply as 
+per BOQ; SI to ensure integration with existing 
+network as per Clause 3.4(b).
+32
+SECTION-III: SCOPE OF WORK;
+Item No.3.10 - Proxy Server Solution;
+Sr. No.a;
+Page No.28
+Supply and Implementation: 
+• The SI shall supply, install, configure, test, and 
+commission a Proxy Server solution, either 
+appliance-based or software-based at the Data 
+Centre.
+• The solution shall integrate with existing and 
+proposed network, firewall, and authentication 
+infrastructure.
+• The SI shall provide all necessary hardware, 
+software, licenses, subscriptions, accessories, 
+cables, interface modules, and mounting 
+components required for complete installation 
+and commissioning.
+• All licenses and security subscriptions shall 
+remain valid for a period of 5 years from the date 
+of official Go-Live.
+Please clarify whether the existing infrastructure 
+includes a domain, DNS, SSL/TLS certificates, web 
+portal/application, and subscriptions/licenses for 
+the proposed proxy server solution.
+Existing domain, DNS, and web 
+portal/application, if any, are as available with 
+BMC. The SI shall assess the same during the As-
+Is Assessment and provision the proxy server 
+solution (including SSL/TLS certificates and 
+required licenses) as per Clause 3.10 of the RFP. 
+No change in RFP.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+33
+SECTION-III: SCOPE OF WORK;
+Item No.3.11 -Procurement of Software 
+License/Subscription;
+Sr. No.c & g;
+Page No.30
+c) The SI shall ensure that all licenses are 
+properly registered in the name of Bhavnagar 
+Municipal Corporation (BMC) and shall provide 
+necessary proof of license ownership and 
+entitlement.
+g) All software licenses supplied under this 
+project shall remain valid and fully supported for 
+the entire contract period, including the 
+implementation phase and the subsequent O&M 
+period as specified in this RFP.
+We request you to clarify whether BMC will 
+accept licenses registered in the SI's name with 
+end-user authorization letters where OEM policy 
+does not permit direct ULB registration, and 
+confirm whether annual subscription renewal 
+costs for licenses expiring during the 5-year O&M 
+period are included in the SI's lump-sum or borne 
+separately by BMC, in view of significant multi-
+year pricing uncertainty.
+Licenses shall be registered in the name of BMC 
+as specified in Clause 3.11(c); where OEM policy 
+genuinely does not permit direct end-customer 
+registration, the SI shall furnish an appropriate 
+end-user authorization/entitlement in BMC's 
+name to BMC's satisfaction.
+34
+SECTION-III: SCOPE OF WORK;
+Item No.3.12 - Cooling System Infrastructure;
+Sr. No.a;
+Page No.30
+Buyback of Existing Precision Air Conditioners 
+(PAC)
+Kindly provide the make, exact model number, 
+year of installation, and last service/AMC date of 
+the 2 existing 3 TR PAC units. Also confirm 
+whether existing refrigerant piping, drainage, and 
+electrical supply can be reused for the new PAC 
+installation.
+Precision Air Conditioner(PAC)-1:
+Make: Schneider
+Model: Amico 3
+Serial No.: C21738001903
+Procurement Year: 2018.
+Precision Air Conditioner(PAC)-2:
+Make: Schneider
+Model: Amico 3
+Serial No.: C21751001961
+Procurement Year: 2018.
+Precision Air Conditioner(PAC)-1:
+Make: Schneider
+Model: Amico 3
+Serial No.: C21738001903
+Procurement Year: 2018.
+Precision Air Conditioner(PAC)-2:
+Make: Schneider
+Model: Amico 3
+Serial No.: C21751001961
+Procurement Year: 2018.
+We request you to disclose the make, model, 
+rated capacity and year of installation of the 
+existing PAC units and UPS system to be taken on 
+buyback, in view of the requirement to quote 
+buyback value in the financial bid — which 
+cannot be done accurately without OEM/age 
+data.
+Buyback of Existing Precision Air Conditioners 
+(PAC):
+• The existing Precision Air Conditioning (PAC) 
+units being replaced under this project shall be 
+taken on buyback basis by the System Integrator 
+(SI).
+• The SI shall quote the buyback value separately 
+in the Financial Bid as per the prescribed format.
+Buyback of Existing UPS System:
+• The existing UPS system (excluding battery 
+SECTION-III: SCOPE OF WORK;
+Item No.3.12 - Cooling System Infrastructure;
+Sr. No.a(1& 2);
+Page No.30
+SECTION-III: SCOPE OF WORK;
+Item No.3.14 - Electric Power Supply System – 
+Uninterruptible Power Supply (UPS);
+Sr. No.a(1 & 2);
+Page No.33
+35
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+36
+SECTION-III: SCOPE OF WORK;
+Item No.3.12 - Cooling System Infrastructure;
+Sr. No.b;
+Page No.31
+Supply, Installation and Commissioning of New 
+PAC
+Request clarification on scope boundary: Are civil 
+modifications required for new PAC installation 
+(floor strengthening, pipe routing, drainage 
+redesign, wall penetrations for outdoor unit) 
+within the SI's scope, or will these be handled by 
+BMC/a separate civil contractor?
+Civil modifications required for new PAC 
+installation (floor strengthening, pipe routing, 
+drainage redesign, wall penetrations for outdoor 
+unit) within the SI's scope.
+37
+SECTION-III: SCOPE OF WORK;
+Item No.3.12 -Cooling System Infrastructure;
+Sr. No.c(1);
+Page No.31
+Item No.3.13 -Electric Power Supply System – 
+Grid Power;
+Sr. No.a;
+Page No.32
+3.12 (c) Synchronous Operation (Redundant 
+Configuration)
+• Both PAC units shall be configured to operate in 
+synchronous mode to ensure uniform cooling 
+distribution, load sharing, and redundancy.
+3.13 (a) The BMC shall be responsible for 
+providing a single electric power point at DC site 
+for the operation of the entire DC components, 
+and associated equipment. Any additional 
+electrical work beyond the single power point 
+provided by BMC shall be carried out by the SI at 
+their own cost.
+We request you to provide the DC heat load 
+calculation (kW/TR), available floor space for PAC 
+installation, and power supply specification 
+(phases, voltage, amperage) at the BMC-provided 
+power point, in view of the fact that incorrect 
+PAC sizing is the leading cause of data centre 
+thermal failure and SLA breach.
+DC heat load, available floor space and power 
+supply details, to the extent available, may be 
+assessed by bidders during the mandatory site 
+visit under Clause 1.10. No further data beyond 
+RFP is available at this stage.
+UPS-1:
+Make: Arrow
+Capacity & Type: 15KVA Online
+Serial No.: 18031215216001
+Procurement Year: 2018.
+UPS-2:
+Make: Arrow
+Capacity & Type: 15KVA Online 
+Serial No.: 18031215216002
+Procurement Year: 2018.
+bank) shall be taken on buyback basis by the SI.
+• The SI shall quote the buyback value separately 
+in the Financial Bid as per the prescribed format.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+38
+SECTION-III: SCOPE OF WORK;
+Item No.3.14 - Electric Power Supply System – 
+Uninterruptible Power Supply (UPS);
+Sr. No.a;
+Page No.33
+Buyback of Existing UPS System
+Request GIL/BMC to provide: 
+(i) Make, exact model number, year of 
+installation, and maintenance/service history of 
+the existing Arrow 15 KVA UPS; 
+(ii) Most recent battery discharge test report; 
+iii) Explicit confirmation: if the existing 144 
+batteries fail health testing during new UPS 
+commissioning, is the replacement cost borne by 
+BMC or the SI?
+The Existing Arrow Make 15KVA UPS and procure 
+in the year 2018 or batteries have been 
+purchased in the year 2025. bidders to verify 
+during mandatory site visit.
+39
+SECTION-III: SCOPE OF WORK;
+Item No.3.14 - Electric Power Supply System – 
+Uninterruptible Power Supply (UPS);
+Sr. No.b(1);
+Page No.33
+Use of Existing Battery Bank (144 Batteries): The 
+existing battery bank comprising 144 batteries 
+shall be used with the new UPS systems.
+Request GIL/BMC to share: (i) Battery make, 
+model, rated voltage (V), rated capacity (Ah) per 
+cell, number of strings and cells per string; (ii) 
+Year of battery installation; (iii) Most recent 
+battery discharge test/health report; (iv) Explicit 
+confirmation: is the cost of replacing 
+incompatible or failed batteries borne by BMC or 
+the SI?
+144-battery bank is Exide make 12V 75AH has 
+been procured in the year 2025.
+Above details may be verified during the 
+mandatory site visit. The SI shall be responsible 
+for testing the existing battery bank's health and 
+compatibility with the new UPS as part of the As-
+Is Assessment; any battery found unserviceable 
+shall be dealt with as per Clause 3.14 of the RFP.
+40
+SECTION-III: SCOPE OF WORK;
+Item No.3.14 - Electric Power Supply System – 
+Uninterruptible Power Supply (UPS);
+Sr. No.b(2);
+Page No.33
+Use of Existing Battery Bank (144 Batteries): The 
+SI shall assess the health and compatibility of the 
+existing batteries with the proposed UPS 
+systems.
+Request GIL/BMC to add an explicit clause clearly 
+stating: "The SI shall be responsible for 
+confirming compatibility of the existing 144-
+battery bank with the proposed new 20 KVA UPS 
+system, and shall obtain an OEM compatibility 
+certificate prior to installation. In the event of 
+confirmed incompatibility between the existing 
+batteries and the proposed UPS, the cost of 
+battery replacement shall be borne by [BMC/SI — 
+to be specified by GIL]."
+144-battery bank is Exide make 12V 75AH has 
+been procured in the year 2025.
+This responsibility is implicit under Clause 3.14 
+and the SI's overall turnkey responsibility under 
+Clause 3.1(c)/3.4 of the RFP; SI shall confirm 
+compatibility of the existing battery bank with 
+the proposed UPS as part of its scope. Bidders to 
+verify during mandatory site visit.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+41
+SECTION-III: SCOPE OF WORK;
+Item No.3.14 - Electric Power Supply System – 
+Uninterruptible Power Supply (UPS);
+Sr. No.b;
+Page No.33
+Use of Existing Battery Bank (144 Batteries):
+• The existing battery bank comprising 144 
+batteries shall be used with the new UPS 
+systems.
+• The SI shall assess the health and compatibility 
+of the existing batteries with the proposed UPS 
+systems.
+• The SI shall conduct battery health check 
+including voltage, internal resistance, load 
+testing, and capacity assessment.
+• Any defective or weak batteries identified 
+during testing shall be reported to the 
+Department.
+We request you to disclose the make, model, age 
+and latest health-test results of the 144 existing 
+batteries and confirm whether replacement cost
+— if batteries are found defective or 
+incompatible — is borne by BMC or the SI, in 
+view of the potential cost impact for battery 
+replacement cannot be assessed without this 
+data.
+144-battery bank is Exide make 12V 75AH has 
+been procured in the year 2025.
+This responsibility is implicit under Clause 3.14 
+and the SI's overall turnkey responsibility under 
+Clause 3.1(c)/3.4 of the RFP; SI shall confirm 
+compatibility of the existing battery bank with 
+the proposed UPS as part of its scope.
+42
+The required capacity of the Diesel Generator 
+(DG) Set shall be 50 kVA, as specified in the BOQ 
+and technical specifications of the RFP.
+The Selected Bidder (SI) shall provide and install a 
+new CPCB-compliant acoustic enclosure along 
+with the proposed DG Set.
+The timeline for obtaining statutory 
+approvals/NOCs depends upon the concerned 
+statutory authority and cannot be specified by 
+BMC.
+BMC shall provide necessary authorization letters 
+and reasonable administrative assistance, 
+wherever required, to facilitate submission of 
+applications before the concerned statutory
+We request you to confirm the required DG 
+capacity (kVA), whether a CPCB acoustic 
+enclosure already exists on-site, the typical NOC 
+processing timeline from the Bhavnagar 
+electricity authority, and confirm that BMC will 
+provide a formal support letter for the NOC 
+application, in view of the risk that authority-
+driven NOC delays attract milestone penalties on 
+the SI.
+b) Supply, Installation and Integration of Diesel 
+Generator Set
+f) Regulatory Compliance & Coordination
+g) Testing and Commissioning
+h) Fuel Charge
+SECTION-III: SCOPE OF WORK;
+Item No.3.15 -Electric Power Supply System – 
+Diesel Generator (DG);
+Sr. No.b,f,g & h;
+Page No.35 & 36
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+43
+SECTION-III: SCOPE OF WORK;
+Item No.3.16 -Centralized Monitoring System;
+Sr. No.a;
+Page No.36
+a) Monitoring Solution
+• The SI shall deploy centralized monitoring tools 
+covering servers, storage, network, security, 
+backup, power, and environmental systems.
+• The solution shall provide real-time 
+dashboards, alerts, logs, and reporting 
+capabilities.
+• Threshold-based alerts shall be configured for 
+proactive incident management.
+We request you to clarify (a) whether a specific 
+monitoring platform is mandated or any industry-
+standard tool is acceptable, (b) whether 
+monitoring must cover non-O&M existing 
+components (Section 3.26), and
+(c) the mandatory log retention  period  under 
+applicable Government regulations, in view of 
+their significant impact on platform selection, 
+licensing cost and storage sizing.
+No specific monitoring platform is mandated; any 
+industry-standard tool meeting the functional 
+requirements of Clause 3.16 is acceptable. 
+Monitoring scope shall cover components under 
+Section 3.26 (non-O&M existing infrastructure) as 
+well, to the extent integration is feasible.
+44
+SECTION-III: SCOPE OF WORK;
+Item No.3.16 -Centralized Monitoring System;
+Sr. No.a;
+Page No.36
+a) Monitoring Solution
+• The SI shall deploy centralized monitoring tools 
+covering servers, storage, network, security, 
+backup, power, and environmental systems.
+• The solution shall provide real-time 
+dashboards, alerts, logs, and reporting 
+capabilities.
+• Threshold-based alerts shall be configured for 
+proactive incident management.
+It requires centralized monitoring of servers, 
+storage, network, security, backup, power etc. 
+However, no NMS or SIEM solution appears to be 
+included in the BOQ/BOM. Kindly clarify whether 
+BMC intends to provide an existing monitoring 
+platform or whether bidders should include the 
+required centralized monitoring solution.
+NMS/monitoring tool is to be provisioned by the 
+SI as part of its overall solution cost; no separate 
+BOQ line item for NMS/SIEM is provided.
+applications before the concerned statutory 
+authorities. However, preparation, submission, 
+follow-up, obtaining statutory approvals/NOCs, 
+and compliance with applicable regulations shall 
+remain the responsibility of the Selected Bidder 
+(SI).
+Any delay attributable solely to the concerned 
+statutory authority, despite timely submission of 
+complete applications and diligent follow-up by 
+the SI, shall be considered in accordance with the 
+relevant provisions of the Contract and shall not 
+be treated as a delay attributable to the SI, 
+subject to submission of satisfactory 
+documentary evidence and approval by BMC.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+46
+SECTION-III: SCOPE OF WORK;
+Item No.3.17 - CCTV Surveillance System for 
+Zonal Offices;
+Sr. No.a;
+Page No.37
+SITC of CCTV Surveillance System
+Request GIL/BMC to provide: (i) Number of zonal 
+offices to be covered and their addresses; (ii) 
+Number of CCTV cameras required at each 
+location (indoor/outdoor, fixed/PTZ); (iii) Basic 
+site layout/floor plan drawings for each location; 
+(iv) Confirm whether LAN/POE network 
+connectivity is available at each zonal office or is 
+to be provided by the SI.
+Number of zonal offices and indicative camera 
+requirement are as specified in Clause 3.17 and 
+the BOQ of the RFP. Bidders are advised to 
+conduct the mandatory site visit for site layout 
+and detailed camera positioning assessment.
+45
+SECTION-III: SCOPE OF WORK;
+Item No.3.16 - Centralized Monitoring System;
+Sr. No.a ,b & c;
+Page No.36
+Centralized Monitoring System
+a) Monitoring Solution
+• The SI shall deploy centralized monitoring tools 
+covering servers, storage, network, security, 
+backup, power, and environmental systems.
+• The solution shall provide real-time 
+dashboards, alerts, logs, and reporting 
+capabilities.
+• Threshold-based alerts shall be configured for 
+proactive incident management.
+b) Logging and Audit
+RFP for Selection of a System Integrator for 
+Upgradation of the Data
+Centre at BMC with 5 Years of O&M Services
+Page 37 of 131
+• Centralized log management shall be 
+implemented.
+• Log retention policies shall comply with 
+Government regulations.
+• Audit trails shall be maintained for 
+administrative and security activities.
+c) Reporting
+• Automated reports shall be generated for 
+infrastructure health, capacity utilization, security 
+events and backup status.
+NMS, logging, monitoring, and reporting 
+requirements are mentioned in the tender, but 
+the NMS solution is not included in the BoM. 
+Kindly clarify the scope and required 
+components.
+NMS/Monitoring solution is part of the 
+Centralized Monitoring System covered under 
+Section 3.16 of the RFP. Bidders shall include the 
+necessary monitoring tool/license as part of their 
+solution design and cost it within the relevant 
+BOQ line item; no separate BOQ line is provided 
+for NMS. No change in RFP.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+48
+SECTION-III: SCOPE OF WORK;
+Item No.3.18 - Network Setup at both Zonal 
+Offices;
+Sr. No.c;
+Page No.38
+The SI shall dismantle the existing NVR from the 
+15U rack located on the ground floor, safely shift 
+them to the first-floor network room, and install 
+and mount them in the new 34U rack.
+Dismantling of the old rack and reinstallation at a 
+new location is required, but costing details are 
+not provided. Kindly clarify and include BOQ and 
+pricing.
+Dismantling, safe shifting and re-installation of 
+existing NVR as per Clause 3.18 is part of the SI's 
+turnkey scope of work and shall be quoted within 
+the relevant Installation/O&M cost heads of the 
+Financial Bid. No separate BOQ line item shall be 
+provided. No change in RFP.
+49
+SECTION-III: SCOPE OF WORK;
+Item No.3.21 - System Stabilization or Trial 
+Period;
+Sr. No.d;
+Page No.39
+Rectification of Deficiencies: Any deficiencies, 
+non-conformities or issue observed during the 
+stabilization period shall be rectified by the SI 
+immediately, at no additional cost to BMC.
+Kindly specify the expected manpower count, 
+minimum skill sets and qualification 
+requirements during the stabilization period.
+Bidder shall deploy adequate skilled manpower 
+during stabilization to ensure defect-free 
+operation as per Clause 3.21 of the RFP; specific 
+headcount and qualification is left to the bidder's 
+execution methodology, subject to meeting SLA.
+47
+SECTION-III: SCOPE OF WORK;
+Item No.3.17 -CCTV Surveillance System for Zonal 
+Offices;
+Sr. No.a(1 & 2);
+Page No.37
+Item No.3.18 -Network Setup at both Zonal 
+Offices;
+Sr. No.c;
+Page No.38
+3.17 (a) SITC of CCTV Surveillance System:
+• The SI shall design, supply, install, configure, 
+and commission a CCTV surveillance system for 
+the two Zonal Offices of BMC.
+• The scope shall include Cameras, Network 
+Video Recorders (NVRs), POE switches, CAT-6 
+cables, patch panel, patch cords, and all 
+associated materials as per the quantities and 
+specifications provided in this RFP.
+3.17 (b) Recording and Retention:
+• CCTV recordings shall be stored at a minimum 
+1080p resolution with 25 fps.
+• The recording shall be retained for a minimum 
+period of 30 days.
+• After 30 days, the system shall automatically 
+overwrite the oldest recordings first in a 
+continuous cycle as per government regulations.
+3.18 (c) The SI shall dismantle the existing NVR 
+from the 15U rack located on the ground floor, 
+safely shift them to the first-floor network room, 
+and install and mount them in the new 34U rack.
+We request you to specify the required number 
+and type (fixed/PTZ, indoor/outdoor) of cameras 
+per Zonal Office, and clarify whether existing 
+NVRs being relocated under Section 3.18 are to 
+be reused for new cameras or replaced under 
+this contract, in view of the fact that camera 
+count and NVR compatibility are the primary 
+determinants of CCTV SITC and storage cost.
+Camera type/quantity per Zonal Office is as 
+specified in the BOQ/Clause 3.17. 
+Reuse/replacement of existing NVRs at Zonal 
+Offices shall be as per Clause 3.18 of the RFP; SI 
+to assess during site visit.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+50
+SECTION-III: SCOPE OF WORK;
+Item No.3.21 - System Stabilization or Trial 
+Period;
+Sr. No.e;
+Page No.39
+Go-Live: Successful commissioning and 
+acceptance shall be deemed complete only after 
+the satisfactory completion of the stabilization 
+period and formal sign-off by BMC in the form of 
+a Go-Live Certificate. The five (5) years O&M 
+period shall commence from the official Go-Live 
+date.
+Kindly specify the expected duration of Go-Live 
+support and whether dedicated onsite engineers 
+are required throughout the Go-Live period.
+Go-Live and stabilization support duration is as 
+specified in Clause 3.21 of the RFP (Stabilization 
+Period); dedicated onsite engineer(s) shall be 
+deployed during this period to ensure defect-free 
+operation.
+51
+SECTION-III: SCOPE OF WORK;
+Item No.3.21 - System Stabilization or Trial 
+Period;
+Sr. No.e & f;
+Page No.39
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.6 - Project Timeline and Payment 
+Terms;
+Sr. No.a(C4);
+Page No.55
+e) Go-Live: Successful commissioning and 
+acceptance shall be deemed complete only after 
+the satisfactory completion of the stabilization 
+period and formal sign-off by BMC in the form of 
+a Go-Live Certificate. The five (5) years O&M 
+period shall commence from the official Go-Live 
+date.
+f) Extension of Stabilization Period: BMC may, at 
+its discretion, extend the System Stabilization 
+Period if:
+• The system fails to meet the defined 
+performance benchmarks,
+• Any critical or major defects remain unresolved, 
+or
+• Any issues affecting operational stability or 
+functionality are identified.
+The extended period shall continue until all 
+performance criteria are met, defects are 
+resolved, and BMC is satisfied with the 
+operational readiness of the system.
+System Stabilization (Trial Run) Period: T + 5 
+Months : 20% of the value of all new equipment, 
+software and other components as per Project
+We request you to clarify
+(a) whether there is a maximum cap on the 
+stabilization period extension duration,and
+(b) whether O&M payment for new components 
+will be withheld for any BMC-initiated extension 
+beyond T+5 months, in view of the risk that an 
+open-ended extension compels the SI to operate 
+new DC infrastructure without corresponding 
+payment.
+Stabilization Period extension, if invoked, shall be 
+at BMC's sole discretion based on demonstrated 
+performance/benchmarks as specified in Clause 
+3.21(e)(f)/4.6 of the RFP; no fixed cap is 
+prescribed.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+52
+SECTION-III: SCOPE OF WORK;
+Item No.3.23 - Quality of Materials and 
+Workmanship;
+Sr. No.b(1);
+Page No.41
+Workmanship:
+All installation, integration, configuration, and 
+commissioning activities shall be carried out by 
+qualified and experienced personnel.
+Kindly specify the minimum number of key 
+personnel, their roles, qualifications, 
+certifications, experience requirements and 
+deployment duration expected under this 
+project.
+Kindly refer Section-5 (Personnel of System 
+Integrator) of RFP for detailed manpower 
+requirement during project period.
+54
+SECTION-III: SCOPE OF WORK;
+Item No.3.24 - Operations & Maintenance (O&M) 
+Services;
+Sr. No.a(1);
+Page No.42
+Comprehensive O&M Service:
+The SI shall provide comprehensive onsite 
+Operations & Maintenance (O&M) services of 
+existing infrastructure/components outlined in 
+Annexure-‘P’ for entire contract period from the 
+date of work order.
+We request you to provide Annexure-'P' with the 
+complete list of existing components with Ageing 
+EOL, EOS & Current Status (under OEM support 
+or warranty) in view of the fact that bidders 
+cannot assess spares, or price of the existing-
+infrastructure O&M component without this 
+inventory.
+Annexure 'P' provides the list of existing 
+equipment as available with BMC. 
+Ageing/EOL/EOS/warranty status, to the extent 
+available, may be assessed by bidders during the 
+mandatory site visit under Clause 1.10. No 
+further data beyond RFP/Annexures is available.
+53
+SECTION-III: SCOPE OF WORK;
+Item No.3.24 - Operations & Maintenance (O&M) 
+Services;
+Sr. No.a;
+Page No.42
+Comprehensive O&M Service:
+• The SI shall provide comprehensive onsite 
+Operations & Maintenance (O&M) services of 
+existing infrastructure/components outlined in 
+Annexure-‘P’ for entire contract period from the 
+date of work order.
+• Additionally, SI shall provide comprehensive 
+onsite Operations & Maintenance (O&M) 
+services of new procured component for a period 
+of 5 years from go-live date of upgraded data 
+centre.
+• The SI shall provide end-to-end Data Centre 
+O&M services on a 24x7x365 basis, ensuring high 
+availability, resiliency, security, and performance 
+of the entire IT and non-IT ecosystem during the 
+entire O&M period.
+• The SI shall provide proactive, predictive, 
+preventive, corrective, and adaptive maintenance 
+across all technology layers.
+• The quoted O&M price shall be comprehensive 
+and inclusive of all required manpower, spare 
+parts, consumables, tools, and transportation 
+necessary to ensure proper functioning of all IT 
+and non-IT infrastructure throughout the O&M 
+period. No additional charges, hidden costs, or 
+extra claims shall be entertained beyond the 
+agreed O&M rate.
+Kindly clarify whether BMC will provide any IT 
+operations team for first-level coordination or 
+whether the SI shall be responsible for complete 
+monitoring, ticket logging and incident 
+management.
+The SI shall be responsible for complete 
+monitoring, ticket logging, and incident 
+management under Clause 3.24 of the RFP; 
+BMC's IT team, if any, may coordinate but the 
+primary O&M responsibility rests with the SI.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+55
+SECTION-III: SCOPE OF WORK;
+Item No.3.24 - Operations & Maintenance (O&M) 
+Services;
+Sr. No.a(3);
+Page No.42
+Comprehensive O&M Service:
+The SI shall provide end-to-end Data Centre O&M 
+services on a 24x7x365 basis, ensuring high 
+availability, resiliency, security, and performance 
+of the entire IT and non-IT ecosystem during the 
+entire O&M period.
+Kindly clarify whether 24×7 support requires 
+round-the-clock onsite 
+manpower in shifts or onsite support during 
+office hours with remote/on
+call support outside business hours shall be 
+acceptable.
+Kindly refer clause No. 5.4 of section-V for 
+presence and leave of onsite deployed personnel.
+24x7x365 O&M support as specified in Clause 
+3.24 means round-the-clock availability of 
+support (onsite/remote/on-call, as appropriate to 
+severity) to meet the SLA response/resolution 
+times specified in Section 4 of the RFP; the 
+mandatory onsite System Administrator is 
+required during business hours as a minimum, 
+with remote/on-call escalation for off-hours.
+56
+SECTION-III: SCOPE OF WORK;
+Item No.3.24 - Operations & Maintenance (O&M) 
+Services;
+Sr. No.e(1);
+Page No.44
+Spare Parts and Replacement:
+The SI shall maintain an adequate inventory of 
+critical spare parts for all IT and non-IT 
+infrastructure covered under this project to 
+ensure timely repair and minimal downtime.
+Kindly specify the mandatory onsite spare 
+inventory to be maintained by the SI and identify 
+the critical equipment for which standby units 
+are expected during the O&M period.
+SI shall maintain adequate onsite spares for 
+critical components to meet the SLA/uptime 
+requirements specified in Section-4 of the RFP; 
+specific spare inventory is left to the bidder's 
+execution methodology.
+57
+SECTION-III: SCOPE OF WORK;
+Item No.3.24 - Operations & Maintenance (O&M) 
+Services;
+Sr. No.n;
+Page No.47
+Onsite Manpower - System Administrator
+Kindly clarify the complete manpower 
+requirement expected during Implementation, 
+Go-Live, Stabilization and 5-Year O&M. Apart 
+from the mandatory onsite System 
+Administrator, how many additional 
+onsite/offsite technical resources are expected?
+Kindly refer Section-5 (Personnel of System 
+Integrator) of RFP for detailed manpower 
+requirement during project period.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+a) Certain existing components/equipment (such 
+as blade servers, blade chassis, SAN storage, 
+backup solution etc.) are not covered under 
+Operations & Maintenance (O&M) services; 
+however, these components shall continue to be 
+used by BMC and shall remain installed within 
+the Data Centre (DC) premises.
+b) The SI shall design and implement the 
+upgraded data centre architecture in such a 
+manner that these existing components are 
+integrated with the newly procured components, 
+to the maximum extent feasible, ensuring 
+interoperability, compatibility, and optimal 
+utilization of resources.
+c) The SI shall make best efforts to integrate such 
+legacy components; however, any limitations 
+arising due to hardware obsolescence, OEM 
+restrictions, or firmware incompatibility shall be 
+clearly identified and documented by the SI 
+during the design and implementation phase. 
+BMC shall review and approve such limitations.
+d) During the O&M period, the SI shall be 
+responsible for migration of applications, 
+software, and workloads from the existing (non-
+O&M) infrastructure to the newly procured 
+infrastructure, without any additional cost to 
+BMC. The migration shall be planned and 
+executed with minimal disruption to services and 
+in accordance with an approved migration plan.
+e) The SI shall not be held responsible for any 
+failure, breakdown, or performance degradation 
+of such existing (non-O&M) components. 
+However, the SI shall provide reasonable support 
+58
+SECTION-III: SCOPE OF WORK;
+Item No.3.26 - Integration, Migration, and Facility 
+Support for Existing Non-O&M Infrastructure;
+Page No.49
+For Integration, Migration, and Facility Support of 
+existing non-O&M infrastructure, the existing 
+network layout/diagram and architecture details 
+should be provided for proper planning and 
+execution.
+Bidders are advised to conduct the mandatory 
+site visit for assessment of existing network 
+layout/architecture details before bid 
+submission.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+for isolation of issues and coordination with 
+OEMs/vendors, if required.
+f) The SI shall also be responsible for providing 
+adequate cooling for such existing components 
+through the newly procured Precision Air 
+Conditioning (PAC) systems.
+a) In the event that BMC plans and implements a 
+Disaster Recovery (DR) site in the future through 
+appointed agency, the SI shall coordinate with 
+such newly appointed agency and provide all 
+necessary support for integration.
+b) The SI shall assist in configuration, integration, 
+testing, and commissioning activities to ensure 
+seamless connectivity and synchronization 
+between the primary site and the DR site.
+c) The SI shall provide required technical inputs, 
+documentation, access, and technical support to 
+ensure compatibility and proper functioning of all 
+systems under the DR setup.
+d) All such coordination and support activities 
+shall be carried out without any additional cost 
+to BMC and without impacting existing services.
+59
+SECTION-III: SCOPE OF WORK;
+Item No.3.27 - DR Integration;
+Page No.50
+We request you to define the maximum scope of 
+'coordination and support' expected from the SI 
+for DR integration (e.g., configuration, travel to 
+DR site, application-level integration, testing), 
+and share BMC's estimated timeline for DR 
+implementation, in view of the open-ended no- 
+additional-cost obligation creating unquantifiable 
+bid exposure.
+The DR site is not part of the current scope of this 
+RFP. The provision under Clause 3.27 is intended 
+only to ensure future coordination and 
+reasonable technical support by the Selected 
+Bidder (SI), if BMC establishes a Disaster 
+Recovery (DR) site during the contract period.
+The SI's responsibility shall be limited to 
+providing necessary technical coordination, 
+configuration support, documentation, 
+knowledge sharing, interface details, 
+participation in integration, testing, and 
+commissioning activities, and reasonable 
+assistance required for integration of the 
+proposed solution with the DR site. Any 
+additional hardware, software, licenses, third-
+party products/services, civil/electrical works, 
+network connectivity, travel, accommodation, or 
+implementation activities beyond the scope of 
+this RFP shall be arranged separately by BMC or 
+the agency appointed for the DR project, as 
+applicable.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+60
+SECTION-III: SCOPE OF WORK;
+Item No.3.27 - DR Integration;
+Page No.50
+Addition of Clause
+We request the authories to include a Cloud-
+based Disaster Recovery (DR) Site as part of the 
+project scope. The DR environment should be 
+hosted on a MeitY Empanelled Government 
+Community Cloud and GCC platform and should 
+include replication of critical applications, 
+databases, virtual machines, storage, backup, and 
+network services with clearly defined RPO and 
+RTO requirements.
+As per the RFP
+61
+As per the RFP
+Requesting the Authority for Addition of the 
+Below Clause: Event of Default by BMC:If BMC 
+fails to make payments due to the Selected 
+Bidder for a continuous period of two (2) 
+consecutive calendar months after the respective 
+due dates as stipulated under Clause 4.6 and 
+such failure is not remedied within fifteen (15) 
+days of a written notice issued by the Selected 
+Bidder specifying the payment default, then such 
+failure shall constitute an 'Event of Default by 
+BMC.Upon the occurrence of an Event of Default 
+by BMC, the Selected Bidder shall have the right, 
+without prejudice to any other rights or remedies 
+available under this Agreement or in law, to 
+terminate this Agreement by issuing a thirty (30) 
+day written termination notice to BMC.
+It is respectfully requested that the following 
+Clause be inserted under Schedule IV as an Event 
+of Default by BMC, for the following reason: The 
+Selected Bidder makes substantial  upfront 
+investment  in  this Project. Sustained non-
+payment by BMC would cause severe financial 
+prejudice to the Selected Bidder while the 
+Selected Bidder remains contractually obligated 
+to continue service delivery. This would be 
+commercially unjust and unsustainable.
+Addition of Clause
+SECTION-IV: TERMS AND CONDITIONS;
+Page No.51
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+62
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.5 - Sub-Contracting and Consortium;
+Sr. No.a;
+Page No.54
+Sub-contracting or forming a consortium for any 
+part of the scope of work under this tender is 
+strictly prohibited. The SI shall be solely and fully 
+responsible for the execution, management, and 
+successful completion of the project in 
+accordance with the terms and conditions set 
+forth in the contract.
+We request you to clarify whether engagement 
+of OEM-authorised field engineers for 
+warranty/AMC servicing of servers, storage, 
+NGFW, PAC and UPS constitutes 'sub-contracting' 
+under this clause, in view of the fact that OEM 
+warranties/ Support mandatorily require OEM-
+certified engineers for on-site hardware 
+replacements, making strict prohibition 
+operationally unworkable.
+OEM support/warranty service arrangement shall 
+not be treated as subcontracting.
+63
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.6 - Project Timeline and Payment 
+Terms;
+Sr. No.a(A1);
+Page No.54
+Onsite Manpower Support: Throughout Contract 
+Period: Quarterly payment based on attendance 
+records. Payment applicable from deployment 
+date till completion of contract period.
+Request the Authority to amend the payment 
+terms for Onsite Manpower Support from 
+quarterly to monthly payments based on actual 
+attendance and deployment.
+As per the RFP
+64
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.4 - Signing of Contract;
+Sr. No.c;
+Page No.54
+Withholding of Payment: 
+In case the execution of the contract agreement 
+is pending, 100% of the total contract value will 
+be withheld as payment.
+Request the Authority to specify a reasonable 
+timeline for execution of the Contract 
+Agreement, beyond which payment may be 
+withheld. The provision for withholding 100% of 
+the contract value may be revised accordingly.
+Withholding of payment pending execution of 
+the Contract Agreement shall remain as specified 
+in Clause 4.4 of the RFP.
+65
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.7 - Service Level Agreement (SLA);
+Sr. No.f(1);
+Page No.60
+Replacement of Key Personnel:
+The SI shall ensure continuity of the key 
+personnel deployed for the project. To maintain 
+stability and consistency in service delivery 
+replacement of key personnel (e.g., Project 
+Manager, Onsite System Administrator, Offsite 
+Support Resource, etc.) shall be limited to a 
+maximum of three (3) replacements per role over 
+the entire 5.5 years of contract period, unless 
+otherwise approved in writing by BMC.
+We request you to clarify whether the 3-
+replacement cap applies regardless of cause 
+(including involuntary departures such as 
+resignation or illness), and confirm the 
+consequence and exception process if the cap is 
+exceeded due to circumstances beyond the SI's 
+control.
+Kindly refer clause No. 5.6 of section-5.
+Additionally, The 3-replacement cap per role 
+under Clause 4.7(f) applies regardless of cause; 
+any exception beyond the cap shall be 
+considered by BMC on a case-to-case basis at its 
+discretion.
+66
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.7 - Service Level Agreement (SLA);
+Sr. No.h;
+Page No.61
+Incident Management during O&M Service: 
+The severity of an incident shall be classified 
+based on business impact, number of users 
+affected, and criticality of the system/service 
+impacted. The final classification will be done by 
+BMC and it’s decision shall be final in case of 
+disputes.
+We request you to provide a pre-agreed Incident 
+Classification SOP with specific system/scenario 
+criteria for each severity level, and confirm an 
+escalation mechanism for the SI to formally 
+contest a classification before the penalty clock is 
+applied, in view of the ₹1,000/hr penalty 
+differential between Sev-1 and Sev-2 and the 
+absence of any review process under current RFP 
+language.
+Clarification of severity is clearly mentioned in 
+clause No. 4.7(h) of section-4.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+67
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.7 - Service Level Agreement (SLA);
+Sr. No.m;
+Page No.63
+Maximum Cap:
+• The total cumulative penalties under this 
+contract shall, unless otherwise stated, not 
+exceed 10% of the total contract value. However, 
+in case of repeated or critical failures affecting 
+core service delivery, the BMC reserves the right 
+to impose penalties beyond this cap or initiate 
+appropriate action including but not limited to 
+termination of the contract, forfeiture of the 
+Security Deposit and/or blacklisting of the SI as 
+per the severity of non-performance.
+Request the Authority to revise the clause such 
+that the total cumulative penalties under all 
+heads shall be capped at 10% of the total 
+contract value under all circumstances, with no 
+provision for penalties exceeding this limit.
+As per the RFP
+68
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.10 - Third Party Inspection;
+Sr. No.a;
+Page No.63
+Prior to Go Live of the upgraded Data Centre, the 
+entire IT and non-IT infrastructure must 
+successfully pass the Third-Party Inspection 
+conducted by GIL. This includes validation of 
+installation, integration, interoperability, and 
+readiness of the upgraded environment.
+We request you to confirm GIL's committed 
+turnaround time for conducting TPI after 
+submission of the Installation & Commissioning 
+Report, and confirm that delays attributable to 
+GIL's scheduling shall be excluded from penalty 
+computation against the SI, in view of the 
+0.1%/day penalty clock running continuously 
+against the T+2.5 and T+4 month supply 
+milestones.
+Upon supply of the material by the SI, GIL shall 
+carry out material verification and inspection and 
+submit the inspection report to BMC. Thereafter, 
+the SI shall complete the installation and 
+commissioning of the procured infrastructure. 
+Prior to Go-Live, GIL representatives shall 
+conduct the Final Acceptance Test (FAT) to verify 
+compliance with the RFP specifications. Any 
+delay arising from deficiencies, non-compliance, 
+or rectification attributable to the SI during 
+inspection or FAT shall be considered the 
+responsibility of the SI, and applicable penalties 
+shall be determined by BMC as per the RFP 
+provisions.
+69
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.10 - Third Party Inspection;
+Sr. No.a;
+Page No.63
+Prior to Go Live of the upgraded Data Centre, the 
+entire IT and non-IT infrastructure must 
+successfully pass the Third-Party Inspection 
+conducted by GIL. This includes validation of 
+installation, integration, interoperability, and 
+readiness of the upgraded environment.
+Request the Authority to specify that the Third-
+Party Inspection shall be completed within 15 
+days from the date of the SI's inspection request, 
+failing which the relevant milestone shall be 
+deemed accepted for payment and project 
+progression.
+TPI timelines shall be governed as per Clause 
+4.10(a) of the RFP; no fixed 15-day deemed-
+acceptance clause shall be added.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+71
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.20 - Contract Duration and Extension 
+Terms;
+Sr. No.b & d;
+Page No.67
+b) BMC reserves the right, at its sole discretion to 
+extend the O&M period and onsite manpower for 
+the period of 1 year or part thereof without 
+requiring mutual consent.
+d) The cost for the extended O&M period and 
+onsite manpower shall be calculated as 10% 
+higher than the monthly rates finalized under this 
+RFP. For clarity, this increase is applied once to 
+the original monthly rates and not compounded.
+We request   you  to clarify
+(a) whether the SI may decline the extension 
+citing prior commitments,
+(b) the minimum advance notice BMC will 
+provide before invoking extension,                           
+and
+(c) whether the 10% higher rate applies to the 
+original contract monthly rate or the rate 
+prevailing at the end of 5 years, in view of 
+significant operational planning and resource 
+implications for the SI.
+Extension requirements are clearly mentioned in 
+clause No. 4.20 of section-4.
+72
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.22 - Termination of Contract;
+Sr. No.d;
+Page No.69
+Termination for Legal or Regulatory Reasons: 
+BMC shall have the right to terminate the 
+contract if it is prevented from performing its 
+obligations due to changes in applicable laws, 
+regulations, or by order of a competent 
+authority.
+It is respectfully submitted that there seems an 
+error in drafting of this clause, it intends to 
+convey that if due to Legal or Regulatory Reason 
+the Selected Bidder is not able to render its 
+Services then BMC shall have the right to 
+termination the Agreement
+As per the RFP
+a) In the event the SI fails to execute the project 
+in accordance with the terms and conditions of 
+this RFP or Contract Agreement (CA), or does not 
+comply with the directions issued by BMC from 
+time to time, BMC reserves the right to procure 
+similar services from the next eligible bidder or 
+from any alternate source at the sole cost and 
+risk of the SI.
+b) Before invoking this provision, BMC shall issue 
+a written notice of 15 days to the SI, specifying 
+the nature of the breach. This 15 days period 
+shall be deemed as a Cure Period, during which 
+the SI shall be given an opportunity to rectify the 
+breach to the satisfaction of BMC.
+c) If the SI fails to cure the breach within the 
+stipulated Cure Period, BMC shall be entitled to 
+initiate procurement of the required services 
+from alternate sources, and any additional cost 
+incurred by BMC in doing so shall be recoverable 
+from the SI, without prejudice to any other rights 
+or remedies available to BMC under the RFP or 
+agreement.
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.18 - Risk Purchase;
+Page No.67
+70
+It is respectfully submitted that Clause 4.18 be 
+deleted in its entirety for the following reason:
+There are already penalty provisions under the 
+RFP ranging from LD, to PBG. Therefore, it would 
+be inequitable to impose an additional and open 
+ended financial burden on the Bidder over and 
+above the Performance Security and Liquidated 
+Damages already stipulated under the 
+Agreement/RFP.
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+73
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.33 - Professional Project Management;
+Sr. No.b;
+Page No.74
+The SI shall deploy a qualified and experienced 
+Project Manager, who will act as the Single Point 
+of Contact (SPOC) for all project-related 
+communication, coordination, and decision-
+making with BMC.
+Is the Project Manager required to be stationed 
+full-time at Bhavnagar throughout 
+implementation, or can the Project Manager 
+operate from our Ahmedabad office with 
+periodic site visits and review meetings?
+Kindly refer Section-5 (Personnel of System 
+Integrator) of RFP for detailed manpower 
+requirement during project period.
+74
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.38 - Limitation of liability towards 
+BMC;
+Page No.77
+Addition of Clause
+In no event shall  the Selected Bidder be liable for 
+any consequential, incidental, indirect, special or 
+punitive damage, loss or expenses (including but 
+not limited to business interruption, lost 
+business, lost profits, or lost savings) nor for any 
+third-party claims (other than those set-forth in 
+Clause (a) above) even if it has been advised of 
+their possible existence.
+Respectfully  submitting  the  addition  of  
+following  standard  disclaimer clause as the Sub 
+Clause (c) to the limitation of liability
+As per the RFP
+It respectfully submitted that the current dispute 
+resolution provision is not as per the 
+jurisprudence of having a complete neutral party 
+as the adjudicator of a dispute. Thereby, we are 
+herewith providing the following Arbitration 
+Clause: 4.39 Resolution of Dispute: Either party 
+may invoke arbitration by issuing a written 
+Notice of Arbitration to the other party.The 
+arbitration shall be conducted by a Sole 
+Arbitrator, appointed as follows:Both parties 
+shall, by mutual consent, endeavour to agree 
+upon and appoint a Sole Arbitrator within 30 
+(thirty) days from the date of the Notice of 
+Arbitration. In the event the parties fail to 
+mutually agree on the appointment of a Sole 
+Arbitrator within the said period, either party 
+may approach the Hon'ble High Court of Gujarat
+a) BMC and the SI shall make every effort to 
+resolve any dispute or disagreement arising 
+under or in connection with RFP and/or 
+agreement amicably through direct discussions 
+and negotiations.
+b) In the event such efforts do not result in a 
+resolution, all disputes or differences arising 
+under, out of, or in connection with this 
+Agreement shall be referred to the Municipal 
+Commissioner of BMC. The decision of the 
+Municipal Commissioner shall be final and 
+binding on both Parties.
+75
+As per the RFP
+SECTION-IV: TERMS AND CONDITIONS;
+Item No.4.39 - Resolution of Disputes;
+Page No.77
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+76
+SECTION-V: PERSONNEL OF SYSTEM 
+INTEGRATOR;
+Item No.5.1 - Assignment of Project Personnel;
+Sr. No.b;
+Page No.79
+The SI shall assign the key personnel within 15 
+days from the date of issuance of the Work 
+Order.
+Please confirm whether the onsite System 
+Administrator is required to remain deployed 
+continuously from the 15th day of Purchase 
+Order until completion of the entire 5-year O&M 
+period, including the implementation phase.
+Yes, The onsite System Administrator shall be 
+deployed continuously from the 15th day of the 
+Work Order until completion of the entire 5-year 
+O&M period from the Go-Live date, including the 
+implementation phase.
+77
+SECTION-V: PERSONNEL OF SYSTEM 
+INTEGRATOR;
+Item No.5.2 - Availability of Key Personnel during 
+Implementation Phase;
+Sr. No.d;
+Page No.79
+The SI shall ensure full-time onsite supervision by 
+competent personnel during all installation, 
+testing, and commissioning activities performed 
+by or on behalf of the SI.
+Kindly clarify whether competent supervision is 
+required on a full-time onsite basis throughout 
+implementation or only during critical 
+installation, integration and commissioning 
+activities.
+Complete onsite supervision is required for all 
+onsite activities throughout implementation 
+phase.
+78
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.1 - Rack Server;
+Sr. No.2;
+Page No.86
+Processor: Latest Gen Intel® Xeon® Platinum 
+Scalable Processors
+Kindly confirm whether we can offer the latest 
+Gen6 CPU in the rack server; Kindly confirm 
+whether an AMD-based processor is acceptable
+As per the RFP
+79
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.1 - Rack Server;
+Sr. No.2;
+Page No.86
+Processor: Latest Gen Intel® Xeon® Platinum 
+Scalable Processors
+Kindly confirm whether (i) the latest Gen 6 Intel 
+Xeon Scalable Processor, and (ii) an equivalent 
+AMD EPYC processor (latest generation, 
+minimum 32 cores per CPU) are acceptable in 
+place of Intel Xeon Platinum specifically.
+As per the RFP
+may approach the Hon ble High  Court of Gujarat 
+or any other competent authority under the 
+Arbitration and Conciliation Act, 1996, for 
+appointment of a Sole Arbitrator in accordance 
+with the procedure prescribed thereunder.The 
+arbitration proceedings shall be conducted in the 
+English language. The venue and seat of 
+arbitration shall be Bhavnagar.The arbitration 
+shall be governed by and conducted in 
+accordance with the Arbitration and Conciliation 
+Act, 1996, including all amendments thereto and 
+the rules framed thereunder. The substantive 
+governing law of this Agreement shall be the laws 
+of India.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+80
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.1 - Rack Server;
+Sr. No.7;
+Page No.86
+Primary Storage: 4 TB Enterprise NVMe SSD
+Kindly clarify whether 3.84 TB storage can be 
+offered against the specified 4 TB storage 
+requirement
+Kindly see corrigendum
+81
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.1 - Rack Server;
+Sr. No.7;
+Page No.86
+Primary Storage: 4 TB Enterprise NVMe SSD
+Kindly clarify whether 3.84 TB Enterprise NVMe 
+SSD is acceptable against the specified 4 TB 
+requirement. This is not a reduction —3.84 TB is 
+the standard industry capacity designation for 
+what is commonly marketed as "4 TB" enterprise 
+NVMe storage.
+Kindly see corrigendum
+82
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.2;
+Page No.86
+Processer: Latest Gen Dual 12-Core Intel® Xeon® 
+Gold Scalable Processors; Fully configured with 
+usable 24 cores; clock speed ≥ 2.6 GHz
+Kindly confirm whether we can offer the latest 
+Gen6 CPU in the backup server; Kindly confirm 
+whether an AMD-based  processor is acceptable
+As per the RFP
+83
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.2;
+Page No.86
+Processer: Latest Gen Dual 12-Core Intel® Xeon® 
+Gold Scalable Processors; Fully configured with 
+usable 24 cores; clock speed ≥ 2.6 GHz
+Kindly confirm whether (i) latest Gen 6 Intel Xeon 
+Gold Scalable Processor, and (ii) equivalent AMD 
+EPYC processor (minimum 12 cores per CPU, 24 
+cores total, clock speed ≥ 2.6 GHz equivalent) are 
+acceptable for the Backup Server.
+As per the RFP
+84
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.7;
+Page No.87
+Disk Configuration: 2 x 480 GB SSD SATA (RAID 1) 
+for OS; Usable 3 TB SAS Storage (RAID 5)
+Kindly clarify whether 3 TB SATA SSD can be 
+offered against the specified 3 TB usable SAS SSD 
+requirement
+Kindly see corrigendum
+85
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.7;
+Page No.87
+Disk Configuration: 2 x 480 GB SSD SATA (RAID 1) 
+for OS; Usable 3 TB SAS Storage (RAID 5)
+Kindly clarify whether 3 TB usable SATA SSD 
+internal storage (RAID 5 configuration) can be 
+offered in place of 3 TB SAS HDD storage for the 
+Backup Server.
+Kindly see corrigendum
+86
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.9;
+Page No.87
+Network Interface: 2 x Dual Port 25G Port; 2 x 
+Single Port 32G Port; Dedicated Management 
+Port
+Kindly confirm whether one dual-port 32GB HBA 
+card is acceptable against the requirement of 2 × 
+Single 32GB HBA cards
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+87
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.9;
+Page No.87
+Network Interface: 2 x Dual Port 25G Port; 2 x 
+Single Port 32G Port; Dedicated Management 
+Port
+Kindly confirm whether 1 × Dual-Port 32G Fibre 
+Channel HBA card is acceptable in place of 2 × 
+Single-Port 32G HBA cards, given that both 
+configurations provide exactly 2 independent 
+32G FC ports.
+As per the RFP
+88
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.10;
+Page No.87
+Certification and compliances: Microsoft 
+Windows Server, Hyper-V, VMWare, Red Hat 
+Enterprise Linux (RHEL), SUSE Linux Enterprise 
+Server (SLES)
+Kindly confirm whether SUSE certification is 
+compulsory if the offered system is fully 
+compatible with SUSE OS
+Kindly see corrigendum
+89
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.10;
+Page No.87
+Certification and compliances: Microsoft 
+Windows Server, Hyper-V, VMWare, Red Hat 
+Enterprise Linux (RHEL), SUSE Linux Enterprise 
+Server (SLES)
+Kindly confirm whether SUSE Linux Enterprise 
+Server (SLES) OS certification is mandatory or 
+desirable, given that SLES is not mentioned 
+anywhere else in the RFP as a required 
+deployment OS, and the primary platforms are 
+Windows Server, VMware, and RHEL.
+Kindly see corrigendum
+90
+As per the RFP
+Management Features:
+1. Remote power on/off and remote server 
+management over LAN/WAN with SSL
+2. Virtual media support with required licenses, 
+Remote KVM, Server Health Logging, Out-of-Band 
+Management
+3. Multi-server management from a single 
+console across multiple sites
+4. Automated infrastructure management for 
+patch and version upgrades
+5. Analytics-driven simplified management with 
+actionable intelligence
+6. System tagging for metadata-based 
+filtering/sorting
+7. Hardware profile-based deployment to 
+multiple servers
+8 Policy template deployment to multiple
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.12;
+Page No.87
+The offered server platform complies with all 
+essential server hardware management 
+requirements including secure remote 
+management, remote KVM, virtual media, out-of-
+band administration, health monitoring, 
+telemetry, firmware lifecycle management, 
+standards-based Redfish API integration, and 
+cryptographically signed firmware updates.
+Point Number 3, 4, 5, 7, 8, 13 and 14.
+These requirements prescribe specific centralized 
+infrastructure management, automated 
+provisioning, policy deployment, analytics, and 
+orchestration capabilities that are generally 
+delivered through separate enterprise 
+management software platforms rather than 
+being inherent server hardware capabilities
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+8. Policy template deployment to multiple 
+servers
+9. Platform inventory, health monitoring, 
+utilization statistics collection, firmware updates, 
+diagnostic tools
+10. Alerts for non-OEM hardware compliance
+11. Open and programmable solution with REST 
+API, SDK (Python, PowerShell)
+12. Customizable dashboards for faults, health, 
+inventory, user-defined dashboards and widgets
+13. Single pane of glass for auto-provisioning 
+across multi-vendor and multi-hypervisor 
+platforms
+14. Self-service portal for automated provisioning
+15. Real-time out-of-band hardware performance 
+monitoring and alerting
+being inherent server hardware capabilities. 
+Modern data centers commonly utilize vendor-
+neutral orchestration, automation, and 
+configuration management frameworks such as 
+Ansible, Puppet, Chef, Terraform, OpenStack, 
+VMware vCenter, Microsoft System Center, 
+Nutanix Prism, or equivalent tools. Such 
+functions can be implemented independently of 
+the server hardware platform through standards-
+based interfaces.Mandating these specific 
+capabilities at the server hardware level may 
+unnecessarily restrict participation by solutions 
+that fully support open management standards 
+such as DMTF Redfish, IPMI, SNMP, and Syslog 
+while enabling integration with existing 
+management ecosystems already deployed by 
+the customer. Therefore, compliance should be 
+evaluated based on standards-based 
+interoperability and integration capability rather 
+than the availability of a particular centralized 
+management software suite.
+Point No. 10. 
+Alerts related to non-OEM hardware components 
+are not essential to server functionality, 
+performance, reliability, or security. Industry-
+standard components that comply with 
+recognized specifications such as JEDEC, NVMe, 
+SATA, PCIe, and related standards can operate 
+reliably when validated for compatibility. 
+Compliance requirements should focus on 
+adherence to applicable industry standards and 
+interoperability rather than vendor-specific 
+component identification mechanisms.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+Management Features:
+1. Remote power on/off and remote server 
+management over LAN/WAN with SSL
+2. Virtual media support with required licenses, 
+Remote KVM, Server Health Logging, Out-of-Band 
+Management
+3. Multi-server management from a single 
+console across multiple sites
+4. Automated infrastructure management for 
+patch and version upgrades
+5. Analytics-driven simplified management with 
+actionable intelligence
+6. System tagging for metadata-based 
+filtering/sorting
+7. Hardware profile-based deployment to 
+multiple servers
+8. Policy template deployment to multiple 
+servers
+9. Platform inventory, health monitoring, 
+utilization statistics collection, firmware updates, 
+diagnostic tools
+10. Alerts for non-OEM hardware compliance
+11. Open and programmable solution with REST 
+API, SDK (Python, PowerShell)
+12. Customizable dashboards for faults, health, 
+inventory, user-defined dashboards and widgets
+13. Single pane of glass for auto-provisioning 
+across multi-vendor and multi-hypervisor 
+platforms
+14. Self-service portal for automated provisioning
+15. Real-time out-of-band hardware performance 
+monitoring and alerting
+Point No. 1, 2, 6, 9, 11, 12 and 15
+These requirements can be fulfilled through 
+industry-standard server management 
+technologies without requiring proprietary 
+implementation approaches.
+The offered platform provides:
+1. Secure web-based management over SSL/TLS
+2. Remote KVM and Virtual Media
+3. Out-of-Band management
+4. Hardware health monitoring
+5. Telemetry and event logging
+6. RESTful management APIs
+7. Firmware management
+8. Inventory and utilization monitoring
+9. Real-time alerting and diagnostics
+These capabilities are available through open 
+industry standards including DMTF Redfish, IPMI, 
+SNMP, Syslog, and REST APIs, allowing 
+integration into existing enterprise monitoring 
+and management tools.
+Features such as custom dashboards, widgets, 
+proprietary SDKs, or vendor-specific visualization 
+layers should be considered value-added 
+software features rather than essential server 
+hardware requirements.
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.12;
+Page No.87
+91
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+92
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.12;
+Page No.87
+Management Features:
+5. Analytics-driven simplified management with 
+actionable intelligence
+13. Single pane of glass for auto-provisioning 
+across multi-vendor and multi-hypervisor 
+platforms
+14. Self-service portal for automated provisioning
+Request to revise the management suite 
+specification to outcome/technology-neutral 
+language and add the following critical security 
+management features that are available across 
+all major OEM platforms: (13) Stop execution of 
+applications/hypervisor/OS on predefined 
+security breach; (14) Secure/automatic BIOS 
+recovery; (15) Network card secure firmware 
+boot; (16) System lockdown on security breach.
+As per the RFP
+Point No. 1, 2 and 8
+Terminologies such as "Hardware Root of Trust," 
+"Dual Root of Trust," and "System Lockdown" 
+may represent implementation-specific 
+approaches to achieving platform security.
+Equivalent security objectives can be achieved 
+through industry-standard technologies such as:
+1. TPM 2.0
+2. UEFI Secure Boot
+3. Intel Boot Guard / AMD Platform Security 
+technologies
+4. Cryptographic firmware validation
+5. Secure credential management
+6. Role-Based Access Control (RBAC)
+Procurement specifications should focus on the 
+desired security outcomes rather than requiring 
+specific implementation terminology
+93
+Security Features: 
+1. Secure Boot (Firmware & BIOS level), system 
+lock on breach
+2. Hardware Root of Trust / Dual Root of Trust
+3. Policy-based security, intrusion detection, 
+OEM-certified malicious code-free design
+4. Cryptographic firmware updates
+5. Stop execution of applications/hypervisor/OS 
+on predefined security breach
+6. Secure/automatic BIOS recovery
+7. Network card secure firmware boot
+8. System lockdown on security breach
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.13;
+Page No.87
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+specific implementation terminology.
+Point No. 3 and 5.
+Requirements involving automatic execution 
+blocking, hypervisor interruption, or platform 
+shutdown based on predefined security events 
+should be carefully evaluated in the context of 
+operational continuity. In enterprise 
+environments, security controls are typically 
+implemented through coordinated security 
+monitoring, endpoint protection, identity 
+management, and incident response 
+mechanisms. Automated hardware-level 
+interruption of active workloads may not be 
+appropriate for all deployment scenarios and 
+could impact service availability.
+Therefore, security requirements should focus on 
+detection, logging, alerting, and policy 
+enforcement capabilities while allowing flexibility 
+in implementation methodology.
+Point No. 1, 4, 6 and 7. The underlying security 
+objectives represented by these requirements 
+are already addressed through widely adopted 
+industry standards and ecosystem-supported 
+technologies, including:
+1. UEFI Secure Boot
+2. TPM 2.0
+3. NIST-aligned firmware protection mechanisms
+4. Cryptographically signed firmware updates
+5. Secure BIOS recovery processes
+6. Network adapter firmware security 
+mechanisms provided by component 
+manufacturers
+Compliance should therefore be assessed based 
+on adherence to recognized industry security 
+standards and security outcomes rather than 
+vendor-specific branding or terminology.
+94
+Security Features: 
+1. Secure Boot (Firmware & BIOS level), system 
+lock on breach
+2. Hardware Root of Trust / Dual Root of Trust
+3. Policy-based security, intrusion detection, 
+OEM-certified malicious code-free design
+4. Cryptographic firmware updates
+5. Stop execution of applications/hypervisor/OS 
+on predefined security breach
+6. Secure/automatic BIOS recovery
+7. Network card secure firmware boot
+8. System lockdown on security breach
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.13;
+Page No.87
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+95
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.2 - Backup Server;
+Sr. No.13;
+Page No.87
+Security Features: 
+1. Secure Boot (Firmware & BIOS level), system 
+lock on breach
+2. Hardware Root of Trust / Dual Root of Trust
+3. Policy-based security, intrusion detection, 
+OEM-certified malicious code-free design
+4. Cryptographic firmware updates
+5. Stop execution of applications/hypervisor/OS 
+on predefined security breach
+6. Secure/automatic BIOS recovery
+7. Network card secure firmware boot
+8. System lockdown on security breach
+Points 5–8 of this Security Features clause (Stop 
+execution on breach, Secure BIOS recovery, 
+Network card secure firmware boot, System 
+lockdown on breach) are also being added to the 
+Management Suite clause in Query #8. Request 
+confirmation that these 4 features belong under 
+the Security Features specification only, and that 
+they should be removed from the Management 
+Suite clause to eliminate duplicate compliance 
+requirements.
+As per the RFP
+96
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Sr. No.9;
+Page No.88
+Resilience: Supports sub-component level 
+failures (CPU, memory, front-end/back-end 
+ports) without controller reboot
+Offered solution provides dual-controller high-
+availability architecture with automatic failover 
+and online controller replacement capability, 
+which is the industry-standard approach adopted 
+by leading enterprise storage platforms. Storage 
+services continue through the redundant 
+controller without requiring reboot of the 
+operational controller, ensuring business 
+continuity and high availability.
+As per the RFP
+97
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Sr. No.9;
+Page No.88
+Resilience: Supports sub-component level 
+failures (CPU, memory, front-end/back-end 
+ports) without controller reboot
+Request to revise this clause to: "The storage 
+system shall maintain continuous I/O operations 
+and zero service interruption in the event of sub-
+component failures (CPU, memory, front-
+end/back-end ports) within one controller. The 
+partner controller in the Active- Active HA pair 
+shall continue serving all I/O without 
+interruption. Replacement of a failed controller 
+or sub-component shall not require a complete 
+storage system reboot or service outage."
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+98
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Sr. No.12;
+Page No.88
+Backend Connectivity: 12 Gbps FC Port
+We request GIL/BMC to change this 
+to25GbE/100GbE back-end connectivity as 
+12Gbps SAS is
+OLD Architecture and becomes bottleneck in 
+performanceof storage array, as NVMe Drives 
+works better with GbE connectivity delivering 
+End to End NVMe experience. Also this is limiting 
+OEM participation
+As per the RFP
+99
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Sr. No.14;
+Page No.88
+Encryption: Self-Encryption capability for data at 
+rest
+Request to enhance this clause to: "Self-
+Encryption capability for data at rest (SED 
+support). The storage system shall additionally 
+provide: (i) Data-in-flight encryption for all 
+replication traffic over WAN links; (ii) Built-in 
+AI/ML-based ransomware detection and 
+protection as a standard feature of the storage 
+OS from Day 1, capable of detecting anomalous 
+data write patterns, generating real-time alerts, 
+and enabling rapid data recovery from immutable 
+snapshots."
+(iv) NO ADDITIONAL COST: These features are 
+included in the storage OS of leading platforms — 
+BMC gains significant security enhancement at 
+zero extra cost.
+As per the RFP
+100
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Sr. No.16;
+Page No.88
+Quality of Service: Support for IOPS and 
+throughput (MB/s) control
+ We request GIL/BMC to specify the IOPS in 
+number like 50,000 or 75000 IOPS with 70:30
+Read Write Ratios and < 3 ms latency . So that 
+same can be demonstrated during FAT
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+101
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Sr. No.17;
+Page No.88
+Replication: Support for both synchronous and 
+asynchronous replication to DR site
+Request to enhance this clause to: "Support for 
+both synchronous and asynchronous replication 
+to DR site. All replication traffic shall be secured 
+with end-to-end encryption and shall support 
+WAN bandwidth optimization (inline 
+deduplication and compression). All required 
+hardware (including FCIP routers/gateways or 
+equivalent WAN extension hardware) and 
+software licenses for HA replication shall be 
+included and quoted from Day 1 of the project."
+As per the RFP
+102
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.3 - SAN Storage;
+Page No.89
+Note:- SAN switch with redundancy should be 
+supplied as part of the solution.
+How many existing servers and other 
+components listed in Annexure 'P' are planned to 
+connect to the new SAN storage? Please provide 
+the total count of FC-connected devices (servers, 
+backup appliances, tape library) so bidders can 
+correctly size the SAN switch port count.
+Kindly refer clause No. 3.26 of RFP for the 
+integration of existing component.
+103
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.5 - L2 Manageable Network Switch - 48 
+Port;
+Sr. No.4;
+Page No.90
+Uplink Ports: Minimum 2 × 10 Gbps Ethernet 
+ports and
+Minimum 2 × 10 Gbps fiber ports along with 
+require SFP
+Request to revise uplink port specification to: 
+"Minimum 4 × 10 Gbps SFP+ uplink ports with 
+required fiber/copper SFP modules as per 
+deployment requirement." This replaces the 
+current specification of 2 × 10G copper Ethernet 
++ 2 × 10G fiber as separate port types.
+Kindly see corrigendum
+104
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.11 - LED TV – 43 Inch;
+Sr. No.11;
+Page No.96
+Energy Star Rating: 3 Star or above
+Request you to remove the star rating 
+requirement from the LED TV specifications, as 
+star ratings are primarily applicable to consumer-
+grade displays and are generally not available for 
+professional/commercial display solutions.
+As per the RFP
+105
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.11 - LED TV – 43 Inch;
+Sr. No.14;
+Page No.96
+RF Input: YES
+Request you to please remove RF Input as this is 
+an old technology.
+Kindly see corrigendum
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+106
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.1;
+Page No.98
+Rack Form Factor & Dimensions: 42U rack;
+Maximum 950 mm × 1200 mm (width × depth);
+Minimum 34U usable space for IT equipment.
+Request to revise to: "Minimum 42U rack (43U 
+acceptable); Width: 800 mm to 1000 mm; Depth: 
+1200 mm; Minimum 32U usable space for IT 
+equipment."
+As per the RFP
+107
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.3;
+Page No.98
+Doors: Dual front & dual rear doors
+Request to revise to: "Front: Lockable perforated 
+glass or mesh door; Rear: Lockable perforated 
+metal or mesh door. Dual/split doors are also 
+acceptable."
+Kindly see corrigendum
+108
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.3;
+Page No.98
+Doors: Dual front & dual rear doors
+we request you to amend the specification 
+toprovide a single front glass door with complete 
+42U heightvisibility and a rear split door with 
+stiffeners to ensure adequate structural strength 
+and rigidity
+Kindly see corrigendum
+109
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.5;
+Page No.98
+Cooling Capacity: Up to 7 kW per rack
+Request to revise to: "Cooling Capacity: 
+Minimum 3.5 kW per rack (scalable to 7 kW if 
+required)."
+As per the RFP
+110
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.6(4);
+Page No.98
+Smart Infrastructure: 
+4. Security devices: biometric access control, 
+door sensors, rodent repellent system
+Request to revise to: "Security devices: HID 
+proximity card-based access control OR biometric 
+access control (both acceptable); door sensors 
+with alarm; rodent-proof cable entry 
+glands/seals."
+As per the RFP
+111
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.7;
+Page No.99
+Cooling System: 
+1. Rack-based closed loop AC, N+N redundancy
+2. Rack-mounted 7 kW / 2TR zero-U cooling unit
+3. DX type (R410A) with ≥10 EC fans delivering 
+>2000 CMH
+4. Variable capacity scroll compressor (time-
+modulated loading)
+5. Indoor-outdoor piping support up to 30 m
+6. Indoor unit accommodated inside rack frame
+Request the following 4 revisions: (i) Allow N+1 
+redundancy with Emergency Free Cooling Unit 
+(EFC) as an alternative to N+N. (ii) Revise 
+minimum airflow to ≥700 CMH (from >2000 
+CMH). (iii) Allow Inverter Rotary Compressor as 
+an alternative to Variable Capacity Scroll 
+Compressor. (iv) Revise maximum piping distance 
+to 20 m (from 30 m).
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+112
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.7(4);
+Page No.99
+Cooling System: Variable capacity scroll 
+compressor (time-modulated loading)
+The requirement for a Variable Capacity Scroll 
+Compressor is generally applicable for high-
+capacity Smart Rack cooling systems (typically 
+above 10 kW). Since the tender specifies a 
+cooling capacity of 7 kW, this requirement 
+unnecessarily restricts OEM participation. We 
+kindly request that the clause be amended to 
+read: "Variable Capacity Scroll Compressor / 
+Digital Scroll Compressor".
+As per the RFP
+113
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.8;
+Page No.99
+Power Distribution (iPDU): 
+1. Single-phase, 32A, 230V
+2. 2 intelligent PDUs per rack, each with ≥30 
+hybrid outlets (C13/C19)
+3. High retention outlets
+4. Input monitoring at breaker level, daisy chain 
+Ethernet, local LED display
+5. Protocols: IPv4, IPv6, HTTP, HTTPS, LDAP, 
+DHCP, SSH, SMTP, NTP, Syslog
+Request to revise to: "2 × Intelligent PDUs per 
+rack; Single-phase 32A 230V; Minimum 24 hybrid 
+C13/C19 outlets per PDU (12 × C13 + 12 × C19); 
+Outlet-level monitoring with configurable alarms 
+via email/SNMP trap; IPv4/IPv6, HTTPS, SSH, 
+SNMP, Syslog, NTP protocols."
+As per the RFP
+114
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.11;
+Page No.99
+Access Control: Biometric-based front door 
+access, magnetic locks front, mechanical locks 
+rear
+Request to revise to: "Front door access: HID 
+proximity card-based access control OR biometric-
+based access (both acceptable); Magnetic lock on 
+front door; Mechanical lock on rear door."
+As per the RFP
+115
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Sr. No.12;
+Page No.99
+IP KVM with Console: 1. 1U rack-mountable, ≥ 
+15" LCD console tray
+2. 8-port built-in KVM switch at rear
+3. Cable management arm (CMA)
+4. Separate power for LCD & KVM
+5. 8 KVM cables with VGA/USB connectors, LED 
+indicators
+6. Supports virtual media, TCP/IP, 128-bit SSL, 
+AES, DES, 3DES encryption
+7. Cascadable up to 30 m CAT cable
+8. Minimum 100-key keypad with numpad & 
+touchpad
+Request to revise to: "16-port IP KVM switch with 
+external 17" LCD console; USB-powered KVM 
+cables; IP-based remote console access (AES/SSL 
+encrypted); Cascadeable to support minimum 16 
+servers; 1U or 2U rack-mountable."
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+116
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.14 - Smart Rack;
+Page No.99
+Note:- All critical components of smart rack (rack, 
+cooling, iPDU, IP KVM, monitoring system) from 
+same OEM for seamless integration & service 
+support
+As per the current tender condition, the Smart 
+Rack and IP KVM are required to be from the 
+same OEM. However, most Smart Rack OEMs do 
+not manufacture IP KVM solutions, which 
+restricts participation by otherwise eligible OEMs.
+Therefore, we kindly request that the tender be 
+amended to allow the IP KVM to be from a 
+different OEM, provided it is fully compatible 
+with the Smart Rack solution
+As per the RFP
+117
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.15 - Virtualization Software;
+Sr. No.4;
+Page No.100
+The solution shall provide High Availability (HA) 
+such that, in case of host failure, all virtual 
+machines are automatically restarted on another 
+host. The feature shall be independent of guest 
+OS clustering and support multiple host failures 
+using both network and datastore heartbeats.
+Request to revise "using both network and 
+datastore heartbeats" to "using network OR 
+datastore heartbeats (or both where available)."
+Kindly see corrigendum
+118
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.15 - Virtualization Software;
+Sr. No.4;
+Page No.100
+The solution shall provide High Availability (HA) 
+such that, in case of host failure, all virtual 
+machines are automatically restarted on another 
+host. The feature shall be independent of guest 
+OS clustering and support multiple host failures 
+using both network and datastore heartbeats.
+The solution shall provide High Availability (HA) 
+such that, in case of host failure, all virtual 
+machines are automatically restarted on another 
+host. The feature shall be independent of guest 
+OS clustering and support multiple host failures 
+using both network OR datastore heartbeats.
+Kindly see corrigendum
+119
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.15 - Virtualization Software;
+Sr. No.8;
+Page No.100
+The solution shall provide simple and effective 
+centralized management of VM templates, ISO 
+images, and virtual appliances, with support for 
+synchronization across sites
+Request to remove "with support for 
+synchronization across sites." Revised clause: 
+"The solution shall provide simple and effective 
+centralized management of VM templates, ISO 
+images, and virtual appliances."
+Kindly see corrigendum
+120
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.15 - Virtualization Software;
+Sr. No.8;
+Page No.100
+The solution shall provide simple and effective 
+centralized management of VM templates, ISO 
+images, and virtual appliances, with support for 
+synchronization across sites
+The solution shall provide simple and effective 
+centralized management of VM templates, ISO 
+images, and virtual appliances. Request: 
+Requesting customer to change the rfp point to 
+above.
+Kindly see corrigendum
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+121
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.15 - Virtualization Software;
+Sr. No.11;
+Page No.100
+The virtualization platform shall natively support 
+a distributed virtual switch spanning multiple 
+hosts, enabling centralized network provisioning, 
+monitoring, traffic management, and network 
+aggregation.
+Request to add "or equivalent network 
+virtualization solution" after "distributed virtual 
+switch." Revised: "The virtualization platform 
+shall provide a distributed virtual switch or 
+equivalent network virtualization solution 
+spanning multiple hosts, enabling centralized 
+network provisioning, monitoring, traffic 
+management, and network aggregation."
+Kindly see corrigendum
+122
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.15 - Virtualization Software;
+Sr. No.11;
+Page No.100
+The virtualization platform shall natively support 
+a distributed virtual switch spanning multiple 
+hosts, enabling centralized network provisioning, 
+monitoring, traffic management, and network 
+aggregation.
+The virtualization platform shall provide a 
+distributed virtual switching capability, or an 
+equivalent solution, spanning multiple hosts to 
+enable centralized network provisioning, 
+monitoring, traffic management, and network 
+aggregation. Request : Distributed Switching is a 
+vendor-specific term; therefore, we request a 
+change. 
+Kindly see corrigendum
+123
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.16 - Virtualization Management Suite;
+Sr. No.8;
+Page No.101
+The platform shall support non-disruptive 
+migration (P2V and V2V) of existing physical and 
+virtual workloads (Windows and Linux) into the 
+proposed virtualized environment.
+The platform shall support non-disruptive 
+migration (P2V OR V2V) of existing physical and 
+virtual workloads (Windows and Linux) into the 
+proposed virtualized environment.
+Kindly see corrigendum
+124
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.16 - Virtualization Management Suite;
+Sr. No.8;
+Page No.101
+The platform shall support non-disruptive 
+migration (P2V and V2V) of existing physical and 
+virtual workloads (Windows and Linux) into the 
+proposed virtualized environment.
+The platform shall support non-disruptive 
+migration (P2V OR V2V) of existing physical and 
+virtual workloads (Windows and Linux) into the 
+proposed virtualized environment.
+Kindly see corrigendum
+125
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.16 - Virtualization Management Suite;
+Sr. No.15;
+Page No.101
+The platform shall provide Single Sign-On (SSO) 
+with role-based access control (RBAC) for secure 
+and simplified administration.
+Request to revise to: "The platform shall support 
+Single Sign-On (SSO) or integration with 
+enterprise User Directory (Active Directory/LDAP) 
+with role-based access control (RBAC) for secure 
+and simplified administration."
+Kindly see corrigendum
+126
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.16 - Virtualization Management Suite;
+Sr. No.15;
+Page No.101
+The platform shall provide Single Sign-On (SSO) 
+with role-based access control (RBAC) for secure 
+and simplified administration.
+The platform shall provide with Single Sign-On 
+(SSO) /Integration with any User Directory with 
+role-based access control (RBAC) for secure and 
+simplified administration.
+Kindly see corrigendum
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+127
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.16 - Virtualization Management Suite;
+Sr. No.16;
+Page No.101
+The solution shall provide centralized content 
+library management for VM templates, ISO 
+images, and virtual appliances with multi-site 
+synchronization capability.
+Request to revise to: "The solution shall provide 
+centralized content library management or 
+equivalent capability for VM templates, ISO 
+images, and virtual appliances." (Remove "with 
+multi-site synchronization capability.")
+Kindly see corrigendum
+128
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.16 - Virtualization Management Suite;
+Sr. No.16;
+Page No.101
+The solution shall provide centralized content 
+library management for VM templates, ISO 
+images, and virtual appliances with multi-site 
+synchronization capability.
+The solution shall provide centralized content 
+library management or Equivalent for VM 
+templates, ISO images, and virtual appliances. 
+Request: Requesting the customer to change the 
+RFP point to the above.
+Kindly see corrigendum
+129
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.19 - Security Solution for Servers;
+Page No.104
+Security Solution for Servers
+We requiest to clarify and define the qty for 
+Security Solution for Servers in Price BOQ
+The quantity specified under Item No. A22 – 
+"Endpoint Anti-Virus Software License for VM"  
+shall be considered as per the BOQ. Bidders shall 
+quote for the quantity specified in the BOQ.
+130
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.20 - Dome Camera;
+Sr.No.6 & 8;
+Page No.106
+Focal Length (mm): 3.6 ~ 12
+Field of View: Horizontal: 90°-120°, Vertical: 45°-
+60°
+As per the RFP, the camera is required to support 
+a 3.6 ~ 12.0 mm lens, which is a motorized 
+varifocal (VF) lens. With a motorized varifocal 
+lens, increasing the optical zoom (focal length) 
+naturally reduces both the Horizontal and 
+Vertical Field of View (FoV). Therefore, it is 
+technically not possible to achieve a wide FoV 
+across the entire focal length range as specified 
+in the RFP. Hence, we kindly request you to 
+amend the FoV requirement to align with the 
+optical characteristics of a 3.6 ~ 12.0 mm 
+motorized varifocal lens. Requested Amendment: 
+Field of View: Horizontal: 90°–20°, Vertical: 
+45°–15° or better.
+Kindly see corrigendum
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+131
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.20 - Dome Camera;
+Sr.No.6 & 8;
+Page No.106
+Focal Length (mm): 3.6 ~ 12
+Field of View: Horizontal: 90°-120°, Vertical: 45°-
+60°
+As per the RFP, the camera is required to support 
+a 3.6 ~ 12.0 mm lens, which is a motorized 
+varifocal (VF) lens. With a motorized varifocal 
+lens, increasing the optical zoom (focal length) 
+naturally reduces both the Horizontal and 
+Vertical Field of View (FoV). Therefore, it is 
+technically not possible to achieve a wide FoV 
+across the entire focal length range as specified 
+in the RFP. Hence, we kindly request you to 
+amend the FoV requirement to align with the 
+optical characteristics of a 3.6 ~ 12.0 mm 
+motorized varifocal lens. Requested Amendment: 
+Field of View: Horizontal: 90°–20°, Vertical: 
+45°–15° or better.
+Kindly see corrigendum
+132
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.21 - Network Video Recorder with 16 TB 
+Storage(NVR);
+Sr. No.4;
+Page No.107
+Network port: No. 2 of Gigabit port with load 
+balancing and failover
+Load balancing and failover are network switch 
+functionalities and are not applicable to the NVR. 
+Therefore, kindly remove this point from the 
+compliance/requirement.
+As per the RFP
+133
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.21 - Network Video Recorder with 16 TB 
+Storage(NVR);
+Sr. No.6;
+Page No.107
+Output port: VGA and HDMI, 2 nos. of USB port, 
+e-SATA
+VGA and eSATA are legacy technologies and are 
+no longer commonly used in modern NVRs. The 
+proposed NVR supports HDMI for video output, 
+which provides better performance and 
+compatibility. Therefore, kindly remove this point 
+from the requirement.
+Kindly see corrigendum
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+134
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.21 - Network Video Recorder with 16 TB 
+Storage(NVR);
+Sr. No.7;
+Page No.107
+Backup Options: should support Network, USB & 
+e-SATA data backup
+VGA and eSATA are legacy technologies and are 
+no longer commonly used in modern NVRs. The 
+proposed NVR supports HDMI for video output, 
+which provides better performance and 
+compatibility. Therefore, kindly remove this point 
+from the requirement.
+Kindly see corrigendum
+135
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.21 - Network Video Recorder with 16 TB 
+Storage(NVR);
+Sr. No.8;
+Page No.107
+Should support 16 in & 4 out Alarm interfaces 
+and 2 serial interfaces (RS232/RS485)
+The requirement for 16 alarm inputs, 4 alarm 
+outputs, and 2 serial ports is not applicable. 
+Alarm devices can be connected directly to the 
+camera, which simplifies installation and reduces 
+cabling. Additionally, the proposed NVR already 
+provides 2 alarm inputs and 1 alarm output, 
+which are sufficient for the proposed solution. 
+Therefore, kindly remove this point from the 
+requirement.
+Kindly see corrigendum
+136
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.21 - Network Video Recorder with 16 TB 
+Storage(NVR);
+Sr. No.10;
+Page No.107
+Recording Feature: Should support ANR and 
+Pre/Post recording
+ANR (Automatic Network Replenishment) is a 
+feature used to recover recordings during 
+temporary network interruptions by storing data 
+on the camera and synchronizing it once the 
+connection is restored. In a stable and reliable 
+network environment, this feature is generally 
+not required. Therefore, kindly remove this point 
+from the requirement.
+As per the RFP
+137
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.21 - Network Video Recorder with 16 TB 
+Storage(NVR);
+Sr. No.11;
+Page No.107
+Certifications: Certification- FCC/ equivalent 
+Indian Standard, CE/equivalent Indian Standard, 
+UL 62368-1/ equivalent Indian Standard, BIS 
+certified at the time of bidding The OEM should 
+have ISO 9001:2008 and ISO 14001:2004 
+certificate for Manufacturing
+The UL certification for the NVR is not 
+mandatory, as the NVR will be installed in the 
+server room and mounted in a rack. Therefore, 
+we kindly request that this point be removed 
+from the compliance requirements.
+As per the RFP
+138
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.4;
+Page No.108
+Network port: No. 2 of Gigabit port with load 
+balancing and failover
+Load balancing and failover are network switch 
+functionalities and are not applicable to the NVR. 
+Therefore, kindly remove this point from the 
+compliance/requirement.
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+139
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.6;
+Page No.108
+Output port: VGA and HDMI, 2 nos. of USB port, 
+e-SATA
+VGA and eSATA are legacy technologies and are 
+no longer commonly used in modern NVRs. The 
+proposed NVR supports HDMI for video output, 
+which provides better performance and 
+compatibility. Therefore, kindly remove this point 
+from the requirement.
+Kindly see corrigendum
+140
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.7;
+Page No.108
+Backup Options: should support Network, USB & 
+e-SATA data backup
+VGA and eSATA are legacy technologies and are 
+no longer commonly used in modern NVRs. The 
+proposed NVR supports HDMI for video output, 
+which provides better performance and 
+compatibility. Therefore, kindly remove this point 
+from the requirement.
+Kindly see corrigendum
+141
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.8;
+Page No.108
+Alarms: Should support 64 in & 4 out Alarm 
+interfaces and 2 serial interfaces (RS232/RS485)
+The specified requirement appears to be 
+restrictive and limited to a few OEM models. 
+Moreover, a large number of alarm inputs may 
+not be required, as the proposed front-end 
+devices (cameras) are equipped with built-in 
+Alarm I/O interfaces and can directly handle 
+alarm integration requirements. In view of the 
+above, we request you to amend this clause to a 
+practical minimum requirement. This will 
+promote wider participation from reputed OEMs 
+while ensuring compliance with the project's 
+functional and operational requirements. 
+Request Suggestion: Alarms: Should support a 
+minimum of 32 Alarm Inputs and 4 Alarm 
+Outputs and 2 serial interfaces (RS232/RS485), or 
+better.
+Kindly see corrigendum
+142
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.8;
+Page No.108
+Alarms: Should  support  64  in  &  4  out  Alarm  
+interfaces and 2 serial interfaces (RS232/RS485)
+Request you to change and consider 16 in & 4 
+out Alarm interfaces or better
+Kindly see corrigendum
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+143
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.8;
+Page No.108
+Alarms: Should  support  64  in  &  4  out  Alarm  
+interfaces and 2 serial interfaces (RS232/RS485)
+The requirement for 16 alarm inputs, 4 alarm 
+outputs, and 2 serial ports is not applicable. 
+Alarm devices can be connected directly to the 
+camera, which simplifies installation and reduces 
+cabling. Additionally, the proposed NVR already 
+provides 2 alarm inputs and 1 alarm output, 
+which are sufficient for the proposed solution. 
+Therefore, kindly remove this point from the 
+requirement.
+Kindly see corrigendum
+144
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.10;
+Page No.108
+Recording Feature: Should support ANR and 
+Pre/Post recording
+ANR (Automatic Network Replenishment) is a 
+feature used to recover recordings during 
+temporary network interruptions by storing data 
+on the camera and synchronizing it once the 
+connection is restored. In a stable and reliable 
+network environment, this feature is generally 
+not required. Therefore, kindly remove this point 
+from the requirement.
+As per the RFP
+145
+SECTION-VI: MINIMUM TECHNICAL 
+SPECIFICATION;
+Item No.22 - Network Video Recorder with 64 TB 
+Storage(NVR);
+Sr. No.11;
+Page No.108
+Certifications: Certification- FCC/ equivalent 
+Indian Standard, CE/equivalent Indian Standard, 
+UL 62368-1/ equivalent Indian Standard, BIS 
+certified at the time of bidding The OEM should 
+have ISO 9001:2008 and ISO 14001:2004 
+certificate for Manufacturing
+The UL certification for the NVR is not 
+mandatory, as the NVR will be installed in the 
+server room and mounted in a rack. Therefore, 
+we kindly request that this point be removed 
+from the compliance requirements.
+As per the RFP
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+The Manufacturer Authorization Form (MAF) may 
+be submitted in the respective OEM's standard 
+format. However, if the OEM's standard MAF 
+does not contain all the requirements stipulated 
+in the RFP, the bidder shall additionally submit an 
+undertaking/certificate issued by the respective 
+OEM on its official letterhead, duly signed by an 
+authorized signatory, confirming the proposed 
+product(s) and model number(s), End-of-Life 
+(EoL) commitment, End-of-Support (EoS) 
+commitment, and all other applicable 
+requirements specified in the RFP. The MAF and 
+the accompanying OEM undertaking/certificate 
+shall collectively satisfy all the requirements of 
+the RFP.
+Item/Product:
+1 Rack Server
+2 Backup Server
+3 SAN Storage
+4 L3 Manageable Network Switch - 48 Port
+5 L2 Manageable Network Switch - 48 Port
+6 Next Generation Firewall
+7 Tape Library
+8 Online UPS (without Battery)
+9 DG-SET
+10 Precision AC System
+11 Smart Rack
+12 Virtualization Software with Virtualization 
+Management Suite
+13 Backup Software
+14 Endpoint Anti-Virus
+15 Security Solution for Servers
+16 Network Video Recorder with 16 TB 
+Storage(NVR)
+17 Network Video Recorder with 64 TB 
+Storage(NVR)
+146
+Annexure ‘F’: Submission of OEM Authorization 
+Letter (MAF);
+Page No.115
+Request to add Microsoft Corporation as a 
+mandatory OEM in Annexure 'F' (MAF list) for: (i) 
+Microsoft Windows Server OS – 204 Physical 
+Cores, Datacenter Edition, and (ii) Microsoft SQL 
+Server Enterprise – 10 Physical Cores.
+As per the RFP
+Item/Product:
+1 Rack Server
+2 Backup Server
+3 SAN Storage
+4 L3 Manageable Network Switch - 48 Port
+5 L2 Manageable Network Switch - 48 Port
+6 Next Generation Firewall
+7 Tape Library
+8 Online UPS (without Battery)
+9 DG-SET
+10 Precision AC System
+11 Smart Rack
+12 Virtualization Software with Virtualization 
+Management Suite
+13 Backup Software
+14 Endpoint Anti-Virus
+15 Security Solution for Servers
+147
+Annexure ‘F’: Submission of OEM Authorization 
+Letter (MAF);
+Page No.115
+Specific designated OEM provide MAF as per 
+their standard format, but Brand Name and 
+model can be mentioned on OEM letterhead as 
+undertaking. So request to amend this clause.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+148
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.A9;
+Page No.125
+Smart Rack 42U
+1.Required heat load OR cooling Capacity 
+2.Room Layout Required for Smart Rack 
+Placement
+3.Drain Point Location Required 
+4.ODU Location Required and distance from 
+smart rack
+5.Input UPS power source with earthing required  
+Heat load/cooling capacity is as specified in the 
+BOQ/Minimum Technical Specification; room 
+layout, drain point, ODU location and power 
+source details for the Smart Rack, to the extent 
+available, may be assessed by bidders during the 
+mandatory site visit; incidental installation 
+requirements are part of SI's turnkey scope.
+149
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.A11;
+Page No.125
+20 KVA UPS (Without Battery Bank)
+1.Battery make and rating required for 144 
+battery
+2.distribution required for 2 qty UPS
+3.UPS installation Location with Layout 
+distribution panel and switchgear Components 
+scope -if any
+4.Input row power source with earthing required 
+5.UPS Power distribution Cabling scope with 
+termination scope -if any
+144-battery bank is Exide make 12V 75AH has 
+been procured in the year 2025.
+Above details may be verified during the 
+mandatory site visit. The SI shall be responsible 
+for testing the existing battery bank's health and 
+compatibility with the new UPS as part of the As-
+Is Assessment; any battery found unserviceable 
+shall be dealt with as per Clause 3.14 of the RFP.
+150
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.A12;
+Page No.125
+DG-Set (50 kVA)
+1.Installation Location required
+2.input raw power and DG Power cabling and 
+Automatic change over switch scope with DB 
+Panel
+3.earting required  
+DG installation location, power cabling/ATS 
+scope and earthing requirement, to the extent 
+available, may be assessed during the mandatory 
+site visit; this is part of SI's turnkey scope under 
+Clause 3.15.
+151
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.A13;
+Page No.125
+Precision Air Conditioner (PAC)
+1.Cooling capacity required
+2.Distribution required for 2 Qty with mounting 
+Location
+3.Drain Point Location Required 
+PAC cooling capacity is as specified in the 
+BOQ/Minimum Technical Specification; 
+distribution and drain point details to be 
+assessed by the bidder during the mandatory site 
+visit.
+15 Security Solution for Servers
+16 Network Video Recorder with 16 TB 
+Storage(NVR)
+17 Network Video Recorder with 64 TB 
+Storage(NVR)
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+152
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.A14;
+Page No.125
+Split Air Conditioner
+1.Cooling capacity required
+2.Distribution required for 2 Qty with mounting 
+Location
+3.Drain Point Location Required 
+Split AC cooling capacity is as specified in the 
+BOQ/Minimum Technical Specification; 
+distribution and drain point details to be 
+assessed by the bidder during the mandatory site 
+visit.
+153
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.A23;
+Page No.126
+Dome Camera
+1.Back Box required or Not ?- Please confirm
+2.Rack side and camera side Up Cable 
+termination 3.components Required Or Not ? -
+Please confirm with line item and qty
+Back box and cable termination requirements for 
+Dome Cameras are part of SI's turnkey 
+installation scope and shall be assessed/quoted 
+by the bidder based on site conditions verified 
+during the mandatory site visit.
+154
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.C1;
+Page No.126
+Precision Air Conditioner (Schneider 3 TR PAC)
+1.Existing PAC Make model and serial number 
+required with ODU
+2.Photograph required for existing PAC with ODU
+Precision Air Conditioner(PAC)-1:
+Make: Schneider
+Model: Amico 3
+Serial No.: C21738001903
+Procurement Year: 2018.
+Precision Air Conditioner(PAC)-2:
+Make: Schneider
+Model: Amico 3
+Serial No.: C21751001961
+Procurement Year: 2018.
+155
+Annexure ‘N’: Commercial/Financial Bid Format;
+Table No.2 – Detailed Price-Breakup;
+Sr. No.C2;
+Page No.126
+UPS 15 KVA(Arrow)
+1.Existing UPS  Make model and serial number 
+required  
+2.Photograph required for existing  UPS 
+UPS-1:
+Make: Arrow
+Capacity & Type: 15KVA Online
+Serial No.: 18031215216001
+Procurement Year: 2018.
+UPS-2:
+Make: Arrow
+Capacity & Type: 15KVA Online 
+Serial No.: 18031215216002
+Procurement Year: 2018.
+156
+Annexure ‘P’: List of Existing 
+Equipment/Component Covered Under O&M;
+Page No.129
+Annexure ‘P’ – List of Existing 
+Equipment/Component Covered Under O&M
+Request GIL/BMC to: (i) Enhance Annexure P with 
+make, model, year of purchase/installation, and 
+current warranty/AMC status for each listed 
+item; (ii) Permit a pre-bid physical site inspection 
+at BMC Data Centre, Bhavnagar (combined with 
+Pre-Bid Meeting on 29- June-2026 if possible).
+Annexure-'P' contains the list of existing 
+equipment covered under O&M as available with 
+BMC. Bidders are advised to conduct the 
+mandatory site visit under Clause 1.10 for 
+physical verification / assessment; a facilitated 
+site inspection with BMC's coordination shall be 
+arranged during the pre-bid period as per the RFP 
+schedule.
+
+
+Sr. No.
+RFP Page No., Section No. , Clause No.
+Existing Clause as per RFP
+Query/Suggestion of Bidder
+Clarification
+Request for Proposal (RFP) for Selection of a System Integrator (SI) for Upgradation of the Data Centre at Bhavnagar Municipal Corporation (BMC) with Five (5) Years of Operation
+and Maintenance (O&M) Services (GEM/2026/B/7466944)
+Response to Pre-Bid Queries
+157
+Annexure ‘Q’: Bill of Material (BOM) for New 
+Procurement;
+Sr. No.16;
+Page No.131
+Backup Software License
+We request you to kindly clarify and define the 
+exact quantity in price BoQ for the required for 
+the Backup Software License for Servers in the 
+Price BOQ. Currently, the BOQ specifies a 
+quantity of one (1) only. However, backup 
+software licensing is generally based on the 
+number of physical servers and/or virtual 
+machines (VMs) to be protected. Therefore, 
+please provide the exact quantity or the total 
+number of physical servers and virtual machines 
+to be covered under the backup solution so that 
+an accurate and compliant commercial proposal 
+can be submitted.
+As per the RFP

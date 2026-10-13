@@ -1,0 +1,538 @@
+ 
+Scope of Work 
+ 
+Bid for  procurement of 40 Nos. Desktop Computers and 05 Nos. Display Panel (LED) on behalf 
+of Gujarat Legislature Secretariat, Government of Gujarat under National-eVidhan 
+Application (NeVA) Project 
+ 
+Earnest Money Deposit [EMD] 
+Rs. 72,000/- 
+Performance Bank Guarantee (PBG) 
+5% of Total Contract Value (Duration :  38 
+Months) 
+Contract Period 
+03 Years 
+Validity of offer from the date of tender 
+opening 
+180 Days 
+Time and Date for Closure for submission of 
+e-Tender 
+As per GeM Portal 
+Time and Date for Opening of e-Tender 
+(Technical Bid) 
+As per GeM Portal 
+ 
+1. The prospective bidders are requested to visit website https://gem.gov.in/ for more 
+details of tenders & corrigendum, if any. 
+ 
+2. Bidders may participate in above E-tender electronically through website 
+https://gem.gov.in/ only & submissions of manual offers against E-tender are not 
+allowed. Tender documents submitted manually will neither be opened nor 
+considered.  
+ 
+3. EMD should be paid as provided in website https://gem.gov.in/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+CHECK LIST FOR SUBMISSION OF DOCUMENTS 
+Sr No 
+Item 
+1 
+EMD of requisite amount paid through DD/BG in a name of Gujarat Informatics Limited as asked in 
+bid 
+2 
+If exemption claimed  
+(1) Micro and Small Enterprises (MSEs) : valid Udyam Registration and are manufacturer of the 
+offered/quoted Primary Product 
+OR 
+(2) Start‐ups as recognized by Department for Promotion of Industry and Internal Trade (DPIIT) : 
+valid Startup Recognition Certificate and are manufacturer of the offered/quoted Primary 
+Product 
+3 
+Eligibility Criteria for the bidder  
+• Bidder Turn over: As per section- 6 evaluation criteria mentioned in scope of work 
+• OEM Turn over: As per section- 6 evaluation criteria mentioned in scope of work 
+4 
+Past Performance Criteria (Bidder):  As per section -6 evaluation criteria mentioned in scope of 
+work 
+5 
+Past Performance Criteria (OEM):  As per section -6 evaluation criteria mentioned in scope of 
+work 
+6 
+Proof of bidder’s office in Gujarat   
+OR 
+The time of bid submission, bidder will have to submit undertaking letter to open office in Gujarat 
+within 45 days after award of the contract. 
+7 
+Bidder self-declaration letter for acceptance of ATC 
+8 
+One service center (OEM) in Gujarat details which is functional for quoted item 
+9 
+Bidder & OEM should not be blacklisted / debarred letter in last two years as on last date of bid 
+submission 
+10 
+OEM undertaking letter that manufacturing of the quoted items is not older than 1 year from the 
+date of delivery 
+11 
+Bidder / OEM must provide Escalation Matrix & Dedicated/toll Free Telephone No. for Service 
+Support. 
+12 
+Bidder will have to submit Brochure & Technical specification compliance on OEM letter head 
+with duly signed & stamped along with bid number 
+13 
+Data Sheet of the product(s) offered in the bid 
+14 
+Manufacturer Authorization: Wherever Authorized Distributors/service providers are submitting 
+the bid, Authorization Form /Certificate with OEM/Original Service Provider details such as name, 
+designation, address, e-mail Id and Phone No. required to be furnished along with the bid number 
+and offered product name  
+15 
+Undertaking letter as per Ministry of Finance O.M dated 23.07.2020 & 08.02.2021 O.M. regarding 
+restriction on procurement from border countries--on Bidder's letterhead 
+16 
+Undertaking letter as per Ministry of Finance O.M dated 23.07.2020 & 08.02.2021 O.M. regarding 
+restriction on procurement from border countries--on OEM's  letterhead 
+17 
+Any certification : Mentioned in bid / scope of work 
+Note: 
+- 
+All the bidders are advised to go through the check list and up load all the requisite 
+documents to avoid disqualification. 
+- 
+This check list is indicative purpose only and not exhaustive. The bidders must go through 
+the complete tender documents and submit the required document accordingly  
+- 
+Include letter number, bid number and date in each documents. 
+ 
+
+
+ 
+SECTION-1 Minimum Technical Specifications 
+Desktop Computers (Quantity : 40 Nos.) 
+• 
+Processor: 14th Generation Intel core i5 14400 series or higher 
+• 
+Graphics Type: Integrated 
+• 
+Keyboard Connectivity: Wired or Wireless 
+• 
+Mouse Connectivity: Wired or Wireless 
+• 
+Total internal storage capacity: 1 TB NVME SSD 
+• 
+Operating System (Factory Pre‐Loaded): Windows 11 Professional or higher 
+• 
+RAM Size (GB) : 16 GB DDR5 or higher (Single Module) with 1 DIMM slot free. 
+Should support expansion up to 32 GB. 
+• 
+LED Backlit Monitor Size (INCHES): 23.8” or higher 
+• 
+Inbuilt Wireless & Bluetooth Connectivity: Yes 
+• 
+Ports: Minimum 6 USB, VGA/HDMI/DP, LAN 
+• 
+Internal Audible Speakers (Internal audio speakers allowed in CPU or monitor) 
+• 
+On Site OEM Warranty (Year): 3 
+ 
+Display Panels  (LEDs) : (Quantity : 05 Nos.) 
+ 
+• Display Panel Diagonal size (inch) : 55” 
+• Display Aspect Ration :  16:09 
+• Display Brightness (Nits) : 400 or higher 
+• Display Resolution (Pixels) : 3840 X 2160 
+• Touch Technology : Non Touch 
+• Backlight Technology : LED 
+• Operating system : Any Value 
+• Provision of in built speakers : Yes 
+• Display Type : LCD 
+• Speaker : 20W X 2 or higher 
+• Viewing Angle : 170° or more 
+• 
+Stand : Wall mount 
+• 
+Bezel Type : Bezel less 
+• On site OEM Warranty (Year) : 3 
+ 
+Note:   
+• 
+Above mentioned specifications are technical minimum specifications, bidders may 
+quote same or higher specifications. 
+• 
+Bidder & OEM of the quoted product must meet Technical Specifications as mentioned 
+above only, Technical Specifications as mentioned above only will be considered for 
+evaluation. 
+ 
+ 
+ 
+ 
+
+
+ 
+SECTION – 2 Terms and conditions: 
+• 
+Only one make & model should be quoted by bidder against item in the bid. 
+• 
+Bidder will have to submit Brochure & Technical specification compliance on OEM letter head 
+with duly signed & stamped along with bid 
+• 
+Bidder will have to supply all the necessary required accessories/cables with quoted item for 
+make the supplied items functional/operational.  
+• 
+If in any case the quoted Item is not available in the market, the bidder will have to supply 
+Higher model for replacement of that Item in the quoted cost in the same time duration with 
+prior approval of GIL/Purchaser. No “End of Life / End of Support” product should be quoted 
+to minimize such instances. (Make & Model quoted by the bidder should be available till the 
+bid validity, duly supported for spares/OEM support for warranty period). 
+• 
+Bidder will have to submit (Refundable) Earnest Money Deposit (E.M.D.) as asked in bid. 
+Under this bid. 
+• 
+The E.M.D. may be forfeited: 
+ 
+ 
+(a) if a Bidder withdraws its bid during the period of bid validity  
+ 
+ 
+(b) In case of a successful Bidder, if the Bidder fails:  
+ 
+ 
+ 
+ 
+ 
+(i) If the bidder is found to be involved in fraudulent practices. 
+(ii)If the successful bidder fails to submit the Performance Bank Guarantee. 
+GIL also Reserve the right to blacklist such bidder from participating in 
+future tenders if sufficient cause exists 
+• 
+Price shall be inclusive of all freight, forwarding, transit insurance and installation charges. 
+• 
+Before delivery at respective site, bidder will have to offer inspection in the manner as 
+decided by GIL before delivering to the respective sites or at customer sites. The arrangement 
+of inspection of goods has to be done by supplier. Any deviation found in the specification of 
+the produced goods or delivered goods after inspection from the tender specifications will 
+lead to the cancellation of the order, forfeiture of EMD/PBG and prohibition in the 
+participation in the future purchase of Government of Gujarat. GIL/GoG will not be 
+responsible for any time delay which may arise due to any deviation from the bid technical 
+specification found at the time of inspection and the bidder has to deliver and install the 
+ordered goods within prescribed time limit. 
+• 
+In case of successful bidder is found in breach of any condition(s) of bid or supply order/work 
+order, at any stage during the course of supply / installation or warranty period, the legal 
+action as per rules/laws, shall be initiated against the successful bidder and EMD/PBG shall 
+be forfeited, besides debarring and blacklisting the bidder concerned for the time period as 
+decided by Govt., for further dealings with GoG.   
+• 
+The Successful bidder has to submit Performance Bank Guarantee @ 5% of total order value 
+within 15 days from the date of issue of order by GIL (for warranty period + extra 2 months) 
+(from banks operating in India having branch at Ahmedabad/ Gandhinagar) as per the G.R. 
+issued by Finance Department or further instruction issued by Finance department time to 
+time in the name of Purchasing Department & submit copy of the same at GIL. 
+• 
+The bidder will have to supply, install, maintain and provide operational training of 
+supplied hardware, Operating Software and carry out necessary integration at office. 
+• 
+Delivery & Installation:  Within 60 Days calendar days from the date of purchase order.  
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+SECTION-3 : Penalty Clause for delay in delivery & installation 
+• 
+If the bidder fails to deliver and install the requisite hardware and operating software within 
+the time limit as mentioned in the bid, then 0.5% of the contract value of delayed qty. per 
+week or part of the week of delayed period shall be deducted proportionately. 
+• 
+The amount of penalty for delay in delivery & installation shall be subject to a maximum limit 
+of 10% of the total contract value. 
+• 
+In case, the selected bidder does not supply the ordered items for any reason, (after providing 
+notice/cure period of 10 days to bidder) the bidder will be liable to pay the difference amount 
+to the purchaser, over and above the performance guarantee, which indenter department 
+must pay to the next or other selected bidder for purpose of the said items. 
+• 
+In case, delay for delivery and installation of the requisite hardware and operating software 
+will be due to purchasing Department OR its field offices, then penalty will not be imposed. 
+ 
+SECTION-4 : Warranty 
+• 
+Onsite warranty for 03 years for Desktop Computers and Display Panel(LED)  provide 
+by OEM from the date of supply. 
+• 
+If item gives continuous trouble, say more than 3 times in one month during the warranty 
+period, the bidder shall replace the systems with new system without any additional cost 
+to the purchaser. 
+• 
+Free maintenance services shall be provided by the Bidder during the period of warranty.  
+• 
+In case, bidder is not providing satisfactory support & doing unwarranted delay in 
+providing warranty   support, Government offices reserves right to repair the equipment 
+at risk & cost of the bidder. (after providing notice/cure period of 10 days to bidder) 
+• 
+All the required cables & accessories are required to be supplied along with all items to 
+make item to be functional. 
+• 
+Bidder must ensure that the warranty support & service should be available up to 
+delivery locations to provide repairing cum replacement services of faulty equipment 
+within 48 hrs.  
+ 
+Operational/Warranty period Penalty: 
+ 
+• 
+During warranty period, if the complaint is not attended by the bidder within 24 hours 
+penalty of 100 Rs. Per day will be levied. If the complaint is not resolved within 48 hrs the 
+penalty of Rs. 300 per day for Desktop Computers and Display Panel(LED)   will be 
+levied. However, if the complaints not resolved within 7 days then from 8th day to 14th 
+day, penalty would be levied @ 150% and from 15th day onwards penalty @ 200% of the 
+above rates would be levied. The amount of penalty will be recovered from the 
+Performance bank guarantee during warranty period.  
+ 
+• 
+The amount of Operational/Warranty period Penalty shall be subject to a maximum limit 
+of 5% of the total contract value. 
+ 
+• 
+The Bidder/System Integrator will be required to co-ordinate with software vendor 
+and/or do liaison with other service provider to achieve the end-to-end connectivity if 
+required. This also includes OS configuration with respect to LAN/WAN technologies 
+implementation. 
+ 
+
+
+ 
+ 
+SECTION-5 : Payment 
+• 
+Payment for Goods and Services shall be made by Department in Indian Rupees as follows: 
+o 
+No advance payment will be made. 
+o 
+100% payment after successful inspection, delivery, installation, configuration and 
+acceptance by purchaser. The inspection will be done by GIL before delivering to the 
+respective sites or at customer sites. 
+ 
+SECTION – 6 : Evaluation Criteria 
+Bid Evaluation Criteria:  
+• 
+Bidder Turn over: The Bidder must have average annual turnover of Rs. 72 Lakhs in last 
+three financial Years (2022-23, 2023-24, 2024-25). The copies of Audited Annual Accounts/ 
+Statutory CA Certificate for last three years shall be uploaded along with the bid & UDIN 
+number. 
+• 
+OEM Turn over: The OEM of Desktop Computers must have average annual turnover of Rs. 
+1.80 Cr in last three financial Years (2022-23, 2023-24, 2024-25). The copies of Audited 
+Annual Accounts/Statutory CA Certificate for last three years shall be uploaded along with 
+the bid & UDIN number. 
+• 
+The bidder must have one office in Gujarat. Please upload the copy of any one of the following: 
+Property tax bill/Electricity Bill/Telephone Bill/GST Registration/Lease agreement etc.. OR 
+if bidder do not have office in Gujarat then at the time of bid submission, they will have to 
+submit undertaking letter to open office in Gujarat within 45 days after award of the contract. 
+• 
+The bidder should be authorized by its OEM for Desktop Computers and Display 
+Panel(LED) to quote the bid. (bid no. must be mentioned). 
+• 
+The bidder must have successfully executed/completed at least  
+o Single order of Rs.28 Lakhs OR  
+o 2 orders each of Rs. 18 Lakhs OR  
+o 3 orders each of Rs. 14 Lakhs   
+for Desktop and Display Panel (LED) in last 3 years before the bid opening date to 
+any central / state Government / PSU/ Listed Company. Copies of relevant contracts 
+to be submitted along with bid. 
+• 
+The OEM must have supplied 100 Desktops & 12 Display Panel (LED) of same or similar 
+product of during the last 3 years before the bid opening date. Copies of relevant contracts to 
+be submitted along with bid. 
+• 
+Bidder will have to submit Self-Declaration letter for acceptance of ATC Given in bid. 
+• 
+The OEM(s) of Desktop Computers shall have minimum One service centre in Gujarat which 
+should be functional. A Self Certified letter by an authorized signatory of OEM mentioning the 
+address & Contact details of service centre is required to be submitted. 
+• 
+Bidder & OEM of quoted item should not be blacklisted/debarred by any state government / 
+central government / PSU in last three years as on last date of bid submission. Bidder & OEM 
+will have to submit undertaking letter at the time of bidding. 
+• 
+OEM will have to submit undertaking letter by mentioning that manufacturing of the quoted 
+items manufactured in current Year. 
+ 
+
+
+ 
+Note:   
+• 
+In GeM bid, Eligibility Criteria are not mentioned, however bidder & OEM of the quoted 
+product must meet eligibility criteria as mentioned above only & Eligibility Criteria as 
+mentioned above will be considered for evaluation.  
+• 
+Consortium is not allowed. 
+• 
+If OEM would like to participate through their authorized partner, then the partner 
+must be Authorized by OEM. OEM & their authorized Partner should not participate 
+simultaneously & only one of them should participate. 
+ 
+ 
+SECTION-7 : Pre-bid Meeting 
+• 
+The Pre-bid meeting will be held at GIL. 
+• 
+A prospective Bidder requiring any clarification of the bidding documents may seek 
+clarifications by submitting queries to the email ID: gm-tech@gujarat.gov.in, dgmTech-
+gil@gujarat.gov.in & upmab@gujarat.gov.in on GeM Portal prior to the date of Pre-Bid 
+Meeting. No bid queries would be entertained post completion of Pre-Bid Meeting. 
+ 
+• 
+The interested bidder should send the queries as per the following format: 
+Sr No. 
+Name of Organization 
+submitting Request 
+Terms 
+in 
+the 
+tender 
+Bidder 
+/ 
+Vendor’s 
+representation 
+ 
+ 
+ 
+ 
+ 
+• 
+The interested vendors submitted their queries in writing at least 3 days before the date of 
+pre-bid meeting date. 
+• 
+The answers of the pre-bid queries will be published on the website of www.gil.gujarat.gov.in 
+& www.gem.gov.in. 
+• 
+No further or new clarification whatsoever shall be entertained after the Pre-Bid Meeting. 
+The queries / clarifications if any should be submitted in writing to Gujarat Informatics 
+Limited within 7 days of bid publish date. Thereafter the queries / clarifications received 
+from the bidders will not be entertained. 
+ 
+Please address all pre‐bid queries and correspondence to  
+• 
+Shri. Maulik Chauhan, [(I/C)GM – Tech & Networking]  
+Gujarat Informatics Limited,  
+Block No. 2, 2nd Floor, Karmayogi Bhavan,  
+Sector‐10A, Gandhinagar 382 010, Phone No. 079‐23259238 
+               E‐mail: gm-tech@gujarat.gov.in;  dgmTech-gil@gujarat.gov.in; upmab@gujarat.gov.in 
+Email should be followed by post confirmation copy. 
+ 
+ 
+ 
+ 
+ 
+
+
+Bidders are requested to kindly go through the Office Memorandum No.: F. No.6/18/2019-PPD dated 
+23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 of Ministry of Finance, Dept. 
+of Expenditure, Public Procurement division related restrictions on procurement from border countries. 
+As per this GR, bidders are required to quote/offer the product which adheres to this GR. The undertaking 
+as from bidder as well as from offered product OEM is required to be submitted along with bid as per 
+given Performa.  
+ 
+On letterhead of Bidder 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of Finance, 
+Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a 
+land border with India. I certify that we as a bidder and quoted product from following OEMs are not from 
+such a country or, if from such a country, these quoted products OEM has been registered with competent 
+authority. I hereby certify that these quoted product & its OEM fulfills all requirements in this regard and 
+is eligible to be considered for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority, otherwise GIL/End user Dept. reserves the 
+right to take legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+
+
+ 
+ 
+ 
+On letterhead of OEM 
+ 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of Finance, 
+Dept. of Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a 
+land border with India. I certify that our quoted product and our company are not from such a country, or 
+if from such a country, our quoted product and our company have been registered with competent 
+authority. I hereby certify that these quoted product and our company fulfills all requirements in this 
+regard and is eligible to be considered for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. reserves the 
+right to take legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 

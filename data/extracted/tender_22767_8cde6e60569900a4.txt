@@ -1,0 +1,1751 @@
+Page 1 of 33 
+Draft RFP Document dated 13.08.2026 
+ 
+ 
+ 
+ 
+Directorate of ICT & e-Governance 
+Block No. 2, 2nd Floor, C & D Wing, Karmayogi Bhavan, 
+Sector - 10 A, Gandhinagar - 382010 
+ 
+ 
+ 
+ 
+Request for Proposal (RFP) 
+for 
+Supply, Installation, Testing and Commissioning (SITC) 
+of Enterprise Backup Solution with 5 Years 
+Comprehensive Onsite Warranty Support for Gujarat 
+State Data Centre (GSDC), Gandhinagar 
+ 
+ 
+ 
+
+
+Page 2 of 33 
+1. DISCLAIMER: 
+ 
+Directorate of ICT & e-Governance (DIT)/GIL, through this RFP, invites proposals from reputed firms 
+(hereafter referred to as ‘Bidders’) that meet the evaluation criteria and can be onboarded to offer 
+an Enterprise Backup Solution for the Gujarat State Data Centre (GSDC), Gandhinagar. 
+ 
+The information contained in this Request for Proposal (RFP) document or subsequently provided 
+to Bidder(s), whether verbally or in documentary or any other form by or on behalf of the 
+DIT/GIL/DST, Government of Gujarat or any of their employees or consultants, is provided to 
+Bidder(s) on the terms and conditions set out in this RFP and such other terms and conditions 
+subject to which such information is provided. 
+ 
+The purpose of this RFP is to provide interested parties with information that may be useful to them 
+in eliciting their financial offers (the “Proposal”) pursuant to this RFP. This RFP includes statements, 
+which reflect various assumptions and assessments arrived at by the TENDERER, in relation to the 
+RFP. Such assumptions, assessments and statements do not purport to contain all the information 
+that each Bidder may require. This RFP may not be appropriate for all persons, and it is not possible 
+for the TENDERER, its employees, or Consultants to consider the investment objectives, financial 
+situation and particular need of each party who reads or uses this RFP. The assumptions, 
+assessments, statements, and information contained in this RFP may not be complete, accurate, 
+adequate, or correct. Each Bidder should, therefore, conduct its own surveys and analysis and 
+should check the accuracy, adequacy, correctness, reliability, and completeness of the assumptions, 
+assessments, statements, and information contained in this RFP and obtain independent advice 
+from appropriate sources before filling out the RFP. Any deviation in the specification or proposed 
+solutions will be deemed as incapability of the respective Agency and shall not be considered for 
+the final evaluation process. 
+ 
+Information provided in this document to the Bidder(s) is on a wide range of matters, some of which 
+depend upon interpretation of law. The information given is not an exhaustive account of statutory 
+requirements and should not be regarded as a complete or authoritative statement of law. The 
+TENDERER accepts no responsibility for the accuracy or otherwise for any interpretation or opinion 
+on law expressed herein. 
+ 
+TENDERER- its employees and advisors make no representation or warranty and shall have no 
+liability to any person, including any Applicant or Bidder under any law, statute, rules or regulations 
+or tort, principles of restitution or unjust enrichment or otherwise for any loss, damages, cost or 
+expense which may arise from or be incurred or suffered on account of anything contained in this 
+RFP or otherwise, including the accuracy, adequacy, correctness, completeness, delay or reliability 
+of the RFP and any assessment, assumption, statement or information contained therein or deemed 
+to form part of this RFP or arising in any way during the Bidding process. 
+ 
+ 
+ 
+
+
+Page 3 of 33 
+2. ABBREVIATIONS: 
+ 
+Abbreviation 
+Description 
+Authorized 
+Signatory 
+The bidder’s representative/ officer vested (explicitly, implicitly, or through 
+conduct) with the powers to commit the authorizing organization to a binding 
+agreement. Also called signing officer/ authority having the Power of Attorney 
+(PoA) from the competent authority of the respective Bidding firm. 
+Bid 
+"Bid" means the response to this document presented in Technical Bid and 
+Financial Bid, which are submitted online with necessary documents and forms 
+as given in Annexure, complete in all respects, adhering to the instructions and 
+spirit of this document. 
+Bidder 
+“Bidder” means any company/firm/agency responding to this Request for 
+Proposal and who submits their Bid. 
+BOM 
+Bill of Material 
+BOQ 
+Bill of Quantity 
+Client 
+User Department/User Department’s Client 
+Contract/ 
+Procurement 
+Contract 
+Means the contract of service entered between the procuring entity and the 
+“Service Provider” for SITC of SAN Storage Solution with Comprehensive Onsite 
+Warranty Support for Gujarat State Data Centre (GSDC), Gandhinagar with the 
+entire documentation specified in the RFP. 
+Consignee 
+User Department - Gujarat State Data Center 
+Day 
+“Day” means a working day as per the rules of the User Department. 
+DIT 
+Directorate of ICT & e-Governance 
+DST 
+Department of Science & Technology 
+GIL 
+Gujarat Informatics Limited 
+GSDC 
+Gujarat State Data Center 
+GoG 
+Government of Gujarat 
+EMD 
+Earnest Money Deposit 
+PBG 
+Performance Bank Guarantee 
+Purchaser 
+User Department  
+TC 
+Tender Committee 
+GST 
+Goods & Service Tax 
+Incident 
+“Incident” refers to any event/issue that affects the normal functioning of the 
+services/infrastructure, reported by the Client to the Supplier. 
+Response Time 
+“Response time” is the time interval between Client-initiated event (e.g., 
+logging of the request/mail) and the bidder-initiated event in response to that 
+stimulus. 
+RPO 
+Recovery Point Objective is the maximum acceptable amount of data loss 
+measured in time that an organization can tolerate following a disruption. 
+RTO 
+Recovery Time Objective is the maximum acceptable downtime for a system, 
+application, or process after a disaster or failure. 
+
+
+Page 4 of 33 
+OEM 
+Original Equipment Manufacturer 
+TPA 
+Third Party Auditor 
+SLA 
+Service Level Agreement 
+POA 
+Power of Attorney 
+UAT 
+User Acceptance Testing 
+PROD 
+Production (Environment) 
+DR 
+Disaster Recovery 
+BCP 
+Business Continuity Plan (or Business Continuity Planning) 
+TPS / RPS 
+Transactions Per Second / Requests Per Second 
+ 
+ 
+ 
+
+
+Page 5 of 33 
+3. DEFINITIONS: 
+ 
+In this document, the following terms shall have the following respective meanings: 
+1. “Acceptance Test (AT)” means the acceptance testing of the ordered product & services on 
+completion of installation and commissioning under the project. 
+2. “Acceptance Test Document” means a document, which defines procedures for testing the 
+Gujarat State Data Centre against requirements laid down in the Agreement. 
+3. “Agreement” means the Service Level Agreement to be signed between the successful bidder 
+and DIT/GIL/SDC/DST/GoG including all attachments, appendices, all documents incorporated 
+by reference thereto together with any subsequent modifications, the RFP, the bid offer, the 
+acceptance and all related correspondences, clarifications, presentations. 
+4. “Authorized Representative/Agency” shall mean any person/agency authorized by either of 
+the parties. 
+5. “Bidder” means any agency providing similar solutions as per the scope of work of RFP. The 
+word Bidder when used in the pre-award period shall be synonymous with Bidder, and when 
+used after award of the Contract shall mean the successful Bidder with whom GoG signs the 
+Service Level Agreement. 
+6. “Contract” is used synonymously with Agreement. 
+7. “Corrupt Practice” means the offering, giving, receiving or soliciting of anything of value or 
+influence the action of a public official in the process of Contract execution. 
+8. “Default Notice” means the written notice of Default of the Agreement issued by one Party to 
+the other in terms hereof.  
+9. “Fraudulent Practice” means a misrepresentation of facts in order to influence a procurement 
+process or the execution of a Contract and includes collusive practice among Bidders (before 
+or after Bid submission) designed to establish Bid prices at artificial non- competitive levels and 
+to deprive GoG of the benefits of free and open competition.  
+10. “Good Industry Practice” means the exercise of that degree of skill, diligence and prudence 
+which would reasonably and ordinarily be expected from a reasonably skilled and experienced 
+Operator engaged in the same type of undertaking under the same or similar circumstances.  
+11. "Law" shall mean any act, notification, by-law, rules and regulations, directive, ordinance, 
+order or instruction having the force of law enacted or issued by the Central Government and/ 
+or the Government of Gujarat or any other Government or regulatory authority or political 
+subdivision of government agency.  
+12. “LoI” means Letter of Intent, which constitutes the intention of the GoG to place the Purchase 
+Order with the successful bidder.  
+13. “LOA” shall mean Letter of Award of work issued by GoG to the successful bidder. LOA will be 
+issued after the successful bidder gives his acceptance to the LoI.  
+14. “Request for Proposal” means the detailed notification seeking a set of solution(s), service(s), 
+materials and/or any combination of them.  
+15. “Requirements” shall mean and include schedules, details, description, statement of technical 
+data, performance characteristics, standards (Indian as well as International) as applicable and 
+specified in the Agreement.  
+16. "Service" means provision of Contracted Services for purchaser, GoG.  
+
+
+Page 6 of 33 
+17. “Termination Notice” means the written notice of termination of the Agreement issued by one 
+Party to the other in terms hereof.  
+18. "Uptime" means the time period when specified services are available to GoG and its user 
+organizations. The uptime will be calculated as follows:  
+ Total time in a quarter (in minutes) less total Service Downtime (in minutes) in the quarter.  
+19. "% Uptime" means the ratio of 'uptime' (in minutes) in a quarter to total time in the quarter 
+(in minutes) multiplied by 100.  
+20. “Downtime” means accumulated time during which the System is totally inoperable within the 
+Scheduled Operation Time but outside the Scheduled Maintenance Time.  
+21. “Incident” refers to any event/abnormalities in the functioning of the State Data Center 
+components & operations which may lead to disruption in normal operations of the SDC.  
+22. “Support” shall mean the 24x7x365 support which shall handle patch updates, Fault Reporting, 
+Trouble Ticketing, and resolution of related enquiries during the contract period.  
+23. “Scheduled Maintenance Time / Scheduled downtime” shall mean the time that the System 
+is not in service due to scheduled work. Scheduled maintenance time is planned downtime 
+with the prior permission (Minimum 48 Hour prior Notice) of the GSDC Core Team.  
+24. “Scheduled Operation Time” means the scheduled operating hours of the System for the 
+month. All scheduled maintenance time on the system would be deducted from the total 
+operation time for the month to give the scheduled operation time. The total operation time 
+for the solution will be 24x7x365.  
+25. “GSWAN – Gujarat State Wide Area Network” is the IT Backbone of the state of Gujarat.  
+26. “GSDC- Gujarat State Data Centre” is the central location where all the IT infrastructure of the 
+State of Gujarat is hosted.  
+
+
+Page 7 of 33 
+4. INTRODUCTION AND GENERAL INFORMATION: 
+ 
+This Request for Proposal (RFP) has been published for and on behalf of the Gujarat State Data 
+Centre (GSDC), Directorate of ICT & e-Governance, Department of Science & Technology (DST), 
+GoG, to select an Agency for Supply, Installation, Testing and Commissioning (SITC) of Enterprise 
+Backup Solution with Comprehensive Onsite Warranty Support at GSDC, Gandhinagar & DR Site. 
+The Successful Bidder will be liable for the entire scope of work mentioned/defined in this RFP 
+document along with its corrigendum/clarifications etc. 
+ 
+Department of Science and Technology (DST), Government of Gujarat has established a State Data 
+Centre (SDC) to cater to the need of having a Centralized Data Center for providing hosting 
+infrastructure to all the line departments/organizations of GoG. The main objective of GSDC is to 
+cater to the requirement of various state-level e-Governance applications and data to enable 
+seamless delivery of Government to Government (G2G), Government to Citizen (G2C) and 
+Government to Business (G2B) services. GSDC at Gandhinagar, Gujarat, is connected to all the 
+Government offices through GSWAN infrastructure and has been operational since 2008. 
+ 
+The proposed Enterprise Backup Solution shall be used for centralized, secure, and automated 
+backup and recovery of critical physical and virtual servers, databases, applications, file systems, 
+and other IT workloads hosted at the SDC. The solution shall provide reliable data protection, point-
+in-time recovery, disaster recovery support, ransomware resilience, centralized monitoring and 
+reporting, and shall meet the defined RPO, RTO, retention, and regulatory requirements. The 
+solution shall support backup replication/copy to the designated Near DR and Far DR locations, 
+wherever applicable. 
+ 
+Gujarat Informatics Limited (GIL), acting as the Bidding agency for the Government of Gujarat, 
+hereby invites proposals from eligible bidders who meet the qualification criteria prescribed in this 
+RFP and possess the requisite technical expertise, experience, and capabilities to deliver the 
+required Enterprise Backup Solution and associated services in accordance with the requirements 
+specified herein. 
+ 
+The selected bidder shall be responsible for providing the Enterprise Backup Solution, including all 
+necessary hardware and its accessories, software, premium licenses, implementation services, 
+integration, training, technical support, and maintenance services during the contract period, as 
+detailed in this RFP document. 
+ 
+This RFP is neither an offer nor an agreement and is issued solely for inviting competitive bids from 
+interested and eligible bidders. The selection of the successful bidder shall be carried out through 
+the process specified in this RFP, on behalf of GSDC/DIT/DST, GoG. 
+ 
+GIL/DIT/DST reserves the right to amend, modify, supplement, or cancel this RFP, or to extend the 
+bid submission deadline at any stage of the bidding process without assigning any reason. In such 
+an event, all rights and obligations of GIL/DIT/DST and the bidders shall thereafter be subject to the 
+revised terms and timelines as notified by GIL/DIT/DST. 
+ 
+ 
+
+
+Page 8 of 33 
+5. INSTRUCTIONS TO THE BIDDERS REGARDING RFP: 
+ 
+A proposal in the form of a BID is requested for the item(s) in complete accordance with the 
+documents/attachments as per the following guidelines: 
+1. The bidder shall upload their bids on GeM - https://gem.gov.in. 
+2. Bids complete in all respects should be uploaded on or before the bid due date. 
+3. Products & Services offered should be strictly as per requirements mentioned in this Bid 
+document. 
+4. Once quoted, the bidder is not allowed to make any price changes, whether resulting or arising 
+out of any technical/commercial clarifications sought regarding the bid. Such price changes shall 
+render the bid liable for rejection. 
+5. No Consortium will be allowed. The Bidder must submit the bid and execute the contract as a 
+single legal entity. Bids submitted by a consortium of companies, joint ventures, or partnerships 
+will not be considered and will be deemed nonresponsive. The Bidder will be solely responsible 
+for the execution of the contract and the delivery of all deliverables specified. Any attempt to 
+subcontract or form a consortium will result in the immediate disqualification of the bid or 
+termination of the contract. 
+6. Bidders shall submit EMD (Rs. 10,00,000/-) in the form of Demand Draft OR in the form of an 
+unconditional Bank Guarantee (which should be valid for 12 months from the last date of bid 
+submission) of any Nationalized Bank including the public sector bank or Private Sector Banks 
+or Commercial Banks or Co-Operative Banks and Rural Banks (operating in India having branch 
+at Ahmedabad/Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2025/2712/DMO dated 
+01.04.2026 issued by the Finance Department or further instructions issued by the Finance 
+Department from time to time; in the name of “Director, Directorate of ICT and e-Governance” 
+payable at Gandhinagar (as per prescribed format given) and must be submitted along with the 
+covering letter in a sealed cover at GIL. The sealed cover should be superscribed as “EMD for 
+the Request for Proposal for Supply, Installation, Testing and Commissioning (SITC) of Enterprise 
+Backup Solution with Comprehensive Onsite Warranty Support for Gujarat State Data Centre 
+(GSDC), Gandhinagar.” 
+OR 
+Bidders can also submit the EMD with Payment Online through RTGS/Internet Banking in the 
+beneficiary's name Gujarat Informatics Ltd., Account No. 50200010918090, IFSC Code 
+HDFC0000190, Bank Name HDFC Bank Ltd., Sector-16, Gandhinagar Branch. 
+7. For interpretation of any clause in the RFP or Contract Agreement, the interpretation of the 
+Purchaser shall be final and binding on the agency. 
+8. If the Bidder fails to complete the due performance of the contract in accordance with the 
+specifications and conditions of the offer document, the Purchaser reserves the right either to 
+cancel the order or to recover a suitable amount as deemed reasonable as Penalty/Liquidated 
+damage for non-performance. 
+9. GIL/DIT/DST reserves the right to accept or reject any tender offer without giving any reason. 
+10. Financial bids of only those bidders who qualify based on evaluation of eligibility & technical 
+bids will be opened. 
+11. The Successful bidder will have to submit Performance Bank Guarantee of an amount equal to 
+10% of the total order value (including 5 years' comprehensive warranty and OEM Support) 
+
+
+Page 9 of 33 
+within 15 calendar days (including holidays) from the issuance of the Work Order/Contract, for 
+the duration of the contract period + 6 months from banks (operating in India having a branch 
+at Ahmadabad/Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2024/2859/D.M.O. dated 
+01.05.2025 issued by the Finance Department or further instructions issued by the Finance 
+Department from time to time. 
+12. GIL/DIT/DST/GoG is not liable for any cost incurred by a Bidder in the preparation and 
+production of any Proposal, the preparation or execution of any benchmark demonstrations, 
+simulation or laboratory service or for any work performed before the execution of a formal 
+contract. All materials submitted become the property of the DIT/GIL & may be returned at its 
+sole discretion. The content of each Bidder’s Proposal will be held in strict confidence during 
+the evaluation process, and details of any Proposals will not be discussed outside the evaluation 
+process. 
+13. The Bid will be valid for a period of 180 days from the last date of bid submission. 
+14. Important Information: 
+1 
+GeM Bid Number 
+As per GeM 
+2 
+Date & Time of Pre-Bid Meeting 
+As per GeM 
+3 
+Venue of Pre-Bid Meeting 
+Gujarat Informatics Limited
+Block No. 2, 2nd Floor, Karmayogi Bhavan, 
+Sector-10A, Gandhinagar 382 010 
+4 
+Last Date & Time for submission of written 
+pre-bid queries for clarification 
+(Only by e-mail as per predefined format) 
+As per GeM   
+E-mail:  dgmtech-gil@gujarat.gov.in, 
+              mgrhninfra1-gil@gujarat.gov.in 
+              gm-tech@gujarat.gov.in 
+5 
+Last Date & Time for Submission of Bids 
+electronically on https://gem.gov.in 
+As per GeM 
+6 
+Last Date and time for submission of EMD in
+person/physically 
+along 
+with 
+original 
+Affidavit of Self Declaration 
+Within 7 days from the last Date of bid 
+submission. 
+7 
+Date & Time of Opening of Bids (Un-priced 
+Bids) 
+As per GeM 
+8 
+Date & Time of Opening of Commercial Stage Will be intimated to the qualified bidders at a 
+later date.  
+9 
+Earnest Money Deposit (E.M.D.) 
+Rs. 10,00,000/- 
+10 
+GIL Contact Person  
+GM/Manager (Hardware & Networking) 
+ 
+Note: Please specify RFP/Bid Number in all your correspondence. 
+ 
+ 
+
+
+Page 10 of 33 
+6. GENERAL TERMS AND CONDITIONS: 
+ 
+1. 
+Instructions to the Bidders for Online Bid Submission: 
+1) Tender documents are available only in electronic format, which Bidders can download free 
+of cost from the website https://gil.gujarat.gov.in and https://gem.gov.in. 
+2) The bids have been invited through GeM portal, i.e., the eligibility criteria, technical and 
+financial stages shall be submitted online on the GeM portal https://gem.gov.in. 
+3) Interested and eligible Bidders are required to upload the eligibility-related document in the 
+eligibility bid section, Technical-related document in the Technical bid section & Commercial 
+Bid in the Commercial bid section. The Technical & Commercial Bid must be uploaded to 
+https://gem.gov.in. 
+2. 
+In the technical bid section of GeM, the bidder is required to upload the following documents. 
+1) OEM MAF, Brochure, and OEM Compliance on the Offered product (with remarks of Yes/no 
+only) on both OEM and Bidder Letterhead. Any partial remarks are not allowed. 
+2) Compliance of the SOW, SLA, and Payment terms, etc., to be uploaded as part of the GeM 
+Bid on bidder’s letterhead. 
+3) Supporting documents for the Eligibility & Technical Criteria as specified in the RFP. 
+4) Undertaking as per guidelines published by the Ministry of Finance, Dept. of Expenditure, 
+Public Procurement Division dated 23.07.2020 in the given format by Bidder as well as OEM. 
+5) Other documents asked in the RFP. 
+ 
+ 
+
+
+Page 11 of 33 
+7. ELIGIBILITY CRITERIA 
+ 
+Sr. 
+No 
+Eligibility Criteria 
+Attachments 
+1. 
+The bidder should be a Registered Company 
+(registered under the Indian Companies Act, 
+1956 or Indian Companies Act, 2013)/LLP Act 
+in India. The bidder should have been in 
+operation for at least five financial years. 
+AND 
+Bidder should be an established IT System 
+Integrator and should have been engaged in 
+similar IT projects/solutions business for a 
+period of at least five years as on the bid 
+issuance date. 
+Copy of valid Certificate of Incorporation, 
+PAN and GST registration Certificate. 
+AND 
+Work Orders / Client Certificates confirming 
+year and area of activity should be enclosed. 
+2. 
+The bidder should have an Average Turnover 
+of Rs. 10 Crore (Minimum) in the last three 
+financial years (i.e., FY 2023-24, 2024-25 and 
+2025-26) as on the last date of bid submission.
+Audited and Certified Balance Sheet & 
+Profit/Loss Account of last 3 Financial Years. 
+CA certificate clearly certifying the turnover 
+requirements as per the clause along with 
+UDIN NUMBER. 
+3. 
+The OEM of the proposed product should have 
+an Average Turnover of Rs. 50 Crore 
+(Minimum) in the last three financial years 
+(i.e., 2023-24, 2024-25 and 2025-26) as on the 
+last date of bid submission. 
+Audited and Certified Balance Sheet & 
+Profit/Loss Account of last 3 Financial Years. 
+CA certificate clearly certifying the turnover 
+requirements as per the clause along with 
+UDIN NUMBER. 
+4. 
+The Bidder should have experience of SITC of 
+Enterprise Backup Solution with the following 
+capacity in the last three financial years in any 
+Central / State Government Organization / 
+PSU/ Public Listed as on last date of bid 
+submission. 
+1. At least 1 order of minimum Rs. 4 Crore for 
+SITC of Storage Solution or 
+2. At least 2 orders each of minimum Rs. 2.5 
+Crore for SITC of Storage Solution or 
+3. At least 3 orders each of minimum Rs. 2 
+Crore for SITC of Storage Solution. 
+All work orders/contracts should be in the 
+name of the bidder. 
+The bidder shall submit copies of Purchase 
+Order/Work Order and Project Go-Live/FAT 
+Certificate from the respective institutions. 
+5. 
+OEM should have supplied Backup Solution(s)
+having a value of minimum Rs. 12.5 Crore in 
+the last three financial years in any Central / 
+State Government Organization / PSU/ Public 
+Listed Company as on last date of bid 
+submission. 
+The bidder shall submit copies of Purchase 
+Order/Work Order and Project Go-Live/FAT 
+Certificate from the respective institutions. 
+6. 
+The bidder must be an authorized partner of 
+the OEM. 
+In cases where the proposed Enterprise 
+Backup Solution comprises software and 
+The Bidder should submit the tender-specific 
+MAF from OEM(s). 
+
+
+Page 12 of 33 
+target hardware storage from two distinct 
+OEMs, the bidder must submit a Joint 
+Manufacturer Authorization Form (Joint MAF) 
+signed by authorized signatories of both 
+OEMs.  
+7. 
+Bidder and OEM should not be blacklisted by 
+any Ministry of the Government of India or by 
+any State Government of India or any of the 
+Government PSUs at the time of bidding. 
+Self-Declaration / Certificate / Affidavit 
+mentioning that the Bidder and OEM are not 
+blacklisted as per the clause. 
+8. 
+No Consortium or Subletting will be allowed. 
+Bidder's Self Declaration. 
+9. 
+The Bidder should have at least one office in 
+Gujarat. If the Bidder does not have any office 
+in Gujarat, then the Bidder should submit a 
+letter of undertaking to open the office in 
+Gujarat within 45 calendar days (including 
+holidays) from the date of award. 
+The copy of Registration of Incorporation/
+Lease 
+agreement/ 
+Property 
+Tax 
+Bill/ 
+Electricity Bill/ Telephone Bill/ GST/ CST 
+should be submitted, or an Undertaking 
+Letter should be submitted.  
+ 
+Note: 
+ Bidder must match the eligibility criteria, experience, bidder’s turnover criteria, etc. as 
+mentioned in the RFP document and time to time published corrigendum, and will be 
+considered for evaluation. 
+ All the details and the supportive documents for the above-mentioned items should be 
+uploaded in the bid. 
+ EMD and PBG should be submitted by the bidder as mentioned in the RFP.
+
+
+Page 13 of 33 
+8. PRE-BID MEETING 
+ 
+1. The Pre-bid meeting will be held at the GIL Office.  
+2. A prospective Bidder requiring any clarification of the bidding documents may seek clarifications 
+by submitting their queries to the email ID: mgrhninfra1-gil@gujarat.gov.in & dgmtech-
+gil@gujarat.gov.in prior to the date of the Pre-Bid Meeting. No bid queries would be entertained 
+post completion of the Pre-Bid Meeting. 
+3. The interested vendors submitted their queries in writing at least 3 days before the date of pre-
+bid meeting date.  
+4. The interested bidder should send the queries as per the following format: 
+ 
+5. Tenderer will discuss the queries received from the interested bidders/vendors in the Pre-Bid 
+Meeting and respond to the clarifications by publishing/uploading on the website 
+https://gil.gujarat.gov.in and https://gem.gov.in. 
+6. No further or new clarification whatsoever shall be entertained after the Pre-Bid Meeting. 
+ 
+ 
+Bidder’s Request for Clarification 
+Name of Organization 
+submitting the request 
+Name & position of the 
+person submitting the request
+Address of the Organization
+including phone, email & 
+contact person details
+Sr.
+No.
+Bidding Document 
+Reference (Clause/Page)
+The content of the RFP 
+requiring
+Points of Clarification 
+Required
+1
+2
+.
+
+
+Page 14 of 33 
+9. SCOPE OF WORK 
+ 
+The proposed solution should include hardware, software, necessary licenses, etc. to meet the 
+technical and functional requirements and specifications mentioned in this RFP document. At 
+present, Gujarat State Data Center uses an existing enterprise backup solution for centralized 
+backup of critical data, databases, applications, virtual machines, file systems, and physical servers. 
+However, in order to meet future requirements, GSDC plans to add additional enterprise backup 
+solution, which will be mainly used for centralized, secure, and automated backup and recovery of 
+critical physical and virtual servers, databases, applications, file systems, and other IT workloads 
+hosted at the SDC.   
+ 
+The broad scope of work for the proposed solution will be as under: 
+1) The Successful Bidder is required to supply, install, configure, test, commission and provide 
+comprehensive warranty & support for the hardware, software (including all active and passive 
+components and sub-components) and necessary licenses, for the proposed solution for the 
+period of five (5) years from the date of successful completion of Factory Acceptance Test (FAT). 
+2) The Successful Bidder will have to provide the Enterprise Backup Solution (Including Hardware 
+(Storage & other), Software & Licenses) with Net Usable Capacity 400 TB (Distributed as 300 TB 
+Net Usable Capacity at DC (GSDC) and 100 TB Net Usable Capacity at DR (Faridabad)), and with 
+5 Years Comprehensive Onsite Warranty Support each at Locations, i.e., Primary Data Center 
+site at Gandhinagar & Far DR site at Faridabad. Necessary Hardware, Software & Licenses to be 
+considered as defined Net Usable Capacity on each site. 
+3) The proposed Enterprise Backup Solution shall include all necessary storage media (or any OEM-
+compatible storage), software components, connectors, agents, databases, operating system 
+dependencies, and any other ancillary items required for successful implementation and 
+operation of the solution. 
+4) Total Net Usable Physical Target Storage Capacity of 400 TB (after RAID 6 or equivalent 
+redundancy and formatting loss), distributed as 300 TB Net Usable Physical Storage at Primary 
+DC (GSDC) and 100 TB Net Usable Physical Storage at Far DR (Faridabad). The enterprise 
+backup software shall include unlimited or unconstrained Front-End Terabyte (FETB) processing 
+capability to support all current and future workloads ingested into this physical target storage.  
+5) The licenses should be in the name of the Gujarat State Data Center, Department of Science and 
+Technology, Government of Gujarat, valid perpetual for life. 
+6) Back-to-back OEM premium (highest category) support (24x7x365) for 5 years from the date of 
+successful completion of FAT. This should be visible on the OEM portal, and SI should submit 
+evidence. 
+7) The OEM support credentials should be in the name of GSDC/DIT/DST and handed over to 
+GSDC/DIT/DST. 
+8) The Successful Bidder is responsible for physical connectivity of the proposed solution. The 
+required ports on the switch for such connectivity will be provided. 
+9) The Successful Bidder shall be solely responsible for supplying, installing, integrating, 
+configuring, testing, and maintaining all hardware, software, licenses, networking components, 
+accessories, cables, etc., or any other infrastructure or ancillary components necessary for 
+commissioning the solution at both locations in accordance with the respective capacity 
+requirements. No additional cost shall be payable by the Purchaser for providing a complete 
+and fully operational backup solution meeting the specified capacity at both sites. 
+
+
+Page 15 of 33 
+10) The proposed solution should be seamlessly integrated with the existing infrastructure of GSDC, 
+including various tools like NMS, Helpdesk Tool, SIEM, etc. 
+11) The Successful Bidder is required to submit the Network design document, HLD, LLD, and as-
+built documentation. 
+12) The Successful Bidder shall configure the proposed solution and integrate with the existing SDC 
+infrastructure in such a way that it should comply with all the policies of the GSDC as it is an ISO 
+Certified Data Center. 
+13) The Successful Bidder along with the OEM professional should be available onsite for solution 
+design, Installation, and implementation. 
+14) The Successful Bidder is required to submit the certification from the OEM of the proposed 
+solution confirming successful implementation, testing, commissioning, and satisfactory 
+deployment of the proposed solution based on industry best practices as a part of FAT. 
+15) The Successful Bidder shall have to provide various documents like the technical document of 
+the delivered product, Standard Operating Procedures Templates, Troubleshooting Guide, 
+“How-To” knowledge base, Escalation Matrix, etc. 
+16) The Successful Bidder, in coordination with the representatives from the GSDC/DIT/GIL, is 
+required to conduct FAT of the proposed solution at the designated site. 
+17) The Successful Bidder shall be responsible for obtaining an installation and commissioning 
+certificate (Sign-off) & FAT Certificate on completion of the work as per the scope of work, 
+functional and technical requirements. The installation and commissioning of the solution shall 
+be carried out by the OEM. 
+18) The Successful Bidder must take all necessary precautions to prevent damage to any other 
+equipment, structures, or setups during their work. If any tenderer’s property is damaged due 
+to the SI negligence or carelessness, the Successful Bidder will be held financially responsible, 
+and the cost of repairs or replacements for such damages will be charged to the Successful 
+Bidder. 
+19) The Successful Bidder shall be responsible for rectification of discrepancies identified by the 
+TPA/any other authorized representative while conducting FAT. Further, on rectification of all 
+the discrepancies identified during the FAT, GSDC/DIT/GIL representatives will re-conduct the 
+FAT, or if agreed, the FAT will be signed. 
+20) After successful completion of FAT, the successful bidder is required to hand over the complete 
+solution to the existing GSDC Operator (DCO) for Operations and Maintenance (O&M) of the 
+same with all the required support information, etc. 
+21) The Successful Bidder & OEM will be responsible for providing comprehensive warranty and on-
+site support (24x7x365) for the period of five years from the date of successful completion of 
+FAT.  
+22) Final Acceptance Test: FAT will be carried out based on the following, but not limited to: 
+a. Verification of installation and commissioning (Hardware, Software and Licenses). 
+b. Successful implementation, compliance with the scope mentioned in the RFP. 
+c. OEM Certifications. 
+
+
+Page 16 of 33 
+d. All Functional and Technical requirements as specified in RFP. 
+e. Successful data backup of Two Enterprise Applications provided by DST/DIT/GSDC for the 
+verification regarding functionality as mentioned in the RFP. 
+f. The date on which the Acceptance Certificate is issued shall be deemed to be the date of 
+successful commissioning of the System. Warranty and Licenses should be valid for a period 
+of 5 years from the date of issuance of Final Acceptance Certificate (FAT). 
+g. Any delay by the successful bidder in the Acceptance Testing shall render the successful 
+bidder liable to the imposition of appropriate Penalties. 
+23) If the solution does not meet the required specifications or has significant discrepancies, the 
+tenderer maintains the right to nullify the entire contract. Any amount paid at this point would 
+be recovered from the PBG (Performance Bank Guarantee). In such a case, the Successful Bidder 
+must remove their equipment at their own expense and risk. 
+24) The Bidder shall ensure that the products quoted should not be declared “End of Production” 
+for the next 2 years and “End of Support” for the next 7 years by the OEM from the date of 
+bid submission. However, if the OEM declares any equipment as end of support for any reason, 
+then in that case the OEM has to replace that equipment with better or equivalent products 
+without any additional cost to GSDC/DIT/GIL/DST/GoG. OEM will have to submit the 
+undertaking for the same on their letterhead. OEM has to also submit, on their letterhead, 
+complete details on the support available for the equipment, their end of support dates and 
+replacement model, if any. 
+25) The support, including spares, patch updates, for the quoted products shall be available for the 
+entire period of the Project/contract period without any additional cost. 
+26) In case any fault arises in the installed items during the contract period, the successful bidder is 
+required to either repair the faulty items or will have to install the replacement (complying with 
+the RFP specification) for the faulty material without any additional cost to the purchaser. 
+27) During the term of the contract, if any disk is required to be replaced for any reason, then the 
+existing disk needs to be kept with GSDC and won’t be returned back. 
+28) The Successful Bidder, in coordination with OEM, will have to carry out quarterly preventive 
+maintenance activities/services during the period of contract. Professionally qualified personnel 
+who have expertise in the hardware and software and application(s) supplied by the Successful 
+Bidder will provide these services and report. No additional payment will be made for the same. 
+29) The bidder should be authorized by its OEM to quote this bid for the authenticity, authorized 
+representation and after-sales support. The maximum response time to attend any onsite call 
+should not exceed 4 hours from the initial call to the bidder/response center. The bidder is 
+required to arrange a back-to-back support agreement/arrangement for services including 
+supply of spare parts with 24 hours’ repair/replacement time commitment. 
+30) In cases where the proposed backup solution comprises software and target hardware storage 
+from two distinct OEMs, the bidder must submit a Joint Manufacturer Authorization Form (Joint 
+MAF) signed by authorized signatories of both OEMs. The Joint MAF shall confirm joint 
+architectural validation, end-to-end performance compliance, and back-to-back OEM 
+warranty/support SLAs for the entire contract period. 
+
+
+Page 17 of 33 
+31) The contact center numbers should be provided to the tenderer along with the escalation matrix 
+mentioning the contact person’s name, number, Mail ID and designation in the company. 
+32) MIS Reports: 
+ 
+Sr. No.
+Types of Reports 
+Periodicity 
+1 
+ 
+System performance report which includes CPU, memory, 
+Cache, Disks, etc. 
+ 
+All types of event reports 
+ 
+SLA Compliance report 
+ 
+Reports as directed by the GSDC/DIT/GIL for SLA calculation 
+ 
+Summary of system reboot 
+ 
+Summary of issues/complaints logged with the OEMs 
+ 
+Patch update status as notified by the OEM  
+Weekly, Monthly, 
+Quarterly 
+2 
+ 
+Log of preventive / scheduled maintenance undertaken
+ 
+Details of Patch, Updates, Vulnerability fixes released, and 
+implementation status of the same 
+ 
+Details of break-fix maintenance undertaken 
+Monthly, 
+Quarterly 
+3 
+ 
+Any other report asked by GSDC 
+As and when 
+required 
+ 
+33) O&M Handover:  
+a. 
+The bidder will have to hand over all the details of Hardware, Software, Licenses, etc. to 
+the GSDC O&M team after completion of installation, commissioning and successful 
+completion of FAT. 
+b. 
+The successful bidder is required to hand over the Operation and Maintenance of the 
+solution to the existing Data Center Operator of the GSDC on completion of successful 
+FAT. 
+c. 
+The successful bidder is responsible for complete knowledge transfer, Operating Manuals 
+and SOP’s including, but not limited to: 
+ Various checklists for provisioning of storage volumes. 
+ Details of users/application to whom the storage has been allotted 
+ Installation and configuration details of solution deployed by the bidder 
+ Contact details of OEM and bidder representative for warranty and OEM support. 
+ Any other details that may be required/asked by existing O&M of GSDC 
+d. 
+DCO-GSDC will be responsible for end-to-end O&M of the proposed solution once O&M 
+has been handed over to him. 
+34) Training:  
+The Successful Bidder is required to provide comprehensive on-site training on each and every 
+aspect of the deployed solution, like management, processes, industry best practices, 
+operations, etc., to a team of around 10 members nominated by GSDC/DIT/GIL/DST/GOG. The 
+Successful Bidder will have to coordinate with the GSDC Core Team for the finalization of the 
+Training Content & Schedule before conducting the training. It will be Hands-on Training, 
+including but not limited to the following:  
+ Solution architecture, configuration, monitoring, troubleshooting, alert tuning  
+
+
+Page 18 of 33 
+ Case studies 
+ Individual hands-on exercises (LAB)  
+ Best practices  
+ Other related tool topics, etc. 
+ Training material (soft and hard copy) to be provided 
+ Certification or attestation of training to be issued by the OEM. 
+35) Warranty Support: 
+As part of the warranty services, the bidder shall provide:  
+1) The Bidder shall provide a comprehensive on-site free warranty for 5 years from the date of 
+completion of successful FAT for the proposed solution at both the locations, i.e., Primary Data 
+Center site at Gandhinagar & Far DR site at Faridabad. 
+2) The Bidder shall procure and maintain/provide five (5) years of Back-to-back OEM premium 
+(highest category) support (24x7x365) for all supplied hardware, software, licenses, storage, 
+and other associated components from the date of successful Factory Acceptance Test (FAT).  
+3) The OEM support shall be the highest available support tier, providing 24x7x365 technical 
+assistance throughout the contract period. The support shall include, but not be limited to: 
+ Unlimited technical support from the OEM through web, email, and telephone. 
+ Access to OEM technical experts for incident resolution and troubleshooting. 
+ Software updates, patches, bug fixes, security updates, firmware upgrades, and 
+major/minor version upgrades released during the support period, at no additional cost. 
+ Hardware replacement and on-site support, wherever applicable, in accordance with the 
+OEM's premium support entitlement. 
+ Proactive support services and escalation to OEM engineering teams for critical issues. 
+ Remote diagnostics and health checks, wherever supported by the OEM. 
+ The proposed Enterprise Backup Solution (including Storage) shall be covered under the 
+OEM's Premium (highest-level) 24x7x365 support program for the entire five-year 
+warranty/support period from the date of successful FAT. The Bidder shall ensure seamless 
+coordination with the OEM for incident management and shall remain solely responsible 
+for meeting the SLA commitments specified in this RFP, irrespective of the OEM's response 
+timelines. 
+4) The Bidder shall provide the comprehensive manufacturer's warranty and support in respect of 
+proper design, quality and workmanship of all hardware, equipment, accessories etc. covered 
+by the bid. Bidder must warrant all hardware, equipment, accessories, spare parts, software 
+etc. procured and implemented as per this bid against any manufacturing defects during the 
+warranty period. 
+5) Bidder shall provide the performance warranty in respect of performance of the installed 
+hardware and software to meet the performance requirements and service levels in the bid. 
+6) Bidder is responsible for sizing and procuring the necessary hardware and software licenses as 
+per the performance requirements provided in the bid. During the contract period bidder, shall 
+replace or augment or procure higher-level new equipment or additional licenses at no 
+additional cost in case the procured hardware or software is not adequate to meet the service 
+levels. 
+
+
+Page 19 of 33 
+7) Mean Time between Failures (MTBF): If during the contract period, any equipment has a 
+hardware failure on four or more occasions in a period of less than three months, it shall be 
+replaced by equivalent or higher-level of new equipment by the bidder at no cost. For any delay 
+in arrangement of replacement / repaired equipment’s for inspection, delivery of equipment, 
+or for commissioning of the systems or for acceptance tests/checks at each/ any site; DST/DIT 
+reserves the right to charge a penalty. 
+8) During the warranty period, the bidder shall maintain the systems and repair / replace the 
+components to keep the solution operational at the installed site at no extra charges to the 
+organization. 
+9) The bidder shall, as far as possible, repair/ replace the equipment at site. 
+10) Warranty should not become void if GSDC/DIT/DST buys any other supplemental hardware 
+from a third party and installs it within these machines under intimation to the bidder. However, 
+the warranty will not apply to such supplemental hardware items installed. 
+11) The bidder shall carry out quarterly Preventive Maintenance (PM), including cleaning of interior 
+and exterior, of all hardware, and should maintain proper records at each site for such PM. 
+Failure to carry out such PM will be a breach of warranty and the warranty period will be 
+extended by the period of delay in PM. 
+12) Bidder shall monitor warranties to check adherence to preventive and repair maintenance 
+terms and conditions. 
+13) Bidder shall ensure that the warranty complies with the agreed Technical Standards, Security 
+Requirements, Operating Procedures, and Recovery Procedures. 
+14) Bidder shall have to stock and provide adequate on-site and off-site spare parts and spare 
+components to ensure that the uptime commitment as per SLA is met. 
+15) Any component that is reported to be down on a given date should be either fully repaired or 
+replaced by a temporary substitute (of equivalent configuration) within the time frame 
+indicated in the Service Level Agreement (SLA). 
+16) Bidder shall develop and maintain an inventory database to include the registered hardware 
+warranties. 
+17) To provide warranty support effectively, OEM should have a spare depot in India and will be 
+asked to deliver spares as per SLA requirement. 
+18) After completion of 5 years Comprehensive Warranty and OEM Support period, if required, 
+DST/DIT may extend the Warranty/CAMC support for a further period of 2 years (6th year and 
+7th year) on the derived rates of average cost of 5 years CAMC cost quoted. Bidder is required 
+to provide the undertaking for the same, mentioning that they will provide 6th year and 7th year 
+Warranty/CAMC support. 
+ 
+ 
+
+
+Page 20 of 33 
+10. ROLES & RESPONSIBILITIES 
+ 
+Stake Holder 
+Activity 
+Successful Bidder 
+ Supply, installation, configuration, testing and commissioning of all 
+required Hardware, Software, Licenses, inclusive of accessories and 
+cabling, etc. 
+ Provide comprehensive warranty & support for the duration of contract 
+period 
+ Integrate with the existing GSDC Infrastructure 
+ Conduct UAT and assist in FAT 
+ Handover to SDC Operator (DCO) for O&M 
+DCO Team 
+ Integrate with the existing GSDC Infrastructure: Responsible for 
+activities related to existing GSDC Infrastructure. 
+ Co-ordinate and assist during the Integration with Third party services/ 
+applications of SDC like Helpdesk, EMS, SIEM, Security Solution, etc. 
+ Taking Over of O&M 
+TPA Team 
+ Verify the key deliverables & Reports 
+ Co-ordinate/Assist in UAT and provide required support 
+ Conduct FAT in co-ordination with DCO, GSDC Team and DST/GIL 
+ Co-ordinate Handover & Taking over 
+GSDC/DST/GIL 
+ Permissions and assistance wherever required 
+ 
+ 
+ 
+
+
+Page 21 of 33 
+11. KEY DELIVERABLES 
+ 
+Sr. No.
+Deliverables 
+Activity 
+1 
+Kick-off Meeting 
+ Project Implementation Plan 
+2 
+Delivery of 
+Components 
+ Hardware Components 
+ Software License documents 
+ Hardware warranty certificate 
+3 
+Installation 
+ HLD and LLD design documents 
+ Installation of proposed solution (H/w & S/w) 
+ Application architecture documents 
+4 
+Commissioning 
+ GUI design (screen design, navigation, etc.) 
+ Completion of UAT and closure of observations 
+ Integration Testing Report 
+ Test cases & SOPs for the product 
+5 
+FAT 
+ As defined in the RFP and successfully complying with its 
+requirements. 
+6 
+Training 
+ Material 
+ Plan 
+ Completion 
+7 
+O&M Handover 
+ Issues logging and resolution report 
+ MIS Reports 
+ SLA reports 
+ Preventive Maintenance plan 
+ Operations manual for all components 
+ 
+Note: GSDC/DIT/DST/GIL or their designated officer will carry out the inspection of the 
+material/components at the time of delivery for the BoQ of Hardware Components, 
+Software Licenses & Warranty Certificates as per the Scope of Work and Technical & 
+Functional requirements specified in the RFP. 
+ 
+
+
+Page 22 of 33 
+12. TECHNICAL SPECIFICATIONS 
+ 
+Minimum Technical Specifications of Enterprise Backup Solution - Net Usable Physical Target 
+Storage Capacity of 400 TB across both sites (300 TB at Primary DC and 100 TB at Far DR site) 
+Sr. 
+No. 
+Parameter 
+Specification 
+Primary Data Centre 
+Far Disaster Recovery Site 
+1.  
+Usable Physical Storage (after 
+RAID 
+6 
+or 
+equivalent 
+redundancy and formatting 
+loss) 
+Minimum 300 TB Net Usable 
+Minimum 100 TB Net Usable 
+2.  
+Usable Storage Expandability 
+Expandable up to minimum 1 PB 
+Usable
+Expandable up to minimum 350 TB 
+Usable
+3.  
+Architecture / Controller 
+Minimum 
+2 
+Controllers/Engines 
+configured in Active-Active or Active-
+Passive HA mode 
+Minimum 
+2 
+Controllers/Engines 
+configured in Active-Active or Active-
+Passive HA mode 
+4.  
+Cache / RAM per Site 
+Minimum 256 GB RAM/Cache per 
+Controller
+Minimum 256 GB RAM/Cache per 
+Controller
+5.  
+High-Performance 
+SSD 
+/ 
+NVMe Tier (In addition to 
+specified net usable payload 
+capacity) 
+Minimum 10% of Usable HDD Capacity 
+(Minimum 30 TB SSD/NVMe) for 
+metadata, deduplication index, and 
+write acceleration 
+Minimum 10% of Usable HDD Capacity 
+(Minimum 10 TB SSD/NVMe) for 
+metadata, deduplication index, and 
+write acceleration 
+6.  
+Backend Disk Drives 
+Enterprise-grade High-Density Storage 
+Media 
+(SAS/NL-SAS/Enterprise 
+NVMe/SSDs) (Minimum 8 TB) 
+Enterprise-grade High-Density Storage 
+Media (SAS/NL-SAS/Enterprise NVMe/ 
+SSDs) (Minimum 8 TB) 
+7.  
+Minimum Connectivity Ports 
+Minimum 4x10 GbE SFP+ & Minimum 
+8x16/32Gbps FC (Supports LACP/Port 
+Aggregation) 
+Minimum 4x10 GbE SFP+ & Minimum 
+8x16/32Gbps FC (Supports LACP/Port 
+Aggregation) 
+8.  
+Ingest Throughput (Standard) 
+Minimum 15 TB/hr 
+Minimum 15 TB/hr 
+9.  
+Ingest Throughput (Optimized 
+Protocol) 
+Minimum 37.5 TB/hr 
+Minimum 37.5 TB/hr 
+10.  
+Throughput (using Optimized 
+Source-Side / Client-Direct 
+Deduplication Protocol): 
+Minimum 50 TB/hr (combined aggregate across sites) 
+11.  
+Overall Data Reduction Ratio 
+(inclusive of deduplication and 
+compression) 
+Minimum 5:1 
+12.  
+Form Factor 
+Max 42 U 
+13.  
+Backup & Replication 
+Should be Concurrent 
+14.  
+Encryption 
+Should support 256-bit AES/IPSEC encryption for data for primary and during 
+replication at DR. 
+The solution shall provide end-to-end encryption for data at rest and data in 
+transit. 
+15.  
+DB/APP 
+MS SQL, PGSQL, MySQL, DB2, MariaDB, MongoDB, Oracle, Tibero, SAP, 
+containerized environment on different orchestration and hypervisors like Hyper-
+V, VMware, KVM, OpenShift, etc. 
+16.  
+Management 
+a) Single Console 
+b) CLI 
+c) SNMP for availability 
+d) SMTP integration required for e-mail alerting 
+e) Forecasted Capacity Report 
+f) 
+Capacity, Performance, Replication reports     
+g) Display Real-time De-Dup ratio 
+h) Threshold Alert 
+i) 
+Must have capability to do trend analysis for capacity planning of backup 
+environment not limiting to Backup 
+
+
+Page 23 of 33 
+17.  
+The proposed backup solution shall provide a minimum Net Usable Physical Target Storage Capacity of 400 TB 
+across both sites (300 TB at Primary DC and 100 TB at Far DR) after applying RAID 6 or equivalent protection, 
+inclusive of VTL/PBBA/storage-based backup appliance, enterprise backup software with required licenses, and 
+complete hardware, software, rack with iPDU, cables, and accessories with 24x7x365 OEM-supported onsite 
+warranty for five (5) years from the date of successful completion of FAT. 
+18.  
+Proposed solution should support any storage (any compatible) 
+19.  
+Backup Solution shall support an Optimized Source-Side / Client-Direct Deduplication Protocol (or equivalent 
+vendor API integration/LAN-free backup technology) over SAN & LAN to eliminate network bottlenecks and 
+offload inline deduplication processes from backup servers. 
+20.  
+High-Performance SSD/NVMe Caching Tier: 
+To achieve the required ingest throughput performance 20 TB/hr to 50 TB/hr and sustain low-latency inline 
+deduplication indexing on SAS/NL-SAS primary storage tiers, the proposed backup appliance architecture must 
+incorporate a dedicated SSD/NVMe storage tier equivalent to a minimum of 10% of the net usable physical HDD 
+capacity (i.e., Min. 30 TB Flash/SSD/NVMe at DC and Min. 10 TB Flash/SSD/NVMe at DR). 
+This tier must be dedicated to deduplication metadata, index trees, and write-path caching. The 10% SSD/NVMe 
+caching tier (Min. 30 TB at DC and 10 TB at DR) must be provided over and above the required 400 TB Net Usable 
+Physical Storage Capacity. The 400 TB net usable capacity (300 TB at DC / 100 TB at DR) shall be strictly dedicated 
+to backup payload storage after RAID 6 or equivalent protection and formatting overhead.  
+10% cache must be added irrespective of disk type for deduplication metadata, index trees, and write-path 
+caching and should match disk type in case SSD or NVME disk is used for Net Usable Physical Storage. 
+21.  
+Successful Bidder will have to follow the Existing Retention Policy as per below details:  
+a) 37 Days Retention - Full backup on weekend - Approximately 400 TB of data and daily incremental - 
+Approximately 20 TB 
+b) 61 Days Retention - Monthly Full Backup of few DBs - Approximately 4 TB  
+c) 
+100 Days Retention - Quarterly Full backup of few DBs - Approximately 8 TB 
+d) 2 Years Retention - Log files – Weekly Full - Approximately 40 TB and Daily Incremental - 2 TB 
+e) One-time backup of VHDs and few static DBs – Approximately 15 TB forever retention 
+22.  
+The SI must submit the sizing certificate/detail report on OEM’s letterhead with seal & sign from the authorized 
+signatory at the time of bid. Any additional capacity of any other component apart from 400 TB source/frontend 
+data minimum usable capacity must be offered by the OEM/ bidder at the time of bid.  
+23.  
+Should have the ability to perform different backup, restore, replication jobs simultaneously 
+24.  
+Support for transmitting only de-duplicated unique data in encrypted format (256-bit AES encryption/IPSEC) to 
+DR. 
+25.  
+Solution should support retention lock-Write Once Read Many feature which ensures that data is not deleted 
+accidentally or deliberately. Only a super user (Even backup admin should not be capable) can delete/modify the 
+data once retention is locked.   
+26.  
+Solution should be offered with battery backed up RAM/SSD/NVRAM for protection against data loss in a power 
+failure scenario and continuous automated file system check to ensure data integrity. 
+27.  
+Solution should support Multi-Tenancy features providing logical isolation, access control, and dedicated storage 
+quotas per tenant. Global deduplication across tenants shall be supported as a configurable option per tenant 
+policy.
+28.  
+Solution should be able to dynamically break up large save sets into smaller save sets to be backed up in parallel 
+to allow backups to complete faster for Windows, Unix, Ubuntu and Linux clients. 
+29.  
+Backup Solution should also have configurable REST API support for management, administration and reporting 
+30.  
+Backup solution should provide capability from a web portal to allow search & restore a single file from complete 
+backup and single table from DB backup.
+31.  
+Should support deduplication at backup server/host/application level so that only changed blocks travel. 
+32.  
+Backup software should be available on OS Windows and Linux. The backup server should be compatible to run 
+on both OS Windows & Linux. 
+33.  
+Proposed backup software should include a file archival feature to move historical data based on file attributes 
+for long-term retention 
+34.  
+Proposed backup software should have a feature to replicate backup copy to one or multiple sites in the proposed 
+license. 
+35.  
+Proposed backup software should be used on multiple Backup Servers 
+
+
+Page 24 of 33 
+36.  
+The proposed backup solution shall support both hardware-based and software-based compression mechanisms 
+to optimize storage utilization and ensure predictable performance at scale, as well as both hardware and 
+software compression must be simultaneously available. 
+37.  
+Solution must provide comprehensive Cyber-Resilience and Ransomware Protection, including: 
+a) Immutable Storage / Compliance WORM: Backup copies must be locked against modification or deletion by 
+any user, including Backup Administrators or compromised credentials, until the retention period expires. 
+b) Air-Gapped / Isolated Replication: Secure, encrypted replication to DR with isolated authentication. 
+c) Anomaly Detection: AI/ML-driven or signature-free detection of unexpected data encryption/deletion during 
+backup ingest. 
+d) Multi-Factor Authentication (MFA) & Dual-Authorization: Requiring mandatory multi-person authorization 
+for destructive actions like cluster deletion or retention reduction. 
+38.  
+Solution must handle ≥ 2 PB front-end input data. 
+39.  
+The backup solution shall support standard disk-based target protocols including NFS, SMB/CIFS, S3/Object API, 
+and OST / Client-Direct protocols, as well as VTL (Virtual Tape Library) emulation. 
+40.  
+The backup solution shall support multi-drive and multi-library VTL emulation profiles over Fibre Channel (FC) and 
+iSCSI, including standard LTO (LTO-3 through LTO-8/9). The bidder/OEM shall ensure compatibility with GSDC's 
+existing host operating systems (Windows, Linux,) and enterprise backup applications without requiring changes 
+to existing tape backup scripts or licensing.
+ 
+Enterprise Backup Software Licensing & Target Storage Sizing Model 
+1. Mandatory Net Usable Target Licensing Model: 
+o 
+Enterprise Backup Software licenses shall be provided strictly on a Net Usable Target Storage 
+Capacity Basis, defined as the clean, formatted payload capacity available for backup storage after 
+deducting RAID 6 (or higher) parity loss, hot spares, formatting overhead, and system controller 
+cache. 
+o 
+The baseline software license tier supplied under this contract shall cover a minimum of 400 TB Net 
+Usable Target Capacity (distributed as 300 TB Net Usable at the Primary Data Centre (DC) and 100 
+TB Net Usable at the Disaster Recovery Centre (DR)). 
+2. Unconstrained Front-End Source Data Ingest & Retainability: 
+o 
+The supplied enterprise backup software licenses shall allow unrestricted, unconstrained, and 
+unthrottled Front-End Terabyte (FETB) source data processing. 
+o 
+There shall be no software-enforced capacity caps, job blockages, licensing alerts, or per-
+gigabyte/per-source penalties as logical front-end source data grows through compression and 
+inline/post-process deduplication up to the physical storage limits of the target hardware array. 
+3. Exclusion of Hardware Overhead from Software Royalties: 
+o 
+Bidders and Original Equipment Manufacturers (OEMs) are strictly prohibited from charging 
+software licensing, subscription, or maintenance fees on raw physical storage drives, RAID parity 
+drives, dedicated hot spares, formatting loss, or hardware controller cache. Software licensing fees 
+shall be evaluated and priced solely on the actual Net Usable Payload Capacity. 
+4. Bidder Sizing Discretion, Additional Hardware & Commercial Risk: 
+o 
+The 400 TB Net Usable Capacity represents the minimum mandatory procurement threshold. 
+Bidders/OEMs are solely responsible for accurately sizing the physical storage target to satisfy all 
+performance parameters, throughput rates (50TB/hr boost ingest), and retention schedules as 
+specified in the technical specifications in this RFP. 
+o 
+If a Bidder/OEM, at its own technical discretion or internal sizing assessment, supplies physical target 
+storage exceeding 400 TB Net Usable Capacity to meet the RFP’s SLA, retention, or deduplication 
+requirements, such extra capacity shall be provided entirely at the Bidder's own commercial choice 
+and risk. 
+o 
+In such cases, the Bidder/OEM must supply matching, fully functional software licenses covering 
+100% of the installed physical net usable target storage at ZERO additional software licensing, 
+maintenance, or support cost to GSDC throughout the entire 5-year contract tenure from the date 
+of successful FAT. 
+
+
+Page 25 of 33 
+ 
+Data Reduction Performance Benchmark & OEM Guarantee: 
+1. Mandatory Minimum Data Reduction Ratio: 
+o 
+The proposed Backup System (Software Engine + Target Physical Storage) must natively achieve and 
+maintain an overall average Data Reduction Ratio (Deduplication + Compression) of at least 5:1 
+across the combined GSDC enterprise workload (comprising Virtual Machines, Operating System 
+images, Relational Databases, and Application payloads). 
+2. OEM Sizing Certificate Mandate: 
+o 
+Every Bidder must submit an official, signed OEM Capacity & Sizing Certificate along with their 
+Technical Bid. 
+o 
+This certificate must explicitly validate that the offered Net Usable Target Capacity (minimum 400 
+TB across DC and DR), when operating with the OEM's guaranteed deduplication and compression 
+engine, is mathematically and technically sufficient to store 100% of the retention schedules 
+specified in Technical Specifications without exceeding 80% of the usable storage pool capacity. 
+ 
+ 
+ 
+ 
+
+
+Page 26 of 33 
+13. IMPLEMENTATION TIMELINES & PENALTIES: 
+ 
+The Successful Bidder will have to complete the Supply, Installation, Configuration, Commissioning, 
+and Integration with Acceptance of the ordered work within the time period(s) specified in the table 
+below. However, in case of any delay solely on the part of the successful bidder, DST/DIT/GIL 
+reserves the right to levy the appropriate penalties as per the table below: 
+ 
+ 
+Note:  
+ T= Date of issuance of work order/contract. 
+ Days will be considered as calendar days including holidays. 
+ Aforesaid penalty cap will not be applicable for any severe impact/incident/outage at GSDC, 
+resulting in loss to Government of Gujarat. 
+ 
+ 
+Sr. 
+No.
+Work Type 
+Time Limit for 
+Execution 
+Penalty for Delay 
+Penalty 
+1 
+Submission of PBG 
+Within 15 calendar 
+days (including 
+holidays) from the 
+date of issuance of 
+Work Order/ 
+Contract 
+If the successful bidder fails to 
+submit the PBG as specified, 
+the EMD will be forfeited, and 
+the contract will be terminated 
+beyond 15 (including holidays) 
+days 
+without 
+any 
+further 
+communication. 
+- 
+2 
+Kick-off meeting 
+1 week from 
+issuance of work 
+order/contract 
+Rs. 
+50,000/week 
+or 
+part 
+thereof. In case of delay 
+beyond 4 weeks, DST/DIT/GIL 
+may terminate the contract 
+and forfeit the PBG. 
+- 
+3 
+Delivery 
+of 
+all 
+material 
+including 
+Hardware, Software, 
+Licenses 
+& 
+OEM 
+Warranty Certificate 
+T1 = T + 60 days 
+from the date of 
+issuance of work 
+order 
+0.5% 
+of 
+order 
+value 
+of 
+delayed/pending 
+work 
+per 
+week 
+or 
+part 
+thereof 
+proportionately 
+10% of 
+total 
+contract 
+value 
+4 
+Installation, 
+commissioning 
+& 
+integration   
+T2 = T1 + 30 
+0.5% 
+of 
+order 
+value 
+of 
+delayed/pending 
+work 
+per 
+week 
+or 
+part 
+thereof 
+proportionately 
+5 
+Final 
+Acceptance 
+Testing (FAT) 
+T3 = T2 + 15 days 
+0.5% 
+of 
+order 
+value 
+of 
+delayed/pending 
+work 
+per 
+week 
+or 
+part 
+thereof 
+proportionately 
+6 
+Training 
+T4 = T3 + 15 days 
+0.5% 
+of 
+order 
+value 
+of 
+delayed/pending 
+work 
+per 
+week 
+or 
+part 
+thereof 
+proportionately 
+
+
+Page 27 of 33 
+14. SERVICE LEVEL AGREEMENT (SLA) & PENALTIES: 
+ 
+The Successful Bidder will have to ensure adherence to SLA and time schedules given in this RFP. 
+Non-adherence will attract penalties as below: 
+ 
+Measurement
+Target 
+Penalty 
+Incident 
+Response 
+& 
+Resolution 
+1) Priority Level 1 Incident - 
+Within 1 hour. 
+2) Priority Level 2 Incident - 
+Within 6 hours. 
+3) Priority Level 3 Incident - 
+Within 12 hours. 
+1) Level 1 Incident: 0.5% of yearly CAMC payment 
+for every 2-hr. delay in resolution; with max cap 
+of 10% of total Comprehensive Warranty and 
+OEM Support value; it will be adjusted from Yearly 
+CAMC payment. 
+2) Level 2 Incident: 0.5% of yearly CAMC payment 
+for every 3-hr. delay in resolution; with max cap 
+of 10% of total Comprehensive Warranty and 
+OEM Support value; it will be adjusted from Yearly 
+CAMC payment. 
+3) Level 3 Incident: 0.5% of yearly CAMC payment 
+for every 6-hr. delay in resolution; with max cap 
+of 10% of total Comprehensive Warranty and 
+OEM Support value; it will be adjusted from Yearly 
+CAMC payment. 
+ Priority Level 1: Complete Backup Solution failure, data loss, or not in working condition or 
+not accessible. 
+ Priority Level 2: Backup Solution is not functioning properly due to failure of any hardware/ 
+software/ part(s)/ component(s), or significant performance degradation (in terms of latency 
+and response time) 
+ Priority Level 3: Any other issues not covered by Levels 1 & 2. 
+ Detailed RCA report should be submitted for all P1 Call. 
+Post-Deployment Deduplication Shortfall & Hardware Remedy: 
+1. Operational Audit & Deduplication Verification: 
+ The performance of the backup system shall be audited after 90 days of continuous live 
+operations (and periodically thereafter during the 5-year contract tenure) using native OEM 
+performance telemetry reports and GSDC System Administrator logs. 
+2. Mandatory Shortfall Remedy (At Bidder/OEM Cost): 
+ If, during live operations or periodic audits, the backup system fails to achieve the overall 
+average 5:1 data reduction ratio—resulting in physical storage utilization exceeding 80% 
+before the retention policies defined in Specifications are fulfilled—the Bidder and OEM 
+shall be issued a Storage Shortfall Notice. 
+ Upon receipt of a Storage Shortfall Notice, the Bidder and OEM shall, within thirty (30) 
+calendar days and entirely at their own cost: 
+a) 
+Supply, deliver, and install additional physical storage hardware (drives, expansion 
+shelves, or nodes) sufficient to eliminate the capacity deficit and store all required 
+retention copies. 
+b) 
+Provide matching Enterprise Backup Software licenses covering 100% of the newly 
+added storage capacity. 
+c) 
+Provide 5-year OEM back-to-back warranty, maintenance, and L3 support for the 
+newly added hardware and software. 
+
+
+Page 28 of 33 
+ Zero Financial Liability on GSDC: All costs associated with hardware expansion, software 
+licensing, deployment, and ongoing support arising from a deduplication shortfall shall be 
+borne exclusively by the Bidder/OEM. 
+3. Financial Penalty for Non-Compliance: 
+ Failure by the Bidder/OEM to supply and integrate the required additional capacity within 
+thirty (30) days of receiving a Storage Shortfall Notice shall result in a penalty of 0.5% of the 
+total contract value per week of delay. 
+ Persistent failure beyond sixty (60) days shall entitle GSDC to invoke the Performance Bank 
+Guarantee (PBG) and procure the required storage capacity from an open market third party 
+at the risk and cost of the defaulting Bidder. 
+ 
+ 
+
+
+Page 29 of 33 
+15. SERVICE LEVEL AGREEMENT (SLA) FOR UPTIME: 
+ 
+SLA 
+Target 
+Penalties in case of breach in SLA for Uptime 
+Uptime 
+for 
+Enterprise 
+Backup 
+Solution 
+>=99.741% 
+No Penalty 
+<99.741% 
+In case of failure of the proposed Backup Solution and 
+non-maintenance of the targeted uptime value, 0.5% of 
+yearly CAMC payment for every hour. 
+ 
+Delay in resolution will add an hourly penalty with a 
+maximum cap of 10 % of total CAMC value. It will be 
+adjusted from the yearly CAMC payment and PBG. 
+ 
+The maximum cap of 10% of total CAMC will not be valid 
+for any major outage that impacts any business of GOG, 
+and the penalty will go on adding hourly until the issue is
+resolved. 
+ 
+In addition, the successful bidder has to provide 
+additional PBG accordingly within a week (as per actual 
+calculation). 
+ 
+ SLA will be calculated every month; however, the final penalty deduction will be done from 
+the yearly payment of CAMC value, i.e., (12*1 monthly SLA report penalty will be applied 
+during CAMC yearly payment.) 
+ Bidder has to ensure support of 365x24x7 for SLA calculation. 
+ 
+ 
+
+
+Page 30 of 33 
+16. PAYMENT SCHEDULE: 
+ 
+Sr. No.
+Activity 
+Payment (%) 
+For Item No. 1 (Enterprise Backup Solution) 
+1 
+Successful 
+Delivery 
+of 
+all 
+components 
+(Hardware, 
+Software, 
+Licenses, 
+etc.) 
+at 
+respective locations (SDC & Far DR) 
+70% of Item No. 1 as per Price Bid 
+2 
+Successful completion of Installation, Testing, 
+Integration, 
+Commissioning 
+and 
+Final 
+Acceptance Test (FAT) 
+20% of Item No. 1 as per Price Bid 
+3 
+Successful completion of Training and three-
+month post-completion of Final Acceptance 
+Test as per the RFP scope 
+10% of Item No. 1 as per Price Bid 
+For Item No. 2 (Comprehensive Warranty and OEM Support) 
+4 
+5 Years comprehensive warranty and Back-to-
+Back OEM Support 
+Yearly charges as discovered in the price 
+bid will be paid in five equal instalments at 
+the end of every year. 
+i.e., after completion of 1 Year post FAT, 
+the first instalment will be paid. Five years 
+will start from the date of successful 
+completion of FAT. 
+ 
+Payment Procedures: 
+ 
+a) The Successful Bidder will have to raise the Invoice in the name of the “Directorate of ICT & e-
+Governance”. The same has to be submitted at the DIT Office. 
+b) The Successful Bidder will have to raise the component-wise invoice upon achieving the 
+respective milestone as per the detailed payment schedule and submit the invoice to DIT. 
+c) The Selected Bidder’s request(s) for payment shall be made to DIT along with the 2 original 
+copies of invoices and necessary supporting documents and artifacts. The invoice should be in 
+English. The payment to the selected bidder shall be processed by GSDC/DIT on submission of 
+reports and fulfilment of other contractual obligations as per the Terms and Conditions of 
+Service Level Agreement (SLA). 
+d) On receipt of such invoice, the invoice would be processed within 45 working days after due 
+verification of the invoice and other supporting documents by GSDC/DIT/DST or its designated 
+agency/TPA. 
+e) GSDC/DIT/DST or its designated agency/TPA shall verify the invoice(s) raised against the 
+milestone achieved along with the supporting documents as prescribed and acceptable to 
+GSDC/DIT/DST. 
+f) Payment shall be made in Indian Rupees. While making the payment, the necessary deduction 
+for penalties (if any) and applicable tax/TDS will be made. 
+g) The bidder shall have to furnish the payment receipt of tax collected and paid/deposited to the 
+appropriate tax authorities. 
+h) If there is any deficiency in the performance of contractual obligations on the part of the 
+successful bidder, the successful bidder shall be liable for the imposition of appropriate 
+penalties as specified in this RFP, and GSDC/DIT/DST shall be entitled to deduct such Penalties 
+at source while making payment to the bidder for the services provided. 
+
+
+Page 31 of 33 
+17. PRICE BID SCHEDULE: 
+                              
+Sr. 
+No. 
+Description 
+Cost including 
+GST (in INR) 
+1 
+Cost of Enterprise Backup Solution - Net Usable Physical Target 
+Storage Capacity of 400 TB across both sites (300 TB at Primary DC and 
+100 TB at Far DR site): 
+ Inclusive of all the required Hardware (including Storage & other), 
+Software, and Necessary Licenses required to make the solution fully 
+functional. 
+ As per the Scope of Work, functional and technical requirements, 
+including 
+all 
+cables 
+& 
+accessories, 
+installation, 
+testing, 
+commissioning, FAT and training, etc. 
+ 
+2 
+Proposed Solution - Cost for 1st year Comprehensive Warranty and OEM 
+Support 
+ 
+3 
+Proposed Solution - Cost for 2nd year Comprehensive Warranty and 
+OEM Support 
+ 
+4 
+Proposed Solution - Cost for 3rd year Comprehensive Warranty and 
+OEM Support 
+ 
+5 
+Proposed Solution - Cost for 4th year Comprehensive Warranty and 
+OEM Support 
+ 
+6 
+Proposed Solution - Cost for 5th year Comprehensive Warranty and 
+OEM Support 
+ 
+Grand Total Cost including GST (in INR)
+ 
+ 
+Note: 
+ 
+All prices quoted by the Bidder should be in INR. 
+ 
+L1 will be the lowest sum total of rates of all line items including GST as per GeM GTC. 
+ 
+Prices to be quoted considering both sites, i.e., Primary Data Center site at Gandhinagar & Far DR site 
+at Faridabad. 
+ 
+5 Years Comprehensive Warranty and OEM Support Cost (Total Cost of Item No. 2 to 6) should not be 
+less than 35% of total bid cost (Total Cost of Item No. 1 to 6). In case any bidder is quoting less than 
+35%, the bid is liable to be rejected. 
+ 
+Please note that Yearly CAMC & OEM Support Cost (Cost of each year as per Item No. 2 to 6) should not 
+be less than 5% of the CAPEX Cost as per Item No. 1 of the table above. In case any bidder is quoting 
+less than 5%, the bid is liable to be rejected. 
+ 
+Bidders must quote perpetual Enterprise Backup Software licenses covering a minimum of 400 TB Net 
+Usable Target Capacity (300 TB at Primary DC and 100 TB at Far DR) after all hardware overhead, RAID 
+6 or equivalent protection, and formatting losses. 
+ 
+Bids quoting Front-End Terabyte (FETB) licensing restricted or capped to source data limits (e.g., 
+restricted to 400 TB raw source data) shall be deemed Technically and Commercially Non-Compliant 
+and shall be rejected summarily, unless the bid includes an explicit, legally binding OEM undertaking 
+guaranteeing unconstrained front-end ingest processing up to the physical target storage limits without 
+additional license fees. 
+ 
+If a Bidder offers raw or net usable storage hardware in excess of the 400 TB baseline requirement to 
+satisfy RFP retention SLAs or performance benchmarks, the quoted financial price shall be all-inclusive. 
+No separate or additional software license fee, subscription charge, or annual maintenance fee shall be 
+payable by GSDC for any additional storage capacity supplied above 400 TB. Any financial bid attempting 
+to levy extra software licensing charges for additional hardware provided by the bidder shall be 
+disqualified. 
+ 
+
+
+Page 32 of 33 
+ 
+Undertaking to be submitted 
+ 
+On letterhead of Bidder 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 
+published by Ministry of Finance, Dept. of Expenditure, Public Procurement Division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares 
+a land border with India. I certify that we, as a bidder, and the quoted product from the following 
+OEMs are not from such a country or, if from such a country, the quoted product OEM has been 
+registered with the competent authority. I hereby certify that these quoted product & its OEM 
+fulfills all requirements in this regard and is eligible to be considered for procurement for Bid 
+number_______________________. 
+ 
+No. 
+Item Category
+Quoted Make & Model 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise, GIL/End user Dept. reserves 
+the right to take legal action against us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+
+
+Page 33 of 33 
+ 
+ 
+Undertaking to be submitted 
+ 
+On letterhead of OEM 
+ 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 
+published by Ministry of Finance, Dept. of Expenditure, Public Procurement Division  
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares 
+a land border with India. I certify that our quoted product and our company are not from such a 
+country, or if from such a country, our quoted product and our company have been registered with 
+the competent authority. I hereby certify that these quoted products and our company fulfills all 
+requirements in this regard and is eligible to be considered for procurement for Bid 
+number_______________________. 
+ 
+No. 
+Item Category
+Quoted Make & Model 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise, GIL/End user Dept. reserves 
+the right to take legal action against us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  

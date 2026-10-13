@@ -1,0 +1,580 @@
+1 | P a g e  
+ 
+ 
+Corrigendum-2 dated 06/08/2026 
+ 
+ 
+Request for Proposal (RFP) for Empanelment of Service Providers / 
+Publishers for supply, licensing and access of e-Books for public 
+libraries, Government of Gujarat 
+RFP# GIL/e-Gov/2026/e-Books  
+GeM Bid No:- GEM/2026/B/7581031 
+ 
+ 
+ 
+Please find the Pre-bid queries responses 
+ 
+ 
+ 
+ 
+All bidders are advised to carefully read and consider all Pre-Bid Queries and Responses. 
+Bidders shall take special note of the clarifications provided against Query Nos. 1, 4, 8 and 13 
+while submitting their bids. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For more details, visit www.gil.gujarat.gov.in & www.gem.gov.in 
+ 
+ 
+ 
+ 
+  
+ 
+    
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+
+22 | P a g e  
+ 
+Pre-Bid Queries Responses of Request for Proposal (RFP) for Empanelment of Service 
+Providers / Publishers for supply, licensing and access of e-Books for public libraries, 
+Government of Gujarat 
+RFP# GIL/e-Gov/2026/e-Books  
+GeM Bid No:- GEM/2026/B/7581031 
+ 
+# 
+RFP 
+reference 
+Content/Clause of 
+RFP requiring 
+Clarification 
+Clarification 
+Sought/Suggestion 
+Responses 
+1 Annexure-1 
+/ Pricing 
+Price (INR) to be 
+quoted against each 
+title while 
+subscription is multi-
+user. 
+Clarify whether quoted 
+price is per title per user, 
+per library, per concurrent 
+user or statewide 
+institutional licence. Also 
+specify expected 
+users/libraries and 
+concurrency. 
+This bid is for empanelment 
+of service providers/ 
+publishers. The details 
+regarding licence model, user 
+base, libraries, concurrency, 
+and other subscription-
+related requirements shall be 
+specified at the time of 
+issuance of respective Work 
+Order to successful 
+empanelled bidder(s). 
+2 Clause 2.3.1 
+/ Pg.20 
+API / EPUB Access Key 
+requirements. 
+Please clearly define the 
+technical expectation of 
+'API access credentials, 
+metadata feed, discovery 
+service integration, 
+ONIX/MARC records, EPUB 
+access keys or equivalent'. 
+Is any one mechanism 
+sufficient or are all 
+mandatory? Please also 
+clarify acceptable API 
+specifications, 
+authentication mechanism, 
+metadata format, DRM 
+expectations and whether 
+secure token/API 
+integration is acceptable 
+instead of sharing EPUB 
+files. 
+The bidder shall provide one 
+or more industry-standard 
+integration mechanisms, 
+such as API access 
+credentials, metadata feed, 
+discovery service integration, 
+ONIX/MARC records, EPUB 
+access keys, or an equivalent 
+secure mechanism, as 
+applicable to its platform. 
+3 Clause 2.4 / 
+Pg.21 
+Own platform and 
+Single Window 
+Platform. 
+Clarify whether bidder must 
+provide an independent 
+reading platform, integrate 
+with Government Single 
+Bidder shall provide its own 
+e-book platform and ensure 
+integration with Directorate 
+of Libraries' Single Window 
+
+
+22 | P a g e  
+ 
+Window Library Platform, 
+or both because Clause 
+2.3.1 states Departments’ 
+Single Window Library 
+Platform. 
+Library Platform through the 
+prescribed integration 
+mechanism. Accordingly, 
+both platform availability and 
+integration capability are 
+required. 
+4 Clause 2.1 / 
+Pg.19-20 
+70% Gujarati 
+requirement. 
+Clarify basis of calculating 
+70% Gujarati content. 
+The 70% Gujarati content 
+requirement shall be 
+evaluated based on the e-
+book titles provided by the 
+bidder/publisher in 
+Annexure-1. Accordingly, at 
+least 70% of the proposed 
+titles shall be in the Gujarati 
+language. 
+5 Clause 2.1 
+& 2.2 / 
+Pg.19-20 
+50% competitive 
+content. 
+Confirm that bidders 
+applying only under Non-
+Competitive category are 
+not required to maintain 
+50% competitive 
+examination titles. 
+As per RFP 
+6 Pre-
+Qualificatio
+n 
+Turnover from related 
+business activities. 
+Confirm whether turnover 
+from book publishing (print 
+and digital) qualifies as 
+related business activities. 
+Already clarified in the 
+corrigendum-1 
+7 Clause 2.1 
+Updated/new titles. 
+Clarify whether prices for 
+newly published 
+titles/revised editions can 
+be quoted separately during 
+empanelment. 
+The requested details shall 
+be specified, wherever 
+applicable, in the respective 
+Work Order issued to 
+successful empanelled 
+bidder(s). 
+8 Digital 
+Rights 
+Withdrawal of titles. 
+Clarify treatment if 
+publisher loses digital rights 
+during empanelment and 
+replacement mechanism. 
+This bid is for empanelment 
+of service providers/ 
+publishers. The treatment of 
+such cases, if applicable, shall 
+be governed by the 
+respective Work Order issued 
+to successful empanelled 
+bidder(s). 
+9 Clause 4.2 
+Performance Bank 
+Guarantee. 
+Confirm PBG is applicable 
+only after issuance of Work 
+Order and calculated on 
+Work Order value. 
+As per RFP 
+10 Payment 
+Future Work Orders. 
+Clarify payment schedule 
+Payment details shall be 
+
+
+22 | P a g e  
+ 
+Terms 
+for subscriptions under 
+future Work Orders. 
+specified by the department 
+at the time of issuance of the 
+respective Work Order to the 
+successful empanelled 
+bidder(s). 
+11 Clause 2.7 
+SLA uptime. 
+Specify uptime %, 
+measurement methodology 
+and monitoring. 
+Minimum 99.5% uptime on a 
+monthly basis, excluding 
+approved maintenance 
+windows. Uptime shall be 
+measured based on system 
+availability logs maintained 
+by Service Provider and 
+verified by Directorate of 
+Libraries. 
+12 Clause 2.4 
+Offline reading. 
+Clarify whether offline 
+reading is mandatory or 
+optional. 
+Offline reading is optional 
+and may be provided where 
+applicable, as specified under 
+Clause 2.4 of the RFP. 
+13 Clause 3.5 
+Future pricing. 
+Clarify relationship between 
+Annexure-1 rates and 
+future QCBS/LCS selections. 
+The details provided in 
+Annexure-1 shall be 
+considered for technical 
+evaluation. Work allocation 
+among the successful 
+empanelled bidder(s) shall be 
+carried out as per Clause 3.5 
+of the RFP.  
+14 Clause 3.6 
+Non-response. 
+Confirm that a formal 'No 
+Bid' response is not treated 
+as non-responsiveness. 
+Bidders are required to 
+submit a response in all 
+cases. In case a bidder does 
+not intend to participate, the 
+bidder shall submit a 'No Bid' 
+response as per the 
+prescribed process. 
+15 Clause 7 
+(NDA) 
+Reference to USPS. 
+Clause 7 refers to the 
+United States Postal Service 
+(USPS), which appears to be 
+an inadvertent reference 
+unrelated to this RFP. Kindly 
+confirm and issue a 
+corrigendum if required. 
+The reference to United 
+States Postal Service (USPS) is 
+an inadvertent template 
+error and has no relevance to 
+this RFP. It may be treated as 
+deleted. 
+16 Scope of 
+Work / User 
+Base 
+Number of libraries 
+covered. 
+Kindly specify the total 
+number of Public Libraries 
+(Central, District, Taluka, 
+Village, etc.) proposed to be 
+This bid is for empanelment 
+of service providers/ 
+publishers. The number of 
+libraries to be covered shall 
+
+
+22 | P a g e  
+ 
+covered under this project 
+during the initial phase as 
+well as the estimated 
+ultimate coverage during 
+the contract period. 
+be determined by 
+Directorate of Libraries and 
+specified, wherever 
+applicable, in the respective 
+Work Order issued to the 
+successful empanelled 
+bidder(s). 
+17 Scope of 
+Work / User 
+Base 
+Expected registered 
+users/readers. 
+Kindly provide the 
+estimated number of 
+registered users/readers 
+expected to access the e-
+Book platform so that 
+bidders can appropriately 
+size infrastructure, licensing 
+and commercial pricing. 
+The expected number of 
+registered users/readers shall 
+be determined by 
+Directorate of Libraries and 
+specified, wherever 
+applicable, in the respective 
+Work Order issued to the 
+successful empanelled 
+bidder(s). 
+18 Clause 2.3 
+& 
+Subscriptio
+n Model 
+Expected 
+concurrency. 
+Kindly specify the expected 
+concurrency model 
+(simultaneous users) for e-
+Book access. Please indicate 
+whether concurrency will 
+be defined per title, per 
+publisher, per library, per 
+district, or across the entire 
+State, along with the 
+expected concurrency 
+numbers for commercial 
+evaluation. 
+The concurrency model and 
+other subscription-related 
+requirements shall be 
+determined by Directorate of 
+Libraries and specified, 
+wherever applicable, in the 
+respective Work Order issued 
+to the successful empanelled 
+bidder(s). 
+19 Clause 2.3.1 
+& Exit 
+Manageme
+nt 
+Copyright, DRM & 
+Intellectual Property 
+Protection 
+Kindly confirm that 
+ownership, copyright and 
+intellectual property rights 
+of all e-Books shall remain 
+exclusively with the 
+Publisher/rightsholder. 
+Please clarify that secure 
+API/DRM-protected access 
+satisfies the requirement, 
+bidders are not required to 
+hand over unencrypted 
+EPUB/PDF/source files, and 
+no permanent copy of the 
+Publisher's digital content 
+shall be stored outside the 
+Publisher's authorised 
+As per RFP 
+
+
+22 | P a g e  
+ 
+platform without written 
+permission. 
+20 Clause 2.3 / 
+Subscriptio
+n Model 
+Institutional Licence 
+Scope 
+Kindly define the 
+institutional licence model. 
+Please clarify whether 
+licences are library-wise, 
+district-wise or statewide; 
+whether remote access 
+outside library premises is 
+permitted; whether 
+simultaneous access will be 
+licence-controlled; whether 
+downloading/printing/copyi
+ng is expected; and whether 
+licence rights extend 
+beyond authorised 
+registered users. 
+The requirement regarding 
+licence scope, user access, 
+and other applicable terms 
+shall be decided by the 
+Directorate of Libraries and 
+specified, wherever 
+applicable, in the respective 
+Work Order issued to the 
+successful empanelled 
+bidder(s). The access shall be 
+restricted to authorised 
+registered users as per the 
+terms defined by Directorate 
+of Libraries. 
+21 Scope of 
+Work / 
+Licensing 
+Rights 
+Third-Party Rights / 
+Author Permissions 
+Kindly clarify the procedure 
+if a Publisher loses digital 
+distribution rights for any 
+title due to expiry, 
+termination or 
+author/rightsholder 
+instructions during 
+empanelment. Please 
+confirm that such titles may 
+be replaced with equivalent 
+titles and that no penalty 
+shall apply where 
+withdrawal is due to lawful 
+loss of rights beyond the 
+Publisher's control. 
+In case of withdrawal of any 
+title due to expiry, 
+termination, or loss of digital 
+rights beyond the Publisher’s 
+control, the same shall be 
+dealt with as per the terms 
+and conditions specified in 
+the respective Work Order. 
+Replacement of such titles 
+may be considered subject to 
+approval of Directorate of 
+Libraries. 
+22 General 
+Contract 
+Administrati
+on 
+Contracting Authority 
+Kindly clarify which 
+authority will issue the final 
+Work Order, execute the 
+agreement, release 
+payments, certify 
+satisfactory performance, 
+administer SLA compliance, 
+and invoke the Performance 
+Bank Guarantee or other 
+contractual remedies: 
+Gujarat Informatics Limited 
+(GIL), the Director of 
+The Director of Libraries shall 
+be the Contracting Authority 
+and competent authority for 
+all post-empanelment 
+contractual matters.  
+
+
+22 | P a g e  
+ 
+Libraries, or both. 
+23 Various 
+Clauses 
+referring to 
+"Supply", 
+"Licensing" 
+and 
+"Access" of 
+e-Books 
+The RFP uses the 
+terms "supply", 
+"licensing" and 
+"access" for e-Books 
+interchangeably. 
+However, it is not 
+clear whether 
+"supply" refers only 
+to providing licensed 
+digital access through 
+the Publisher's 
+platform/API or 
+whether it requires 
+delivery of 
+EPUB/PDF/source 
+files or transfer of 
+digital copies to the 
+Department. 
+Kindly clarify that "supply of 
+e-Books" under this RFP 
+means providing licensed 
+digital access through the 
+Publisher's authorised 
+platform/API or other 
+approved secure integration 
+mechanism, and does not 
+require transfer of 
+ownership, copyright, or 
+delivery of editable/source 
+digital files (such as EPUB, 
+PDF or other master files) to 
+the Department, unless 
+specifically agreed in 
+writing. 
+Supply of e-Books under this 
+RFP shall mean providing 
+licensed digital access 
+through the Publisher’s 
+authorised platform/API or 
+approved secure mechanism. 
+Transfer of ownership, 
+copyright, or source digital 
+files shall not be required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    *******************************END********************************** 
+ 
+ 
+ 
+ 
+ 

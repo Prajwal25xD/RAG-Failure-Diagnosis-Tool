@@ -1,0 +1,2916 @@
+Sr No
+Phase 
+Package
+District
+Block
+1
+Phase 2
+PKG-A
+CHHOTA UDAIPUR
+JETPURPAVI
+2
+Phase 2
+PKG-A
+DAHOD
+DHANPUR
+3
+Phase 2
+PKG-A
+Panchmahal
+SHEHERA
+4
+Phase 2
+PKG-A
+NARMADA
+DEDIAPADA
+5
+Phase 2
+PKG-A
+VALSAD
+DHARAMPUR
+6
+Phase 2
+PKG-A
+Dang
+Ahwa
+7
+Phase 2
+PKG-A
+VALSAD
+UMARGAON
+8
+Phase 2
+PKG-A
+Dang
+Ahwa
+9
+Phase 2
+PKG-A
+Dang
+Waghai
+10
+Phase 2
+PKG-A
+Dang
+WAGHAI
+11
+Phase 2
+PKG-A
+TAPI
+Dolvan
+12
+Phase 2
+PKG-A
+TAPI
+UCHCHHAL
+13
+Phase 2
+PKG-A
+TAPI
+SONGADH
+14
+Phase 2
+PKG-A
+Mehsana
+Mehsana
+15
+Phase 2
+PKG-A
+Patan
+Patan
+16
+Phase 2
+PKG-A
+Patan
+Sami
+17
+Phase 2
+PKG-A
+Sabarkantha
+Vijapur
+18
+Phase 2
+PKG-A
+Sabarkantha
+kheralu
+19
+Phase 2
+PKG-A
+Sabarkantha
+Khedbrahma
+20
+Phase 2
+PKG-A
+CHHOTA UDAIPUR
+PaviJetpur 
+21
+Phase 2
+PKG-A
+Vadodara
+Sankheda
+22
+Phase 2
+PKG-A
+Vadodara
+Dabhoi 
+23
+Phase 2
+PKG-A
+Vadodara
+Savli
+24
+Phase 2
+PKG-A
+Vadodara
+Desar
+25
+Phase 2
+PKG-A
+Kheda
+Kapadvanj
+26
+Phase 2
+PKG-A
+Sabarkantha
+Prantij
+27
+Phase 2
+PKG-A
+Ahmedabad
+Mahemdabad
+28
+Phase 2
+PKG-A
+Anand
+Petlad
+29
+Phase 2
+PKG-A
+Bharuch
+Amod
+30
+Phase 2
+PKG-A
+Surat
+Olpad
+31
+Phase 2
+PKG-A
+Surat
+Surat
+32
+Phase 2
+PKG-A
+Navsari
+Navsari
+33
+Phase 2
+PKG-A
+Navsari
+Chikhli
+34
+Phase 2
+PKG-A
+Valsad
+Valsad
+35
+Phase 2
+PKG-A
+Valsad
+Vapi
+36
+Phase 2
+PKG-A
+Kheda
+Kathlal
+37
+Phase 2
+PKG-A
+Anand
+Anand
+38
+Phase 2
+PKG-A
+Vadodara
+Vadodara
+39
+Phase 2
+PKG-A
+Bharuch
+Jhagadia
+40
+Phase 2
+PKG-A
+Panchmahal
+Ghoghamba
+41
+Phase 2
+PKG-A
+Mahisagar
+Kadana
+42
+Phase 2
+PKG-A
+Mahisagar
+Khanpur
+43
+Phase 2
+PKG-A
+Panchmahal
+Ghodhara
+
+
+44
+Phase 2
+PKG-A
+Banaskantha
+Deesa
+45
+Phase 2
+PKG-A
+Banaskantha
+Bhabhar
+46
+Phase 2
+PKG-A
+Mahisagar
+Santrampur
+47
+Phase 2
+PKG-A
+Mahisagar
+Lunawada
+48
+Phase 2
+PKG-A
+Panchmahal
+Kaalol
+49
+Phase 2
+PKG-A
+Narmada
+Garudeshwar
+50
+Phase 2
+PKG-A
+Surat
+Mahuva
+51
+Phase 2
+PKG-A
+Narmada
+Nandod
+52
+Phase 2
+PKG-A
+Tapi
+Songadh
+53
+Phase 2
+PKG-A
+Surat
+Umarpada
+54
+Phase 2
+PKG-A
+Dahod
+Dahod
+55
+Phase 2
+PKG-A
+Mahisagar
+Lunawada
+56
+Phase 2
+PKG-A
+Valsad
+Valsad
+57
+Phase 2
+PKG-A
+Valsad
+Valsad
+58
+Phase 2
+PKG-A
+Dang
+Subir
+59
+Phase 2
+PKG-A
+Narmada
+Netrang
+60
+Phase 2
+PKG-A
+Aravalli
+Meghraj
+61
+Phase 2
+PKG-A
+Banaskantha
+Vav
+62
+Phase 2
+PKG-A
+Banaskantha
+Tharad
+63
+Phase 2
+PKG-A
+Banaskantha
+Tharad
+64
+Phase 2
+PKG-A
+Panchmahal
+Halol
+65
+Phase 2
+PKG-A
+Panchmahal
+Ghoghamba
+66
+Phase 2
+PKG-A
+Surat
+Mangrol
+67
+Phase 2
+PKG-A
+Surat
+Olpad
+68
+Phase 2
+PKG-A
+Surat
+Olpad
+69
+Phase 2
+PKG-A
+Surat
+Bardoli
+70
+Phase 2
+PKG-A
+Tapi
+Dolvan
+71
+Phase 2
+PKG-A
+Surat
+Mandvi
+72
+Phase 2
+PKG-A
+Tapi
+Vyara
+73
+Phase 2
+PKG-A
+Dahod
+Sanjeli
+74
+Phase 2
+PKG-A
+Aravalli
+Bayad
+75
+Phase 2
+PKG-A
+Surat
+Palsana
+76
+Phase 2
+PKG-A
+Surat
+Bardoli
+77
+Phase 2
+PKG-A
+Surat
+Mahuva
+78
+Phase 2
+PKG-A
+Banaskantha
+DEESA
+79
+Phase 2
+PKG-A
+Banaskantha
+THARAD
+80
+Phase 2
+PKG-A
+Banaskantha
+LAKHANI
+81
+Phase 2
+PKG-A
+Aravalli
+MEGHRAJ
+82
+Phase 2
+PKG-A
+Mahisagar
+LUNAWADA
+83
+Phase 2
+PKG-A
+Banaskantha
+DHANERA
+84
+Phase 2
+PKG-A
+Banaskantha
+PALANPUR
+85
+Phase 2
+PKG-A
+Mahisagar
+SANTRAMPUR
+86
+Phase 2
+PKG-A
+Mahisagar
+LUNAWADA
+87
+Phase 2
+PKG-A
+Aravalli
+MEGHRAJ
+
+
+88
+Phase 2
+PKG-A
+Aravalli
+BAYAD
+89
+Phase 2
+PKG-A
+Aravalli
+Modasa
+90
+Phase 2
+PKG-A
+Aravalli
+BHILODA
+91
+Phase 2
+PKG-A
+Valsad
+Valsad
+92
+Phase 2
+PKG-A
+Surat
+Bardoli
+93
+Phase 2
+PKG-A
+Surat
+Mandvi
+94
+Phase 2
+PKG-A
+Surat
+Mangrol
+95
+Phase 2
+PKG-A
+Surat
+Mangrol
+96
+Phase 2
+PKG-A
+Panchmahal
+Morvahadaf
+97
+Phase 2
+PKG-A
+Panchmahal
+Morvahadaf
+98
+Phase 2
+PKG-A
+Mahisagar
+LUNAWADA
+99
+Phase 2
+PKG-A
+Aravalli
+BHILODA
+100
+Phase 2
+PKG-A
+Aravalli
+MALPUR
+101
+Phase 2
+PKG-A
+Dahod
+Limkheda
+102
+Phase 2
+PKG-A
+Mahisagar
+KADANA
+103
+Phase 2
+PKG-A
+Dahod
+Limkheda
+104
+Phase 2
+PKG-A
+Dahod
+JHALOD
+105
+Phase 2
+PKG-A
+Mahisagar
+KADANA
+106
+Phase 2
+PKG-A
+Mahisagar
+Lunawada
+107
+Phase 2
+PKG-A
+Mahisagar
+SANTRAMPUR
+108
+Phase 2
+PKG-A
+VADODARA
+PADRA
+109
+Phase 2
+PKG-A
+VADODARA
+PADRA
+110
+Phase 2
+PKG-A
+Panchmahal
+KAALOL
+111
+Phase 2
+PKG-A
+Panchmahal
+SHEHERA
+112
+Phase 2
+PKG-A
+Panchmahal
+SHEHERA
+113
+Phase 2
+PKG-A
+Surat
+Chorasi
+114
+Phase 2
+PKG-A
+Surat
+Kamrej
+115
+Phase 2
+PKG-A
+Banaskantha
+PALANPUR
+116
+Phase 2
+PKG-A
+Banaskantha
+DHANERA
+117
+Phase 2
+PKG-A
+Banaskantha
+PALANPUR
+118
+Phase 2
+PKG-A
+Aravalli
+MALPUR
+119
+Phase 2
+PKG-A
+Aravalli
+BHILODA
+120
+Phase 2
+PKG-A
+Dahod
+FATEPURA
+121
+Phase 2
+PKG-A
+Narmada
+TILAKWADA
+122
+Phase 2
+PKG-A
+Surat
+Kamrej
+123
+Phase 2
+PKG-A
+Surat
+Mangrol
+124
+Phase 2
+PKG-A
+Surat
+Chorasi
+125
+Phase 2
+PKG-A
+Surat
+Olpad
+126
+Phase 2
+PKG-A
+Narmada
+Dediapada
+127
+Phase 2
+PKG-A
+Bharuch
+Ankleshwar
+128
+Phase 2
+PKG-A
+Narmada
+Sagbara
+129
+Phase 2
+PKG-A
+VADODARA
+FATEPURA
+130
+Phase 2
+PKG-A
+VADODARA
+Dahod
+131
+Phase 2
+PKG-A
+Surat
+Mandvi
+
+
+132
+Phase 2
+PKG-A
+Surat
+Mangrol
+133
+Phase 2
+PKG-A
+Surat
+Bardoli
+134
+Phase 2
+PKG-A
+Valsad
+Dharampur 
+135
+Phase 2
+PKG-A
+Valsad
+Pardi
+136
+Phase 2
+PKG-A
+Valsad
+Pardi
+137
+Phase 2
+PKG-A
+Dahod
+Dahod
+138
+Phase 2
+PKG-A
+Dahod
+Devagdbaria
+139
+Phase 2
+PKG-A
+Dahod
+FATEPURA
+140
+Phase 2
+PKG-A
+Aravalli
+BAYAD
+141
+Phase 2
+PKG-A
+Banaskantha
+SUIGAM
+142
+Phase 2
+PKG-A
+Banaskantha
+DEODER
+143
+Phase 2
+PKG-A
+Aravalli
+DHANSURA
+144
+Phase 2
+PKG-A
+Mahisagar
+Santrampur
+145
+Phase 2
+PKG-A
+Dahod
+Dhanpur
+146
+Phase 2
+PKG-A
+Dahod
+DEVGADBARIA
+147
+Phase 2
+PKG-A
+Tapi
+Valod
+148
+Phase 2
+PKG-A
+Tapi
+Valod
+149
+Phase 2
+PKG-A
+Tapi
+Nizar
+150
+Phase 2
+PKG-A
+DAHOD
+DAHOD
+151
+Phase 2
+PKG-A
+MAHISAGAR
+BALASINOR
+152
+Phase 2
+PKG-A
+ARAVALLI
+BHILODA
+153
+Phase 2
+PKG-A
+ARAVALLI
+MALPUR
+154
+Phase 2
+PKG-A
+ARAVALLI
+MODASA
+155
+Phase 2
+PKG-A
+VALSAD
+UMBERGAON
+156
+Phase 2
+PKG-A
+SURAT
+OLPAD
+157
+Phase 2
+PKG-A
+SURAT
+OLPAD
+158
+Phase 2
+PKG-A
+ARAVALLI
+MODASA
+159
+Phase 2
+PKG-A
+ARAVALLI
+MODASA
+160
+Phase 2
+PKG-A
+ARAVALLI
+BHILODA
+161
+Phase 2
+PKG-A
+Surat
+Mandvi
+162
+Phase 2
+PKG-A
+Tapi
+Vyara
+163
+Phase 2
+PKG-A
+Narmada
+NANDOD
+164
+Phase 2
+PKG-A
+Narmada
+NANDOD
+165
+Phase 2
+PKG-A
+Bharuch
+Ankleshwar
+166
+Phase 2
+PKG-A
+Dahod
+Dahod
+167
+Phase 2
+PKG-A
+Narmada
+NANDOD
+168
+Phase 2
+PKG-A
+Narmada
+Naswadi
+169
+Phase 2
+PKG-A
+Banaskantha
+Dantiwada
+170
+Phase 2
+PKG-A
+Banaskantha
+VADGAM
+171
+Phase 2
+PKG-A
+Narmada
+Tilakwada
+172
+Phase 2
+PKG-A
+Tapi
+Vyara
+173
+Phase 2
+PKG-A
+Banaskantha
+PALANPUR
+174
+Phase 2
+PKG-A
+Banaskantha
+PALANPUR
+175
+Phase 2
+PKG-A
+Banaskantha
+AMIRGADH
+
+
+176
+Phase 2
+PKG-A
+Banaskantha
+AMIRGADH
+177
+Phase 2
+PKG-A
+Dahod
+JHALOD
+178
+Phase 2
+PKG-A
+Banaskantha
+THARAD
+179
+Phase 2
+PKG-A
+Banaskantha
+Vedgam
+180
+Phase 2
+PKG-A
+Surat
+Mahuva
+181
+Phase 2
+PKG-A
+Bharuch
+Ankleshwar
+182
+Phase 2
+PKG-A
+Banaskantha
+DANTA
+183
+Phase 2
+PKG-A
+Panchmahal
+JAMBUGHODA
+184
+Phase 2
+PKG-A
+Banaskantha
+Dantiwada
+185
+Phase 2
+PKG-A
+Banaskantha
+DEESA
+186
+Phase 2
+PKG-A
+Panchmahal
+Morvahadaf
+187
+Phase 2
+PKG-A
+Panchmahal
+KAALOL
+188
+Phase 2
+PKG-A
+Surat
+Bardoli
+189
+Phase 2
+PKG-A
+Surat
+Palsana
+190
+Phase 2
+PKG-A
+Dahod
+GARBADA
+191
+Phase 2
+PKG-A
+Dahod
+Dahod
+192
+Phase 2
+PKG-A
+Tapi
+Uchchhal
+193
+Phase 2
+PKG-A
+Surat
+Palsana
+194
+Phase 2
+PKG-A
+Tapi
+Songadh
+195
+Phase 2
+PKG-A
+Banaskantha
+DEESA
+196
+Phase 2
+PKG-A
+Panchmahal
+HALOL
+197
+Phase 2
+PKG-A
+Panchmahal
+GHOGHAMBA
+198
+Phase 2
+PKG-A
+Panchmahal
+KAALOL
+199
+Phase 2
+PKG-A
+Panchmahal
+HALOL
+200
+Phase 2
+PKG-A
+VADODARA
+PADRA
+201
+Phase 2
+PKG-A
+VADODARA
+PADRA
+202
+Phase 2
+PKG-A
+Valsad
+Valsad
+203
+Phase 2
+PKG-A
+Valsad
+Vapi
+204
+Phase 2
+PKG-A
+Banaskantha
+DEESA
+205
+Phase 2
+PKG-A
+Banaskantha
+VADGAM
+206
+Phase 2
+PKG-A
+Banaskantha
+DANTA
+207
+Phase 2
+PKG-A
+Banaskantha
+Kankrej
+208
+Phase 2
+PKG-A
+Aravalli
+Dhansura
+209
+Phase 2
+PKG-A
+Aravalli
+BAYAD
+210
+Phase 2
+PKG-A
+Mahisagar
+LUNAWADA
+211
+Phase 2
+PKG-A
+Valsad
+Valsad
+212
+Phase 2
+PKG-A
+Surat
+Kamrej
+213
+Phase 2
+PKG-A
+Banaskantha
+BHABHAR
+214
+Phase 2
+PKG-A
+Aravalli
+Meghraj
+215
+Phase 2
+PKG-A
+Aravalli
+Malpur
+216
+Phase 2
+PKG-A
+Banaskantha
+Tharad
+217
+Phase 2
+PKG-A
+Banaskantha
+Kankrej
+218
+Phase 2
+PKG-A
+Banaskantha
+VADGAM
+219
+Phase 2
+PKG-A
+Banaskantha
+Vav
+
+
+220
+Phase 2
+PKG-A
+Valsad
+Valsad
+221
+Phase 2
+PKG-A
+Valsad
+Pardi
+222
+Phase 2
+PKG-A
+Panchmahal
+Godhara
+223
+Phase 2
+PKG-A
+Panchmahal
+Godhara
+224
+Phase 2
+PKG-A
+Banaskantha
+Kankrej
+225
+Phase 2
+PKG-A
+Vadodara
+Karjan
+226
+Phase 2
+PKG-A
+Banaskantha
+Kankrej
+227
+Phase 2
+PKG-A
+Banaskantha
+Deoder
+228
+Phase 2
+PKG-A
+Banaskantha
+BHABHAR
+229
+Phase 2
+PKG-A
+Banaskantha
+DEESA
+230
+Phase 2
+PKG-A
+Banaskantha
+Danta
+231
+Phase 2
+PKG-A
+Surat
+Chorasi
+232
+Phase 2
+PKG B
+Ahmedabad
+Dholka
+233
+Phase 2
+PKG B
+Rajkot
+Jetpur
+234
+Phase 2
+PKG B
+Surendranagar
+Wadhwan
+235
+Phase 2
+PKG B
+Surendranagar
+Thangadh
+236
+Phase 2
+PKG B
+Morbi
+Maliya
+237
+Phase 2
+PKG B
+Surendranagar
+Sayla
+238
+Phase 2
+PKG B
+Junagadh
+Junagadh
+239
+Phase 2
+PKG B
+Gir Somnath
+Junagadh
+240
+Phase 2
+PKG B
+Gir Somnath
+ GirGadhada
+241
+Phase 2
+PKG B
+Rajkot
+Rajkot
+242
+Phase 2
+PKG B
+Rajkot
+Rajkot
+243
+Phase 2
+PKG B
+Gir Somnath
+ Sutarpada
+244
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+ Okhamandal
+245
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Kalyanpur
+246
+Phase 2
+PKG B
+Junagadh
+Junagadh
+247
+Phase 2
+PKG B
+Jamnagar
+Jamnagar
+248
+Phase 2
+PKG B
+Gir Somnath
+Veraval
+249
+Phase 2
+PKG B
+Rajkot
+Rajkot
+250
+Phase 2
+PKG B
+Rajkot
+Jetpur
+251
+Phase 2
+PKG B
+Rajkot
+Rajkot
+252
+Phase 2
+PKG B
+Surendranagar
+Muli
+253
+Phase 2
+PKG B
+Ahmedabad
+Dholera
+254
+Phase 2
+PKG B
+Ahmedabad
+Detroj
+255
+Phase 2
+PKG B
+Morbi
+Halvad
+256
+Phase 2
+PKG B
+Surendranagar
+Limdi
+257
+Phase 2
+PKG B
+Rajkot
+Jamkandorana
+258
+Phase 2
+PKG B
+Botad
+Gadhada
+259
+Phase 2
+PKG B
+Jamnagar
+kalavad
+260
+Phase 2
+PKG B
+Botad
+Ranpur
+261
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Kalyanpur
+262
+Phase 2
+PKG B
+Surendranagar
+Wadhwan
+263
+Phase 2
+PKG B
+Surendranagar
+sayla
+
+
+264
+Phase 2
+PKG B
+Surendranagar
+Dhrangadhra
+265
+Phase 2
+PKG B
+Ahmedabad
+Daskroi
+266
+Phase 2
+PKG B
+Ahmedabad
+Bavla
+267
+Phase 2
+PKG B
+Ahmedabad
+Dholka
+268
+Phase 2
+PKG B
+Surendranagar
+ Lakhatar
+269
+Phase 2
+PKG B
+Junagadh
+Junagadh
+270
+Phase 2
+PKG B
+Junagadh
+Maliya Hatina
+271
+Phase 2
+PKG B
+Jamnagar
+Lalpur
+272
+Phase 2
+PKG B
+Jamnagar
+Jamnagar
+273
+Phase 2
+PKG B
+Jamnagar
+Jamnagar
+274
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Khambhalia
+275
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Kalyanpur
+276
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Khambhalia
+277
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Bhanvad
+278
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Khambhaliya
+279
+Phase 2
+PKG B
+Jamnagar
+Jamnagar
+280
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Bhanvad
+281
+Phase 2
+PKG B
+Gir Somnath
+Veraval
+282
+Phase 2
+PKG B
+Gir Somnath
+Una
+283
+Phase 2
+PKG B
+Surendranagar
+Dasada
+284
+Phase 2
+PKG B
+Surendranagar
+Limbdi
+285
+Phase 2
+PKG B
+Rajkot
+Vinchiya
+286
+Phase 2
+PKG B
+Surendranagar
+CHOTILA
+287
+Phase 2
+PKG B
+Surendranagar
+CHOTILA
+288
+Phase 2
+PKG B
+Surendranagar
+CHOTILA
+289
+Phase 2
+PKG B
+Junagadh
+Keshod
+290
+Phase 2
+PKG B
+Junagadh
+Visavadar
+291
+Phase 2
+PKG B
+Junagadh
+Vanthali
+292
+Phase 2
+PKG B
+Jamnagar
+Jamnagar
+293
+Phase 2
+PKG B
+Jamnagar
+Lalpur
+294
+Phase 2
+PKG B
+Gir Somnath
+Una
+295
+Phase 2
+PKG B
+Junagadh
+Visavadar
+296
+Phase 2
+PKG B
+Junagadh
+Visavadar
+297
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Okhamandal
+298
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Bhanvad
+299
+Phase 2
+PKG B
+Jamnagar
+Kalavad
+300
+Phase 2
+PKG B
+Ahmedabad
+Daskroi
+301
+Phase 2
+PKG B
+Jamnagar
+Jamjodhpur
+302
+Phase 2
+PKG B
+Morbi
+Morvi
+303
+Phase 2
+PKG B
+Morbi
+Morvi
+304
+Phase 2
+PKG B
+Junagadh
+Maliya Hatina
+305
+Phase 2
+PKG B
+Junagadh
+Manavadar
+306
+Phase 2
+PKG B
+Junagadh
+Mendarda
+307
+Phase 2
+PKG B
+Junagadh
+Manavadar
+
+
+308
+Phase 2
+PKG B
+Junagadh
+Bhesan
+309
+Phase 2
+PKG B
+Junagadh
+Keshod
+310
+Phase 2
+PKG B
+Jamnagar
+Lalpur
+311
+Phase 2
+PKG B
+Morbi
+Halvad
+312
+Phase 2
+PKG B
+Morbi
+Halvad
+313
+Phase 2
+PKG B
+Gir Somnath
+Sutrapada
+314
+Phase 2
+PKG B
+Gir Somnath
+Veraval
+315
+Phase 2
+PKG B
+Gir Somnath
+Una
+316
+Phase 2
+PKG B
+Rajkot
+Jetpur
+317
+Phase 2
+PKG B
+Surendranagar
+Muli
+318
+Phase 2
+PKG B
+Surendranagar
+Lakhtar
+319
+Phase 2
+PKG B
+Rajkot
+Upleta
+320
+Phase 2
+PKG B
+Rajkot
+Upleta
+321
+Phase 2
+PKG B
+Rajkot
+Jasdan
+322
+Phase 2
+PKG B
+Rajkot
+Jamkandorana
+323
+Phase 2
+PKG B
+Morbi
+Malia
+324
+Phase 2
+PKG B
+Jamnagar
+Jodiya
+325
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Khambhalia
+326
+Phase 2
+PKG B
+Morbi
+Wakaner
+327
+Phase 2
+PKG B
+Morbi
+Halvad
+328
+Phase 2
+PKG B
+Junagadh
+Bhesan
+329
+Phase 2
+PKG B
+Morbi
+MORBI
+330
+Phase 2
+PKG B
+Morbi
+wankaner
+331
+Phase 2
+PKG B
+Morbi
+Morbi
+332
+Phase 2
+PKG B
+Morbi
+Morbi
+333
+Phase 2
+PKG B
+Morbi
+Maliya
+334
+Phase 2
+PKG B
+Rajkot
+Lodhika
+335
+Phase 2
+PKG B
+Botad
+Ranpur
+336
+Phase 2
+PKG B
+Rajkot
+RAJKOT
+337
+Phase 2
+PKG B
+Rajkot
+Rajkot
+338
+Phase 2
+PKG B
+Junagadh
+Maliya Hatina
+339
+Phase 2
+PKG B
+Junagadh
+Visavadar
+340
+Phase 2
+PKG B
+Junagadh
+Mangrol
+341
+Phase 2
+PKG B
+Gir Somnath
+Talala
+342
+Phase 2
+PKG B
+Ahmedabad
+Mandal
+343
+Phase 2
+PKG B
+Surendranagar
+Sayla
+344
+Phase 2
+PKG B
+Rajkot
+Vinchhiya
+345
+Phase 2
+PKG B
+Gir Somnath
+Talala
+346
+Phase 2
+PKG B
+Gir Somnath
+GirGadhada
+347
+Phase 2
+PKG B
+Ahmedabad
+Viramgam
+348
+Phase 2
+PKG B
+Ahmedabad
+Detroj
+349
+Phase 2
+PKG B
+Ahmedabad
+Daskroi
+350
+Phase 2
+PKG B
+Rajkot
+Gondal
+351
+Phase 2
+PKG B
+Rajkot
+VINCHHIYA
+
+
+352
+Phase 2
+PKG B
+Junagadh
+Bhesan
+353
+Phase 2
+PKG B
+Junagadh
+Junagadh
+354
+Phase 2
+PKG B
+Gir Somnath
+Kodinar
+355
+Phase 2
+PKG B
+Jamnagar
+Kalavad
+356
+Phase 2
+PKG B
+Jamnagar
+Jamjodhpur
+357
+Phase 2
+PKG B
+Jamnagar
+Jamjodhpur
+358
+Phase 2
+PKG B
+Surendranagar
+Dasada
+359
+Phase 2
+PKG B
+Rajkot
+Gondal
+360
+Phase 2
+PKG B
+Surendranagar
+CHOTILA
+361
+Phase 2
+PKG B
+Rajkot
+Paddhari
+362
+Phase 2
+PKG B
+Gir Somnath
+Talala
+363
+Phase 2
+PKG B
+Junagadh
+Keshod
+364
+Phase 2
+PKG B
+Junagadh
+Junagadh
+365
+Phase 2
+PKG B
+Morbi
+Tankara
+366
+Phase 2
+PKG B
+Morbi
+wankaner
+367
+Phase 2
+PKG B
+Morbi
+Tankara
+368
+Phase 2
+PKG B
+Dev-Bhoomi_Dwarka
+Khambhalia
+369
+Phase 2
+PKG B
+Jamnagar
+Dhrol
+370
+Phase 2
+PKG B
+Jamnagar
+Kalavad
+371
+Phase 2
+PKG B
+Mehsana
+Kadi
+372
+Phase 2
+PKG B
+Mehsana
+Kadi
+373
+Phase 2
+PKG B
+Ahmedabad
+Detroj-Rampura
+374
+Phase 2
+PKG B
+Mehsana
+Kadi
+375
+Phase 2
+PKG B
+Rajkot
+Kotadasanghi
+376
+Phase 2
+PKG B
+Rajkot
+JASDAN
+377
+Phase 2
+PKG B
+Rajkot
+Gondal
+378
+Phase 2
+PKG B
+Surendranagar
+Dasada
+379
+Phase 2
+PKG B
+Surendranagar
+Dhrangadhra
+380
+Phase 2
+PKG B
+Surendranagar
+chuda
+381
+Phase 2
+PKG B
+Surendranagar
+Limbdi
+382
+Phase 2
+PKG B
+RAJKOT
+RAJKOT
+383
+Phase 2
+PKG B
+Ahmedabad
+Dhandhuka
+384
+Phase 2
+PKG B
+Botad
+Barwala
+385
+Phase 2
+PKG B
+Rajkot
+RAJKOT
+386
+Phase 2
+PKG B
+Rajkot
+Jasdan
+387
+Phase 2
+PKG B
+Rajkot
+Upleta
+388
+Phase 2
+PKG B
+Surendranagar
+Dasada
+389
+Phase 2
+PKG B
+Surendranagar
+Dasada
+390
+Phase 2
+PKG B
+Ahmedabad
+Sanand
+391
+Phase 2
+PKG B
+Ahmedabad
+Sanand
+392
+Phase 2
+PKG B
+Mehsana
+Kadi
+393
+Phase 2
+PKG B
+Ahmedabad
+Bavla
+394
+Phase 2
+PKG B
+Junagadh
+Vanthali
+395
+Phase 2
+PKG B
+Junagadh
+Manavadar
+
+
+396
+Phase 2
+PKG B
+Rajkot
+Paddhari
+397
+Phase 2
+PKG B
+Rajkot
+Dhoraji
+398
+Phase 2
+PKG B
+Rajkot
+Kotda Sangani
+399
+Phase 2
+PKG B
+Surendranagar
+Wadhwan
+400
+Phase 2
+PKG B
+Surendranagar
+Limbdi
+401
+Phase 2
+PKG B
+Ahmedabad
+Viramgam
+402
+Phase 2
+PKG B
+Ahmedabad
+Dholka
+403
+Phase 2
+PKG B
+Jamnagar
+Jamnagar
+404
+Phase 2
+PKG B
+Ahmedabad
+Viramgam
+405
+Phase 2
+PKG B
+Mehsana
+Kadi
+406
+Phase 2
+PKG B
+Gir Somnath
+Kodinar
+407
+Phase 2
+PKG B
+Ahmedabad
+Sanand
+408
+Phase 2
+PKG B
+Ahmedabad
+Viramgam
+409
+Phase 2
+PKG B
+Gir Somnath
+Una
+410
+Phase 2
+PKG B
+Ahmedabad
+Admedabad
+
+
+Shelter Name
+OLT/(TC/DC)
+Bhikapur
+OLT
+Bhorva
+OLT
+Sureli
+OLT
+Dediapada
+OLT
+Kosimpada(SONDER)
+OLT
+Ahwa Taluka Panchayat Compound
+OLT
+Umargam Taluka Panchayat Compound
+OLT
+Malegaon(Saputara)
+OLT
+Pimpri(Hanvatchond)
+OLT
+Waghai Taluka Panchayat Compound
+OLT
+Pathakwadi(Unai)
+OLT
+UCHCHHAL
+OLT
+Mandal
+OLT
+Mehsana DC
+TC/DC
+Patan DC
+TC/DC
+Sami TC
+TC/DC
+Vijapur TC
+TC/DC
+Kheralu TC
+TC/DC
+Khedbrahma TC
+TC/DC
+PaviJetpur TC
+TC/DC
+Sankheda TC
+TC/DC
+Dabhoi TC
+TC/DC
+Savli TC
+TC/DC
+Desar TC
+TC/DC
+Kapadvanj TC
+TC/DC
+Prantij TC
+TC/DC
+Mahemdabad TC
+TC/DC
+Petlad TC
+TC/DC
+Amod TC
+TC/DC
+OLPAD TC
+TC/DC
+Surat DC Office
+TC/DC
+Navsari DC
+TC/DC
+Chikhli TC
+TC/DC
+Valsad DC office
+TC/DC
+Vapi TC
+TC/DC
+Kathlal TC
+TC/DC
+DC & TC - Anand
+TC/DC
+Vadodara DC
+TC/DC
+Jhagadia TC
+TC/DC
+Rinchvani
+OLT
+Ditwas(Godhar North)
+OLT
+Gangata(Limdia)
+OLT
+Chabanpur
+OLT
+
+
+Samumota
+OLT
+Lalpura(Suthar nesadi)
+OLT
+Doli TE
+OLT
+Kothamba
+OLT
+Sansoli
+OLT
+Kevadiya-SSNL office compund
+OLT
+Anaval
+OLT
+Gopalpura
+OLT
+Raniamba(out side the GP)
+OLT
+Umarpada
+OLT
+Chosala(GP campus)
+OLT
+ Untadi
+OLT
+Dharasana(Dungari)
+OLT
+Dhamdachi(Gundlav GIDC)
+OLT
+Subir taluka Panchayat(Sabridham)
+OLT
+Thava
+OLT
+Kasana(GP-campus)
+OLT
+Tadav/Mavasari
+OLT
+Naroli(GP-campus)
+OLT
+Piluda
+OLT
+Rameshera-L_New
+OLT
+Ranjitnagar
+OLT
+Kosadi
+OLT
+Takarma
+OLT
+Kudiyana
+OLT
+Rayam
+OLT
+Dolvan(In GP campus)
+OLT
+Moritha
+OLT
+Sadadwan
+OLT
+Pisoi
+OLT
+Gabat
+OLT
+Pardipada GP
+OLT
+Kadod GP
+OLT
+Karchelia GP
+OLT
+Rampura GP campus
+OLT
+Motipavad GP campus
+OLT
+Lakhani GP campus
+OLT
+Tarakwada(Nr. BSNL Campus)
+OLT
+Viraniya GP
+OLT
+Khimat GP campus
+OLT
+Gola Gram panchayat, near to  exchange
+OLT
+Ranijini Padedi GP
+OLT
+Malekpur GP
+OLT
+Beliya (Nr Dachka GP)
+OLT
+
+
+Ambliyara,Near GP campus
+OLT
+Sardoi GP Campus
+OLT
+KISHANGADH GP
+OLT
+Bhomapardi GP
+OLT
+NANI BHATLAV GP
+OLT
+Mandvi Taluka Panchayat
+OLT
+MOSALI GP
+OLT
+JHANKHVAV GP
+OLT
+Taluka Panchayat Office Campus,Morva Hadaf
+OLT
+Mora GP Campus
+OLT
+Sadakpur GP Campus
+OLT
+ Takatuka GP
+OLT
+UmbhranGP Campus
+OLT
+Kamboi GP(in the  gp campus)
+OLT
+Saliya Na Muvada(Divda GP)
+OLT
+Singapur Mukhya Primary School
+OLT
+Muvada Kanya primary school,Zalod
+OLT
+Velanwada GP
+OLT
+Shamana GP
+OLT
+Ukhreli GP 
+OLT
+ Karkhadi GP
+OLT
+Padra TDO Office
+OLT
+Near Old adadra Panchayat building(Adadra)
+OLT
+Morva GP Campus
+OLT
+Taluka Panchayat Office,shehera
+OLT
+VANZ GP
+OLT
+VIHAN GP
+OLT
+Badarpura gram panchayat campus(Bhutedi)
+OLT
+Jadiya
+OLT
+Bhavisana
+OLT
+Helodari
+OLT
+Bhetali(Kheradi)
+OLT
+Sukhsar GP( outside the GP)
+OLT
+Uthavali GP space
+OLT
+Jokha(MORTHANA GP)
+OLT
+KOSAMBA GP
+OLT
+KAVAS(Mora)
+OLT
+DIHEN(Borbadhan)
+OLT
+Nani Bedwan GP
+OLT
+Ankleshwar Taluka Panchayat
+OLT
+Selamba GP
+OLT
+Fatepura Alias valunda( in the GP campus)
+OLT
+Sanjeli GP( in GP campus)
+OLT
+Areth(Zarpan)
+OLT
+
+
+Nani Naroli
+OLT
+VANKANER GP
+OLT
+Dharampur Taluka Panchayat
+OLT
+Khadki GP(VAL036_Kilapardi)
+OLT
+Eklara GP/Karvad(VAL422_Chanod)
+OLT
+Animal hospital(Katwara)
+OLT
+Taluka primary school(Devagdhbaria)
+OLT
+Balaya gp( outside the GP)
+OLT
+Sathamb
+OLT
+Suigam
+OLT
+Paldi
+OLT
+Akrund
+OLT
+ChuthanaMuvada(Godhar (W) GP
+OLT
+Dhanpur(Pipero)
+OLT
+Piplod
+OLT
+Buhari
+OLT
+Bajipura
+OLT
+Nizar
+OLT
+JESAWADA(CHANDAWADA GP)
+OLT
+BALASINOR
+OLT
+PALLA
+OLT
+SATARDA
+OLT
+MODASARSU
+OLT
+VALVADA
+OLT
+KIM(MULAD GP)
+OLT
+SAYAN(SIWAN GP)
+OLT
+LIMBHOI
+OLT
+DADHALIYA
+OLT
+DEGAMDA(Degamba)
+OLT
+Devgadh
+OLT
+ Vyara Jilla Seva Sadan Campus
+OLT
+Nikoli GP space
+OLT
+Lachharas GP
+OLT
+Panoli Village GP
+OLT
+Ranchrda GP
+OLT
+Nandod Taluka Panchayat(chitravadi)
+OLT
+Undva GP
+OLT
+Jegol
+OLT
+JuniSedhni
+OLT
+Tilakwada GP space
+OLT
+Kanja GP(Bedkuvadoor)
+OLT
+Malan
+OLT
+Jagana
+OLT
+Amirgadh
+OLT
+
+
+Virampur
+OLT
+Limdi
+OLT
+Rah
+OLT
+Rupal
+OLT
+Valvada(Butawada)
+OLT
+Mandva
+OLT
+Satlasna TC
+OLT
+Jambughoda TC
+OLT
+Dantiwada(Mamlatdar Office)
+OLT
+Ramsan
+OLT
+Santrod(Saliya)
+OLT
+Vejalpur
+OLT
+Sarbhon GP
+OLT
+Palsana Taluka Panchayat
+OLT
+Nalwai GP( Garbada)
+OLT
+Dahod Taluka panchayat office
+OLT
+Vadpada Nesu GP (SRT143_Naranpur)
+OLT
+Tathatiya GP (SRT077_Chalthan)
+OLT
+Vadi Bhensrot(SRT086_Ukai)
+OLT
+PNP011_Deesa_TE
+OLT
+GDR038_Shivraj
+OLT
+GDR021_Gogamba
+OLT
+GDR012_Derol-C(Kaalol TC)
+OLT
+GDR003_Halol-C
+OLT
+VAD091_MobhaR
+OLT
+VAD085_MasarRoad_S-L(Kanzat)
+OLT
+VAL031_Atul(Haria)
+OLT
+VAL012_Vapimain
+OLT
+PNP039_Zerda
+OLT
+PNP014_Jalotra
+OLT
+PNP009_Danta
+OLT
+PNP046_UNTE
+OLT
+HMT002_Dhansura
+OLT
+HMT003_Demai_S_5
+OLT
+GDR007_Lunawada-PI-C
+OLT
+VAL084_Tighara(Dungari)
+OLT
+SRT121_Kathor(Amboli)
+OLT
+PNP080_Dev(Ujjanwada)
+OLT
+HMT016_Meghraj
+OLT
+HMT015_Malpur
+OLT
+PNP023_Tharad
+OLT
+PNP020_Shihori
+OLT
+PNP006_Chhapi
+OLT
+PNP024_Vav
+OLT
+
+
+VAL045_Faldhara
+OLT
+VAL017_Motawag(Ashma GP)
+OLT
+GDR061_TimbaRoad(Timba GP)
+OLT
+GDR002_GodhraMain      (Godhra taluka Panchayat)
+OLT
+PNP022_Thara Village(Tana)
+OLT
+VAD062_Miyagam
+OLT
+PNP107_Bukoli
+OLT
+PNP012_Deoder
+OLT
+PNP005_Bhabhar(Karela)
+OLT
+PNP004_Bhildi(Ratanpur)
+OLT
+PNP048_Hadad(Navovas)
+OLT
+SRT_Poonamgam
+OLT
+Not Build
+Pipali
+OLT
+RAJ049_Virpur
+OLT
+SEN037_Khodu
+OLT
+SEN022_Thangadh
+OLT
+RAJ104_MotaDahisara_5S
+OLT
+SEN050_Aya
+OLT
+AmrapurGir
+OLT
+Dolasa
+OLT
+Dhokadava
+OLT
+RAJ060_Gadhka
+OLT
+RAJ033_Lodhika_GIDC
+OLT
+Ghantiaprachi
+OLT
+JMN040_Arambhada
+OLT
+JMN049_Lamba
+OLT
+Panidhra
+OLT
+JMN103_Dhrafa_5
+OLT
+Ajotha
+OLT
+RAJ062_Kotharia
+OLT
+RAJ168_Mandlikpur_5
+OLT
+RAJ194_Pipardi_5
+OLT
+SEN023_Sara
+OLT
+AMD209_Dholera
+OLT
+AMD241_Rudatal
+OLT
+SEN206_Mathak
+OLT
+SEN049_Shiyani
+OLT
+RAJ051_Jamkandorana_5s
+OLT
+BVN019_Gadhada
+OLT
+JMN029_Meghpar
+OLT
+AMD155_Ranpur
+OLT
+JMN041_RanTE
+OLT
+SEN103_Vadod_5
+OLT
+SEN061_Dhajala
+OLT
+
+
+SEN134_Virendragadh_5
+OLT
+AMD214_Vehlal_B24052
+OLT
+AMD162_KeralaGIDC_B14051
+OLT
+AMD145_KOTH_1_B34055
+OLT
+SEN090_Vithalgadh
+OLT
+JND067_Majewadi_1_B34133
+OLT
+JND086_Jangar_B34136
+OLT
+JMN044_Kanalus
+OLT
+JMN079_Dadiya
+OLT
+JMN031_MotiBanugar
+OLT
+JMN047_Bhadthar_S_5
+OLT
+JMN021_JamKalyanpur_5S
+OLT
+JMN107_Movan_5
+OLT
+JMN089_Ranpar
+OLT
+JMN058_Salaya
+OLT
+JMN055_Sikka
+OLT
+JMN113_Verad_5
+OLT
+JND174_Savni_5_B34140
+OLT
+JND087_Delwada_B24143
+OLT
+SEN039_Sedla
+OLT
+SEN093_Pansina_5
+OLT
+RAJ202_Motahadmatiya_5
+OLT
+SEN087_Bamanbor
+OLT
+SEN002_Chotila
+OLT
+SEN042_Anandpur
+OLT
+JND001_Ajab_5S_B14134
+OLT
+JND109_Jetalvad_B24145
+OLT
+JND039_Japodad_B24144
+OLT
+JMN054_Jamvanthali_New
+OLT
+JMN030_Vadpanchasara_S
+OLT
+JND172_Kakidimoli_5_B44143
+OLT
+JND169_Mangnathpipali_5_B34145
+OLT
+JND050_Baradia_B44145
+OLT
+JMN023_Dwarka
+OLT
+JMN060_MotaGunda_S_5
+OLT
+JMN110_Motavadala_5
+OLT
+AMD154_Nandej_B34052
+OLT
+JMN149_Vanana_5
+OLT
+RAJ067_Makansar
+OLT
+RAJ155_Rangpar_5
+OLT
+JND107_Bhanduri_B44136
+OLT
+JND059_Limbuda_B24137
+OLT
+JND016_Mendarada_B14139
+OLT
+JND146_VadalaMvr_5_B14137
+OLT
+
+
+JND103_Mendpara_B14132
+OLT
+JND108_Divrana_B24138
+OLT
+JMN018_Lalpur_5S
+OLT
+SEN053_Bhalgamda
+OLT
+SEN119_Ishanpur_5
+OLT
+JND076_Dhamlej_B24141
+OLT
+JND025_Supasi_B24140
+OLT
+JND012_Kesaria_B14143
+OLT
+RAJ169_Mevasa_5
+OLT
+SEN013_Muli
+OLT
+SEN011_Lakhtar
+OLT
+RAJ182_Samadhiyala_5
+OLT
+RAJ074_Dhank
+OLT
+RAJ088_Sanathali
+OLT
+RAJ185_Satodad_5
+OLT
+RAJ044_MaliyaMiyana
+OLT
+JMN035_Bhadra
+OLT
+JMN057_Kajurda
+OLT
+RAJ066_Daldi
+OLT
+SEN025_Charadva
+OLT
+JND002_Bhesan_B34132
+OLT
+JMN053_Amran
+OLT
+RAJ050_Wakaner
+OLT
+RAJ123_MorviOldTE
+OLT
+RAJ093_Bagathala
+OLT
+RAJ167_Ghantila_5
+OLT
+RAJ187_Nagarpipalia_5
+OLT
+AMD165_Jalila_B14057
+OLT
+RAJ064_Ratanpur
+OLT
+RAJ006_Madhapar
+OLT
+JND018_MaliyaHatina_B14136
+OLT
+JND106_Sarsai_B14145
+OLT
+JND047_Shil_B14138
+OLT
+JND173_Rampara_5_B14142
+OLT
+AMD201_VasnaKunpur_B34053
+OLT
+SEN021_Sayla
+OLT
+RAJ054_Vichhiya
+OLT
+JND160_Dhava_5_B24142
+OLT
+JND074_GirGadhada_B17158
+OLT
+AMD173_Kamijala_B24059
+OLT
+AMD144_Detroj_B04053
+OLT
+AMD166_Miroli_B14052
+OLT
+RAJ070_Kolithad
+OLT
+RAJ105_Ambaradi_5S
+OLT
+
+
+JND048_Chuda_B24132
+OLT
+JND158_Vizapur_5_B14133
+OLT
+JND069_Ghatvad_B34135
+OLT
+JMN073_Laloi
+OLT
+JMN179_Satapar_5
+OLT
+JMN099_Sadodar_5
+OLT
+SEN029_Zinzuwada
+OLT
+RAJ089_Vasavad
+OLT
+SEN108_Mevasa_5
+OLT
+RAJ141_Khodapipar
+OLT
+JND026_Talala_B34142
+OLT
+JND014_Keshod_B24134
+OLT
+JND082_Bilkha_B24133
+OLT
+RAJ052_Tankara
+OLT
+RAJ085_Dhuva
+OLT
+RAJ055_Mitana
+OLT
+JMN033_Khambhalia
+OLT
+JAM038_Dhorl_New
+OLT
+JMN015_Kalawad_5S
+OLT
+MEH071_MedaAdaraj_S_5_B14167
+OLT
+MEH102_KaranNagar_B24167
+OLT
+AMD116_Rampura_B14053
+OLT
+MEH145_Jasalpur_B44167
+OLT
+RAJ056_Kotadasanghi
+OLT
+RAJ038_Atkot
+OLT
+RAJ041_Gondal
+OLT
+SEN057_Vanod_S_5
+OLT
+SEN125_Ramgadh_5
+OLT
+SEN001_Chuda
+OLT
+SEN060_Ranagadh
+OLT
+RAJ036_Kuvadva
+OLT
+AMD176_Dhandhuka
+OLT
+AMD140_Barwala_B04050
+OLT
+RAJ047_Sardhar
+OLT
+RAJ042_Jasdan
+OLT
+RAJ053_Bhayavadar
+OLT
+SEN015_Patdi
+OLT
+SEN005_Dasada
+OLT
+AMD186_Rethal_B14058
+OLT
+AMD127_SanandTE_B04058
+OLT
+MEH167_KadiTE_5
+OLT
+AMD143_Bavla_B04051
+OLT
+JND084_Lushala_B14144
+OLT
+JND019_Manavadar_B34137
+OLT
+
+
+RAJ046_Padadhari
+OLT
+RAJ040_Dhoraji
+OLT
+RAJ034_ShaparTE
+OLT
+SEN017_SurendraNagar
+OLT
+SEN012_Limbdi
+OLT
+AMD156_Viramgam_B04059
+OLT
+AMD147_DholkaMW_B14055
+OLT
+JMN001_GIDC_Dared
+OLT
+AMD161_Hansalpur_B34059
+OLT
+Meh012_Nandasan_B54167
+OLT
+JND013_Kodinar
+OLT
+AMD139_Chharodi_B34058(Chandrasan GP)
+OLT
+AMD135_Manipura
+OLT
+JND152_Garal_5
+OLT
+Jilla Panchayat
+H-Connectivity Shelter

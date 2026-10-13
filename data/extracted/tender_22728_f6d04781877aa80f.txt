@@ -1,0 +1,4256 @@
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+GeM-Bidding-
+9624315
+10 / Buyer Added 
+Bid Specific ATC
+OEM Experience: The OEM must have supplied same or 
+similar product of Rs. 50 Cr of order value during the last 3 
+years before the bid opening date
+We request you to please amend the clause as:
+The OEM must have supplied same or similar product of Rs. 50 20 Cr 
+of order value in a single PO of VC during the last 3 years before the 
+bid opening date in Govt/PSU/Defense/National Banks & BFSI.
+We request to consider this clause for wider participation
+Please see Corrigendum
+GeM-Bidding-
+9624315
+Buyer Added Bid 
+Specific ATC
+Additional Point
+We request you to please add the below clause:
+3 x END CUSTOMER PO's with 150 Nos. VC Endpoints of same or 
+similar product in  Govt/Defense/Nationalised Banks & BFSI/ PSU.
+We request to consider this clause for participation from 
+reputed OEM's.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+2 / 1. Scope of 
+work for Video 
+Conferencing 
+Solution: point h
+h. The Codec (Type-A) must be custom-built hardware and 
+not software loaded on a PC. The unit must be equipped 
+with an intuitive touch screen / panel / remote for 
+controlling the VC Unit.
+The Codec (Type-A) must be custom-built hardware and not software 
+loaded on a PC. The unit must be equipped with an intuitive touch 
+screen / panel / remote for controlling the VC Unit.
+We understand that "Remote" is a typographical error. 
+We request that it also be removed from the Scope of 
+Work, as there is no mention of "Remote" in the 
+specifications.
+Please see Corrigendum
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+2 / 1. Scope of 
+work for Video 
+Conferencing 
+Solution: point b
+b. All the items cannot be bunched in the GeM. However, 
+the bidder should refer to all the items along with the 
+specifications mentioned in (Annexure A) and provide all 
+the products as a part of the VC Solution with Support & 
+Service till the warranty period.
+All the items cannot be bunched in the GeM. However, the bidder 
+should refer to all the items along
+with the specifications mentioned in (Annexure A) and provide all the 
+products as a part of the VC
+Solution with Support & Service till the warranty period.
+The OEM shall provide direct technical support to the Purchaser 
+throughout the contract period, without any intervention from the 
+lead bidder if required, as the OEM warranty is required for 7 years. 
+The Purchaser shall have the right to log support cases and receive 
+technical assistance directly from the OEM without mandatory 
+involvement of the authorized partner or reseller. OEM should 
+provide the undertaking on OEM letterhead confiming the same.
+Request to add the service clause, to ensure timely issue 
+resolution, direct access to OEM Technical Assistance 
+Centre( TAC) for faster escalation of critical cases, 
+uninterrupted support during the 7 years contract 
+period, and continuity of service irrespective of the 
+partner's availability or business status.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+1 Product Architecture -The offered solution shall be a 
+codec-based enterprise Video Conferencing Endpoint 
+comprising a dedicated Codec, PTZ Camera, minimum two 
+omnidirectional / directional microphones and Touch 
+Control Panel. All components shall be from the same 
+OEM and supplied as an integrated solution.
+We request to amend the clause as:-
+The offered solution shall be a codec-based enterprise Video 
+Conferencing Endpoint comprising a dedicated Codec, PTZ Camera, 
+minimum two omnidirectional / directional microphones and Touch 
+Control Panel.  If a network switch is required for connecting 
+peripherals such as the touch panel, microphone, or camera, it shall 
+be supplied as part of the proposed solution. The switch shall be 
+dedicated to the video conferencing peripherals and shall not be 
+connected to the GIL network. All components shall be from the 
+same OEM and supplied as an integrated solution.
+We understand that this is an important requirement 
+from a security perspective. If the same network switch 
+is shared between the GIL network and video 
+conferencing peripherals (such as the touch panel, 
+microphone, and camera), it may introduce potential 
+security risks and increase the network attack surface. 
+Therefore, we request that the clause be amended to 
+specify that the switch used for connecting VC 
+peripherals shall be separate from the GIL network to 
+ensure enhanced network security and isolation.
+Bidder may propose a 
+network switch to connect 
+the Microphones. No 
+additional cost shall be 
+paid by GOG.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+11. It should support 3 microphones with digital 
+architecture connected to a codec directly or through an 
+external audio bridge each with an illuminated mute 
+button/sensor. 2 mics should be supplied from day 1. All 
+mics to be from the endpoint OEM only.
+We request you to please amend the clause as:
+It should support 3 microphones with digital/ Stereo pin analog 
+architecture connected to a codec directly or
+through an external audio bridge each with an illuminated mute 
+button/sensor. 2 mics
+should be supplied from day 1. All mics to be from the endpoint OEM 
+only.
+Currently, GIL is using 3.5mm steeo pin analog 
+microphones with all the available VC brands and has 
+been in use for more than a decade. Digital Microphones 
+add to network related complexity in peripherals as it 
+depends on IP address availability within the room. 
+Therefore it is requested to kindly allow stereo pin 
+analog microphones to avoid complexity in O&M.
+Please see Corrigendum
+Corrigendum issued against GeM Bid No. GEM/2026/B/7802581 has been duly incorporated in the new Bid  GEM/2026/B/7928780.
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+12. Camera -The camera shall be directly connected or 
+over an AV over IP network. to the codec. The
+camera should be with a power adapter.
+We request you to please amend the clause as:-
+Camera -The camera shall be connected directly or over an IP 
+network (AVoIP) to the codec. The camera should be with a power 
+adapter or get the power from codec.
+Every OEM has its own approach to designing and 
+manufacturing its products. Accordingly, power can be 
+provided either through a dedicated power adapter or 
+via a single cable that carries data, control, and power 
+from the codec. Both approaches are standard design 
+implementations and deliver the same required 
+functionality.
+Please see Corrigendum
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+13 UC Platform OEM solution shall be certified to be 
+configured for Microsoft Teams Room.
+We request you to please amend the clause as:-
+13. UC Platform OEM solution shall be certified to be configured for 
+Microsoft Teams Room. Additionally, every device listed in Annexure 
+A,(Type A & Type B) shall be capable of simultaneously joining 
+Microsoft Teams meetings using the SIP URI. The required licenses 
+for CVI should be supplied for 7 years subscription period
+The existing clause indicates that GIL expects the 
+proposed devices to be Microsoft Teams Room certified. 
+To ensure full interoperability and operational flexibility, 
+the devices should also support joining Microsoft Teams 
+meetings using a SIP URI. This amendment will ensure 
+that the proposed solution is hybrid, future-ready, and 
+capable of delivering complete functionality without 
+operational limitations.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+14. Management - OEM shall provide centralized 
+enterprise management platform for provisioning, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both on premises and/or cloud 
+deployment.
+We request you to add- Device Registration and call control as well, 
+clause read as:
+14. Management - OEM shall provide centralized enterprise 
+management platform for provisioning, registering, call control, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both onpremises and/or cloud deployment. 
+For seamless O&M, it is recommended that all the VC 
+devices register to the existing central call control server 
+available with GIL for a unified dial plan, smooth 
+provisioning, Unified troubleshooting, analysing traffic 
+behaviour such pakcet loss, jitter, latency etc and overall 
+inventory management and interoperability with existing 
+MCU. Hence we request that these capabilities be 
+mentioned in the specification.   
+No Change. As per RFP.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+17. BYOD/USB Passthrough -Support native Single cable 
+BYOD operation through USB-C enabling use of the 
+endpoint camera, microphones and speakers with 
+Microsoft Teams, Zoom, Webex and other standard soft 
+clients.
+We request you to add- Content Display
+BYOD/USB -Support native Single cable BYOD operation through USB-
+C enabling use of the endpoint camera, microphones, Content 
+Display and speakers with Microsoft Teams, Zoom, Webex and other 
+standard soft clients.
+We understand that the customer expects all required 
+peripherals to be activated through a single USB-C 
+connection during BYOD when a laptop or PC is 
+connected to the codec. However, the clause appears to 
+have inadvertently omitted content sharing/content 
+display, which is an essential and mandatory 
+requirement for BYOD operation. We request that the 
+specification be amended accordingly for clarity and 
+completeness.
+Additional features can be 
+provided by the OEM.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+8 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+17. BYOD/USB Passthrough -The system should be 
+supplied with USB 3.0 cable for USB Pass-thru mode for 
+seamless
+functionality.
+We request you to amend the clause as:-
+BYOD/USB Passthrough -The system should be supplied with USB 3.0 
+cable for USB Pass-thru mode for seamless
+functionality. The minimum length should be 9mtr or more and 
+should be from same VC OEM for seamless functionality.
+For BYOD operation, the USB-C cable length should be 
+explicitly specified to ensure practical and convenient 
+usage. In a typical meeting room setup, the laptop is not 
+placed on top of the codec but at a reasonable distance 
+from it. Additionally, the supplied USB-C cable should be 
+from the same VC OEM to ensure seamless compatibility 
+and reliable functionality. We request that this clause be 
+amended accordingly.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+9 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-A
+26. Software & Licensing - All software licenses, firmware, 
+operating system licenses and feature licenses required 
+for the offered functionality shall be perpetual and 
+supplied from Day One. No recurring subscription shall be 
+mandatory for basic video conferencing functionality 
+during the warranty period.
+We request you to amend the clause as:-
+Software & Licensing - All software licenses, firmware, operating 
+system licenses and feature licenses required for the offered 
+functionality shall be perpetual/subscription and supplied from Day 
+One. No recurring subscription shall be mandatory for basic video 
+conferencing functionality during the warranty period.
+GIL is currently using Cisco Expressway for device 
+registration. As per our records, GIL has 349 device 
+registration licenses, out of which, 42 licenses are being 
+consumed by various VC devices. This RFP is for 329 
+units. Therefore, as per our understanding, there will a 
+deficit of 22 Nos. device registration licenses on the 
+current core Expressway infrastructure. Please let us 
+know if these licenses are required to be supplied by the 
+bidder with 7 years support ?
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+9 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-B
+1 Product Architecture - The offered solution shall be a All-
+in-one video bar with integrated microphone, speaker, 
+codec and 4K camera, plus a touch control panel; all from 
+the same OEM and supplied as an integrated solution.
+We request to amend the clause as:-
+The offered solution shall be a All-in-one video bar with integrated 
+microphone, speaker, codec and 4K camera, plus a touch control 
+panel. If a network switch is required for connecting peripherals 
+such as the touch panel, microphone, or camera, it shall be supplied 
+as part of the proposed solution. The switch shall be dedicated to 
+the video conferencing peripherals and shall not be connected to 
+the GIL network. all from the same OEM and supplied as an 
+integrated solution.
+We understand that this is an important requirement 
+from a security perspective. If the same network switch 
+is shared between the GIL network and video 
+conferencing peripherals (such as the touch panel, 
+microphone, and camera), it may introduce potential 
+security risks and increase the network attack surface. 
+Therefore, we request that the clause be amended to 
+specify that the switch used for connecting VC 
+peripherals shall be separate from the GIL network to 
+ensure enhanced network security and isolation.
+Bidder may propose a 
+network switch to connect 
+the Microphones. No 
+additional cost shall be 
+paid by GOG.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+9 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-B
+13 UC Platform OEM solution shall be certified to be 
+configured for Microsoft Teams Room.
+We request you to please amend the clause as:-
+13. UC Platform OEM solution shall be certified to be configured for 
+Microsoft Teams Room. Additionally, every device listed in Annexure 
+A,(Type A & Type B) shall be capable of simultaneously joining 
+Microsoft Teams meetings using the SIP URI. The required licenses 
+for CVI should be supplied for 7 years subscription period
+The existing clause indicates that GIL expects the 
+proposed devices to be Microsoft Teams Room certified. 
+To ensure full interoperability and operational flexibility, 
+the devices should also support joining Microsoft Teams 
+meetings using a SIP URI. This amendment will ensure 
+that the proposed solution is hybrid, future-ready, and 
+capable of delivering complete functionality without 
+operational limitations.
+No Change. As per RFP.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+9 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-B
+14. Management - OEM shall provide centralized 
+enterprise management platform for provisioning, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both on premises and/or cloud 
+deployment.
+We request you to add- Device Registration and call control as well, 
+clause read as:
+14. Management - OEM shall provide centralized enterprise 
+management platform for provisioning, registering, call control, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both onpremises and/or cloud deployment. 
+For seamless O&M, it is recommended that all the VC 
+devices register to the existing central call control server 
+available with GIL for a unified dial plan, smooth 
+provisioning, Unified troubleshooting, analysing traffic 
+behaviour such pakcet loss, jitter, latency etc and overall 
+inventory management and interoperability with existing 
+MCU. Hence we request that these capabilities be 
+mentioned in the specification.   
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+9 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-B
+17. BYOD/USB Passthrough -The system should be 
+supplied with USB 3.0 cable for USB Pass-thru mode for 
+seamless
+functionality.
+We request you to add- Content Display
+BYOD/USB -Support native Single cable BYOD operation through USB-
+C enabling use of the endpoint camera, microphones, Content 
+Display and speakers with Microsoft Teams, Zoom, Webex and other 
+standard soft clients.
+We understand that the customer expects all required 
+peripherals to be activated through a single USB-C 
+connection during BYOD when a laptop or PC is 
+connected to the codec. However, the clause appears to 
+have inadvertently omitted content sharing/content 
+display, which is an essential and mandatory 
+requirement for BYOD operation. We request that the 
+specification be amended accordingly for clarity and 
+completeness.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+9 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-B
+17. BYOD/USB Passthrough -The system should be 
+supplied with USB 3.0 cable for USB Pass-thru mode for 
+seamless
+functionality.
+We request you to amend the clause as:-
+BYOD/USB Passthrough -The system should be supplied with USB 3.0 
+cable for USB Pass-thru mode for seamless
+functionality. The minimum length should be 9mtr or more and 
+should be from same VC OEM for seamless functionality.
+For BYOD operation, the USB-C cable length should be 
+explicitly specified to ensure practical and convenient 
+usage. In a typical meeting room setup, the laptop is not 
+placed on top of the codec but at a reasonable distance 
+from it. Additionally, the supplied USB-C cable should be 
+from the same VC OEM to ensure seamless compatibility 
+and reliable functionality. We request that this clause be 
+amended accordingly.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+10 / Technical 
+Specifications: 
+Recommended 
+RFP Specification 
+For Type-B
+26. Software & Licensing - All software licenses, firmware, 
+operating system licenses and feature licenses required 
+for the offered functionality shall be perpetual and 
+supplied from Day One. No recurring subscription shall be 
+mandatory for basic video conferencing functionality 
+during the warranty period.
+We request you to amend the clause as:-
+Software & Licensing - All software licenses, firmware, operating 
+system licenses and feature licenses required for the offered 
+functionality shall be perpetual/subscription and supplied from Day 
+One. No recurring subscription shall be mandatory for basic video 
+conferencing functionality during the warranty period.
+GIL is currently using Cisco Expressway for device 
+registration. As per our records, GIL has 349 device 
+registration licenses, out of which, 42 licenses are being 
+consumed by various VC devices. This RFP is for 329 
+units. Therefore, as per our understanding, there will a 
+deficit of 22 Nos. device registration licenses on the 
+current core Expressway infrastructure. Please let us 
+know if these licenses are required to be supplied by the 
+bidder with 7 years support ?
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+11 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+1 Product Architecture -The offered solution shall be a 
+codec-based enterprise Video Conferencing Endpoint 
+comprising a dedicated Codec, PTZ Camera, minimum two 
+omnidirectional / directional microphones and Touch 
+Control Panel. All components shall be from the same 
+OEM and supplied as an integrated solution.
+We request to amend the clause as:-
+The offered solution shall be a codec-based enterprise Video 
+Conferencing Endpoint comprising a dedicated Codec, PTZ Camera, 
+minimum two omnidirectional / directional microphones and Touch 
+Control Panel.  If a network switch is required for connecting 
+peripherals such as the touch panel, microphone, or camera, it shall 
+be supplied as part of the proposed solution. The switch shall be 
+dedicated to the video conferencing peripherals and shall not be 
+connected to the GIL network. All components shall be from the 
+same OEM and supplied as an integrated solution.
+We understand that this is an important requirement 
+from a security perspective. If the same network switch 
+is shared between the GIL network and video 
+conferencing peripherals (such as the touch panel, 
+microphone, and camera), it may introduce potential 
+security risks and increase the network attack surface. 
+Therefore, we request that the clause be amended to 
+specify that the switch used for connecting VC 
+peripherals shall be separate from the GIL network to 
+ensure enhanced network security and isolation.
+Bidder may propose a 
+network switch to connect 
+the Microphones. No 
+additional cost shall be 
+paid by GOG.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+11 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+11. It should support 3 microphones with digital 
+architecture connected to a codec directly or
+through an external audio bridge each with an illuminated 
+mute button/sensor. 2 mics
+should be supplied from day 1. All mics to be from the 
+endpoint OEM only.
+We request you to please amend the clause as:
+It should support 3 microphones with digital/ Stereo pin analog 
+architecture connected to a codec directly or
+through an external audio bridge each with an illuminated mute 
+button/sensor. 2 mics
+should be supplied from day 1. All mics to be from the endpoint OEM 
+only.
+Currently, GIL is using 3.5mm steeo pin analog 
+microphones with all the available VC brands and has 
+been in use for more than a decade. Digital Microphones 
+add to network related complexity in peripherals as it 
+depends on IP address availability within the room. 
+Therefore it is requested to kindly allow stereo pin 
+analog microphones to avoid complexity in O&M.
+Please see Corrigendum
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+11 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+12. Camera -The camera shall be directly connected or 
+over an AV over IP network. to the codec. The
+camera should be with a power adapter.
+We request you to please amend the clause as:-
+Camera -The camera shall be connected directly or over an IP 
+network (AVoIP) to the codec. The camera should be with a power 
+adapter or get the power from codec.
+Every OEM has its own approach to designing and 
+manufacturing its products. Accordingly, power can be 
+provided either through a dedicated power adapter or 
+via a single cable that carries data, control, and power 
+from the codec. Both approaches are standard design 
+implementations and deliver the same required 
+functionality.
+Please see Corrigendum
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+11 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+13 UC Platform OEM solution shall be certified to be 
+configured for Microsoft Teams Room.
+We request you to please amend the clause as:-
+13. UC Platform OEM solution shall be certified to be configured for 
+Microsoft Teams Room. Additionally, every device listed in Annexure 
+A,(Type A & Type B) shall be capable of simultaneously joining 
+Microsoft Teams meetings using the SIP URI. The required licenses 
+for CVI should be supplied for 7 years subscription period
+The existing clause indicates that GIL expects the 
+proposed devices to be Microsoft Teams Room certified. 
+To ensure full interoperability and operational flexibility, 
+the devices should also support joining Microsoft Teams 
+meetings using a SIP URI. This amendment will ensure 
+that the proposed solution is hybrid, future-ready, and 
+capable of delivering complete functionality without 
+operational limitations.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+12 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+14. Management - OEM shall provide centralized 
+enterprise management platform for provisioning, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both on premises and/or cloud 
+deployment.
+We request you to add- Device Registration and call control as well, 
+clause read as:
+14. Management - OEM shall provide centralized enterprise 
+management platform for provisioning, registering, call control, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both onpremises and/or cloud deployment. 
+For seamless O&M, it is recommended that all the VC 
+devices register to the existing central call control server 
+available with GIL for a unified dial plan, smooth 
+provisioning, Unified troubleshooting, analysing traffic 
+behaviour such pakcet loss, jitter, latency etc and overall 
+inventory management and interoperability with existing 
+MCU. Hence we request that these capabilities be 
+mentioned in the specification.   
+No Change. As per RFP.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+12 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+17. BYOD/USB Passthrough -Support native Single cable 
+BYOD operation through USB-C enabling use of the 
+endpoint camera, microphones and speakers with 
+Microsoft Teams, Zoom, Webex and other standard soft 
+clients.
+We request you to add- Content Display
+BYOD/USB -Support native Single cable BYOD operation through USB-
+C enabling use of the endpoint camera, microphones, Content 
+Display and speakers with Microsoft Teams, Zoom, Webex and other 
+standard soft clients.
+We understand that the customer expects all required 
+peripherals to be activated through a single USB-C 
+connection during BYOD when a laptop or PC is 
+connected to the codec. However, the clause appears to 
+have inadvertently omitted content sharing/content 
+display, which is an essential and mandatory 
+requirement for BYOD operation. We request that the 
+specification be amended accordingly for clarity and 
+completeness.
+Additional features can be 
+provided by the OEM.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+12 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+17. BYOD/USB Passthrough -The system should be 
+supplied with USB 3.0 cable for USB Pass-thru mode for 
+seamless
+functionality.
+We request you to amend the clause as:-
+BYOD/USB Passthrough -The system should be supplied with USB 3.0 
+cable for USB Pass-thru mode for seamless
+functionality. The minimum length should be 9mtr or more and 
+should be from same VC OEM for seamless functionality.
+For BYOD operation, the USB-C cable length should be 
+explicitly specified to ensure practical and convenient 
+usage. In a typical meeting room setup, the laptop is not 
+placed on top of the codec but at a reasonable distance 
+from it. Additionally, the supplied USB-C cable should be 
+from the same VC OEM to ensure seamless compatibility 
+and reliable functionality. We request that this clause be 
+amended accordingly.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+12 / Annexure A
+SPECIFICATION 
+OF VIDEO 
+CONFERENCING 
+SYSTEM & 
+INTERACTIVE 
+FLAT PANELS
+A.1 Type-A Video 
+Conferencing 
+Endpoint (Codec-
+Based) — 
+Quantity: 44 Nos.
+25. Software & Licensing - All software licenses, firmware, 
+operating system licenses and feature licenses required 
+for the offered functionality shall be perpetual and 
+supplied from Day One. No recurring subscription shall be 
+mandatory for basic video conferencing functionality 
+during the warranty period.
+We request you to amend the clause as:-
+Software & Licensing - All software licenses, firmware, operating 
+system licenses and feature licenses required for the offered 
+functionality shall be perpetual/subscription and supplied from Day 
+One. No recurring subscription shall be mandatory for basic video 
+conferencing functionality during the warranty period.
+GIL is currently using Cisco Expressway for device 
+registration. As per our records, GIL has 349 device 
+registration licenses, out of which, 42 licenses are being 
+consumed by various VC devices. This RFP is for 329 
+units. Therefore, as per our understanding, there will a 
+deficit of 22 Nos. device registration licenses on the 
+current core Expressway infrastructure. Please let us 
+know if these licenses are required to be supplied by the 
+bidder with 7 years support ?
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+13 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+1 Product Architecture - The offered solution shall be a All-
+in-one video bar with integrated microphone, speaker, 
+codec and 4K camera, plus a touch control panel; all from 
+the same OEM and supplied as an integrated solution.
+We request to amend the clause as:-
+The offered solution shall be a All-in-one video bar with integrated 
+microphone, speaker, codec and 4K camera, plus a touch control 
+panel. If a network switch is required for connecting peripherals 
+such as the touch panel, microphone, or camera, it shall be supplied 
+as part of the proposed solution. The switch shall be dedicated to 
+the video conferencing peripherals and shall not be connected to 
+the GIL network. All from the same OEM and supplied as an 
+integrated solution.
+We understand that this is an important requirement 
+from a security perspective. If the same network switch 
+is shared between the GIL network and video 
+conferencing peripherals (such as the touch panel, 
+microphone, and camera), it may introduce potential 
+security risks and increase the network attack surface. 
+Therefore, we request that the clause be amended to 
+specify that the switch used for connecting VC 
+peripherals shall be separate from the GIL network to 
+ensure enhanced network security and isolation.
+Bidder may propose a 
+network switch to connect 
+the Microphones. No 
+additional cost shall be 
+paid by GOG.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+13 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+13 UC Platform OEM solution shall be certified to be 
+configured for Microsoft Teams Room.
+We request you to please amend the clause as:-
+13. UC Platform OEM solution shall be certified to be configured for 
+Microsoft Teams Room. Additionally, every device listed in Annexure 
+A,(Type A & Type B) shall be capable of simultaneously joining 
+Microsoft Teams meetings using the SIP URI. The required licenses 
+for CVI should be supplied for 7 years subscription period
+The existing clause indicates that GIL expects the 
+proposed devices to be Microsoft Teams Room certified. 
+To ensure full interoperability and operational flexibility, 
+the devices should also support joining Microsoft Teams 
+meetings using a SIP URI. This amendment will ensure 
+that the proposed solution is hybrid, future-ready, and 
+capable of delivering complete functionality without 
+operational limitations.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+14 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+14. Management - OEM shall provide centralized 
+enterprise management platform for provisioning, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both on premises and/or cloud 
+deployment.
+We request you to add- Device Registration and call control as well, 
+clause read as:
+14. Management - OEM shall provide centralized enterprise 
+management platform for provisioning, registering, call control, 
+monitoring, diagnostics, firmware upgrades and inventory 
+management supporting both onpremises and/or cloud deployment. 
+For seamless O&M, it is recommended that all the VC 
+devices register to the existing central call control server 
+available with GIL for a unified dial plan, smooth 
+provisioning, Unified troubleshooting, analysing traffic 
+behaviour such pakcet loss, jitter, latency etc and overall 
+inventory management and interoperability with existing 
+MCU. Hence we request that these capabilities be 
+mentioned in the specification.   
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+14 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+17. BYOD/USB Passthrough -Support native Single cable 
+BYOD operation through USB-C enabling use of the 
+endpoint camera, microphones and speakers with 
+Microsoft Teams, Zoom, Webex and other standard soft 
+clients.
+We request you to add- Content Display
+BYOD/USB -Support native Single cable BYOD operation through USB-
+C enabling use of the endpoint camera, microphones, Content 
+Display and speakers with Microsoft Teams, Zoom, Webex and other 
+standard soft clients.
+We understand that the customer expects all required 
+peripherals to be activated through a single USB-C 
+connection during BYOD when a laptop or PC is 
+connected to the codec. However, the clause appears to 
+have inadvertently omitted content sharing/content 
+display, which is an essential and mandatory 
+requirement for BYOD operation. We request that the 
+specification be amended accordingly for clarity and 
+completeness.
+Additional features can be 
+provided by the OEM.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+14 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+17. BYOD/USB Passthrough -The system should be 
+supplied with USB 3.0 cable for USB Pass-thru mode for 
+seamless
+functionality.
+We request you to amend the clause as:-
+BYOD/USB Passthrough -The system should be supplied with USB 3.0 
+cable for USB Pass-thru mode for seamless
+functionality. The minimum length should be 9mtr or more and 
+should be from same VC OEM for seamless functionality.
+For BYOD operation, the USB-C cable length should be 
+explicitly specified to ensure practical and convenient 
+usage. In a typical meeting room setup, the laptop is not 
+placed on top of the codec but at a reasonable distance 
+from it. Additionally, the supplied USB-C cable should be 
+from the same VC OEM to ensure seamless compatibility 
+and reliable functionality. We request that this clause be 
+amended accordingly.
+No Change. As per RFP.
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+14 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+18. Expandability -Support connection of additional 
+cameras and microphones for larger conference rooms 
+without replacement of the base
+codec.
+We request to amend the clause as:-
+18. Expandability -Support connection of additional camera and 
+microphone for larger conference rooms without replacement of the 
+base codec.
+We request to amend the clause with additional single 
+camera and single microphone for larger conference 
+rooms (if required in future) as asked in the 
+recommended specifications of the type-B category.
+Please see Corrigendum
+Buyer Added Bid 
+Specific ATC -
+SoWVC_127106b
+2-1459-44e6-
+8daa1784872499
+621_buycon12.gil
+g.gj@gembuyer.i
+n
+14 / A.2 Type-B 
+Video 
+Conferencing 
+Endpoint (All-in-
+One Video Bar) — 
+Quantity: 285 Nos.
+25. Software & Licensing - All software licenses, firmware, 
+operating system licenses and feature licenses required 
+for the offered functionality shall be perpetual and 
+supplied from Day One. No recurring subscription shall be 
+mandatory for basic video conferencing functionality 
+during the warranty period.
+We request you to amend the clause as:-
+Software & Licensing - All software licenses, firmware, operating 
+system licenses and feature licenses required for the offered 
+functionality shall be perpetual/subscription and supplied from Day 
+One. No recurring subscription shall be mandatory for basic video 
+conferencing functionality during the warranty period.
+GIL is currently using Cisco Expressway for device 
+registration. As per our records, GIL has 349 device 
+registration licenses, out of which, 42 licenses are being 
+consumed by various VC devices. This RFP is for 329 
+units. Therefore, as per our understanding, there will a 
+deficit of 22 Nos. device registration licenses on the 
+current core Expressway infrastructure. Please let us 
+know if these licenses are required to be supplied by the 
+bidder with 7 years support ?
+No Change. As per RFP.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Bidder Past Experience: The bidder must have successfully 
+executed/completed at least one single order of Rs. 16 
+Crore of estimated bid value or 2 orders each of Rs. 10 
+Crore of
+estimated bid value or 3 orders each of Rs. 8 Crore of 
+estimated bid value for similar products/services in the 
+last 3 years to any Central/State Government/PSU/Listed 
+Company.
+Bidder Past Experience: The bidder must have successfully
+executed/completed at least one single order of Rs. 5 Crore of
+estimated bid value or 2 orders each of Rs. 3 Crore of estimated
+bid value or 3 orders each of Rs. 1 Crore of estimated bid value
+for similar products/services in the last 7 years to any Central/State
+Government/PSU/Listed Company
+In Gujarat, no Government project of a similar nature and
+comparable value has been floated during the last seven
+years. Therefore, many technically competent bidders
+do not possess experience of such high-value orders 
+despite
+having successfully executed similar projects. Hence, it is
+requested to relax the bidder experience criteria to 
+ensure
+wider participation and healthy competition
+Please see Corrigendum
+The specifications asked in the Bid RFP appear in the Bid 
+RFP are seems to be not generic in nature & appears to 
+be biased to a specific product keeping in mind (make: 
+POLY).
+No Change. As per RFP.
+Preference for Make in India Products: In accordance 
+with the Make in India vide Ministry of Commerce and 
+Industry Development of industrial policy and Promotion 
+(PPS) Vide order No. P- 45021/2/2017-PP BE-II dated 
+28.05.2018 and Govt. of India MeitY (Ministry of 
+Electronics and IT) vide Order No. 19-113/2020 Dated 16-
+03-2021 guidelines, We kindly request that preference 
+be given to products manufactured in India. This aligns 
+with our commitment to support local manufacturing 
+and economic growth.
+No Change. As per RFP.
+Small room is designed with Video bar with extension 
+mic, which is giving preference to Foreign brand 
+only.Solution can be done through both option ALL in 
+one bar & PTZ camera with codec.
+No Change. As per RFP.
+Kindly remove Microsoft teams certified devices clause. 
+MII brand does not have such certificate.All devices are 
+usb based devices which supports all SW based VC 
+application.This clause again giving only preference to 
+foreign Brand.
+No Change. As per RFP.
+The current tender appears to support specific brand 
+(specifically POLY) not listed on the Government e-
+Marketplace (GeM), which are foreign brands & may not 
+comply with the Central Govt. guidelines. Therefore, it's 
+crucial to align our processes with the directives laid out 
+by the Central Govt. Ministry MeitY. In view of above 
+points of concern, We hereby request you to kindly 
+cancel this Bid / RFP/ Tender. We look forward towards 
+your kind intervention in the said opportunity.
+No Change. As per RFP.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+On Page 7 in Bid 
+Specific ATC 
+Document under 
+"Scope of Work 
+and Additional 
+Terms & 
+Conditions",  
+Paragraph 6
+Quoted items are required to be offered with a 7 (Seven) 
+year OEM warranty and on-site support. All
+equipment including material to be installed by the Bidder 
+shall be new and the product should not be
+declared end of support for 7 (Seven) years.
+As a policy, we extend 05 years Warranty on our products & offering, 
+hence we request you to change the OEM warrant from 07 (Seven) 
+years to 05 (Five) Years
+Please see Corrigendum
+On Page 7 in Bid 
+Specific ATC 
+Document under 
+"Scope of Work 
+and Additional 
+Terms & 
+Conditions",  
+Paragraph 7
+However, the TENDERER requires 7 (Seven) years' 
+warranty and on-site support for each item
+(excluding cables & accessories). Bidders shall quote the 
+price accordingly for each item considering 7
+years' warranty support.
+As a policy, we extend 05 years Warranty on our products & offering, 
+hence we request you to change the OEM warrant from 07 (Seven) 
+years to 05 (Five) Years
+Please see Corrigendum
+Product 
+Architecture – 
+“The offered solution shall be a codec-based enterprise 
+Video Conferencing Endpoint comprising a dedicated 
+Codec, PTZ Camera, minimum two omnidirectional / 
+directional microphones and Touch Control Panel. All 
+components shall be from the same OEM and supplied as 
+an integrated solution.” 
+We request you to consider wireless handheld remote / Touch 
+Control panel. The wireless handheld remote gives the flexibility to be 
+operated by anyone in the room against a wired touch panel that is 
+fixed on the table. 
+No Change. As per RFP.
+Video Codec – 
+“Support H.264, or higher"
+we request you to consider minimum requirement of H.265 or higher 
+as H.265 is the latest video standard providing considerable 
+bandwidth saving by allowing better  resolution at lower bandwidth 
+due to better compression standards
+No Change. As per RFP.
+Warranty
+Minimum 7 Years Comprehensive OEM Warranty 
+including hardware replacement,
+firmware updates and OEM technical support.
+As a policy, we extend 05 years Warranty on our products & offering, 
+hence we request you to change the OEM warrant from 07 (Seven) 
+years to 05 (Five) Years
+Please see Corrigendum
+Product 
+Architecture -
+“The offered solution shall be a codec-based enterprise 
+Video Conferencing Endpoint comprising a dedicated 
+Codec, PTZ Camera, minimum two omnidirectional / 
+directional microphones and Touch Control Panel. All 
+components shall be from the same OEM and supplied as 
+an integrated solution.” 
+We request you to consider wireless handheld remote / Touch 
+Control panel. The wireless handheld remote gives the flexibility to be 
+operated by anyone in the room against a wired touch panel that is 
+fixed on the table. 
+No Change. As per RFP.
+Video Codec – 
+“Support H.264, or higher” 
+we request you to consider minimum requirement of H.265 or higher 
+as H.265 is the latest video standard providing considerable 
+bandwidth saving by allowing better resolution at lower bandwidth 
+due to better compression standards
+No Change. As per RFP.
+Audio – 
+“Minimum 01 enterprise-grade omnidirectional / 
+directional microphones with mute button. Codec shall 
+support minimum 1 microphone expansion. Acoustic Echo 
+Cancellation (AEC), Automatic Gain Control (AGC), Noise 
+Reduction and full-duplex audio shall be supported
+ We request you to specify the room coverage and remove this point 
+if the inbuilt mics of the all in one bar is able to cover the desired 
+room size.
+No Change. As per RFP.
+Warranty
+Minimum 7 Years Comprehensive OEM Warranty 
+including hardware replacement,
+firmware updates and OEM technical support.
+As a policy, we extend 05 years Warranty on our products & offering, 
+hence we request you to change the OEM warrant from 07 (Seven) 
+years to 05 (Five) Years
+Please see Corrigendum
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Availability of 
+Service Centres.
+10 in GeM bid
+OEM should have its own/OEM-authorized service centres 
+operational for at least the last one year at all consignee locations 
+before bid submission.
+Required for effective support during the 7-year onsite 
+warranty period
+No Change. As per RFP.
+OEM supply 
+experience of 
+₹50 Crore.
+10 in GeM bid
+Clarify whether ₹50 Crore eligibility is combined for all tender items 
+or individual for each product category (IFP, OPS, Camera, etc.).
+Avoids ambiguity and ensures transparent evaluation.
+Eligibility is for Individual 
+component and not for all 
+the items collectively
+Camera 
+specifications are 
+robust whereas 
+IFP specifications 
+are generic.
+Buyer Uploaded 
+ATC document
+Permit Professional High-Resolution Commercial TVs/Commercial 
+Displays instead of IFPs for video conferencing. Alternatively, if IFPs 
+are retained, minimum specifications should be 8 GB RAM, 64 GB 
+ROM, Octa-Core Processor and Android 14.
+Commercial TVs/Displays meet the functional 
+requirement at significantly lower cost and provide 
+better value for public funds.
+No Change. As per RFP.
+Make in India 
+clause.
+3 in Gem Bid
+Include the Public Procurement (Preference to Make in India) Order 
+with preference to eligible Class-I and Class-II Local Suppliers.
+Promotes indigenous manufacturing and complies with 
+Government policy.
+No Change. As per RFP.
+Warranty
+10 in GeM bid
+Revise warranty to 5 years (3 Years OEM Standard Warranty + 2 Years 
+OEM Care Pack/Extended Warranty/AMC).
+Industry-standard model with OEM-backed support and 
+optimized lifecycle cost.
+Please see Corrigendum
+Commercial TV 
+specifications.
+New
+Only Commercial Grade Commercial TVs/Commercial Displays should 
+be accepted with minimum 400 nits brightness.
+Ensures professional-grade reliability and visibility.
+No Change. As per RFP.
+OTT Applications. New
+Commercial TVs/Commercial Displays should not have pre-installed 
+OTT applications .
+Prevents misuse, enhances security and ensures official 
+use only.
+No Change. As per RFP.
+55-inch display 
+requirement.
+Buyer Uploaded 
+ATC document
+Kindly clarify whether the 55-inch display requirement is for an 
+Interactive Flat Panel (IFP) or a Commercial TV/Commercial Display. If 
+it is for an IFP, kindly review the specification as 55-inch IFPs are not 
+commonly available across major global OEM product portfolios.
+Removes ambiguity, promotes wider OEM participation 
+and facilitates fair competition.
+Please see Corrigendum
+Buyer Added ATC 
+? Bidder Past 
+Experience
+The bidder must have successfully executed/completed at 
+least one single order of Rs. 16 Crore or two orders of Rs. 
+10 Crore each or three orders of Rs. 8 Crore each for 
+similar product/services in the last 3 years. Further, the 
+ATC specifies that Video Conferencing Codec / PTZ 
+Camera with Codec (Type-A) will be considered as the 
+Primary Product for Experience, Past Performance and 
+OEM Turnover evaluation.
+Kindly consider the Past experience of complete integrated Video 
+Conferencing / Audio-Visual Solution projects covering all major items 
+included in this bid instead of restricting the evaluation only to the 
+Type-A Video Conferencing Codec/PTZ Camera. Alternatively, 
+consider the aggregate value of all similar products covered under 
+the bid or evaluate experience based on a reasonable percentage of 
+the overall project value rather than the entire PO value of a single 
+primary product.
+This procurement is a complete Video Conferencing 
+Solution comprising Type-A VC Endpoints, Type-B VC 
+Endpoints, Interactive Flat Panels, accessories, 
+installation, commissioning and 7-year warranty & 
+support. Restricting experience evaluation to only the 
+Type-A VC Codec/PTZ Camera and requiring a single 
+order of Rs. 16 Crore for that product is highly restrictive, 
+as very few bidders have such standalone orders despite 
+having successfully executed large integrated AV/VC 
+projects of similar or higher value. Considering the 
+complete project experience will promote wider 
+participation, fair competition, and enable the 
+department to obtain more competitive prices without 
+compromising technical capability.
+Please see Corrigendum
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+The OEM must have supplied the same or similar product 
+of Rs. 50 Crore order volue during the last 3 years before 
+the bid opening date.
+We respectfully request that the above oEM experience requirement 
+be relaxed or exernpted as we are a
+Gujarat-based oEM manufacturer committed to supporting the 
+Government's Make in !ndia initiative and
+promoting indigenous manufacturing. And we are an NSE-listed 
+company, reflecting our financial
+transparency, corporate governance, and business credibirity
+Relaxing this criterion will encourage greater 
+participation from qualified domestic manufacturers, 
+leading tofair competition, better pricing, and increased 
+value for the procuring authority without compromising 
+quality
+or service standards. our manufacturing infrastructure, 
+product quality, after-sales support, and technical 
+capabilities enable us tosuccessfully execute projects of 
+this nature ln view of the above, we kindly request you to 
+consider granting an exemption or suitable relaxatiorr in 
+the oElMexperience requirementfor Gujarat-based 
+oEMs. such a revision would promote wider 
+participatiorr, strengthencompetition, and support local 
+manufacturing while ensuring successful execution of the 
+project.
+Please see Corrigendum
+6. Buyer Added 
+Bid Specific ATC
+GeM Bid 
+document
+Page 10
+OEM Experience: The OEM must have supplied same or 
+similar product of Rs. 50 Cr of order value during the last 3 
+years before the bid opening date.
+Request the department to consider the below and enable broader 
+participation.
+OEM Experience: The OEM {themselves or through re-seller(s)} 
+should have supplied same or similar Products of Rs. 30 Cr of order 
+value (cumulative) during the last three financial years before the bid 
+opening date to any central/ state Government / PSU/ Listed 
+Company/ Large Enterprises in India.
+Request the department to consider the below and 
+enable broader participation.
+OEM Experience: The OEM {themselves or through re-
+seller(s)} should have supplied same or similar Products 
+of Rs. 30 Cr of order value (cumulative) during the last 
+three financial years before the bid opening date to any 
+central/ state Government / PSU/ Listed Company/ Large 
+Enterprises in India.
+Please see Corrigendum
+6. Buyer Added 
+Bid Specific ATC
+GeM Bid 
+document
+Page 10
+Bidder Past Experience: The bidder must have successfully 
+executed/completed at least one single order of Rs. 16 Cr 
+of estimated bid value or 2 Orders each of Rs. 10 Cr of 
+estimated bid value or 3 Orders e ach of Rs.8 Cr of 
+estimated bid value for similar product / services in last 3 
+years to any central/ state Government / PSU/ Listed 
+Company.
+Request the department to consider the below and enable broader 
+participation.
+Bidder Past Experience: The bidder must have successfully 
+executed/completed at least one single order of Rs. 5 Cr of estimated 
+bid value or 2 Orders each of Rs. 3 Cr of estimated bid value or 3 
+Orders e ach of Rs.1 Cr of estimated bid value for similar product / 
+services in last 3 years to any central/ state Government / PSU/ Listed 
+Company in India.
+Request the department to consider the below and 
+enable broader participation.
+Bidder Past Experience: The bidder must have 
+successfully executed/completed at least one single 
+order of Rs. 5 Cr of estimated bid value or 2 Orders each 
+of Rs. 3 Cr of estimated bid value or 3 Orders e ach of 
+Rs.1 Cr of estimated bid value for similar product / 
+services in last 3 years to any central/ state Government 
+/ PSU/ Listed Company in India.
+Please see Corrigendum
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Additional 
+Suggestion
+ 
+Split clause between two OEMs
+Considering the large-scale deployment and industry 
+dynamics, we suggest including the split as L1 and L2 
+between min. two OEMs. This shall enable to de-risk the 
+execution.
+No Change. As per RFP.
+8. Payment 
+terms, penalty 
+terms and 
+Implementation 
+timeline
+(Page 4)
+Delivery of material, Completion of installation 
+&commissioning & training at all locations.T1 = T0+45 days
+PAYMENT :100% payment will be made after Delivery & 
+installation of all hardware and related peripherals at each 
+site. The inspection will be done by GIL
+Delivery of the material should be 45 days and installation and 
+commissioning of the material should be 45 days from delivery.
+It should be 80% on delivery   20% on installation and commissioning
+Please see Corrigendum
+Bid Clause : 6. 
+Buyer Added Bid 
+Specific ATC
+Bidder Turnover: The minimum average annual financial 
+turnover of the bidder during the last three years, ending 
+on 31st March of the previous financial year, should be Rs. 
+40 Cr in the bi d document. Documentary evidence in the 
+form of certified Audited Balance Sheets of relevan t 
+periods or a certificate from the Chartered Accountant / 
+Cost Accountant indicating the turnover details with UDIN 
+Number for the relevant period shall be uploaded with the 
+bid.
+Our Query : 1. Provide Relaxation for MSME & START UP 
+Organization. 2. Allow Average Bidder Turn Over of last 3 years as 
+RS.10 Cr. For Maximum bid participation and get competitive 
+advantage to user.3. Allow JV/ Consortium to allow organization like 
+ours to participate in the bid.
+As per Gem gtc and 
+Gujarart state procumrent 
+policy
+Bidder Past 
+Experience: 
+The bidder must have successfully executed/completed at 
+least one single order of Rs. 16 Cr of estimated bid value 
+or 2 Orders each of Rs. 10 Cr of estimated bid value or 3 
+Orders e ach of Rs.8 Cr of estimated bid value for similar 
+product / services in last 3 y ears to any central/ state 
+Government / PSU/ Listed Company.
+Our Query:  1. Provide Relaxation for MSME & START UP 
+Organization. 2. Allow Experience of IT/ITES project multiple work 
+order estimating value of 10 Cr. In last 3 years.
+Please see Corrigendum
+OEM Turnover: 
+The minimum average annual financial turnover of the 
+OEM during the last three years, ending on 31st March of 
+the previous financial year, should be Rs. 100 Cr (2022-23 
+& 2023-24 & 2024-25) in the bid document. Documentary 
+evidence in the form of certified Audit ed Balance Sheets 
+of relevant periods or a certificate from the Chartered 
+Accountant / Cost Accountant indicating the turnover 
+details with UDIN Number for the relevant period shall be 
+up loaded with the bid.
+Our Query: As per the OEM Turnover Criteria it is not possible for any 
+Make in INDIA product to get Qualified for the requirement, as per 
+Government policy and guidelines to promote Make in INDIA product 
+brands for government procurement. As such Bid should allow OEM 
+turn Over of around RS.25 Crore ( 2022-23 & 2023-2024 & 2024-25).
+As per Gem gtc and 
+Gujarart state procumrent 
+policy
+OEM Experience: 
+The OEM must have supplied same or similar product of 
+Rs. 50 Cr of order value during the last 3 years before the 
+bid opening date.
+Our Query: Allow OEM Work experience of bid value considering 
+make in India brand to get qualify.
+As per Gem gtc and 
+Gujarart state procumrent 
+policy
+Technical 
+Specification 
+Query :
+Specification for Codec and All-in-One Bar are not generic and most 
+of the OEM (Make in India- Brand) will not able to comply for the 
+same. So request you to please amend the specifications and make 
+the specification more generic to allow maximum bid participation as 
+per GEM guidelines.
+No Change. As per RFP.
+
+
+Document 
+Reference
+Page no & 
+Parameter 
+Reference 
+Existing Clause
+Change / Amend Request
+Clarification/Justification
+Response
+Gem Representation for the Bid no. GEM/2026/B/7802581 Dated: 24-07-2026
+Bidder Past 
+Experience: 
+Thebidder must have successfully executed/completed at 
+least one single order of Rs. 16
+Crore of estimated bid value or 2 orders each of Rs. 10 
+Crore of estimated bid value or 3 orders each of Rs. 8 
+Crore of estimated bid value for similar products/services 
+in the last 3 years to any Central/State 
+Government/PSSU/Listed Company
+Bidder Past Experience: The bidder must have successfully 
+executed/completed at least one single order of Rs. 4 Crore of 
+estimated bid value or 2 orders each of Rs. 2 Crore of estimated bid 
+value or 3 orders each of Rs. 1 Crore of estimated bid value for similar 
+products/services in the last 7 years to any Central/State 
+Government/ PSU/Listed Company.
+Since no Government project of similar nature and 
+comparable value has been floated in India during the 
+last seven years, many technically qualified bidders are 
+unable to meet the prescribed experience criteria despite 
+having successfully executed similar works. It is, 
+therefore, requested to suitably relax the experience 
+requirement to promote wider participation and fair 
+competition
+Please see Corrigendum
+
+
+Scope of Work and Additional Terms & Conditions 
+The Bidder under the scope of work in this GeM bid is envisaged to design the solution including but not 
+limited to Supply, Installation, and Commissioning of Equipment's/hardware, and the software required 
+for the successful implementation of the Video Conferencing Solution with Interactive Flat Panel Displays 
+at the identified District Headquarters / Secretariat and Taluka Level Offices under various Departments, 
+Government of Gujarat (hereinafter referred to as the “SITES”), on behalf of the respective User 
+Departments, Government of Gujarat (hereinafter referred to as the “TENDERER”), as per the functional 
+and technical specifications and the scope of work mentioned in this GeM Bid. The bidder shall be 
+responsible for the implementation of the work as defined in the GeM bid. 
+Bidder is also responsible for all the components such as: Type-A Video Conferencing Endpoint (Codec-
+based, comprising PTZ Camera, Codec, Microphones and Touch Control Panel), Type-B Video 
+Conferencing Endpoint (All-in-One Video Bar), 75-Inch Interactive Flat Panel with OPS, 55-Inch Display 
+Unit, HDMI Cables, mounting brackets and any other devices/accessories required for the successful 
+running of the envisaged solution at each of the identified locations. 
+The Bidder is responsible for any other components inadvertently missed out but required as per the 
+proposed solution of the bidder and essential for the overall solution to successfully run during the entire 
+project duration; the bidder has to consider the same in his proposed solution. TENDERER will not be 
+liable for payment of any additional cost outside of the Financial Bid. 
+The locations for installation will be the District Headquarters/Secretariat offices (44 Nos.) and Taluka 
+level offices (285 Nos.) listed at Annexure-D, and will be finalized in consultation with the respective 
+officers of the concerned Department(s) / GIL. 
+The complete scope of work would broadly be: design, engineering, supply, testing, installation, 
+commissioning & warranty support of all project deliverables across all locations. 
+Quoted items are required to be offered with a 5 (Five) year OEM warranty and on-site support. All 
+equipment including material to be installed by the Bidder shall be new and the product should not be 
+declared end of support for 5 (Five) years. A certificate to that effect should be furnished from the OEM 
+on its letterhead confirming the same. All equipment shall conform to the codes, standards and 
+regulations applicable and benefit from the usual manufacturer's guarantees. 
+Under the GeM portal, while creating the bid, some items may reflect standard 2-year/3-year warranty 
+options. However, the TENDERER requires 5 (Five) years' warranty and on-site support for each item 
+(excluding cables & accessories). Bidders shall quote the price accordingly for each item considering 5 
+years' warranty support. 
+Primary Product & OEM Turnover for evaluation: Video Conferencing Codec / PTZ Camera with Codec 
+(Type-A) will be considered as the Primary Product for Experience, Past Performance and OEM Turnover 
+evaluation. 
+Clarification regarding this Tender: Bidders can seek written clarifications up to 2 days before the Bid 
+submission date by email to gm-tech@gujarat.gov.in, dgmTech-gil@gujarat.gov.in & mgr-
+hnitcon@gujarat.gov.in. 
+ 
+ 
+
+
+1. Scope of work for Video Conferencing Solution 
+a. The Scope of complete work would broadly include Design, Engineering, Supply, Testing, Installation, 
+Commissioning, Site Acceptance Test, Warranty and Maintenance during the contract period. 
+b. All the items cannot be bunched in the GeM. However, the bidder should refer to all the items along 
+with the specifications mentioned in (Annexure A) and provide all the products as a part of the VC 
+Solution with Support & Service till the warranty period. 
+c. Supply, Installation, Testing & Commissioning, with 5 years' warranty support. 
+d. The scope is to Supply, Install, Test and Commission the entire system end-to-end at all locations. The 
+Successful Bidder will be responsible for making the system entirely operational for its intended use, 
+including addition of components specific to its make/model even if not specifically mentioned in the 
+BoQ. 
+e. This shall include suitable brackets for mounting the display, weather-proof enclosures, fixtures, 
+cables, connectors & any other devices/peripherals required for the proper functioning of the installed 
+solution. 
+f. All the licenses procured/deployed by the bidder for this GeM bid should be in the name of the 
+TENDERER and valid perpetually. 
+g. The system shall support industry-standard H.264 / H.265 compression formats on all VC endpoints. 
+Video feeds, wherever stored, should not lose quality due to further compression at the time of storage. 
+h. The Codec (Type-A) must be custom-built hardware and not software loaded on a PC. The unit must 
+be equipped with an intuitive touch screen / panel for controlling the VC Unit. 
+i. The VC endpoints should support software VC solutions like Webex, Google Meet, Microsoft Teams, 
+etc. 
+j. The system shall use standards-based protocols, and the offered system shall be interoperable with 
+any existing H.323, SIP based VC equipment in a point-to-point call. All H/W and S/W required to make 
+it interoperable should be within the scope of supply. 
+2. The bidder has to provide on-site 5 years' warranty for all equipment as mentioned in the RFP. 
+3. The successful bidder will have to offer the goods for inspection in the manner decided by GIL before 
+delivering to the respective site(s), or at customer sites. The cost of the same has to be borne by the 
+supplier. Any deviation found in the specification of the produced goods from the bid specification will 
+lead to cancellation of the order. GIL/GoG will not be responsible for any time delay arising due to any 
+deviation from the bid technical specification found at the time of inspection, and the bidder has to 
+deliver and install the ordered goods within the prescribed time limit. At the time of inspection, the 
+bidder is required to produce the OEM's confirmation on OEM letterhead for back-to-back warranty 
+support as per bid terms & conditions. 
+4. The Bidder will have to submit OEM Authorization on OEM letterhead with the bid number for the 
+quoted product. 
+5. As per GeM GTC Clause 26 regarding restrictions on procurement from a bidder of a country which 
+shares a land border with India, the bidder has to submit a Compliance Letter on OEM's and Bidder's 
+letterhead with the Quoted Make and Model List in the prescribed format. Non-submission of the same, 
+or any false declaration and non-compliance of this, would be grounds for disqualification/immediate 
+
+
+termination of the contract and further legal action in accordance with law (Undertaking attached at 
+Annexure B). 
+Performance Guarantee 
+● The performance guarantee will be in the form of bank guarantee for the amount equal of 5% 
+of the value of the Order towards faithful performance of the contract obligation, and 
+performance of the equipment during Warrantee period. In case of poor and unsatisfactory 
+field services, THE OFFICE shall invoke the PBG. 
+● The Performance Guarantee shall be valid for the duration of warranty period + extra 2 months 
+and shall be denominated in Indian Rupees and shall be in the form of an unconditional Bank 
+Guarantee issued by any Nationalized Bank including the public sector bank or Private Sector 
+Banks authorized by RBI or Commercial Bank or Regional Rural Banks of Gujarat or Co-
+Operative Bank of Gujarat (operating in India having branch at Ahmedabad / Gandhinagar) as 
+per the G.R. no. FD/MSM/e-file/4/2024/2859/D.M.O. dated 01.05.2025 issued by Finance 
+Department or further instruction issued by Finance department time to time in the format 
+provided by THE OFFICE to be submitted within 15 working days of receipt of award. 
+● The Successful bidder has to submit Performance Bank Guarantee @ 5% of total order value 
+within 15 days from the date of issue of Purchase order. 
+● In the event that any amount is recovered, adjusted, or deducted from the Performance Bank 
+Guarantee (PBG) towards penalties, damages, or any other recoveries under the Contract, the 
+Successful Bidder shall reload the deducted amount and restore the PBG to its original value, 
+i.e., 5% of the total Contract Value, within 15 (fifteen) days from the date of such deduction or 
+from receipt of notice from the Purchaser. Failure to restore the PBG within the stipulated 
+period shall constitute a material breach of the Contract and may result in appropriate action, 
+including recovery from pending payments, invocation of the remaining PBG, or termination of 
+the Contract, as deemed appropriate by the Purchaser. 
+6. Service Terms 
+The understanding of the comprehensive maintenance under the warranty period is as follows: 
+a. In case of failure, the successful bidder needs to repair or replace the faulty part/component/device 
+to restore services at the earliest. 
+b. The cost of repairing or replacement of the faulty part/component/device has to be entirely borne by 
+the Vendor. 
+c. All expenses related to the part/component/device, including hiring of specialized technical expertise 
+where required, have to be borne by the Vendor as part of comprehensive maintenance. 
+d. The Vendor also needs to make alternate arrangements in case of a major failure that may affect 
+services for a longer period. 
+e. After repairing or replacement of the part/component/device, the Vendor needs to put the same into 
+operation. 
+f. All costs related to structured cabling, interconnecting cables, power cables, connectors, mounting 
+accessories, consumables, and any other items required for complete installation, testing, 
+
+
+commissioning, and successful operation of the solution shall be included in the Contract Value. No 
+separate payment or additional charges shall be payable for such items. 
+7. Additional Documents to be Submitted 
+In the technical bid section of GeM, the bidder is also required to upload the following documents: 
+● Brochure and OEM Compliance of the Offered product on OEM letterhead. 
+● Compliance of the SoW, SLA and Payment terms, etc. as uploaded as part of the GeM Bid, on 
+bidder's letterhead. 
+● Undertaking as per guidelines published by the Ministry of Finance, Dept. of Expenditure, Public 
+Procurement Division dated 23.07.2020, in the given format, by the Bidder as well as the OEM 
+(undertaking attached at Annexure C). 
+8. Payment Terms, Penalty Terms and Implementation Timeline 
+Particular 
+Time Limit 
+Penalty, In case of Delay 
+Payment 
+Delivery of material 
+T1 = T0+60 days 
+If the bidder fails to deliver & install 
+the requisite hardware and software 
+within the time limit mentioned in 
+the bid, then a sum equivalent to 
+zero-point five percent 0.5% of the 
+contract value of delayed quantity 
+per week or part of the week of 
+delayed period shall be deducted 
+from the payment. 
+100% payment will 
+be made after 
+Delivery & 
+installation of all 
+hardware and 
+related peripherals 
+at each site. The 
+inspection will be 
+done by GIL. 
+Completion of installation 
+& commissioning & 
+training at all locations. 
+T2=T1+15 days 
+ 
+T0 = date of issue of work order & Days means calendar days. 
+Note: Successful bidder has to complete supply, installation and commissioning at each location within 
+the time limit of 75 days from the date of the respective work order/site handover. 
+a. If the bidder fails to deliver the requisite hardware and software within the time limit mentioned in 
+the bid, a sum equivalent to zero-point five percent (0.5%) of the delayed component value shall be 
+deducted from the payment for each calendar week of delay or part thereof. 
+b. The amount of penalty for delay in delivery & installation shall be subject to a maximum limit of 10% 
+of the total contract value. 
+c. Delay in excess of 20 weeks will be sufficient cause for termination of the contract. In that case, the 
+Performance Bank Guarantee of the bidder will be forfeited. 
+d. In case the selected bidder does not supply the ordered items for any reason, the bidder will be liable 
+to pay the difference amount to the purchaser, over and above the performance guarantee, which the 
+indenting department has to pay to the next selected bidder for the said items. 
+e. In the event that any equipment or solution is required to be shifted within the same building or 
+premises, the bidder shall carry out the shifting, reinstallation, testing, and commissioning free of cost, 
+without any additional charges to the purchaser. 
+
+
+f. In the event that any equipment or solution is required to be shifted to a different building or another 
+premises/location, the bidder shall undertake the shifting, reinstallation, testing, and commissioning. 
+The charges for such shifting shall not exceed 1% of the total BoQ value for each such instance. The 
+transportation cost and insurance cost is inclusive. 
+8.1 Operational Penalties 
+Any issue or fault that adversely impacts the functioning of the Video Conferencing and Boardroom 
+Solution network, or any problem that affects end users' ability to access or utilize the system, shall be 
+considered under operational penalties. The priority-wise classification of locations is provided below, 
+and the applicable penalties shall be imposed accordingly. 
+Sr. No. 
+Service Parameter 
+SLA 
+Penalty 
+1 
+Response Time (Remote) 
+Within 4 hours 
+₹500 per device per 
+day of delay 
+2 
+On-site Engineer Visit 
+Within 1 calendar day from 
+complaint registration 
+₹1,000 per device per 
+day of delay 
+3 
+Resolution of Minor Issues 
+(configuration/software) 
+Within 2 calendar days 
+₹1,000 per device per 
+day of delay 
+4 
+Resolution of Major Hardware 
+Failure 
+Within 5 calendar days 
+₹2,000 per device per 
+day of delay 
+5 
+Replacement of Defective 
+Equipment (if repair is not 
+possible) 
+Within 5 calendar days 
+₹5,000 per device per 
+week of delay 
+ 
+Additional Conditions 
+● Delay shall be calculated after expiry of the applicable SLA. 
+● If the equipment remains non-functional for more than 15 consecutive days, the bidder shall 
+provide equivalent or higher-specification standby equipment until the original equipment is 
+repaired or replaced. 
+● The total penalty during the contract period shall be limited to 10% of the total contract value. 
+● Penalties may be recovered from pending payments, Performance Security, or any other dues 
+payable to the bidder. 
+● Any exception to the service support obligations or the applicable penalties shall be considered 
+only based on written communication submitted by the successful bidder and accepted by the 
+Purchaser after verification of the validity of the reasons provided. 
+● Replacement of the existing/old cables, wherever required for successful installation and 
+commissioning of the solution, shall be the responsibility of the successful bidder and shall be 
+carried out without any additional cost to the Purchaser. All associated costs shall be deemed 
+to be included in the quoted price. 
+8.2 Complaint Resolution 
+The bidder shall provide comprehensive support during the warranty period for all supplied VC 
+Endpoints, Interactive Flat Panels, and associated accessories. 
+
+
+1. Complaints may be registered by the Purchaser through telephone, email, or any other 
+communication mode provided by the bidder. 
+2. The bidder shall nominate a single Point of Contact (PoC) along with an escalation matrix before 
+commissioning of the project. 
+3. The bidder shall acknowledge the complaint within 4 hours of receipt. 
+4. Wherever feasible, the bidder shall attempt to resolve the issue remotely. If remote resolution is not 
+possible, an engineer shall visit the site within 1 calendar day. 
+5. Hardware-related issues shall be resolved within 5 calendar days from the time of complaint 
+registration. 
+6. If the equipment cannot be repaired within the stipulated resolution time, the bidder shall provide an 
+equivalent or higher-configuration replacement/standby unit until the original equipment is repaired or 
+replaced. 
+7. A complaint shall be treated as resolved only after the equipment is restored to normal working 
+condition and confirmation is obtained from the authorized representative of the Purchaser. 
+8. Failure to comply with the above service levels shall attract penalties as specified under Clause 8.1.1 
+– Operational Penalties. 
+Escalation Matrix 
+The successful bidder shall submit an escalation matrix containing the names, designation, mobile 
+numbers, and email addresses of: 
+● First Level – Service Engineer/Support Executive 
+● Second Level – Service Manager 
+● Third Level – Authorized Representative/Project Manager 
+9. BoQ 
+Sr. No. 
+Requirement 
+Deployment Level 
+Total Qty 
+1 
+Type-A Video Conferencing Endpoint (Codec-
+based: PTZ Camera, Codec, Microphones, Touch 
+Control Panel) — as per Annexure A 
+District HQ / Secretariat 
+(Annexure D-1) 
+44 
+2 
+Type-B Video Conferencing Endpoint (All-in-One 
+Video Bar) — as per Annexure A 
+Taluka Level Offices 
+(Annexure D-2) 
+285 
+3 
+75-Inch Interactive Flat Panel with OPS — as per 
+Annexure A 
+District HQ / Secretariat 
+(Annexure D-1) 
+44 
+4 
+55-Inch Display Unit — as per Annexure A 
+Taluka Level Offices 
+(Annexure D-2) 
+285 
+5 
+Required Cables, Mounting Brackets & Accessories 
+for all above items 
+All Locations 
+As required 
+ 
+Note: The above quantities are as per the location-wise requirement detailed in Annexure D. The bidder 
+should provide all hardware required for completion of the entire solution at each location. 
+
+
+10. Make and Model List 
+Sr. No. 
+Item Description 
+Make & Model 
+1 
+Type-A VC Endpoint (Codec-based) (44 Nos.) 
+ 
+2 
+Type-B VC Endpoint (All-in-One Video Bar) (285 Nos.) 
+ 
+3 
+75-Inch Interactive Flat Panel with OPS (44 Nos.) 
+ 
+4 
+55-Inch Display Unit (285 Nos.) 
+ 
+5 
+Cables, Mounting Kit & Accessories 
+Standard 
+ 
+Note: The Bidder may quote only one option (i.e. one Make and Model) against each item. Bidders are 
+required to mention the Make and Model of the product (do not write “OEM” against items). Ensure 
+that all equipment including material to be installed by the Bidder shall be new and the product should 
+not be de-supported or declared end of life during the next 5 years. If the quoted model is not available, 
+the bidder should supply a higher/upgraded model. 
+ 
+ 
+
+
+Technical Specifications — Type-A (Recommended RFP Specification) 
+Sr. No. 
+Criteria 
+Recommended RFP Specification 
+1 
+Product Architecture 
+The offered solution shall be a codec-based enterprise Video 
+Conferencing Endpoint comprising a dedicated Codec, PTZ Camera, 
+minimum two omnidirectional / directional microphones and Touch 
+Control Panel. All components shall be from the same OEM and 
+supplied as an integrated solution. 
+2 
+Camera 
+PTZ Camera supporting minimum 4K UHD resolution, 12X optical 
+zoom, minimum 5X digital zoom. 
+3 
+Camera 
+The PTZ camera shall support minimum 10 programmable camera 
+presets. 
+4 
+Video Resolution 
+Should support minimum 1080p resolution at 30 fps. The system 
+should also support 4K UHD (3840 × 2160) video resolution at 30 fps 
+or higher on both Video Input and Output interfaces. 
+5 
+Video Output 
+The system shall support dual display operation. 
+6 
+Content Sharing 
+Support wired and wireless content sharing up to 4K resolution. 
+Wireless presentation shall support Windows, macOS, Android and 
+iOS devices through industry-standard technologies (including 
+Miracast/AirPlay) or OEM equivalent without requiring third-party 
+hardware. 
+7 
+Video Codec 
+Support H.264, or higher 
+8 
+Calling Protocol 
+Support SIP and H.323 protocols. 
+9 
+Network 
+Support IPv4, IPv6 
+10 
+Network Interfaces 
+Shall support NTP (Network Time Protocol). 
+11 
+Audio 
+It should support 3 microphones with digital/Stereo pin architecture 
+connected to a codec directly or through an external audio bridge 
+each with an illuminated mute button/sensor. 2 mics should be 
+supplied from day 1. All mics to be from the endpoint OEM only. 
+Acoustic Echo Cancellation (AEC), Automatic Gain Control (AGC), 
+Noise Reduction and full-duplex audio shall be supported. 
+12 
+Camera 
+The camera shall be directly connected or over an AV over IP network 
+to the codec. The camera should be with a power adapter or get the 
+power from codec.  
+13 
+UC Platform 
+OEM solution shall be certified to be configured for Microsoft Teams 
+Room. 
+14 
+Management 
+OEM shall provide centralized enterprise management platform for 
+provisioning, monitoring, diagnostics, firmware upgrades and 
+inventory management supporting both on-premises and/or cloud 
+deployment. 
+15 
+Interfaces 
+Minimum 1 × Gigabit Ethernet, dual HDMI display outputs, HDMI 
+content input, USB interface for peripherals and audio connectivity as 
+required for the offered solution. 
+16 
+Security 
+Support AES-128/256 media encryption, TLS/SRTP, HTTPS, SSH, 
+certificate-based authentication (Enterprise CA) 
+
+
+Sr. No. 
+Criteria 
+Recommended RFP Specification 
+17 
+BYOD/USB 
+Passthrough 
+Support native Single cable BYOD operation through USB-C enabling 
+use of the endpoint camera, microphones and speakers with 
+Microsoft Teams, Zoom, Webex and other standard soft clients. The 
+system should be supplied with USB 3.0 cable for USB Pass-thru mode 
+for seamless functionality. 
+18 
+Expandability 
+Support connection of additional camera and microphones for larger 
+conference rooms without replacement of the base codec. 
+19 
+Warranty 
+Minimum 5 Years Comprehensive OEM Warranty including hardware 
+replacement, firmware updates and OEM technical support. 
+20 
+Warranty 
+OEM shall provide firmware/software updates, security patches and 
+technical support during the entire warranty period without any 
+additional cost. 
+21 
+General 
+All accessories required for installation and commissioning, including 
+power supply, power cords, camera cables, microphone cables, 
+interface cables and mounting accessories, shall be supplied along 
+with the offered solution. 
+22 
+Call Statistics 
+The system shall display real-time call statistics, including bandwidth 
+utilization, packet loss, latency and jitter, for troubleshooting 
+purposes. 
+23 
+Standards & 
+Certifications 
+The offered product shall comply with CE, FCC and RoHS (or 
+equivalent Indian certifications). 
+24 
+Interoperability 
+The offered endpoint shall interoperate with existing standards-based 
+H.323, SIP video conferencing endpoints from other OEMs without 
+requiring any additional gateway. 
+25 
+Software & Licensing 
+All software licenses, firmware, operating system licenses and feature 
+licenses required for the offered functionality shall be perpetual and 
+supplied from Day One. No recurring subscription shall be mandatory 
+for basic video conferencing functionality during the warranty period. 
+26 
+Demonstration 
+Bidder has to demonstrate the above mentioned feature at tenderer 
+premises to qualify for financial opening – PoC required. 
+ 
+Technical Specifications — Type-B (Recommended RFP Specification) 
+Sr. No. 
+Criteria 
+Recommended RFP Specification 
+1 
+Product Architecture 
+The offered solution shall be an All-in-one video bar with integrated 
+microphone, speaker, codec and 4K camera, plus a touch control 
+panel/Remote; all from the same OEM and supplied as an integrated 
+solution. 
+2 
+Camera 
+Camera supporting minimum 4K UHD resolution, minimum 5X digital 
+zoom, auto-framing, presenter/speaker tracking and AI-enabled 
+framing features. 
+3 
+Camera 
+The camera shall support minimum 10 programmable camera presets. 
+
+
+Sr. No. 
+Criteria 
+Recommended RFP Specification 
+4 
+Video Resolution 
+Should support minimum 1080p resolution at 30 fps. The system 
+should also support 4K UHD (3840 × 2160) video resolution at 30 fps 
+or higher on both Video Input and Output interfaces. 
+5 
+Video Output 
+The system shall support dual display operation. 
+6 
+Content Sharing 
+Support wired and wireless content sharing up to 4K resolution. 
+Wireless presentation shall support Windows, macOS, Android and 
+iOS devices through industry-standard technologies (including 
+Miracast/AirPlay) or OEM equivalent without requiring third-party 
+hardware. 
+7 
+Video Codec 
+Support H.264, or higher 
+8 
+Calling Protocol 
+Support SIP and H.323 protocols. 
+9 
+Network 
+Support IPv4, IPv6 
+10 
+Network Interfaces 
+Shall support NTP (Network Time Protocol). 
+11 
+Audio 
+Minimum 01 enterprise-grade omnidirectional / directional 
+microphones with mute button. Codec shall support minimum 1 
+microphone expansion. Acoustic Echo Cancellation (AEC), Automatic 
+Gain Control (AGC), Noise Reduction and full-duplex audio shall be 
+supported. 
+12 
+Camera 
+Support Auto Framing, Speaker Tracking, Face Detection or equivalent 
+AI-enabled camera functions. Intelligent tracking shall be configurable 
+(enable/disable). 
+13 
+UC Platform 
+OEM solution shall be certified to be configured for Microsoft Teams 
+Room. 
+14 
+Management 
+OEM shall provide centralized enterprise management platform for 
+provisioning, monitoring, diagnostics, firmware upgrades and 
+inventory management supporting both on-premises and/or cloud 
+deployment. 
+15 
+Interfaces 
+Minimum 1 × Gigabit Ethernet, dual HDMI display outputs, HDMI 
+content input, USB interface for peripherals and audio connectivity as 
+required for the offered solution. 
+16 
+Security 
+Support AES-128/256 media encryption, TLS/SRTP, HTTPS, SSH, 
+certificate-based authentication (Enterprise CA) 
+17 
+BYOD/USB 
+Passthrough 
+Support native Single cable BYOD operation through USB-C or 
+equivalent interface enabling use of the endpoint camera, 
+microphones and speakers with Microsoft Teams, Zoom, Webex and 
+other standard soft clients. 
+18 
+Expandability 
+Support connection of additional camera and microphones for larger 
+conference rooms without replacement of the base codec. 
+19 
+Warranty 
+Minimum 5 Years Comprehensive OEM Warranty including hardware 
+replacement, firmware updates and OEM technical support. 
+20 
+Warranty 
+OEM shall provide firmware/software updates, security patches and 
+technical support during the entire warranty period without any 
+additional cost. 
+21 
+General 
+All accessories required for installation and commissioning, including 
+power supply, power cords, camera cables, microphone cables, 
+
+
+Sr. No. 
+Criteria 
+Recommended RFP Specification 
+interface cables and mounting accessories, shall be supplied along 
+with the offered solution. 
+22 
+Call Statistics 
+The system shall display real-time call statistics, including bandwidth 
+utilization, packet loss, latency and jitter, for troubleshooting 
+purposes. 
+23 
+Standards & 
+Certifications 
+The offered product shall comply with CE, FCC and RoHS (or 
+equivalent Indian certifications). 
+24 
+Interoperability 
+The offered endpoint shall interoperate with existing standards-based 
+H.323, SIP video conferencing endpoints from other OEMs without 
+requiring any additional gateway. 
+25 
+Software & Licensing 
+All software licenses, firmware, operating system licenses and feature 
+licenses required for the offered functionality shall be perpetual and 
+supplied from Day One. No recurring subscription shall be mandatory 
+for basic video conferencing functionality during the warranty period. 
+26 
+Demonstration 
+Bidder has to demonstrate the above mentioned feature at tenderer 
+premises to qualify for financial opening – PoC required. 
+ 
+ 
+ 
+
+
+Annexure A 
+Specification of Video Conferencing System & Interactive Flat Panels 
+A.1 Type-A Video Conferencing Endpoint (Codec-Based) — Quantity: 44 Nos. 
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+1 
+Product Architecture 
+The offered solution shall be a codec-based 
+enterprise Video Conferencing Endpoint comprising a 
+dedicated Codec, PTZ Camera, minimum two 
+omnidirectional / directional microphones and Touch 
+Control Panel. All components shall be from the same 
+OEM and supplied as an integrated solution. 
+ 
+2 
+Camera 
+PTZ Camera supporting minimum 4K UHD resolution, 
+12X optical zoom, minimum 5X digital zoom. 
+ 
+3 
+Camera 
+The PTZ camera shall support minimum 10 
+programmable camera presets. 
+ 
+4 
+Video Resolution 
+Should support minimum 1080p resolution at 30 fps. 
+The system should also support 4K UHD (3840 × 
+2160) video resolution at 30 fps or higher on both 
+Video Input and Output interfaces. 
+ 
+5 
+Video Output 
+The system shall support dual display operation. 
+ 
+6 
+Content Sharing 
+Support wired and wireless content sharing up to 4K 
+resolution. Wireless presentation shall support 
+Windows, macOS, Android and iOS devices through 
+industry-standard technologies (including 
+Miracast/AirPlay) or OEM equivalent without 
+requiring third-party hardware. 
+ 
+7 
+Video Codec 
+Support H.264, or higher 
+ 
+8 
+Calling Protocol 
+Support SIP and H.323 protocols. 
+ 
+9 
+Network 
+Support IPv4, IPv6 
+ 
+10 
+Network Interfaces 
+Shall support NTP (Network Time Protocol). 
+ 
+11 
+Audio 
+It should support 3 microphones with digital/Stereo 
+pin architecture connected to a codec directly or 
+through an external audio bridge each with an 
+illuminated mute button/sensor. 2 mics should be 
+supplied from day 1. All mics to be from the endpoint 
+OEM only. Acoustic Echo Cancellation (AEC), 
+Automatic Gain Control (AGC), Noise Reduction and 
+full-duplex audio shall be supported. 
+ 
+12 
+Camera 
+The camera shall be directly connected or over an AV 
+over IP network to the codec. The camera should be 
+with a power adapter or get the power from codec 
+ 
+13 
+UC Platform 
+OEM solution shall be certified to be configured for 
+Microsoft Teams Room. 
+ 
+
+
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+14 
+Management 
+OEM shall provide centralized enterprise 
+management platform for provisioning, monitoring, 
+diagnostics, firmware upgrades and inventory 
+management supporting both on-premises and/or 
+cloud deployment. 
+ 
+15 
+Interfaces 
+Minimum 1 × Gigabit Ethernet, dual HDMI display 
+outputs, HDMI content input, USB interface for 
+peripherals and audio connectivity as required for the 
+offered solution. 
+ 
+16 
+Security 
+Support AES-128/256 media encryption, TLS/SRTP, 
+HTTPS, SSH, certificate-based authentication 
+(Enterprise CA) 
+ 
+17 
+BYOD/USB 
+Passthrough 
+Support native Single cable BYOD operation through 
+USB-C enabling use of the endpoint camera, 
+microphones and speakers with Microsoft Teams, 
+Zoom, Webex and other standard soft clients. The 
+system should be supplied with USB 3.0 cable for USB 
+Pass-thru mode for seamless functionality. 
+ 
+18 
+Expandability 
+Support connection of additional camera and 
+microphones for larger conference rooms without 
+replacement of the base codec. 
+ 
+19 
+Warranty 
+Minimum 5 Years Comprehensive OEM Warranty 
+including hardware replacement, firmware updates 
+and OEM technical support. 
+ 
+20 
+Warranty 
+OEM shall provide firmware/software updates, 
+security patches and technical support during the 
+entire warranty period without any additional cost. 
+ 
+21 
+General 
+All accessories required for installation and 
+commissioning, including power supply, power cords, 
+camera cables, microphone cables, interface cables 
+and mounting accessories, shall be supplied along 
+with the offered solution. 
+ 
+22 
+Call Statistics 
+The system shall display real-time call statistics, 
+including bandwidth utilization, packet loss, latency 
+and jitter, for troubleshooting purposes. 
+ 
+23 
+Standards & 
+Certifications 
+The offered product shall comply with CE, FCC and 
+RoHS (or equivalent Indian certifications). 
+ 
+24 
+Interoperability 
+The offered endpoint shall interoperate with existing 
+standards-based H.323, SIP video conferencing 
+endpoints from other OEMs without requiring any 
+additional gateway. 
+ 
+25 
+Software & Licensing 
+All software licenses, firmware, operating system 
+licenses and feature licenses required for the offered 
+functionality shall be perpetual and supplied from 
+ 
+
+
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+Day One. No recurring subscription shall be 
+mandatory for basic video conferencing functionality 
+during the warranty period. 
+26 
+Demonstration 
+Bidder has to demonstrate the above mentioned 
+feature at tenderer premises to qualify for financial 
+opening – PoC required. 
+ 
+ 
+A.2 Type-B Video Conferencing Endpoint (All-in-One Video Bar) — Quantity: 285 Nos. 
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+1 
+Product Architecture 
+The offered solution shall be an All-in-one video bar 
+with integrated microphone, speaker, codec and 4K 
+camera, plus a touch control panel/Remote; all from 
+the same OEM and supplied as an integrated solution. 
+ 
+2 
+Camera 
+Camera supporting minimum 4K UHD resolution, 
+minimum 5X digital zoom, auto-framing, 
+presenter/speaker tracking and AI-enabled framing 
+features. 
+ 
+3 
+Camera 
+The camera shall support minimum 10 programmable 
+camera presets. 
+ 
+4 
+Video Resolution 
+Should support minimum 1080p resolution at 30 fps. 
+The system should also support 4K UHD (3840 × 
+2160) video resolution at 30 fps or higher on both 
+Video Input and Output interfaces. 
+ 
+5 
+Video Output 
+The system shall support dual display operation. 
+ 
+6 
+Content Sharing 
+Support wired and wireless content sharing up to 4K 
+resolution. Wireless presentation shall support 
+Windows, macOS, Android and iOS devices through 
+industry-standard technologies (including 
+Miracast/AirPlay) or OEM equivalent without 
+requiring third-party hardware. 
+ 
+7 
+Video Codec 
+Support H.264, or higher 
+ 
+8 
+Calling Protocol 
+Support SIP and H.323 protocols. 
+ 
+9 
+Network 
+Support IPv4, IPv6 
+ 
+10 
+Network Interfaces 
+Shall support NTP (Network Time Protocol). 
+ 
+11 
+Audio 
+Minimum 01 enterprise-grade omnidirectional / 
+directional microphones with mute button. Codec 
+shall support minimum 1 microphone expansion. 
+Acoustic Echo Cancellation (AEC), Automatic Gain 
+Control (AGC), Noise Reduction and full-duplex audio 
+shall be supported. 
+ 
+
+
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+12 
+Camera 
+Support Auto Framing, Speaker Tracking, Face 
+Detection or equivalent AI-enabled camera functions. 
+Intelligent tracking shall be configurable 
+(enable/disable). 
+ 
+13 
+UC Platform 
+OEM solution shall be certified to be configured for 
+Microsoft Teams Room. 
+ 
+14 
+Management 
+OEM shall provide centralized enterprise 
+management platform for provisioning, monitoring, 
+diagnostics, firmware upgrades and inventory 
+management supporting both on-premises and/or 
+cloud deployment. 
+ 
+15 
+Interfaces 
+Minimum 1 × Gigabit Ethernet, dual HDMI display 
+outputs, HDMI content input, USB interface for 
+peripherals and audio connectivity as required for the 
+offered solution. 
+ 
+16 
+Security 
+Support AES-128/256 media encryption, TLS/SRTP, 
+HTTPS, SSH, certificate-based authentication 
+(Enterprise CA) 
+ 
+17 
+BYOD/USB 
+Passthrough 
+Support native Single cable BYOD operation through 
+USB-C or equivalent interface enabling use of the 
+endpoint camera, microphones and speakers with 
+Microsoft Teams, Zoom, Webex and other standard 
+soft clients. 
+ 
+18 
+Expandability 
+Support connection of additional camera and 
+microphones for larger conference rooms without 
+replacement of the base codec. 
+ 
+19 
+Warranty 
+Minimum 5 Years Comprehensive OEM Warranty 
+including hardware replacement, firmware updates 
+and OEM technical support. 
+ 
+20 
+Warranty 
+OEM shall provide firmware/software updates, 
+security patches and technical support during the 
+entire warranty period without any additional cost. 
+ 
+21 
+General 
+All accessories required for installation and 
+commissioning, including power supply, power cords, 
+camera cables, microphone cables, interface cables 
+and mounting accessories, shall be supplied along 
+with the offered solution. 
+ 
+22 
+Call Statistics 
+The system shall display real-time call statistics, 
+including bandwidth utilization, packet loss, latency 
+and jitter, for troubleshooting purposes. 
+ 
+23 
+Standards & 
+Certifications 
+The offered product shall comply with CE, FCC and 
+RoHS (or equivalent Indian certifications). 
+ 
+24 
+Interoperability 
+The offered endpoint shall interoperate with existing 
+standards-based H.323, SIP video conferencing 
+ 
+
+
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+endpoints from other OEMs without requiring any 
+additional gateway. 
+25 
+Software & Licensing 
+All software licenses, firmware, operating system 
+licenses and feature licenses required for the offered 
+functionality shall be perpetual and supplied from 
+Day One. No recurring subscription shall be 
+mandatory for basic video conferencing functionality 
+during the warranty period. 
+ 
+26 
+Demonstration 
+Bidder has to demonstrate the above mentioned 
+feature at tenderer premises to qualify for financial 
+opening – PoC required. 
+ 
+ 
+A.3 75-Inch Interactive Flat Panel with OPS — Quantity: 44 Nos. (Generic Specification) 
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+1.0 
+Display Size 
+75 Inch Interactive Flat Panel 
+ 
+2.0 
+Resolution 
+4K UHD (3840 × 2160) or higher 
+ 
+3.0 
+Display Technology 
+IPS / LED, Anti-glare LCD 
+ 
+4.0 
+Brightness 
+350 nits or higher 
+ 
+5.0 
+Contrast Ratio 
+1200:1 or higher 
+ 
+6.0 
+Aspect Ratio 
+16:09 
+ 
+7.0 
+Panel Life 
+Minimum 50,000 hours 
+ 
+8.0 
+Viewing Angle 
+178° (Horizontal & Vertical) 
+ 
+9.0 
+Touch Technology 
+Infrared (IR) / Capacitive 
+ 
+10.0 
+Number of Touch 
+Points 
+Minimum 20 Touch Points 
+ 
+11.0 
+Touch Surface 
+Toughened tempered glass with anti-glare, anti-
+scratch & anti-fingerprint coating 
+ 
+12.0 
+Response Time 
+Less than 6 ms 
+ 
+13.0 
+In-built Speakers 
+Yes 
+ 
+14.0 
+OPS Slot 
+Available 
+ 
+15.0 
+OPS Processor 
+Intel Core i5 (10th Generation or better) 
+ 
+16.0 
+OPS RAM 
+Minimum 8 GB 
+ 
+17.0 
+OPS Storage 
+Minimum 256 GB SSD 
+ 
+18.0 
+Operating System 
+Android OS & Windows 10/11 (Pre-installed) 
+ 
+19.0 
+Connectivity 
+In-built Wi-Fi (2.4 GHz & 5 GHz), Bluetooth, RJ-45 
+Ethernet 
+ 
+20.0 
+Ports 
+Minimum 2 x HDMI, USB 2.0, USB 3.0 
+ 
+21.0 
+Accessories 
+Electronic Stylus (2 Nos.), Wall Mount / Trolley Kit, 
+HDMI/USB/Power Cables 
+ 
+22.0 
+On Site OEM 
+Warranty 
+Minimum 5 Years 
+ 
+
+
+ 
+A.4 55-Inch Display Unit — Quantity: 285 Nos. (Generic Specification) 
+Sr. No. 
+Parameter 
+Specification 
+Compliance 
+(YES/NO) 
+1.0 
+Display Size 
+55 Inch 
+ 
+2.0 
+Resolution 
+4K UHD (3840 × 2160) or higher 
+ 
+3.0 
+Display Technology 
+IPS / LED, Anti-glare LCD 
+ 
+4.0 
+Panel Life 
+Minimum 50,000 hours 
+ 
+5.0 
+Viewing Angle 
+178° (Horizontal & Vertical) 
+ 
+6.0 
+Touch Surface 
+Toughened tempered glass with anti-glare, anti-
+scratch & anti-fingerprint coating 
+ 
+7.0 
+Response Time 
+Less than 6 ms 
+ 
+8.0 
+In-built Speakers 
+Yes 
+ 
+9.0 
+Operating System 
+Android OS & open OS (Pre-installed) 
+ 
+10.0 
+Connectivity 
+In-built Wi-Fi (2.4 GHz & 5 GHz), Bluetooth, RJ-45 
+Ethernet 
+ 
+11.0 
+Ports 
+Minimum 2 x HDMI, USB 2.0, USB 3.0 
+ 
+12.0 
+Accessories 
+Electronic Stylus (2 Nos.), Wall Mount / Trolley Kit, 
+HDMI/USB/Power Cables 
+ 
+13.0 
+On Site OEM 
+Warranty 
+Minimum 5 Years 
+ 
+ 
+Please Note 
+● Bidder should supply all the required accessories, hardware, cables, adaptors, mounting kits, 
+required for the solution. 
+● All the above-mentioned hardware should have 5 years' warranty & on-site support. 
+● The bidder will have to provide service centres in at least one major city of Gujarat, with a 
+defined on-site response SLA for all locations. 
+● The Bidder will offer the solution for inspection/FAT for VC Solutions for each location and 
+function requirement, and also for each additional requirement. 
+● The qualified bidders will have to successfully demonstrate (PoC) the proposed solution's 
+functionality as per the requirement of the RFP. 
+● Bidder shall provide comprehensive on-site free support for 5 years from the date of FAT for 
+the respective components/applications, including for any additional order/requirement. 
+● The successful bidder shall be responsible for configuring and installing the supplied hardware 
+at each location. 
+ 
+ 
+
+
+Annexure – B 
+On Letterhead of Bidder 
+Please submit the undertaking letter as per Ministry of Finance Memorandum No.: F. No.6/18/2019-PPD 
+dated 23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 as per the Proforma 
+given below, on OEM letterhead as well as on bidder's letterhead. 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 & 23.02.2023 published by Ministry of Finance, 
+Dept. of Expenditure, Public Procurement Division 
+Ref: Bid Number: ____________________________ 
+I have read the clause regarding restriction on procurement from a bidder of a country that shares a land 
+border with India. I certify that we, as a bidder, and the quoted product from the following OEMs are 
+not from such a country, or if from such a country, these quoted products' OEM has been registered with 
+the competent authority. I hereby certify that these quoted products & OEM fulfil all requirements in 
+this regard and are eligible to be considered for procurement for Bid number ______________. 
+No. 
+Item Category 
+Quoted Make & Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I am supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. reserves the 
+right to take legal action against us. 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>> 
+ 
+ 
+
+
+Annexure - C 
+On Letterhead of OEM 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated 23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated 08.02.2021 & 23.02.2023 published by Ministry of Finance, 
+Dept. of Expenditure, Public Procurement Division 
+Ref: Bid Number: ____________________________ 
+Dear Sir, 
+I have read the clause regarding restriction on procurement from a bidder of a country that shares a land 
+border with India. I certify that our quoted product and our company are not from such a country, or if 
+from such a country, our quoted product and our company have been registered with the competent 
+authority. I hereby certify that these quoted products and our company fulfil all requirements in this 
+regard and are eligible to be considered for procurement for Bid number ______________. 
+No. 
+Item Category 
+Quoted Make & Model 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I am supplying material from a country which shares a land border with India, I will provide 
+evidence for valid registration by the competent authority; otherwise GIL/End user Dept. reserves the 
+right to take legal action against us. 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>> 
+ 
+Bidder Information 
+Name:  
+Designation:  
+Company Address:  
+Telephone No:  
+Mobile No:  
+E-mail:  
+ 
+ 
+
+
+Annexure – D 
+List of Locations 
+D.1 District Headquarters / Secretariat Locations — Type-A VC & 75" Interactive Panel — 44 Nos. 
+Sr. No. 
+District Name 
+Qty (Type-A VC + 75" 
+Panel) 
+1 
+Ahmedabad 
+1 
+2 
+Amreli 
+1 
+3 
+Anand 
+1 
+4 
+Arvalli 
+1 
+5 
+Banaskantha 
+1 
+6 
+Bharuch 
+1 
+7 
+Bhavnagar 
+1 
+8 
+Botad 
+1 
+9 
+Chota Udepur 
+1 
+10 
+Dahod 
+1 
+11 
+Dang 
+1 
+12 
+Devbhumi Dwarka 
+1 
+13 
+Gandhinagar 
+1 
+14 
+Gir Somnath 
+1 
+15 
+Jamnagar 
+1 
+16 
+Junagadh 
+1 
+17 
+Kheda 
+1 
+18 
+Kutch 
+1 
+19 
+Mahisagar 
+1 
+20 
+Mehsana 
+1 
+21 
+Morbi 
+1 
+22 
+Narmada 
+1 
+23 
+Navsari 
+1 
+24 
+Panchmahal 
+1 
+25 
+Patan 
+1 
+26 
+Porbandar 
+1 
+27 
+Rajkot 
+1 
+28 
+Sabarkantha 
+1 
+29 
+Surat 
+1 
+30 
+Surendranagar 
+1 
+31 
+Tapi 
+1 
+32 
+Vadodara 
+1 
+33 
+Valsad 
+1 
+34 
+Vav Tharad 
+1 
+35 
+Gandhinagar/Secretariat 
+10 
+ 
+ 
+ 
+
+
+D.2 Taluka Level Locations — Type-B VC & 55" Display Unit — 285 Nos. 
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+1 
+Ahmedabad 
+Ahmedabad Local 
+1 
+2 
+Ahmedabad 
+Bavla 
+1 
+3 
+Ahmedabad 
+Daskroi 
+1 
+4 
+Ahmedabad 
+Detroj 
+1 
+5 
+Ahmedabad 
+Dhandhuka 
+1 
+6 
+Ahmedabad 
+Dholera 
+1 
+7 
+Ahmedabad 
+Dholka 
+1 
+8 
+Ahmedabad 
+Mandal 
+1 
+9 
+Ahmedabad 
+Sanand 
+1 
+10 
+Ahmedabad 
+Viramgam 
+1 
+11 
+Ahmedabad 
+Ghatlodiya / West Prant Office 1 
+12 
+Ahmedabad 
+Maninagar / East Prant Office 
+1 
+13 
+Ahmedabad 
+Vejalpur 
+1 
+14 
+Ahmedabad 
+Asarwa 
+1 
+15 
+Amreli 
+Amreli Local 
+1 
+16 
+Amreli 
+Babra 
+1 
+17 
+Amreli 
+Bagasara 
+1 
+18 
+Amreli 
+Dhari 
+1 
+19 
+Amreli 
+Jafrabad 
+1 
+20 
+Amreli 
+Khambha 
+1 
+21 
+Amreli 
+Lathi 
+1 
+22 
+Amreli 
+Liliya 
+1 
+23 
+Amreli 
+Rajula 
+1 
+24 
+Amreli 
+Savarkundla 
+1 
+25 
+Amreli 
+Vadia 
+1 
+26 
+Anand 
+Anand Local 
+1 
+27 
+Anand 
+Anklav 
+1 
+28 
+Anand 
+Borsad 
+1 
+29 
+Anand 
+Khambhat 
+1 
+30 
+Anand 
+Petlad 
+1 
+31 
+Anand 
+Sojitra 
+1 
+32 
+Anand 
+Tarapur 
+1 
+33 
+Anand 
+Umareth 
+1 
+34 
+Aravalli-Modasa 
+Bayad 
+1 
+35 
+Aravalli-Modasa 
+Bhiloda 
+1 
+36 
+Aravalli-Modasa 
+Dhansura 
+1 
+37 
+Aravalli-Modasa 
+Malpur 
+1 
+38 
+Aravalli-Modasa 
+Meghraj 
+1 
+39 
+Aravalli-Modasa 
+Modasa 
+1 
+40 
+Aravalli-Modasa 
+Shamlaji 
+1 
+41 
+Aravalli-Modasa 
+Sathamba 
+1 
+
+
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+42 
+Banaskantha-Palanpur 
+Amirgadh 
+1 
+43 
+Banaskantha-Palanpur 
+Danta 
+1 
+44 
+Banaskantha-Palanpur 
+Dantiwada 
+1 
+45 
+Banaskantha-Palanpur 
+Deesa 
+1 
+46 
+Banaskantha-Palanpur 
+Dhanera 
+1 
+47 
+Banaskantha-Palanpur 
+Kankrej 
+1 
+48 
+Banaskantha-Palanpur 
+Palanpur Local 
+1 
+49 
+Banaskantha-Palanpur 
+Vadgam 
+1 
+50 
+Banaskantha-Palanpur 
+Hadad 
+1 
+51 
+Banaskantha-Palanpur 
+Ogad 
+1 
+52 
+Bharuch 
+Amod 
+1 
+53 
+Bharuch 
+Ankleshwar 
+1 
+54 
+Bharuch 
+Bharuch Local 
+1 
+55 
+Bharuch 
+Hansot 
+1 
+56 
+Bharuch 
+Jambusor 
+1 
+57 
+Bharuch 
+Jhagadia 
+1 
+58 
+Bharuch 
+Netrang 
+1 
+59 
+Bharuch 
+Vagra 
+1 
+60 
+Bharuch 
+Valia 
+1 
+61 
+Bhavnagar 
+Bhavnagar Local 
+1 
+62 
+Bhavnagar 
+Gariyadhar 
+1 
+63 
+Bhavnagar 
+Ghogha 
+1 
+64 
+Bhavnagar 
+Jesar 
+1 
+65 
+Bhavnagar 
+Mahuva 
+1 
+66 
+Bhavnagar 
+Palitana 
+1 
+67 
+Bhavnagar 
+Shihor 
+1 
+68 
+Bhavnagar 
+Talaja 
+1 
+69 
+Bhavnagar 
+Umrala 
+1 
+70 
+Bhavnagar 
+Vallabhipur 
+1 
+71 
+Botad 
+Barwala 
+1 
+72 
+Botad 
+Botad Local TC 
+1 
+73 
+Botad 
+Gadhada 
+1 
+74 
+Botad 
+Ranpur 
+1 
+75 
+Chota Udaipur 
+Bodeli 
+1 
+76 
+Chota Udaipur 
+Chota-Udaipur 
+1 
+77 
+Chota Udaipur 
+Jetpur pavi 
+1 
+78 
+Chota Udaipur 
+Kwant 
+1 
+79 
+Chota Udaipur 
+Naswadi 
+1 
+80 
+Chota Udaipur 
+Sankheda 
+1 
+81 
+Chota Udaipur 
+Kadwal 
+1 
+82 
+Dahod 
+Dahod Local 
+1 
+83 
+Dahod 
+Devgadh Baria 
+1 
+84 
+Dahod 
+Dhanpur 
+1 
+
+
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+85 
+Dahod 
+Fatepura 
+1 
+86 
+Dahod 
+Garbada 
+1 
+87 
+Dahod 
+Jhalod 
+1 
+88 
+Dahod 
+Limkheda 
+1 
+89 
+Dahod 
+Sanjeli 
+1 
+90 
+Dahod 
+Singvad 
+1 
+91 
+Dahod 
+Sukhsar 
+1 
+92 
+Dahod 
+Guru Govind Limdi 
+1 
+93 
+Ahwa-Dang 
+Ahwa 
+1 
+94 
+Ahwa-Dang 
+Subir 
+1 
+95 
+Ahwa-Dang 
+Vaghai 
+1 
+96 
+Devbhumi Dwarka-Khambhaliya Bhanvad 
+1 
+97 
+Devbhumi Dwarka-Khambhaliya Dwarka 
+1 
+98 
+Devbhumi Dwarka-Khambhaliya Kalyanpur 
+1 
+99 
+Devbhumi Dwarka-Khambhaliya Khambhalia 
+1 
+100 
+Gandhinagar 
+Dehgam 
+1 
+101 
+Gandhinagar 
+Gandhinagar City local 
+1 
+102 
+Gandhinagar 
+Kalol 
+1 
+103 
+Gandhinagar 
+Mansa 
+1 
+104 
+Gir-Somnath-Veraval 
+Girghadhda 
+1 
+105 
+Gir-Somnath-Veraval 
+Kodinar 
+1 
+106 
+Gir-Somnath-Veraval 
+Sutrapada 
+1 
+107 
+Gir-Somnath-Veraval 
+Talala 
+1 
+108 
+Gir-Somnath-Veraval 
+Una 
+1 
+109 
+Gir-Somnath-Veraval 
+Veraval 
+1 
+110 
+Jamnagar 
+Dhrol 
+1 
+111 
+Jamnagar 
+Jamjodhpur 
+1 
+112 
+Jamnagar 
+Jamnagar Local 
+1 
+113 
+Jamnagar 
+Jodia 
+1 
+114 
+Jamnagar 
+Kalavad 
+1 
+115 
+Jamnagar 
+Lalpur 
+1 
+116 
+Junagadh 
+Bhesan 
+1 
+117 
+Junagadh 
+Junagadh Local 
+1 
+118 
+Junagadh 
+Junagadh-City 
+1 
+119 
+Junagadh 
+Keshod 
+1 
+120 
+Junagadh 
+Maliya-Hatina 
+1 
+121 
+Junagadh 
+Manavadar 
+1 
+122 
+Junagadh 
+Mangrol 
+1 
+123 
+Junagadh 
+Mendarda 
+1 
+124 
+Junagadh 
+Vanthli 
+1 
+125 
+Junagadh 
+Visavadar 
+1 
+126 
+Kutch-Bhuj 
+Abdasa 
+1 
+127 
+Kutch-Bhuj 
+Anjar 
+1 
+
+
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+128 
+Kutch-Bhuj 
+Bhachau 
+1 
+129 
+Kutch-Bhuj 
+Bhuj Local 
+1 
+130 
+Kutch-Bhuj 
+Gandhidham 
+1 
+131 
+Kutch-Bhuj 
+Lakhpat 
+1 
+132 
+Kutch-Bhuj 
+Mandvi 
+1 
+133 
+Kutch-Bhuj 
+Mundra 
+1 
+134 
+Kutch-Bhuj 
+Nakhatrana 
+1 
+135 
+Kutch-Bhuj 
+Rapar 
+1 
+136 
+Kheda-Nadiyad 
+Galteshwar 
+1 
+137 
+Kheda-Nadiyad 
+Kapadvanj 
+1 
+138 
+Kheda-Nadiyad 
+Kathlal 
+1 
+139 
+Kheda-Nadiyad 
+Kheda 
+1 
+140 
+Kheda-Nadiyad 
+Mahemdavad 
+1 
+141 
+Kheda-Nadiyad 
+Mahudha 
+1 
+142 
+Kheda-Nadiyad 
+Matar 
+1 
+143 
+Kheda-Nadiyad 
+Nadiyad Local 
+1 
+144 
+Kheda-Nadiyad 
+Thasra 
+1 
+145 
+Kheda-Nadiyad 
+Vaso 
+1 
+146 
+Kheda-Nadiyad 
+Fagvel 
+1 
+147 
+Mahisagar-Lunawada 
+Balasinor 
+1 
+148 
+Mahisagar-Lunawada 
+Kadana 
+1 
+149 
+Mahisagar-Lunawada 
+khanpur 
+1 
+150 
+Mahisagar-Lunawada 
+Lunawada 
+1 
+151 
+Mahisagar-Lunawada 
+Santrampur 
+1 
+152 
+Mahisagar-Lunawada 
+Virpur 
+1 
+153 
+Mahisagar-Lunawada 
+Kothamba 
+1 
+154 
+Mahisagar-Lunawada 
+Godhar 
+1 
+155 
+Mehsana 
+Bechraji 
+1 
+156 
+Mehsana 
+Jotana 
+1 
+157 
+Mehsana 
+Kadi 
+1 
+158 
+Mehsana 
+Kheralu 
+1 
+159 
+Mehsana 
+Mehsana Local 
+1 
+160 
+Mehsana 
+Satlasana 
+1 
+161 
+Mehsana 
+Unjha 
+1 
+162 
+Mehsana 
+Vadnagar 
+1 
+163 
+Mehsana 
+Vijapur 
+1 
+164 
+Mehsana 
+Visnagar 
+1 
+165 
+Morbi 
+Halvad 
+1 
+166 
+Morbi 
+Maliya-Miyana 
+1 
+167 
+Morbi 
+Morbi-Local 
+1 
+168 
+Morbi 
+Tankara 
+1 
+169 
+Morbi 
+Wankaner 
+1 
+170 
+Narmada-Rajpipla 
+Dediyapada 
+1 
+
+
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+171 
+Narmada-Rajpipla 
+Garudeshwar 
+1 
+172 
+Narmada-Rajpipla 
+Nandod 
+1 
+173 
+Narmada-Rajpipla 
+Sagbara 
+1 
+174 
+Narmada-Rajpipla 
+Tilakwada 
+1 
+175 
+Narmada-Rajpipla 
+Chikda 
+1 
+176 
+Navsari 
+Chikhli 
+1 
+177 
+Navsari 
+Gandevi 
+1 
+178 
+Navsari 
+Jalalpore 
+1 
+179 
+Navsari 
+Khergam 
+1 
+180 
+Navsari 
+Navsari Local 
+1 
+181 
+Navsari 
+Vasda 
+1 
+182 
+Panchmahal-Godhra 
+Godhra Local 
+1 
+183 
+Panchmahal-Godhra 
+Ghoghamba 
+1 
+184 
+Panchmahal-Godhra 
+Halol 
+1 
+185 
+Panchmahal-Godhra 
+Jambughoda 
+1 
+186 
+Panchmahal-Godhra 
+Kalol 
+1 
+187 
+Panchmahal-Godhra 
+Morva 
+1 
+188 
+Panchmahal-Godhra 
+Shahera 
+1 
+189 
+Patan 
+Chanasma 
+1 
+190 
+Patan 
+Harij 
+1 
+191 
+Patan 
+Patan local 
+1 
+192 
+Patan 
+Randhanpur 
+1 
+193 
+Patan 
+Sami 
+1 
+194 
+Patan 
+Sankheshwer 
+1 
+195 
+Patan 
+Santalpur 
+1 
+196 
+Patan 
+Saraswati 
+1 
+197 
+Patan 
+Siddhpur 
+1 
+198 
+Porbandar 
+Kutiyana 
+1 
+199 
+Porbandar 
+Porbandar Local 
+1 
+200 
+Porbandar 
+Ranavav 
+1 
+201 
+Rajkot 
+Dhoraji 
+1 
+202 
+Rajkot 
+Gondal 
+1 
+203 
+Rajkot 
+Jamkandorana 
+1 
+204 
+Rajkot 
+Jasdan 
+1 
+205 
+Rajkot 
+Jetpur 
+1 
+206 
+Rajkot 
+Kotda sangani 
+1 
+207 
+Rajkot 
+Lodhika 
+1 
+208 
+Rajkot 
+Paddhari 
+1 
+209 
+Rajkot 
+Rajkot Local 
+1 
+210 
+Rajkot 
+Upleta 
+1 
+211 
+Rajkot 
+Vinchhiya 
+1 
+212 
+Sabarkantha-Himatnagar 
+Himatnagar local 
+1 
+213 
+Sabarkantha-Himatnagar 
+Idar 
+1 
+
+
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+214 
+Sabarkantha-Himatnagar 
+Khedbrahma 
+1 
+215 
+Sabarkantha-Himatnagar 
+Posina 
+1 
+216 
+Sabarkantha-Himatnagar 
+Prantij 
+1 
+217 
+Sabarkantha-Himatnagar 
+Talod 
+1 
+218 
+Sabarkantha-Himatnagar 
+Vadali 
+1 
+219 
+Sabarkantha-Himatnagar 
+Vijaynagar 
+1 
+220 
+Surat 
+Bardoli 
+1 
+221 
+Surat 
+Choryasi 
+1 
+222 
+Surat 
+Kamrej 
+1 
+223 
+Surat 
+Mahuva 
+1 
+224 
+Surat 
+Mandvi 
+1 
+225 
+Surat 
+Mangrol 
+1 
+226 
+Surat 
+Olpad 
+1 
+227 
+Surat 
+Palsana 
+1 
+228 
+Surat 
+Surat City Local 
+1 
+229 
+Surat 
+Umarpada 
+1 
+230 
+Surat 
+Areth 
+1 
+231 
+Surat 
+Ambika 
+1 
+232 
+Surendranagar 
+Chotila 
+1 
+233 
+Surendranagar 
+Chuda 
+1 
+234 
+Surendranagar 
+Dhangdhara 
+1 
+235 
+Surendranagar 
+Lakhtar 
+1 
+236 
+Surendranagar 
+Limdi 
+1 
+237 
+Surendranagar 
+Muli 
+1 
+238 
+Surendranagar 
+Patadi - Dasada 
+1 
+239 
+Surendranagar 
+Sayala 
+1 
+240 
+Surendranagar 
+Thangadh 
+1 
+241 
+Surendranagar 
+Wadhwan 
+1 
+242 
+Tapi-Vyara 
+Nizar 
+1 
+243 
+Tapi-Vyara 
+Songadh 
+1 
+244 
+Tapi-Vyara 
+Uchchhal 
+1 
+245 
+Tapi-Vyara 
+Valod 
+1 
+246 
+Tapi-Vyara 
+Vyara 
+1 
+247 
+Tapi-Vyara 
+Kukarmunda 
+1 
+248 
+Tapi-Vyara 
+Dolvan 
+1 
+249 
+Tapi-Vyara 
+Ukai 
+1 
+250 
+Vadodara 
+Baroda Local 
+1 
+251 
+Vadodara 
+Dabhoi 
+1 
+252 
+Vadodara 
+Desar 
+1 
+253 
+Vadodara 
+Karjan 
+1 
+254 
+Vadodara 
+Padra 
+1 
+255 
+Vadodara 
+Savli 
+1 
+256 
+Vadodara 
+Shinor 
+1 
+
+
+Sr. No. 
+District Name 
+Taluka Name 
+Qty (Type-B VC + 55" 
+Display Unit) 
+257 
+Vadodara 
+Waghodiya 
+1 
+258 
+Vadodara 
+City West (Akota) 
+1 
+259 
+Vadodara 
+City South (Manjalpur) 
+1 
+260 
+Vadodara 
+City North (Sama) 
+1 
+261 
+Valsad 
+Dharampur 
+1 
+262 
+Valsad 
+Kaparada 
+1 
+263 
+Valsad 
+Pardi 
+1 
+264 
+Valsad 
+Umargav 
+1 
+265 
+Valsad 
+Valsad Local 
+1 
+266 
+Valsad 
+Vapi 
+1 
+267 
+Valsad 
+Nana Pondha 
+1 
+268 
+Vav Tharad 
+Bhabhar 
+1 
+269 
+Vav Tharad 
+Deodar 
+1 
+270 
+Vav Tharad 
+Dharnidhar 
+1 
+271 
+Vav Tharad 
+Rah 
+1 
+272 
+Vav Tharad 
+Lakhani 
+1 
+273 
+Vav Tharad 
+Suigam 
+1 
+274 
+Vav Tharad 
+Tharad 
+1 
+275 
+Vav Tharad 
+Vav 
+1 
+276 
+Vav Tharad 
+Gandhinagar/Secretariat 
+10 
+ 

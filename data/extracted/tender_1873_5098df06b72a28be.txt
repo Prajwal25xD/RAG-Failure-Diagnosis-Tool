@@ -1,0 +1,1545 @@
+1 
+ 
+ 
+ 
+ 
+Request for Proposal (RFP) for Selection of 
+Project Management Consultant (PMC) for 
+Implementation project work in the State of 
+Gujarat under Gujarat Fibre Grid Network 
+Limited 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gujarat Fibre Grid Network Limited (GFGNL) 
+A Government of Gujarat Company 
+Block No: 6, 5th Floor, Udyog Bhavan, Sector-11, Gandhinagar 382010 
+ 
+ 
+ 
+
+
+2 
+ 
+DISCLAIMER 
+ 
+The information contained in this Request for Proposal (RFP) document or subsequently provided 
+to Bidder(s), whether verbally or in documentary or any other form by or on behalf of the GFGNL, 
+Dept. of Science and Technology, Government of Gujarat or any of their employees or consultants, 
+is provided to Bidder(s) on the terms and conditions set out in this RFP and such other terms and 
+conditions subject to which such information is provided. 
+The purpose of this RFP is to provide interested parties with information that may be useful to them 
+in eliciting their financial offers (the “Proposal”) pursuant to this RFP. This RFP includes statements, 
+which reflect various assumptions and assessments arrived at by the GFGNL, in relation to the RFP. 
+Such assumptions, assessments and statements do not purport to contain all the information that 
+each Bidder may require. This RFP may not be appropriate for all persons, and it is not possible for 
+GFGNL, its employees or Consultants to consider the investment objectives, financial situation and 
+particular needs of each party who reads or uses this RFP. The assumptions, assessments, 
+statements and information contained in this RFP, may not be complete, accurate, adequate or 
+correct. Each Bidder should, therefore, conduct its own surveys and analysis and should check the 
+accuracy, adequacy, correctness, reliability and completeness of the assumptions, assessments, 
+statements and information contained in this RFP and obtain independent advice from appropriate 
+sources before filling up the RFP. Any deviation in the specification or proposed solutions will be 
+deemed as incapability of the respective Agency and shall not be considered for final evaluation 
+process. 
+Information provided in this document to the Bidder(s) is on a wide range of matters, some of which 
+depends upon interpretation of law. The information given is not an exhaustive account of statutory 
+requirements and should not be regarded as a complete or authoritative statement of law. GFGNL, 
+Dept. Of Science and Technology, Government of Gujarat accepts no responsibility for the accuracy 
+or otherwise for any interpretation or opinion on law expressed herein. 
+GFGNL, Dept. Of Science and Technology, Government of Gujarat- its employees and advisors 
+make no representation or warranty and shall have no liability to any person, including any Applicant 
+or Bidder under any law, statute, rules or regulations or tort, principles of restitution or unjust 
+enrichment or otherwise for any loss, damages, cost or expense which may arise from or be incurred 
+or suffered on account of anything contained in this RFP or otherwise, including the accuracy, 
+adequacy, correctness, completeness, delay or reliability of the RFP and any assessment, 
+assumption, statement or information contained therein or deemed to form part of this RFP or arising 
+in any way during the Bidding process. 
+ 
+ 
+
+
+3 
+ 
+ 
+DEFINITIONS 
+In this document, the following terms shall have following respective meanings: 
+1. 
+“Acceptance Test (AT)” means the acceptance testing of the ordered product & services on 
+completion of installation and commissioning under the project. 
+2. 
+“Acceptance Test Document” means a document, which defines procedures for testing the 
+Gujarat State Data Centre against requirements laid down in the Agreement. 
+3. 
+“Agreement” means the Service Level Agreement to be signed between the successful bidder 
+and TENDERER including all attachments, appendices, all documents incorporated by 
+reference thereto together with any subsequent modifications, the RFP, the bid offer, the 
+acceptance and all related correspondences, clarifications, presentations. 
+4. 
+“Authorized Representative/ Agency” shall mean any person/ agency authorized by either of 
+the parties. 
+5. 
+“TENDERER” here shall mean “Gujarat Fibre Grid Network Limited, Department of Science & 
+Technology, Government of Gujarat” 
+6. 
+“Bidder” means any agency providing similar solutions as per the scope of work of RFP. The 
+word Bidder when used in the pre-award period shall be synonymous with Bidder, and when 
+used after award of the Contract shall mean the successful Bidder with whom GFGNL signs the 
+Service Level Agreement. 
+7. 
+“Contract” is used synonymously with Agreement. 
+8. 
+“Corrupt Practice” means the offering, giving, receiving or soliciting of anything of value or 
+influence the action of a public official in the process of Contract execution. 
+9. 
+“Default Notice” means the written notice of Default of the Agreement issued by one Party to 
+the other in terms hereof. 
+10. “Fraudulent Practice” means a misrepresentation of facts in order to influence a procurement 
+process or the execution of a Contract and includes collusive practice among Bidders (prior to 
+or after Bid submission) designed to establish Bid prices at artificial non- competitive levels and 
+to deprive TENDERER of the benefits of free and open competition. 
+11. “Good Industry Practice” means the exercise of that degree of skill, diligence and prudence 
+which would reasonably and ordinarily be expected from a reasonably skilled and experienced 
+Operator engaged in the same type of undertaking under the same or similar circumstances. 
+12. "Law" shall mean any act, notification, by-law, rules and regulations, directive, ordinance, order 
+or instruction having the force of law enacted or issued by the Central Government and/ or the 
+Government of Gujarat or any other Government or regulatory authority or political subdivision 
+of government agency. 
+13. “LoI” means Letter of Intent, which constitutes the intention of the GFGNL to place the Purchase 
+Order with the successful bidder. 
+14. “LOA” shall mean Letter of Award of work issued by GFGNL to the successful bidder. LOA will 
+be issued after the successful bidder gives his acceptance to the LoI. 
+15. “Request for Proposal” means the detailed notification seeking a set of solution(s), services(s), 
+materials and/or any combination of them. 
+16. “Requirements” shall mean and include schedules, details, description, statement of technical 
+data, performance characteristics, standards (Indian as well as International) as applicable and 
+specified in the Agreement. 
+17. “Termination Notice” means the written notice of termination of the Agreement issued by one 
+Party to the other in terms hereof. 
+18. "Uptime" means the time period when specified services with specified technical and service 
+standards as mentioned in Section-5 are available to TENDERER and its user organizations. 
+The uptime will be calculated as follows: 
+Total time in a quarter (in minutes) less total Service Down time (in minutes) in the quarter. 
+19. "% Uptime" means ratio of 'up time' (in minutes) in a quarter to Total time in the quarter (in 
+minutes) multiplied by 100. 
+20. “Downtime” means accumulated time during which the System is totally inoperable within the 
+Scheduled Operation Time but outside the scheduled maintenance time. 
+
+
+4 
+ 
+21. “Incident” refers to any event / abnormalities in the functioning of the Cloud Enablement 
+components in State Data Centre / specified services that may lead to disruption in normal 
+operations of the Cloud based services 
+22. “Scheduled Maintenance Time / Scheduled downtime” shall mean the time that the System 
+is not in-service due to a scheduled work. Scheduled maintenance time is planned downtime 
+with the prior permission from the competent authority. 
+23. “Scheduled operation time” means the scheduled operating hours of the System for the 
+month. All scheduled maintenance time on the system would be deducted from the total 
+operation time for the month to give the scheduled operation time. 
+ 
+Abbreviation 
+ 
+Abbreviation 
+Descriptio
+n
+GoI 
+Government of India
+DoT 
+Department of Telecommunications, Government of India
+BBNL 
+Bharat Broadband Network Limited
+GoG 
+Government of Gujarat
+DST 
+Department of Science & Technology, Government of Gujarat 
+GFGNL 
+Gujarat Fibre Grid Network Limited
+GP 
+Gram Panchayat 
+SPV 
+Special Purpose Vehicle
+CPSUs 
+Central Public-Sector Undertakings
+GSWAN 
+Gujarat State Wide Area Network
+NKN 
+National Knowledge Network
+NOFN 
+National Optical Fibre Network
+NTP 
+National Telecom Policy
+FAT 
+Final Acceptance Test 
+BoQ 
+Bill of Quantity 
+NOC 
+Network Operations Center 
+EMD 
+Earnest Money Deposit
+FAT 
+Final Acceptance Testing
+ICT 
+Information Communication and Technology
+IP 
+Internet Protocol 
+LoI 
+Letter of Intent 
+LoA 
+Letter of Award 
+O&M 
+Operations and Maintenance
+PBG 
+Performance Bank Guarantee
+SLA 
+Service Level Agreement
+SI 
+System Integrator 
+SOP 
+Standard Operating Procedure
+SoW 
+Scope of Work 
+
+
+ 
+ 
+5 
+ 
+ 
+ 
+In today’s age of Science, Technology and Innovation, effective use of ICT is 
+imperative to meet the ever-growing expectations of citizens and businesses. From 
+mere automation, e-Governance is continuously evolving to provide access, equity 
+and empowerment to masses. The State Government has been using ICT as an 
+effective tool towards Good Governance and Gujarat is a frontline State in the Country 
+in implementation of eGovernance projects. Gujarat has been a leader in setting up 
+of core ICT infrastructure such as State-Wide Area Network (SWAN), State Data 
+Centre (SDC) and e-Gram - Common Service Centers (CSCs) as well in use of 
+advanced technologies like GIS and mobility solutions, to provide smart Governance 
+to its citizens and businesses. The adoption of innovative, constructive and result- 
+oriented policies and the increasing use of ICT as facilitator for Governance have 
+tremendously benefitted the masses resulting in significant e-Transactions. 
+With the ever-increasing number of basic services getting delivered on digital 
+infrastructure, universal access to Broadband is being viewed as a fundamental right 
+of the citizens to be provided by State. Access to broadband infrastructure within the 
+urban geographies is pretty much a reality, however, the rural areas remain largely 
+deprived of this right, thus creating a huge so called “digital divide”. This divide exists 
+because of the absence of a viable business case for private sector to invest in 
+building the required infrastructure. Therefore, it is imperative for the Government to 
+take lead in building a vibrant eco-system for delivery of digital services. 
+1.1.1. 
+Project Background: 
+In October 2011, Government of India approved setting up of the National Optical 
+Fibre Network (NOFN) to Provide universal and affordable broadband access to every 
+citizen of India. Broadband becoming the basic platform for provision of a number of 
+services like e-governance, e-health, e-commerce, e-banking, universal access to 
+internet is a must to empower our citizens. Considering that the core of governance 
+structure in rural India are the 2,50,000-gram panchayats (GP’s) which are the 
+foundation nodes of information collection and dissemination and the service delivery 
+points for Government Administration. 
+The main objective of NOFN project was to extend the existing Optical Fibre Network 
+to Gram Panchayat’s by utilizing Universal Service Obligation Fund (USOF) and 
+creating an institutional mechanism for management and operation of NOFN. Bharat 
+Broadband Network Limited (BBNL) a Special Purpose Vehicle (SPV) was set up by 
+the Government of India in 2011, for the establishment, management and operation 
+of NOFN. 
+The vision of NOFN is to: 
+ Provide 100 Mbps broadband connectivity to all the Gram Panchayats 
+ Provide B2B services in a non-discriminatory manner 
+ Facilitate proliferation of G2C, B2C and P2P broadband services in rural areas 
+ Catalyse broadband penetration in rural areas so as to foster overall socio-
+economic development 
+NOFN is a multi-stakeholder project, with a number of organizations including the 
+Department of Telecommunications, the Ministry of Electronics and Information 
+Technology, BBNL, BSNL, RailTel, PGCIL, C-DOT, TCIL and NIC collaborating to 
+ensure that broadband connectivity reaches every Gram Panchayat, enabling 
+
+
+ 
+ 
+6 
+ 
+ 
+adoption by the public and private institutional users as well as the citizens. The ability 
+to access broadband enabled services provides opportunities to empower digitally 
+marginalized rural citizens; changing the way they learn, communicate, and manage 
+their livelihoods and access health, financial and government services. 
+NOFN Project was to be rolled out in a phased manner. The Telecom Commission 
+approved a 3-phase implementation of the project. The first 100000 Gram 
+Panchayats were to be covered in the first phase up to March 31, 2014 and an 
+additional 100000 Gram Panchayats were to be reached by March 31, 2015. The rest 
+were to be covered by September 30, 2015. 
+In 2015, the project was renamed as BharatNet as per recommendation of a high 
+level NOFN committee. BharatNet is a project of national importance to establish a 
+highly scalable network infrastructure accessible on a non-discriminatory basis, to 
+provide on demand, affordable broadband connectivity of 100 Mbps to all GPs and 
+on demand capacity to all institutions, to realize the vision of Digital India. Assets 
+under BharatNet shall be owned by Government of India and the network should be 
+sharable and interoperable to provide seamless services across the nation. 
+Under the ‘Digital India’ programme launched by Hon’ble Prime Minster, NOFN has 
+been identified as a critical component of the programme to bridge the Urban Rural 
+digital divide. The Project has been revamped as ‘BharatNet’ in terms of design and 
+approach to give itself pace and faster execution. Further, Telecom commission 
+approved a revised strategy for a three-phase implementation of the BharatNet 
+Project. 
+ The first phase envisages providing one lakh gram panchayats with broadband 
+connectivity by laying underground OFC lines by March 2017. This needs to be 
+cover by BBNL. 
+ The second phase will provide connectivity to all remaining gram panchayats 
+in the country using an optimal mix of underground fibre over road network, 
+power lines, radio and satellite media. It is to be completed by December 2018. 
+ In the third phase from 2018 to 2023, state-of-the-art, future-proof network, 
+including fibre between districts and blocks, with ring topology to provide 
+redundancy would be created. 
+For NOFN Phase-II, as connectivity is planned through hybrid model having mix of 
+both underground fibre and Aerial fibre laying and state has the liberty to choose the 
+fibre laying approach based on benefits covered and effective implementation of the 
+project. 
+1.1.2. 
+Gujarat’s Approach: 
+The Gujarat Government is deeply aligned with the Nation’s vision of a Digital India 
+and is eager to be one of the leading States to embrace and deliver this vision to the 
+people of Gujarat. Therefore, the State wants to establish Fibre Grid up to the village 
+level under the umbrella of BharatNet so as to spur economic development and to 
+provide Integrated Services to the Citizens. Every household should be lit up with 
+access to video capable broadband at an affordable tariff. The Project Title got named 
+with “Gujarat Fibre Grid” and aligned with the respective Special Purpose Vehicle 
+Creation named as “Gujarat Fibre Grid Network Limited (GFGNL)”. 
+ 
+ 
+
+
+ 
+ 
+7 
+ 
+ 
+Vision Statement: “Minimum Government, Maximum Governance” 
+1. To bring about ICT-enabled all-round sustainable development and inclusive 
+growth of the State; 
+2. To provide transparent, affordable and efficient public service delivery 
+closer to the doorstep of citizens; 
+3. To ensure the socio-economic empowerment of all (with special emphasis 
+on women, youth and the marginalized) through Digital Inclusion. 
+Mission Statement: 
+To broad-base and institutionalize ‘Digital Gujarat’ – towards the fulfillment of the 
+larger vision of ‘Digital India’ - by giving thrust to the following areas: 
+ Proactive participation in implementation of the key components of ‘Digital India’ 
+namely 
+1) Broadband Highways, 
+ Universal Access to Mobile Connectivity,
+3) Public Internet Access, 
+4) e-Governance: Reforming Government through Technology, 
+5) e-Kranti-Electronic Delivery of Services, 
+6) Information for all, 
+7) Early Harvest Programs, and 
+8) Electronic Manufacturing and IT for Jobs. 
+The development of high-tech industries like IT and Electronics, which is part of the 
+vision of Gujarat, also demands the creation of infrastructure for providing high 
+bandwidth on demand. Conversely, the availability of high bandwidth on demand is 
+expected to attract the hi-tech industries and state-of-the- art data centres and R&D 
+facilities in to the State. 
+The approach is to facilitate building of a common government-owned Fibre Grid and 
+network infrastructure that is not only used by the Government, but also by the ISPs, 
+Cable Operators, MSOs, Telcos, etc. on an open, non-discriminatory basis to provide 
+a wide spectrum of services and applications to the citizens and businesses. To 
+design a modern, redundant, reliable, scalable, pure IP-Ethernet network spanning 
+the entire State, with end-to-end central management including Quality of Service 
+(QoS), Service Level Agreements (SLAs), Bulk Bandwidths and Virtual Private 
+Network (VPN) capabilities. 
+1.1.3. 
+Implementation Model: 
+As mentioned above, NOFN Phase-I was implemented by the BBNL. Phase-II of the 
+project will be implemented under the state led model as per the guidelines of the 
+BharatNet project covering 18 Districts and approx. 6950 Gram Panchayats of the 
+State. 
+As per the requirement the SPV- GFGNL will own the lit-up grid and make it open to 
+private enterprises who would in turn be encouraged to provide high quality services 
+in a non-loss-making proposition. GFGNL-A majority stake owned by the State 
+Government will implement and own the assets, drive the necessary procurement, 
+contracts and make decisions about its requirements including collaboration with 
+Government of India enterprises associated with the BharatNet Project such as 
+Bharat Broadband Network Limited (BBNL). The architecture, design, innovation, 
+management, operational oversight and monetization of this network would be 
+managed by the GFGNL while leveraging best of breed private expertise. 
+
+
+ 
+ 
+8 
+ 
+ 
+Notwithstanding this structure purely for operational effectiveness, the SPV will own 
+both the assets and strategic decision making so that under all circumstances the 
+asset and its controls are with the SPV. 
+The SPV would be structured as an autonomous Limited company that is bound by a 
+charter embodying relevant USO guidelines including openness, unbiased access to 
+both private providers and Government. The SPV would be driven by a mandate and 
+objectives including open transparent monitoring which shows universal service 
+delivery in a public, measurable form. 
+Current Status: 
+As per the Guidelines of the project, State government needs to submit a detailed 
+project report (DPR) covering each and every aspect of the project to the competent 
+authority at Government of India level for administrative approval and funding support 
+for the project. 
+Recently, Government of Gujarat has submitted the detailed Project report to the 
+Government of India for implementation of the BharatNet Phase-II project and 
+awaiting the approval of the same from competent authority at GoI. 
+
+
+ 
+ 
+9 
+ 
+ 
+ 
+The BharatNet project involves extending optical fibre connectivity to villages and 
+outspreading capacities to make every home in the State Broadband enabled. The 
+Government of Gujarat proposes to implement “Gujarat Fibre Grid Project” under the 
+Umbrella of “BharatNet”. The basic intent of the Fibre Grid project is to establish a 
+significantly independent network that is not constrained by the technological, 
+geographical or organizational constraints of any existing networks or services. 
+As mentioned above, required SPV-Gujarat Fibre Grid Network Limited was already 
+formed by the State Government. GFGNL will be the owner of the entire project 
+created under the umbrella of BharatNet Project. The guiding principles are: 
+a) Open, non-discriminatory network: 
+This network shall be made available to all businesses including Telecom 
+providers, cable operators and local entrepreneurs via uniform, published, 
+measurable, open terms-of use and tariff. 
+b) Interoperability: 
+Being a pure IP-Ethernet network compatible with IPv6 and IPv4 networks, 
+users and applications on this network should seamlessly communicate with any 
+other node on the BharatNet and broadly the global internet. 
+c) Technology Agnostic: 
+The proposed open grid approach shall be technology agnostic i.e. it is designed 
+to impartially enable wireless, cable operators, ISPs and even future technologies 
+to provide last mile services and innovations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As shown in the above image BharatNet Phase-II project covers 18 districts, approx. 
+6950 GP’s of the state. The GFGNL is in discussions with BBNL to take over few 
+more blocks from Phase I implementation to Phase II implementation accordingly, 
+the geographic and financial scope of work for the project is likely to go up from 
+the current one (At this stage it should be 7-10 blocks more). 
+
+
+ 
+ 
+10 
+ 
+ 
+In order to achieve the vision, mission statement as envisage and lay a state of the 
+art, fibre network up to the Village and to provide desired higher quality of service 
+(QoS), the State Government under the State led model proposes to hire services of 
+a Project Management Consultancy (PMC) agency for various activities, mainly: 
+ End to End Bid Process management for selection of Implementing agency 
+(from preparation of RFP till the contract management) 
+ Complete Project Management activities during the implementation period. 
+ Designing high level network design along with finalization of BOM & specification 
+for the bid. 
+ Identification of the defects & bottleneck in existing network & improvisation of 
+network.  
+ 
+1.1. 
+Detailed Scope of Work 
+ 
+The Selected agency will be responsible for the below mentioned Project Management 
+activities for the BharatNet Phase-II project. 
+1.1. Bid Process Management/ 
+a.) Preparation of EoI, Request for Proposal (RFP). 
+b.) Preparation of pre-bid query responses, revised RFP, 
+corrigendum (if, any) etc. c.) Bid Evaluation (technical and 
+Financial bid) 
+d.) Preparation of work orders, contract agreement and other 
+necessary documents e.) Preparation of agenda, Minutes for the 
+various meetings 
+f.) Contract Management, payment recommendations, 
+g.) Selection of TPA, selection of a technical supervision agency and bid 
+process related work as indicated from sub clause (a) to sub clause (f). 
+h.) Preparation of timely project progress reports and facilitation to GFGNL to 
+submit timely reports to BBNL or USOF or DOT or GOG  
+i.) Any other incidental activities relating to the project related with scope of work. 
+1.2. Commercialization and monetization of the Project Resources  
+ 
+a.) Preparation of Monetization plan, Schedule, Strategy estimates for the 
+requirements of clients etc. 
+b.) Preparation of Bid for Selection of Monetization’s Partner(s) 
+ c.) End to End Contract Management 
+d.) Monitoring of the Project Schedules/milestone and 
+Revenue realization 
+ e.) Framing of Marketing Strategy, Sales etc. 
+f.) Preparation of work order for PIAs. 
+
+
+ 
+ 
+11 
+ 
+ 
+1.3. Business Advisory Services to the TENDERER 
+a.) Organization Structure of the SPV 
+ b.) Technology Consultation 
+c.) Recruitment of Resources 
+1.4. Project Management & Monitoring Activities 
+ 
+1) Contract Monitoring: Project Implementation milestone, Project Infrastructure b.) 
+Monitoring of Operations and Maintenance 
+i. Bidder selected through this RFP is responsible for all types of O&M 
+activities at Headquarter i.e. Gandhinagar including O&M of state NOC 
+ii. TENDERER envisage to have separate agency for Technical/ 
+engineering supervision of the project at field level. The other agency 
+to be selected by the TENDERER through separate tender shall be 
+responsible 
+for 
+Physical 
+inspection, 
+verification, 
+engineering 
+supervision of the actual work carried out by the Project Implementing 
+Agency (PIA) at the field level, UAT, FAT of the work done, preparation 
+and submission of MIS related to the field level, verification of O&M 
+activities carried out by the PIA during the O&M phase of the project. 
+2) Identification of KPIs, design and delivery of MIS / Project Progress reports on set 
+schedule, facilitate holding of weekly/fortnightly review meetings / will advise and 
+facilitate the PMU towards compliances with the nodal agency for BharatNet project 
+in Government of India, and other statutory authorities for various legal and other 
+compliances. 
+3) Preparation of various MIS Reports on daily, weekly, monthly basis 
+4) Process of verification and vetting of Delivery, Installation, commissioning, UAT and 
+FAT of the various Project components 
+5) Electronic verification of Installation, commissioning for UAT and FAT of the various 
+Project components 
+6) Conceptualize, design and build the project monitoring unit 
+7) Organizing and participation in roadshows, workshops conferences etc., to sale and 
+market the Fibre grid network for monetization 
+8) Assist in defining deliverables and scope of work for technical overseeing agency, 
+third party auditor etc. 
+9) Assist TENDERER to recruit and on-boarding of the CEO/CTO and core Team 
+members of the SPV. 
+10) Preparation of EoI/RFPs/RFQs, as may be required for the monetization, service 
+provisioning and implementation of the project during the contract tenure 
+11) Assist the TENDERER on the technical aspects of the implementation of project 
+12) Preparation of detailed project Road MAP with defining key milestone during the 
+project tenure. 
+13) Preparation of documentation and quarterly success stories relating to project 
+progress,milestones and utilization. 
+14) Business Communication with different Stake Holders. 
+15) Management, supervision, and providing technical advice on telecommunications 
+systems. 
+16) Receive feedback, identify user needs and requirements, and mobilize existing 
+technology to meet their criteria. 
+17) Documentation of plans, inquiries, activities, and specifications as well as reporting on 
+
+
+ 
+ 
+12 
+ 
+ 
+them 
+18) Programming functions, designing networks and systems and allocating resources as 
+required 
+19) Manage the installation of network infrastructure equipment including switches, 
+routers, wireless, and security appliances at client sites 
+20) Monitor and test systems and peripherals, and troubleshoot problems 
+21) Evaluate system performance levels and improve skills as needed 
+22) Supervision and coordination of telecommunications activities 
+23) Purchase of electronic equipment and preparation of budget justifications 
+24) Expense management for ongoing telecom expenses 
+25) Cooperation with the management to further develop the staff and improve their skill 
+ 
+ 
+
+
+ 
+ 
+13 
+ 
+ 
+ 
+1. Sr. Consultant (Infra)/Team Leader/Technical expert - 1 resource  
+- 
+Minimum Education Qualification/certification 
+o BE/B.Tech (EC/IT/Telecom Engineer or equivalent) with MBA  
+o Some of the applicable certifications include CCIE (Cisco), CCNP 
+(Cisco), 
+JNCIE- 
+ENT 
+(Juniper), 
+Network+(CompTIA) 
+and 
+WCNA(Wireshark). 
+- 
+Minimum Experience and Skill Level requirement 
+o Total Experience: Minimum 15Years 
+o Relevant Experience: Minimum 10+ Years of Experience in Network 
+Consulting and worked as a network architect, system administrator, 
+security specialist or a related work specialist in the Telecom Industry. 
+o Microsoft, Cisco, or CompTIA Network certification preferred. 
+o Extensive knowledge of network technologies and architecture. 
+o In-depth knowledge of network security. 
+o Strong leadership, communication, and collaboration skills. 
+o Advanced analytical and problem-solving Superb organizational and time 
+management skills. 
+o Willingness to travel to client locations. 
+o Availability to provide network support outside of business hours. 
+o Experience in Strategy, planning, designing, network monitoring, 
+delivery, and operation handling of enterprise clients & handling of 
+cluster-level L2 and L3 network 
+o Networking with focus in Telco, Enterprise and Datacentre technologies. 
+o Strong practical knowledge of TCP/IP, routing and switching protocols 
+such such as GPON, Routing, Switching, Security, SDN, SD-WAN, IP-
+MPLS. 
+- 
+Job/Role/Responsibility 
+o Survey, planning and budget for OFC connectivity to different operators 
+with minimum expenditure and in line with the company’s economy 
+policy.  
+o Knowledge of approaches, tools, techniques for recognizing, anticipating, 
+and resolving organizational, operational or process problems; ability to 
+apply this knowledge appropriately to diverse situations. 
+o Perform an effective analysis & determine the root cause of 
+organizational problems, infrastructure issues and create alternative 
+solutions that resolve the problems in the best interest of the Organization. 
+o Analysis of network performance statistical report, conduct a risk 
+assessment/disaster assessment of current network infrastructure and 
+recommends solutions to help mitigate such risks.  
+o Provide consulting on the short-term and long-term project requirements 
+and assess performance on a periodic basis to ensure the sustainability of 
+
+
+ 
+ 
+14 
+ 
+ 
+Government initiatives. 
+o Manage vendors in the implementation of core and access transport 
+network, fiber network. 
+o Manage vendor for timely PM activities to avoid network outages. 
+o Maintain IT infrastructure documentation 
+o Analyze and coordinate network documentation with account managers 
+o Propose and implement the latest technology for increased network 
+productivity. 
+o Interactions with clients on various projects/engagements. 
+o Analysis of the project progress and built issue- based plans for better 
+implementation of the project 
+o Tracking the Project Progress through daily reports, discussion with 
+various track owners within the PMU and with other stakeholders, 
+Providing technical advice and expert opinion on the telecom concepts for 
+optimizing the network design. 
+o Strategic Decision Making, Provide guidance to project teams on long-
+term Project feasibility and sustainability of State Government initiatives. 
+ 
+ 
+2. Sr. Consultant (Commercial operation) – 1 resource  
+ 
+- 
+Minimum Education Qualification/certification 
+o BE/B.Tech (EC/IT/Telecom Engineer or equivalent)) with MBA in 
+Marketing 
+- 
+Minimum Experience and Skill Level requirement 
+o Total Experience: Minimum 12Years  
+o Relevant Experience: 7 years 
+o Experience with all telecommunication s systems, including peripheral 
+devices (e.g. computer networks, fiber optics, on-site controls, data 
+modems,connections, etc.) 
+o Adequate interpersonal and organizational. Skills. 
+o Project management and problem-solving skills. 
+o Understanding various such initiatives by other Government in India. 
+o Ability to deal with a diverse set of people. 
+o Excellent written and oral communication. 
+o Require a high standard of commercial acumen and the ability to 
+demonstrate a strategic perspective, designing modifications and influence 
+challenging stakeholders. 
+o Ability to demonstrate operational intensity and cross function 
+collaboration skills to ensure timely response 
+o Good understanding of typical sales process, Creating/Tracking pipeline, 
+account strategies is added advantage. 
+o Understanding of business requirements and know how to map 
+technology. 
+
+
+ 
+ 
+15 
+ 
+ 
+o Experience in working with Cross- functional teams and to be able to work 
+in a growing organization. 
+o Setting goals for the business development team and developing strategies 
+to meet those goals. 
+o Finalizing purchase details of orders and deliveries through GOG 
+Guidelines. 
+o Record of Tracking and reporting key functional metrics to reduce 
+expenses and improve effectiveness. 
+o Performed risk management for supply contracts and agreements. 
+- 
+Job/Role/Responsibility 
+o Budgeting, Planning & Analysis of Billing & Trend Analysis for top 
+management discussion making. 
+o Profitability Analysis & Forecast, Ramp up/down Analysis. 
+o Conceptualizing the requirements and conducting financial feasibility. 
+o Setting goals and developing plans for ISP business, OTT, FTH, Internet, 
+broadband and revenue growth. 
+o Preparing capability decks for customer presentations. 
+o Collaborate with multiple teams from within the organization/customer to 
+arrive at technical and tactical decisions. 
+o Keeping track of all costs and managing budgets. 
+o Monitoring of the Project Schedules/milestone and Revenue realization. 
+o Researching, planning, and implementing new target market initiatives, 
+Framing of Marketing Strategy, Sales etc. 
+o Researching prospective accounts in target markets. 
+o Developing quotes and proposals for prospective clients. 
+o Explore various Revenue sharing model. 
+o Analyze network from a cost, capacity, and forecast perspective, and 
+evaluate new network operations technologies and applications. 
+o Recruitment of Resources, training business development staff. 
+o Conduct market research, develop business strategies, build client 
+relationships, and identify new business opportunities. 
+o Attending meeting, conferences and industry events. 
+o Discover profitable suppliers and initiate business and organization 
+partnerships. 
+o Negotiate with external vendors to secure advantageous terms. 
+o Examine and test existing contracts. 
+o Collaborate with key persons to ensure clarity of the specifications and 
+expectations of the company. 
+o Foresee alterations in the comparative negotiating ability of suppliers and 
+clients. 
+o Control spend and build a culture of long-term saving on procurement 
+costs. 
+o Fixing up of rate and agencies for all frequently procured IT products for 
+
+
+ 
+ 
+16 
+ 
+ 
+various government offices. 
+ 
+ 
+3. Sr. Consultant (Business Development, Tendering and Procurement) – 1 
+resource  
+ 
+- 
+Minimum Education Qualification/certification 
+o BE/B.Tech (EC/IT/Telecom Engineer or equivalent)) with MBA 
+- 
+Minimum Experience and Skill Level requirement 
+o Total Experience: Minimum 12 Years 
+o Relevant Experience: Minimum 7 Years in Telecom Consulting (Bid 
+Process Management 
+o Practical experience with all telecommunications systems, networking 
+technology including peripheral devices (e.g. computer networks, fiber 
+optics, on-site controls, data modems, connections, etc.) 
+o Working knowledge in telecommunications, cable/conduit routing, 
+equipment rack layouts, floor plans, and datacentre projects strongly 
+preferred. 
+o Adequate interpersonal and organizational skills 
+o Project management and problem-solving skills 
+o Team player with customer service orientation. 
+o Ability to provide hands-on technical support. 
+o Ability to demonstrate operational intensity and cross function 
+collaboration skills to ensure timely response. 
+o Excellent interpersonal and communication skills. 
+o Should have an eye for detail in crafting/reviewing the RFP responses and 
+proposals. 
+- 
+Job/Role/Responsibility 
+o Understanding the requirement, research, and analysis of competing 
+technology available in the market, preparation of BOQ, preparation of 
+estimates, preparation of SOW, specifications, SLA and bit document, 
+selection of service provider/system integrator. 
+o Conducting research and brainstorming key points to include in the bid, 
+proposal preparation, scheduling, budgeting, and final implementation. 
+o He should work as MIS coordinator and database manager. 
+o Preparation of DPR/RFP of large scale turnkey IT/Telecom Project. Bid 
+Management and vendor onboarding 
+o Work with multiple stake holders including Practice teams, Account 
+Stakeholders,   Sales teams & Finance teams to build an appropriate 
+solution and pricing. 
+o Provide Bid guidance and co-ordinate to get win themes to Practice 
+Teams/ Solution Design teams / Commercial Teams. 
+o On-time reporting of bid status and escalation of any issues in the bid 
+proceedings.  
+
+
+ 
+ 
+17 
+ 
+ 
+o Proper documentation and closure of bid including upload ofto Utilities 
+presales portal for Bid archival. 
+o End to End Bid Process Management, Preparation of Contract cum SLA 
+Agreement, Business Advisory Services to the TENDERER. 
+o Organization Structure of the SPV, Technology Consultation submitted 
+bid documents 
+ 
+The Resources should be deployed onsite at GFGNL.  
+ 
+The resources should be available as per the GFGNL working day’s office timing. 
+ 
+The maximum permissible number of leave is 24 per year (2 Leaves per Month). 
+ 
+ 
+ The selected agency shall provide and deploy dedicated on site manpower for the 
+duration as defined above for carrying out the work, only those resources who are 
+skilled and experienced in their respective trades and who are competent to 
+execute or manage / supervise the work in a proper and timely manner as per the 
+RFP. 
+ The above resources will be selected by the authority based on a panel provided. 
+If the authority doesn’t select team from panel, a new panel will have to be 
+provided. 
+ The selected agency shall maintain backup personnel and shall promptly provide 
+replacement of every person removed pursuant to this section with an equally 
+competent substitute from the pool of backup personnel. 
+ The Bidder is not allowed to replace those resources whose profile has been 
+submitted at the time of bidding process/Technical Presentation. Further, in the 
+event where the bidder is not able to retain the resources quoted in the bid, then 
+the replacement must be pre-approved. For replacement, for every position, a 
+panel consisting 3 times the number of positions shall be submitted. The GFGNL 
+has a right to reject entire panel and seek substitute panel in the same 3 times 
+proportion. If bidder is planning to replace any resource, he is required to intimate 
+GFGNL at least two months in advance along with panel of likely replacement 
+candidate to choose the substitution from the panel else penalties and pro-rata 
+deduction in the quarterly fees will be made. We encourage the successful bidder 
+to have a preapproved backup of resources for substitution for each of the team 
+member.  
+ In exceptional cases, the tenderer may allow longer period of absence without 
+penalty, provided prior approval is obtained. 
+ During Project tenure, bidder may take a help of its available resources/experts in 
+its organization for various subject matter works like legal vetting, Finance, pricing 
+table preparation etc., without any additional cost to the tenderer, in addition to 
+the minimum onsite resources asked above. 
+ 
+Note:  In case of any conditions/clause specified in RFP is contradicted by 
+conditions/clause stipulated in GeM, then RFP shall override the clauses/conditions 
+mentioned on GeM. For any clarification in details, kindly follow the RFP. 
+ 
+ In case of Work related travel on behalf of the TENDERER, the below mentioned 
+compensation shall be reimbursed on actuals (on submission of bills) as per the 
+below mentioned policy. 
+ 
+Sr. 
+No. 
+Description 
+Location 
+Reimbursement 
+
+
+ 
+ 
+18 
+ 
+ 
+1. 
+Local Travel 
+Gandhinagar,
+Ahmedabad
+No Reimbursement 
+2. 
+Travel within 
+Gujarat 
+Beyond 
+50 Km within 
+Gujarat 
+ Rs. 8 per Km 
+ Daily Allowance/Local 
+travel 
+a.) For Overnight 
+Stay: Rs. 2000 per 
+Day 
+b.) Up to 12 hours stay - Rs.
+700 Per Day 
+3. 
+Travel 
+outside 
+Gujarat 
+Outside Gujarat 
+  Air fare (Economy class) or 
+2nd AC Train fare or AC Volvo
+  Daily Allowance/Local travel
+a.) For Overnight Stay: Rs. 
+3000 per Day 
+b.) Up to 12 hours stay - Rs. 
+700 Per Day 
+ 
+ During RFP preparation, for legal vetting, pricing table preparation etc., and 
+other terms and conditions clauses, the selected agency can, in addition to the 
+onsite resources take support from other experts in its organization. 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+19 
+ 
+ 
+ 
+S/N Eligibility Criteria 
+Attachments 
+1. 
+Bidder should be a Company  registered under 
+Companies Registration act 1956/2013 or Limited 
+Liability Partnership Firm under Limited Liability 
+Partnership Firm Act 2008 and should have 
+presence in India for last 5 years
+Copy of the certificate of registration of 
+firm should be enclosed. 
+1. 
+Bidder should have average annual turnover of 
+Rs. 100 crores during last 3 audited financial years 
+(2019-20, 2020-21, 2021-22) from Consultancy 
+Service. In case bidder  is not able to provide  
+Provisional audited report of FY 2021-22 with CA 
+certificate, turnover of  2018-19, 2019-20, 2020-21  
+will  be accepted. 
+Copy of the last three years audited 
+financial statements Audited Balance 
+Sheet and CA Certificate. 
+For FY 2021-22: In case of non-
+availability of audited annual accounts 
+bidder may submit Provisional audited 
+report with CA certificate. 
+  
+2. 
+The Bidder should have successfully executed, at 
+least 5 projects of consultancy in India for at least 
+3 Years as on date of submission of bid having a 
+value more than 1 Crore.  
+Work Orders / Client Certificates 
+confirming year and area of activity and 
+copy of Certificate of Incorporation. 
+3. The bidder should have more than 100 number of 
+professional on its payroll  
+Certificate from HR  
+4. 
+The Bidder must have one office in Gujarat.  In 
+case, bidders do not have office in Gujarat, bidder 
+should give undertaking to open office in Gujarat 
+within 45 days from the date of empanelment 
+Please attach the copy of any one of the 
+following: Property tax bill / Electricity 
+Bill / Telephone Bill / VAT / GST 
+Registration /Lease agreement. 
+5. 
+Bidder should not be blacklisted/debarred by any 
+Ministry of Government of India or by Government 
+of any State in India or by any central/state 
+Government Body’s/PSUs at the time of bidding. 
+Self- Declaration Certificate/affidavit 
+6. 
+Bidder from a country which shares a land border 
+with India will be eligible to bid in this tender only if 
+they are registered with Competent Authority as 
+per OM No. 6/18/2019-PPD dated 23rd July 2020 
+issued by Department of Expenditure, GoI.
+Self-certification 
+from 
+bidder/Lead 
+Bidder 
+and 
+consortium 
+partner 
+separately 
+7. No Consortium will be allowed.  
+`Self-declaration 
+ 
+Note:  In case of any conditions/clause specified in RFP is contradicted by 
+conditions/clause stipulated in GeM, then RFP shall override the clauses/conditions 
+mentioned on GeM.  
+ 
+The selected PMC cannot bid in EPC tender for implementation of the BharatNet 
+project or to obtain dark Fibre or shared bandwidth or other commercial 
+engagement or as an equipment supplier under the BharatNet Project in the state 
+of Gujarat. 
+ 
+ 
+ 
+
+
+ 
+ 
+20 
+ 
+ 
+ 
+3. 
+BID EVALUATION PROCESS 
+The TENDERER will form a Committee, which will evaluate the proposals submitted by the 
+bidders for a detailed scrutiny. During evaluation of proposals, the TENDERER, may, at its 
+discretion, ask the bidders for clarification of their Proposals. 
+3.1.1. 
+Pre-Qualification evaluation: 
+Bidders who have submitted the valid EMD and other eligibility documents shall be 
+considered for further evaluation. If bidders fail to submit the bid security other 
+eligibility documents as per this RFP document, the Bid shall be out rightly rejected. 
+3.1.2. 
+Technical Bid Evaluation: 
+The technical bids of the bidders who comply with the eligibility criteria mentioned in 
+this RFP will be invited for personal interview  at a date, time and location notified by 
+the TENDERER. The purpose of such presentations would be to allow the bidders to 
+present their Approach & Methodology and the key points in their proposals. 
+S/N 
+Criteria 
+Max. 
+Marks
+1. 
+The Bidder should have full time professionals on its payroll as on bid 
+issuance date.   
+ 
+100 to 250 professionals = 2 marks 
+ 
+251 to 500 Professionals = 3 marks 
+ 
+More than 500 Professionals = 6 marks 
+6 
+2. 
+The 
+Bidder 
+should 
+have 
+demonstrable 
+experience 
+of 
+designing/consultancy/advisory service for at least 5 such projects. 
+ 
+5 Project: 2 marks   
+ 
+6-8 Projects: 4 marks 
+ 
+9-10 Projects: 6 marks 
+6 
+3. 
+The bidders have experience of designing/consultancy/advisory service in 
+large scale telecom sector based network with similar technology like GPON/ 
+DWDM/STM16/STM32  
+ 
+2000 to 5000 = 2 marks  
+ 
+5001 to 7000 = 4 marks 
+ 
+More than 7000 = 6 marks 
+6 
+4. 
+The Bidder should have average turnover of Rs. 100 crores during 
+last 3 audited financial years (2019-20, 2020-21, 2021-22) from 
+Consultancy Service.  
+ 
+Turnover 100 Cr to 250 Cr. : 2 marks   
+ 
+Turnover More than 250 Cr to 500 Cr :3 marks 
+ 
+More than 500 Cr: 5 marks
+5 
+5. 
+The bidder should have office in Gujarat = 2 marks  
+Not office in Gujarat = 0 marks  
+2 
+6. 
+Personnel interview of proposed manpower w.r.t experience and the job 
+responsibility  
+50 
+7. 
+Approach and Methodology (Presentation) of the firm 
+ 
+Understanding of the objectives of the assignment  
+ 
+Plan of execution of the said scope 
+ 
+Likely challenges to be encountered, mitigation proposed, client 
+references, learnings 
+ 
+Strategy for RFP, Contract Management, Project Implementation etc. 
+for Fiber Laying. 
+25 
+
+
+ 
+ 
+21 
+ 
+ 
+Note: Minimum absolute technical score to qualify for commercial evaluation 
+is 60 marks out of total 100 marks.  
+ 
+Final Bid Evaluation: 
+a. 
+Technical Bid Evaluation:  
+The technical score of a bidder ‘Tb’ will be assigned to the bidder and it will be 
+awarded based on the Technical Evaluation Criteria as specified above. 
+TENDERER’s decision in this regard shall be final & binding and no further 
+discussion will be held with the bidders. 
+ 
+Tb: 
+ 
+Absolute Technical Score 
+Tmax:  
+Maximum Technical Score  
+Tn:  
+Normalized technical score of the bidder under Consideration 
+ 
+Normalized technical score (Tn) = Tb/Tmax * 100 
+ 
+b. 
+Financial Bid evaluation: 
+The Financial Bids will be opened, in the presence of Bidders’ representatives 
+who choose to attend the Financial Bid opening on date and time to be 
+communicated to all the technically qualified Bidders. The Bidder’s 
+representatives who are present shall sign a register evidencing their 
+attendance. The name of bidder & bid prices will be announced at the meeting. 
+The financial score of a bidder ‘Fb’ will be assigned to the bidder. ‘Fb’ will be 
+the total financial quote made by the bidder  
+ 
+Fn: normalized financial score for the bidder under consideration 
+Fb: commercial quote for the bidder under consideration 
+Fmin: commercial quote of the lowest evaluated financial proposal 
+ 
+The lowest evaluated Financial Proposal (Fmin) will be given the maximum 
+financial score (Fn) of 100 points. The financial scores (Fn) of the other 
+Financial Proposals will be calculated as per the formula for determining the 
+financial scores given below: 
+ 
+Normalized Financial Score (Fn) = 100 x Fmin / Fb 
+ 
+c. 
+Final Evaluation of Bid 
+Proposals will be ranked according to their combined technical (Tn) and 
+financial (Fn) scores using the weights (T = 0.7 the weight given to the 
+Technical Proposal; P = 0.3 the weight given to the Financial Proposal; T + P 
+= 1). The final evaluation will be based on Final Score which shall be calculated 
+as shown below: 
+ 
+Final Score (S) = Tn x T + Fn x P 
+ 
+The bidder achieving the highest combined technical and financial score will be 
+invited for negotiations for awarding the contract. In case of a tie where two or 
+more bidders achieve the same highest combined technical and financial score, 
+the bidder with the higher normalized technical score will be invited first for 
+negotiations for awarding the contract. 
+ 
+4. 
+AWARD OF CONTRACT 
+4.1.1. Award Criteria: The Criteria for selection will be the bidder achieving the 
+highest combined technical and financial score, will be invited for 
+ 
+Strategy and approach for monetization of the assets. 
+Total marks 
+100 
+
+
+ 
+ 
+22 
+ 
+ 
+negotiations under each item/head offered by Bidder. 
+4.1.2. THE TENDERER right to vary requirements at time of award: GoG 
+reserves the right at the time of award to increase or decrease quantity 
+for the requirements originally specified in the document without any 
+change in Bid rate or other terms and conditions. 
+4.1.3. In case, if lowest bidder does not accept the award of contract or found 
+to be involved in corrupt and/or fraudulent practices, the next lowest 
+bidder will be awarded the contract. In such scenario, the lowest bidder 
+has to borne the difference between lowest prices and next lowest 
+prices. 
+ 
+Note:  In case of any conditions/clause specified in RFP is contradicted by 
+conditions/clause stipulated in GeM, then RFP shall override the clauses/conditions 
+mentioned on GeM. For any clarification in details, kindly follow the RFP. 
+ 
+ 
+ 
+
+
+ 
+ 
+23 
+ 
+ 
+ 
+1. 
+Activity Timelines & Penalty 
+S/N 
+Activity 
+Target 
+Penalty for Delay 
+8. 
+T= Signing of 
+Agreement 
+Within 21 calendar 
+days from issuance 
+of LOI / Award of 
+Contract 
+Delay Beyond 4 weeks or successful 
+bidder not signing the contract agreement, 
+TENDERER may terminate the contract 
+and Forfeit the PBG. 
+9. 
+Deployment of 
+Resources 
+T1 = T +  3 week 
+‐ 
+Rs 30,000/week delay or part thereof  
+‐ 
+In case of failure in deployment of the 
+proposed Manpower for 45 days from 
+date of Work Order, TENDERER may 
+terminate the contract and forfeit the 
+PBG. 
+  
+2. 
+Payment:  
+ 
+i.) 
+The payments to the successful bidder will be made Quarterly on acceptance of 
+the invoice by the TENDERER or its designated agency. 
+ii.) 
+The successful bidder shall submit original copies of invoices along with the 
+necessary supporting documents as may be required by the TENDERER for 
+processing of invoices. Invoice should be raised in English language only. 
+iii.) 
+The invoice would be processed for release of payment within 45 days after due 
+verification of the invoice and other supporting documents by the TENDERER or 
+its designated agency. 
+iv.) 
+Payment shall be made in Indian Rupees. While making payment, necessary TDS, 
+income tax and any other applicable tax, if any, shall be deducted.  
+ 
+3. 
+Manpower Availability 
+ 
+Monthly invoice payment will be evaluated based on actual available resource 
+in the month using following formulae. 
+ 
+Monthly Payment = Monthly Payment Value x Actual Man-days available in the 
+Month/Total Man-days in the Month 
+ 
+ Total Man days will be calculated as per the Min. availability. 
+ Monthly Payment value to be derived from the quoted rates 
+Over and above following penalty will also be levied 
+a. Non-availability of resource: Rs. 10000/ Person per Day  
+ 
+ Penalty for Non-performance in required Service Levels/ Standards 
+Any failure to deliver the required services due to reasons solely 
+attributable to the Bidder, such as non-adhering to timelines, violation 
+State/Central Guidelines, shall be bound to the penalty/decision, if any, 
+with a maximum cap of Rs. 50,000/- per such incidence. 
+ 
+
+
+ 
+ 
+24 
+ 
+ 
+ Non – Availability of a resource for 07 Working days without any prior 
+notice and without any suitable arrangement in 02 (Two) consecutive 
+quarters may lead to termination of Contract. 
+ 
+ Any delay/ non-performance, not attributable to the selected bidder, shall 
+not be considered while computing adherence to service levels but the 
+selected bidder shall submit sufficient records/ documents that the delay/ 
+non-performance is not on bidder’s part. 
+ 
+ Note:  The penalties, if any, will be recovered against the payment 
+invoice submitted by the selected agency. 
+ 
+4. 
+Replacement of resources:  
+ 
+In order to maintain continuity, resources initially deployed are not to be 
+replaced during the tenure of the contract. In case resources are replaced with 
+new resources, penalties will apply. 
+ 1st replacement – Rs. 50,000 
+ 2nd – 3rd replacement – Rs. 1,00,000 per replacement 
+ 4th – 6th replacement – Rs. 2,00,000 per replacement 
+
+
+ 
+ 
+25 
+ 
+ 
+ 
+Sr. 
+No 
+Description 
+No. of 
+Reso
+urces 
+Consulting 
+Charges 
+per month,
+With GST 
+(in Rs.) 
+Duration of 
+contract  
+(in months) 
+Total 
+charges for 
+36 months 
+(Rs.) 
+ 
+ 
+A 
+B 
+C 
+D = A*B*C 
+1 
+Sr. Consultant  
+(Infra)/Team Leader/ 
+Technical expert 
+1 
+ 
+36 
+ 
+2 
+Sr. Consultant  
+(Commercial operation) 
+1 
+ 
+36 
+ 
+3 
+Sr. Consultant 
+(Business Development, 
+Tendering and 
+Procurement) 
+1 
+ 
+36 
+ 
+Total Contract value (in Rs.)   
+ 
+Note:  
+ 
+ Initial contract period will be for 36 months. However, the contract will be 
+extended for the period of another 24 months, subject to performance of the 
+consultant.  
+ Further, the bidder is required to provide the additional resources at the 
+finalized rates of the particular profile as asked in the bid, if required.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+26 
+ 
+ 
+ 
+Undertaking as per guidelines published by Ministry of Finance, Dept. of Expenditure, 
+Public Procurement division dated 23.07.2020 
+ 
+ 
+Mr._____undersigned authorized representative of M/s <<Name of Bidder>> has read clause 
+regarding restriction on procurement from a bidder of a country which shares a land border 
+with India; I certify that <<Name of Bidder>> is not from such a country or, if from such a 
+country, has been registered with the Competent Authority and will not sub-contract any work 
+to a contractor from such countries unless such contractor is registered with the Competent 
+Authority. I hereby certify that <<Name of Bidder>> fulfils all requirements in this regard and 
+eligible to be considered. [Where applicable, evidence of valid registration by Competent 
+Authority shall be attached.] 
+ 
+If given information is found to be false, this would be ground for immediate termination and 
+further legal action in accordance with law.  
+ 
+(Signature) 
+Authorized representative of <<Name of Bidder>> 
+ 
+ 
+ 
+ 
+ 
+Note:  In case of any conditions/clause specified in RFP is contradicted by 
+conditions/clause stipulated in GeM, then RFP shall override the clauses/conditions 
+mentioned on GeM. For any clarification in details, kindly follow the RFP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+27 
+ 
+ 
+ 
+Additional Terms and Condition: 
+ 
+Confidentiality: It is the consultant’s responsibility  to ensure any information it possess rela
+ting to  GFGNL that is not available in the public domain be  treated with the utmost confiden
+tial at discretion.  Where the consultant  feels  the  need  to  disclose  confidential information
+ to a third party, it is their  responsibility  to  ensure  that  it  does  so  with  the  explicit permi
+ssion of GFGNL.  
+ 
+Intellectual  Property  Rights  :Intellectual  Property  Rights  for  any  new  development   
+made  as  part  of  this  consultancy  service shall lie with GFGNL.   Consultant will  retain th
+e ownership  
+of  
+its  
+pre-
+existing intellectual property rights (including any  enhancement  or  modification  thereto)  e
+ven  if  such  IPRs  are  used  for  creating  deliverables,  are  incorporated in the deliverable
+s, etc.   If  a  third  party  claims  that  a  product/  services  delivered  by  the  selected  cons
+ultant  to  GFGNL  infringes  that  party’s  patent  or  copyright,  the  selected  consultant  sh
+all  
+defend  
+GFGNL  
+against  
+that  
+claim  
+at  
+his  
+expense  
+and  
+pay  
+all 
+costs,  damages, and attorney’s  fees  that a court  finally  awards or that are included in a s
+ettlement. GFGNL  notifies  the  selected  consultant  in writing  of  the  claim.  
+ 
+Conflict of Interest, disclosure of Interests and Links: 
+Selected  Consultant  is  excepted  to  exercise  due  diligence to make the Government 
+promptly aware about  any possible scenario of conflict of interest. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+28 
+ 
+ 
+ 
+ 
+CONTRACT FORM 
+ 
+THIS  AGREEMENT  made  on  the  __________  day  of  ____________________,  2023  
+____  Between  _______________________ (Name of purchaser) of __________________
+_______________ (Country of Purchaser) 
+hereinafter “the Purchaser” of the one part and ____________________________________
+ (Name of Supplier) of  ___________________________ (City and Country of Supplier) her
+einafter called “the Supplier” of the other part:  WHEREAS  the  Purchaser  is  desirous  that  
+certain  Goods  and  ancillary  services  viz.,  _____________________________________
+_____________________________________________  (Brief  Description of Goods and S
+ervices) and has accepted a bid by the Supplier for the supply of those goods and services  i
+n  the  sum  of  __________________________________________________ (Contract  Pri
+ce  in Words  and  Figures)  hereinafter called “the Contract Price in Words and Figures” her
+einafter called “the Contract Price.”  NOW THIS AGREEMENT WITHNESSETH AS FOLLO
+WS:   
+1.In  this  Agreement  words  and  expressions  shall  have  the  same  meanings  as  are  re
+spectively  assigned  to  them in the Conditions of Contract referred to.   
+2.The  following documents shall be deemed to form and be read and construed as part of th
+is Agreement,  viz. :   
+2.1 the Bid Form and the Price Schedule submitted by the Bidder;   
+2.2 terms and conditions of the bid  
+2.3the Purchaser’s Notification of Award – GeM Contract number __________ dated 
+____   
+3.In consideration of the payments to be made by the Purchaser to the Supplier as hereinaft
+er mentioned,  the  Supplier  hereby  convenants  with  the  Purchaser  to  provide  the  good
+s  and  services  and  to  remedy  defects therein in conformity in all respects with the provisi
+ons of the Contract.  
+4.The  Purchaser  hereby  covenants  to  pay  the  Supplier  in  consideration  of  the  provisi
+on  of  the  goods  and  services  and  the  remedying  of  defects  therein,  the  Contract  Pri
+ce  or  such  other  sum  as  may  become  payable under the provisions of the Contract at th
+e times and in the manner prescribed by the Contract.   
+5.Particulars of the goods and services which shall be supplied / provided by the Supplier ar
+e as enlisted in  the enclosed annexure:   
+TOTAL VALUE: _____________________ including GST 
+DELIVERY SCHEDULE: Attached herewith    
+IN WITNESS  whereof  the  parties  hereto  have  caused  this  Agreement  to  be  executed  
+in  accordance  with  their  respective laws the day and year first above written. 
+Signed, Sealed and Delivered by theSaid __________________________________ (For th
+e Purchaser) 
+in the presence of ________________________   
+Signed, Sealed and Delivered by the   
+said __________________________________ (For the Supplier) 
+in the presence of _______________________ 
+ 
+ 

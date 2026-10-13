@@ -1,0 +1,724 @@
+Sr. No.
+RFP
+Reference
+(Clause & Page No.)
+Content of RFP Requiring Clarification
+Points of Clarification / Query
+Response to the vendor
+1
+Table-1 pt 3, Page no 
+24
+Experience
+-Bidder
+should
+have
+had
+the
+experience of any kind of PVC Cards with security
+features of work orders equal to: -
+3 completed work orders of Rs 1 crore each or
+more
+OR
+2 completed work orders of Rs. 2 crores each or
+more
+OR
+1 completed work order of Rs. 3 crore during last
+4 years ending 31.03.2026
+We respectfully request to revise the experience criterion as follows:
+The bidder should have successfully completed experience of PVC Card 
+projects of the following value during the last 4 years ending 31.03.2026:
+3 completed projects of ₹20 crores each or more; OR
+2 completed projects of ₹25 crores each or more; OR
+1 completed project of ₹50 crores or more.
+Justification:
+Considering the complexity, and critical nature of the present project, it is 
+requested that the eligibility criteria be aligned to ensure participation of 
+bidders having substantial experience in executing large-scale PVC card 
+projects. The proposed revision will ensure that only technically 
+competent and financially capable bidders with proven expertise in high-
+value PVC card projects participate, thereby facilitating successful and 
+timely execution of the contract.
+Suggestion not accepted, as per bid
+2
+Table-1 pt 5, Page no 
+25
+Financial Turnover: Annual turnover of the Bidder
+during the preceding 3 financial years should be
+at least INR 7 crores from the business of printing
+PVC cards with security features for Government,
+PSU, Banks, Fls, etc. in India and/or abroad
+We respectfully request to revise the  clause as follows:
+Financial Turnover: Annual turnover of the Bidder during the preceding 3 
+financial years should be at least INR 50 crores from the business of 
+printing PVC cards with security features for Government, PSUs, Banks, 
+etc., in India and/or abroad.
+Justification:
+Considering the scale, volume, and critical nature of the project, it is 
+requested that the minimum turnover requirement be enhanced to INR 50 
+crores. This will ensure participation of financially strong, established, and 
+experienced bidders with proven capabilities in executing large-scale PVC 
+card projects. The revised criterion will help identify bidders with 
+adequate financial capacity and operational resources, thereby supporting 
+successful and timely project execution.
+Please refere/see the revised bid document
+3
+Table-1 pt 11,, Page 
+no 24
+The bidder must have successfully completed PVC
+card with security features printing projects within
+India
+during
+the
+last
+5
+years
+awarded
+by
+Government / PSU banks
+We respectfully request to revise the  clause as follows:
+The bidder should have successfully completed PVC card with security 
+features printing projects of aggregate value of at least ₹1 crore within 
+India during the last 3 years, awarded by Government, PSUs, or Banks.
+Justification:
+It is requested that the experience criterion be linked to the value of 
+executed projects rather than only the time period. Specifying a minimum 
+project value of ₹1 crore executed within the last 3 years will ensure that 
+participating bidders possess recent and relevant experience in executing 
+projects of comparable scale while maintaining healthy competition among 
+qualified and capable bidders.
+Suggestion not accepted, as per bid
+4
+Table-1 pt 11,, Page 
+no 24
+The bidder must have successfully completed PVC
+card with security features printing projects within
+India
+during
+the
+last
+5
+years
+awarded
+by
+Government / PSU banks
+We respectfully request to revise the  clause as follows:
+The bidder should have successfully executed PVC card projects with
+security features in Gujarat State having a minimum cumulative
+value of ₹1 crore, awarded by Government Departments, PSUs, Banks, or
+other Government organizations. Documentary evidence in support of the
+executed projects should be submitted along with the bid.
+Justification:
+As the project requires continuous coordination, logistics, field support,
+and timely execution within Gujarat, it is essential that the bidder has an
+proven execution experience in the state. PVC card project experience of
+at least ₹1 crore in Gujarat will ensure that only experienced and capable
+bidders with adequate local infrastructure and understanding of state-
+specific requirements participate in the bidding process.
+Suggestion not accepted, as per bid
+5
+Bid Data Sheet(BDS)
+5.FOR
+Destination,
+Post
+office
+of
+Ahemadabad,delivery of article should be reached
+at the destination within 10 days of supply of
+data.
+We respectfully request the Tender Authority to kindly clarify the following 
+clause.
+As per our understanding, all EPIC Cards along with the Welcome Kits are 
+required to be delivered at a single centralized location of the Post Office 
+in Ahmedabad.
+Kindly confirm whether our understanding is correct.
+The delivery destination  has already been 
+specified in the RFP. As  per NIB Point No. 5 
+(Page No. 12) and Section-I, Clause 4(b) 
+and Clause 4(l) of the RFP, the successful 
+bidder shall supply the personalised PVC 
+EPICs, Assembly  Constituency-wise, to 
+the designated Post Office at Ahmedabad 
+for further dispatch. Further, at the end of 
+Clause 4(l) clearly  stipulates that the 
+vendor shall accommodate and 
+comply with any change in the delivery point as may be
+directed by the Procuring Entity in 
+future, if the need arises. 
+ 
+6
+Bid submission end 
+date
+Bid submission end date
+Kindly extend the bid submission date at least 7 days from the date of 
+publishing pre-bid queries responses
+Extended End date is 17.08.2026
+7
+Section-II
+1). Pre - qualification 
+criteria
+Table-1
+S.No 2,Page 24
+Category of Bidder: Bidder should be "PVC Card
+Manufacturer
+and
+Security
+Printer
+and
+should
+have a capacity for personalization
+Visa Card or Master Card or RuPay or RBI or IBA
+or PVC Aadhaar Card, having ISO 27001 and ISO
+9001 certificates.
+Category of Bidder: Bidder should be "PVC Card Manufacturer and 
+Security Printer and should have a capacity for personalization
+Visa Card or Master Card or RuPay or RBI or IBA or PVC Aadhaar Card or 
+EPIC Card, having ISO 27001 and ISO 9001 certificates.
+Justification: The scope of work under this RFP primarily relates to the 
+manufacturing, personalization, printing and supply of secure EPIC PVC 
+Cards. EPIC Cards are Government-issued secure identity cards 
+incorporating security features, variable data printing and personalization, 
+similar to PVC Aadhaar Cards and other secure payment/identity cards. 
+Therefore, prior experience in manufacturing and personalizing EPIC Cards 
+is equally relevant and demonstrates the bidder's technical capability to 
+successfully execute the present assignment. Hence, EPIC Card may also 
+be included in the eligible category. This amendment will encourage wider 
+competition without compromising the quality, security or project 
+objectives.
+Please refere/see the revised bid document
+ Tender/Bid for Selection of Agency for PRINT SERVICE PROVIDERS for Printing & Personalizing PVC Electors Photo Identity Cards (EPIC)” based on Open Competitive Bidding Process on behalf of 
+Office of the Chief Electoral Officer, General Administration Department (Election Division), Gandhinagar to The Office of the Chief Electoral Officer, Gandhinagar on nProcure (SWT13072026.)
+ Pre-bid queries response
+
+
+8
+Section-II
+1). Pre - qualification 
+criteria
+Table-1
+S.No 5,Page 25
+Financial Turnover:
+Annual
+turnover
+of
+the
+Bidder
+during
+the
+preceding 3 financial years should be at least INR
+7 crores from the business of printing PVC cards
+with
+security
+features
+for
+Government,
+PSU,
+Banks, Fls, etc. in India and/or abroad
+Financial Turnover:
+Average Annual turnover of the Bidder during the preceding 3 financial 
+years should be at least INR 7 crores from the business of printing PVC 
+cards with security features for Government, PSU, Banks, Fls, etc. in India 
+and/or abroad
+Justification: Financial capacity is generally assessed on the basis of 
+Average Annual Turnover over the last three financial years, which 
+provides a more balanced assessment of the bidder's financial strength by 
+considering normal business fluctuations. This approach is widely adopted 
+in Government procurements and promotes fair competition without 
+diluting the financial eligibility criteria.
+Please refere/see the revised bid document
+9
+Page no -24- A- 
+Criteria for Pre 
+qualification- Table-1- 
+Sr no 2
+Category of bidder - Bidder should be PVC card
+manufacturer
+and
+security
+printer
+and
+should
+have a capacity of personalization 
+We respectfully submit that this tender is for the printing and 
+personalization of PVC Elector Photo Identity Cards (EPICs). Companies 
+like ours have extensive experience in executing large-scale smart card 
+printing and personalization projects successfully.
+The supply of PVC cards can be sourced from any qualified manufacturer, 
+while the core scope of this tender is the printing and personalization 
+services. Therefore, restricting participation only to manufacturers 
+unnecessarily excludes experienced service providers who possess the 
+required technical expertise, infrastructure, and proven track record for 
+executing such projects.
+This eligibility condition limits fair competition and prevents qualified and 
+experienced bidders from participating, despite their demonstrated 
+capability in delivering similar assignments.
+We therefore request you to kindly review and remove the clause 
+restricting participation only to manufacturers, and allow experienced 
+smart card printing and personalization service providers to participate in 
+the bidding process
+Suggestion not accepted. As per RFP
+10
+ Page 97-Annexure A
+Specification of Card- card type-All raw card will
+be
+printed
+on
+a
+PVC
+sheet
+with
+a
+coloured
+photograph ,material poly vinly cloride , glossy
+mat
+finishing
+(PVC)+Polythene
+Terephthalate
+Glycol(PETG)
+What  is the percentage of PVC and PETG in raw card -like 60/40 , 70/30 
+etc. please clarify 
+As per RFP
+11
+Section III, 6(i), Page
+no 30
+"If the result of testing any one of the sample(s)
+attached does not conform to the specifications
+mentioned
+in
+the
+bid
+and
+ECI
+standards/guidelines, then the corresponding bid
+shall be rejected."
+Suggestion: Given standard manufacturing tolerances, we request the
+authority to allow a minor acceptance quality limit (AQL) rather than
+outright rejection for a single sample failure, or allow the testing of a
+secondary batch of samples before
+disqualification.
+Suggestion not accepted, as per bid
+12
+Section
+I,
+4©,
+Page
+no 21
+Supply Schedule: "Supply of Personalized Colour
+PVC EPICs by the vendor: 10 days"
+Clarification: Considering the high annual volume of 40 Lakh cards, if a
+massive data dump is provided at once, a 10-day turnaround may be a
+bottleneck. Will the data be provided in capped, manageable daily/weekly
+batches to ensure the 10-day SLA can be realistically met?
+Suggestion not accepted, as per bid
+13
+Section III, 33(1)(a)
+"The penalty shall be assessed and levied on each
+instance of non-compliance of the mentioned tests
+on a quarterly basis at the rate of 0.1% of the
+cost of the card (excluding taxes) for the total
+number of cards in the quarter from which the
+sample has been picked."
+Suggestion: Levying a penalty on the entire quarterly volume for a single
+sample failure is highly punitive. We request that the penalty be restricted
+only to the specific lot/batch from which the failed sample was drawn
+As per RFP
+14
+Section IV, 20
+"SP
+shall
+also
+be
+responsible
+to
+get
+web
+application
+&
+all device
+used
+in
+EPIC printing
+service
+security
+audited
+by
+STQC or CDAC or
+MeitY Empanelled application security Auditors at
+the cost of the SP and submit the Security Audit
+Clearance Certificate..."
+Clarification: Please confirm if this Security Audit Clearance Certificate
+can be submitted within a reasonable timeframe (e.g., 30 to 45 days)
+after the issuance of the Letter of Intent (LOI) / Work Order, rather than
+at the time of bid submission.
+Please refere/see the revised bid document
+15
+Section IV, 14(a)
+"100%
+Payment shall be made as per details
+mentioned
+below
+by
+the
+CEO
+Office
+within
+a
+month's
+time
+after
+receipt
+of
+the
+delivery
+acknowledgements and positive testing report by
+the respective DEOs..."
+Clarification/Suggestion:
+Since
+payment
+is
+dependent
+on
+the
+DEO's
+positive testing report, any delay at the DEO's end will consequently delay
+our payments. We request the authority to establish a defined timeline
+(e.g., 7 to 10 days) for the DEO to complete the testing. If the testing
+report is not provided within this timeframe, the material should be
+considered "Deemed Accepted," and the payment process should be
+initiated.
+As per RFP
+16
+Section
+IV,
+25(b)
+&
+Section
+II,
+Work
+Distribution
+"The amount of performance security/PBG shall be 
+about 5% of total estimated procurement cost..."
+And "Work Distribution: L1 bidders will get 40%
+work... L2 & L3 bidders will get 30% work".
+Clarification: Given that the total work volume will be distributed among
+three bidders (40% to L1, and 30% each to L2 and L3), please clarify
+whether the 5% Performance Bank Guarantee (PBG) is required on the
+total estimated procurement cost of the project or if it will be calculated
+proportionally based on the actual work volume allocated to
+the respective bidder.
+Please refere/see the revised bid document
+17
+Section I, 4(b)
+"The
+vendor
+is
+responsible
+for
+supplying
+the
+personalized PVC EPICs AC wise to the Post office
+at Ahmedabad, which may be sent by Speed post
+through the BNPL account formed between CEO
+and Department of Posts."
+Clarification: Please confirm that the vendor's responsibility is strictly
+limited to delivering and handing over the EPIC kits to the Ahmedabad
+Post Office, and that the actual dispatch/Speed Post charges will be
+entirely borne by the CEO Office through its BNPL account.
+As per RFP
+18
+Section IV, 15(II)
+"Delivery
+of
+Card/Envelope/
+Welcome
+Kit...
+Penalty: Per day Rs
+0.20 penalty for each card after 07 days... Rs
+0.40... after 15 days... Rs 0.60... after 25 days"
+Clarification/Suggestion: Please clarify if the delayed delivery penalty will
+be levied only on the specific quantity of cards that are delivered late, or
+on the total card quantity of the entire Work Order. We request that the
+penalty be levied strictly on the delayed portion of the supply,
+rather than the entire Work Order quantity.
+As per RFP
+19
+Section
+I,
+Detailed
+Scope of Work (Point
+3
+&
+Note)
+AND
+Specifications
+of
+Envelope
+Page
+17:
+"Envelopes...
+on
+70
+GSM
+Maplitho
+paper...
+voter's
+name,
+relative
+name
+and
+address... will have to be printed on white self-
+adhesive sticker paper and affixed on the space
+provided
+on
+the
+envelope."<br><br>Page
+78:
+"Secured, protected window type for address &
+tracking
+barcode
+visibility.
+Window
+Film
+–
+25
+microns... 100 GSM Maplitho paper"
+Clarification:
+There
+is
+a
+direct
+contradiction
+between
+the
+envelope
+specifications on Page 17 and Page
+78. Page 17 requires a 70 GSM plain envelope with a printed address
+sticker affixed to it, while Page 78 mandates a 100 GSM envelope with a
+25-micron
+transparent
+window
+film.
+Please
+clarify
+the
+exact
+final
+specification (70 GSM vs. 100 GSM) and the required type (affixed printed
+sticker vs. 25-micron transparent window film) for the EPIC kit
+envelope.
+As per RFP
+20
+Section
+I,
+Detailed
+Scope of Work (Note)
+&
+Specifications
+of
+Envelope
+Page
+17: "The voter's name, name
+of voter's
+relative and address with Pin Code and Assembly
+Constituency Number will have to be printed on
+white self-adhesive sticker paper and affixed on
+the space provided on the envelope".
+<br><br>Page 78: "Secured, protected window
+type for address & tracking barcode visibility".
+Clarification: There is a direct contradiction regarding how the address
+should be displayed. A "window envelope" typically requires the address
+and barcode to be printed directly on the inserted Welcome Letter so it is
+visible through the transparent window film. However, the scope of work
+instructs the vendor to print the address on a sticker and affix it to the
+outside of the envelope. Please clarify the exact operational requirement:
+Should
+the
+vendor
+print
+the
+variable
+address
+data
+directly
+on
+the
+Welcome Letter to be visible through the window, OR should the vendor
+print it on a sticker to affix on the envelope (which
+would negate the need for a window)?
+As per RFP
+
+
+21
+Section I, 4(a) & 4©
+Clause 4(a): "...CEO Gujarat is going to... supply
+voters' data in PDF format through secure
+FTP."<br><br>Clause
+4(c):
+"The
+DEO
+will
+be
+responsible for providing only those EPIC data of
+electors which are required to personalize the PVC
+EPICs..."
+Clarification: There is a direct contradiction regarding the source of the
+data for printing. Clause 4(a) states that CEO Gujarat will provide the
+data
+centrally
+via
+secure
+FTP,
+whereas
+Clause
+4(c)
+states
+that
+the
+respective DEOs will provide the data. Please clarify the exact mechanism: 
+Will the vendor receive the elector data centrally from the
+CEO office, or individually from the respective DEO offices?
+Either CEO or DEO office or Authority assigned by CEO
+assigned the data.
+22
+Section
+I,
+4(a)
+&
+Section I, 3 (Sorting
+of Data)
+Clause 4(a): "...CEO Gujarat is going to... supply
+voters'
+data
+in
+PDF
+format
+through
+secure
+FTP."<br><br>Sorting
+of
+Data:
+"The
+Service
+Provider is required
+to sort the
+received data
+Pincode-wise."
+Clarification: The tender mentions that data will be provided in PDF format
+and needs to be sorted Pincode-wise. Please clarify the exact file structure
+and the expected number of files per batch. Will the data be provided as
+a single consolidated PDF per Assembly Constituency (AC), separate PDFs
+for each Pincode, or individual PDF files for each elector? Clarification is
+required to design the automated data sorting and extraction software
+accurately.
+In point Section-I, pt 3 of the RFP For: SORTING OF
+DATA: "The Service
+Provider is required
+to sort the
+received data Pincode wise. This is to ensure grouping
+toghether of all the card meant for delivery to one PIN
+Code."
+The
+above
+clause
+stands
+deleted.Please
+refere/see the revised bid document
+23
+Destination
+The bidder must
+deliver the
+personalized
+PVC
+EPICs, welcome letter, voter guide, pledge, and
+envelope kit to the Post Office at Ahmedabad
+within the stipulated period.
+Kindly confirm the minimum order quantity (MOQ) to be dispatched per
+lot to the Central Location at Post Office at Ahmedabad (FOR Destination).
+No Minimum Order Quantity (MOQ) is prescribed under
+the RFP, as the successful bidder is required to print and
+supply personalized PVC EPICs Assembly Constituency-
+wise based on the data provided by the Procuring Entity
+at regular intervals
+24
+Sec.-I,
+1.
+Scope
+of
+Work
+Detailed Scope of work:
+3.
+We respectfully
+request the
+Department to
+consider the use of a window envelope (window
+size: 60 mm × 100 mm) for dispatch of the EPIC
+KIT. This will allow the voter's address, barcode,
+and
+Return
+To
+Origin
+address
+printed
+on
+the
+Welcome Letter to be clearly visible through the
+window of the envelope, eliminating the additional
+process of printing and pasting separate address
+stickers.
+This
+approach
+simplifies
+operations,
+reduces
+handling
+time,
+and
+is
+an
+established
+practice already adopted by several States for
+EPIC dispatch and widely used by the banking
+sector.
+We respectfully request the Department to consider the use of a window
+envelope (window size: 60 mm × 100 mm) for dispatch of the EPIC KIT.
+This will allow the voter's address, barcode, and Return To Origin address
+printed on the Welcome Letter to be clearly visible through the window of
+the envelope, eliminating the additional process of printing and pasting
+separate address stickers. This approach simplifies operations, reduces
+handling time, and is an established practice already adopted by several
+States for EPIC dispatch and widely used by the banking sector.
+As per RFP
+25
+Detailed
+Scope
+of
+Work
+Delivery to destination within 10 days from supply
+of data
+We request the Department to kindly extend the delivery timeline to
+15–20 days from the date of receipt of the data.
+As per RFP
+26
+Card Volume
+Year 2025 - 2026  :  40 LAKHS
+As per our understanding, the floated RFP is for a 3-year contract period,
+with
+an
+estimated
+annual
+quantity
+of
+approximately
+40
+lakh
+cards.
+Accordingly,
+the
+total
+estimated
+volume over
+the contract
+period
+is
+approximately 1.20 crore cards. Kindly confirm if our understanding is
+correct.
+As per RFP

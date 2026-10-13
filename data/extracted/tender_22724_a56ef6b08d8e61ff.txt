@@ -1,0 +1,352 @@
+Page 1 of 7 
+ 
+GPU Server Minimum Specifications 
+ 
+S. 
+No.  
+Items  
+Minimum Specifications 
+1  
+Processor  
+Minimum Dual 192-core (384 Threads) or higher latest generation Intel® 
+Xeon® or AMD EPYC scalable processors with hyper-threading, and with 
+minimum 1 × GPU Accelerator. 
+2  
+RAM  
+The system should be conﬁgured with minimum 2 TB DDR5 RAM 
+with all slots populated in a balanced conﬁguraƟon for maximum 
+bandwidth. 
+3  
+Storage  
+Minimum total of 3.84 TB NVMe Drives for OS (mirrored) and  
+Total of min. 50 TB NVMe  Drives Configured in RAID-05 
+4  
+Network  
+ 1 x Management Port  
+ 2 x 10G Base-T RJ45 port with suitable cables and length.  
+ 2 x 10/25GbE SFP28 Ports with cables and Transceivers 
+5  
+Disk Array 
+Controller  
+Hardware controllers should have 12Gbps speed and support for 
+RAID 0, 1, 5,10. With 8GB cache or higher.  
+6  
+Expansion Slots  8 PCIe 5.0 x16 slots or higher should be available.  
+7  
+Remote 
+Management  
+Remote management port, IPMI 2.0 or equivalent support with 
+KVM and Management over LAN features with additional licenses 
+if any. 
+8  
+Accelerator  
+Single NVIDA H200 NVL GPU should be available from day 1.  
+Systems should support a total of 8 GPU in the server.  
+9  
+Management 
+Features  
+  
+Dedicated IPMI Management Port with Activated License. 
+ 
+IPMI 2.0 Support with KVM and Media over LAN features. Must 
+include all required licenses, if required for using these features. 
+ 
+It should be able to automate mgmt. tasks and automated firmware 
+updates. 
+ 
+Email Alerting Methodology, User management functionality with 
+SSL based security, Multiuser Permission Levels, multiuser Profiles 
+USB 2.0 or 3.0 based drive redirection with support for USB Key, 
+VLAN functionality supports Reading Log Events. 
+ 
+Manual / Datasheet must be submitted for the compliance. 
+10  
+Security 
+Features  
+ UEFI Secure Boot and Secure Start support Immutable Silicon 
+Root of Trust 
+ TPM (Trusted Platform Module) 2.0 Server OEM 
+ Bezel Locking & chassis Intrusion Detection Kit  
+ Compliance: RoHS, CC EAL4+ certified TPM Chipset. 
+
+
+Page 2 of 7 
+ 
+11  
+Platform 
+Monitoring  
+LED indicators for Power status, System alert, LAN activity, Drive 
+activity, System ID, Monitoring & Management for CPU, GPU, 
+Memory, Storage, Network and Chassis Environment for power and 
+cooling. Actual or Impending failure alerts for critical components, 
+Monitoring with event logs and SMART attributes, Monitoring of 
+CPU voltages, Chipset Voltage, PSU +5V standby, +5V, +3.3V, 
++12V  
+12  
+OS Compliance 
+and AI / ML 
+Support  
+Should support, Ubuntu Linux and cerƟﬁcaƟon OEM Web link 
+should be submiƩed.  
+ 
+The proposed server should support AI Inference, Machine 
+Learning &Cloud CompuƟng from day 1 and the necessary 
+document should be provided with BID 
+ 
+Ready containers for AI, Machine Learning should be available from 
+day 1. Containers should be available in the local repository and will 
+be deployed in one-click fashion. 
+13  
+Remote 
+Management 
+Server Processor 
+ 
+Remote Management should be supported. 
+14  
+AI / ML 
+Features  
+ 
+Native inbuilt AI & ML containers in the image format.  
+ 
+The proposed server should support AI Inference, Machine 
+Learning & Cloud Computing from day 1 and the necessary 
+document should be provided.  
+ 
+Ready containers for AI, Machine Learning should be available 
+from day 1.  
+ 
+OneClick Containers deployment should be available from the 
+local.  
+15  
+Scalability   
+ 
+Proposed systems should be scalable and HPC ready from day 1. 
+ 
+Systems Architecture should be scalable up to 20 Nodes with 
+single cluster and manageability with single management 
+console. 
+16 
+Power Supply  
+ 
+Appropriate rated and energy eﬃcient, redundant hot 
+swappable power supply (Mandatory) 
+17 
+Rail Kit  
+ 
+Server should be supplied with a compatible Railing Kit.  
+19 
+Graphics  
+ 
+On-board graphics support (VGA)  
+20  
+Warranty  
+ 
+5 Years comprehensive onsite warranty  
+ 
+ 
+ 
+ 
+ 
+
+
+Page 3 of 7 
+ 
+Scope of Work 
+ 
+1. The bidder shall supply, install, configure, test, and commission the required server 
+infrastructure, including all necessary software, operating systems, and licenses, at the 
+Gujarat Biotechnology Research Centre (GBRC), Gandhinagar, Gujarat. 
+2. All software, operating system, and library licenses must be issued in the name of the 
+Director, Gujarat Biotechnology Research Centre (GBRC), Department of Science 
+& Technology, Government of Gujarat. 
+3. The bidder shall provide comprehensive documentation covering system 
+implementation, configuration, and deployment. 
+4. The solution must support remote console access for server and shall have cluster 
+health monitoring shall be enabled for future over Fast Ethernet or better 
+connectivity speeds. 
+5. The servers/chassis/enclosures must be delivered with N+1 redundant power supplies 
+of appropriate capacity. The failure of one power supply must not affect the server’s 
+performance or operation. 
+6. The server infrastructure shall be clustering-ready, allowing for future implementation 
+of server clustering. 
+7. The bidder shall provide server with all necessary cabling, SFP modules, KVM 
+console and other active/passive components required to host the servers at GBRC. 
+Any additional components required for successful deployment must be included in the 
+proposal and supplied without exception. 
+8. The bidder shall provide on-site comprehensive warranty and maintenance services 
+for a period of five (5) years from the date of successful User Acceptance Test (UAT). 
+The warranty shall include but not be limited to: Firmware and software updates, 
+Proactive bug fixes and security patches, Preventive maintenance, Replacement of 
+defective parts and components 
+9. Bidder shall provide software upgrade/downgrade support throughout warranty period 
+without any additional charges. 
+10. Bidder has to install bioinformatics software with latest Ubuntu operating system. 
+11. Bidder shall have experience of server installation for bioinformatics in National/State 
+Research Institutes/Organizations/Universities (Document proof to be submitted) 
+12. The entire solution, including all hardware and software components, must be 
+delivered in a single consolidated lot. 
+13. In the event of repeated failure—defined as two or more failures of any system or 
+subsystem within a 5-month period—the bidder shall replace the affected equipment 
+with equivalent new hardware at no additional cost to GBRC. All defective items must 
+be repaired or replaced within the defined SLA period. 
+14. The bidder shall be fully responsible for ensuring and honoring the OEM warranty 
+coverage for all equipment, accessories, and parts supplied under this contract, 
+including issues arising from design, material defects, workmanship, or normal usage. 
+15. In case of hard disk/memory (RAM) failure, the bidder must replace the faulty 
+disk/memory at no cost during warranty period. The department will retain the faulty 
+disk and it will not be returned to the bidder during warranty period. 
+
+
+Page 4 of 7 
+ 
+ 
+16. The bidder shall ensure complete support for the proposed solution, including back-
+to-back support from the OEM. A detailed Support and Escalation Matrix, along 
+with access to a support portal for incident/ticket logging, must be provided. 
+Additionally, the portal should display and manage all licenses issued under this 
+contract. 
+17. The bidder has to relocate servers one time from GBRC’s existing building to new 
+location in future without any additional cost. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 5 of 7 
+ 
+ 
+Please submit undertaking letter as per Ministry of Finance Memorandum No.: F. No.6/18/2019-
+PPD dated  23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 as per 
+performa given below on OEM letterhead as well as on bidder’s letterhead. 
+ 
+ 
+ 
+ 
+On letterhead of Bidder 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of Finance, 
+Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a 
+land border with India. I certify that we as a bidder and quoted product from following OEMs are not from 
+such a country or, if from such a country, these quoted products OEM has been registered with competent 
+authority. I hereby certify that these quoted product & its OEM fulfills all requirements in this regard and 
+is eligible to be considered for procurement for Bid number_______________________. 
+ 
+No. 
+Item Category
+Quoted Make & Model 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence 
+for valid registration by the competent authority, otherwise GIL/End user Dept. reserves the right to take 
+legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+
+
+Page 6 of 7 
+ 
+ 
+On letterhead of OEM 
+ 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & 
+Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of Finance, 
+Dept. of Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a 
+land border with India. I certify that our quoted product and our company are not from such a country, or 
+if from such a country, our quoted product and our company have been registered with competent 
+authority. I hereby certify that these quoted product and our company fulfills all requirements in this regard 
+and is eligible to be considered for procurement for Bid number_______________________. 
+ 
+No. 
+Item Category
+Quoted Make & Model 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence 
+for valid registration by the competent authority; otherwise GIL/End user Dept. reserves the right to take 
+legal action on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 7 of 7 
+ 
+ 
+ 
+ 
+ 
+ 
+Bidder Information 
+ 
+Name 
+ 
+Designation 
+ 
+Company Address 
+ 
+Telephone No 
+ 
+Mobile No 
+ 
+E-mail
+ 
+ 

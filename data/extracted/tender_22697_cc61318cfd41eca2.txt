@@ -1,0 +1,769 @@
+Sr. No.
+RFP Reference (Clause & Page No.)
+Content of RFP Requiring Clarification
+Points of Clarification / Query
+Response to vendor
+1
+Section: 1 , Clause 1.2, Sr No VII, Page No: 4
+The Bidder should have at least one office in
+Gujarat
+and
+preferably
+support
+centers/logistics for the entire state. If the
+Bidder is not having any office in Gujarat, then
+bidder should submit a letter of undertaking to
+open an office in Gujarat within 45 days from
+the date of issue of work order if he is awarded
+the work.
+We request clarification on whether relaxation may be
+considered for bidders who presently do not have an office
+in Gujarat but possess the
+necessary infrastructure,
+manpower, and capability to execute the work successfully
+No Change, RFP Conditions shall prevail
+2
+Section: 2 , Clause 2.3.1, Sr No VII, Page No:
+4
+Pre bid Meeting Venue: Committee Room,
+Gujarat Informatics Limited, Block No.2,2nd
+Floor. Karmayogi Bhavan, D-wing, Gandhinagar
+Gujarat-382010.
+As our representatives may not be able to attend the
+meeting in person, we kindly request you to provide an
+online meeting link to enable virtual participation by
+interested bidders.
+VC link was crated and provided to all requested bidder
+3
+Confirm
+URL
+of
+the
+existing
+website?
+https://kalpasar.gujarat.gov.in/
+https://kalpasar.gujarat.gov.in/ 
+5
+What technology stack is the current website built on?
+Drupal PHP Framework?
+As per GIL i.e., existing AMC of Kalpasar Website , Python
+2.7.5/PHP5.6.33
+6
+Is source code of the existing website available?  
+Yes, existing AMC of Kalpasar Website i.e., GIL will provide.
+7
+Is database migration required or only content migration? Yes,Database including the Content is also required to migrate
+8
+How many pages/documents/media files need migration?  All. In future if any pages/documents/ media files need to be
+added or removed, Department will inform.
+9
+Will API credentials be provided by department? 
+Bhashini API will be provided to bidder. 
+10
+Who bears API usage costs? 
+At present, only the Bhashini API is required to be integrated,
+and there is no usage cost for government organizations. If any
+other API integration is mandated by the Government of Gujarat
+or Government of India in the future, the vendor shall integrate
+it at no additional cost to the Department. Any API procurement
+or
+usage
+charges,
+if
+applicable,
+shall
+be
+borne
+by
+the
+Department.
+11
+Is machine
+translation acceptable? Will GIL provide
+translated
+content
+for
+Hindi/Gujarati
+or
+Bhashini
+translation in enough?
+Bhashini API will be provided to bidder. 
+12
+Who validates translated content?  
+Bhasini API will be provided to bidder and Authority of Kalpsar
+will finanlized the content in case of ambiguity.
+It will be bidder resonsibilty to translate the content and provide
+all content to Kalpsar Authority for a final approval.
+13
+Is multilingual chatbot required in: 
+Bhashini API will be provided to bidder. 
+14
+English  / Gujarati  / Hindi 
+Yes using Bhasini 
+15
+Is voice chatbot expected in all three languages? 
+Yes
+16
+Which speech-to-text
+and text-to-speech
+engines are
+approved?
+Chatbot service will be provided by GIL and bidder will integrate
+the same without asking additional cost.
+17
+Are AI API costs (OpenAI, Azure OpenAI, Gemini, Bhashini
+etc.) included in bidder scope or department scope? 
+No
+18
+Is conversation history required? 
+No
+19
+Is human-agent escalation required? 
+No
+20
+Expected monthly chatbot volume? 
+Bhashini API will be provided to bidder. 
+21
+Is
+chatbot
+required
+to
+be
+hosted
+within
+GSDC
+infrastructure? 
+Yes
+22
+Will GIL help to procure Sarathi and Vahan API for
+integration? Is integration expected to be informational or
+any functional requirements? 
+This clause stand to remove from RFP
+23
+What content repositories should be searchable? 
+Chatbot service will be provided by GIL and bidder will integrate
+the same without asking additional cost.
+24
+Should search index PDFs? Expected document count?
+Yes
+25
+Should search support Gujarati and Hindi content? 
+Yes Gujarati is preferred
+26
+Is traditional keyword search acceptable?  
+Yes
+27
+What exact use cases are expected? Access of website
+thorugh voice?
+28
+Voice search only or complete voice interaction? 
+29
+Supported languages? 
+30
+Any accessibility certification requirements?  
+31
+Will Bhasini API credentials be provided by department? 
+At present, only the Bhashini API is required to be integrated,
+and there is no usage cost for government organizations. If any
+other API integration is mandated by the Government of Gujarat
+or Government of India in the future, the vendor shall integrate
+it at no additional cost to the Department. Any API procurement
+or
+usage
+charges,
+if
+applicable,
+shall
+be
+borne
+by
+the
+Department.
+Section: 3 , Clause 3.9 , Page No: 22
+Response to the pre-bid queries in Tender for Design, Development and Maintenance of Website for Kalpasar Department, Govt. of Gujarat).(Bid Number:  GEM/2026/B/7630695 dated 12.06.2026)
+Section: 3 , Clause 3.3, Page No: 16
+Section: 3 , Clause 3.3.8, Page No: 17
+Section: 3 , Clause 3.5, Page No: 17
+Section: 3 , Clause 3.9 Pt. 51, Page No: 21
+Website Structure and Features
+Bhashini:
+Contents
+to
+be
+provided
+by
+department.
+For
+language
+integration
+with
+translation plug-in Bhashini by the successful
+bidder.
+Chatbot Functionality
+Section: 3 , Clause 3.9 Pt. 51, Page No: 21
+AI-Powered Search facility
+Chatbot service will be provided by GIL and bidder will integrate 
+the same without asking additional cost.
+Voice Assistants
+
+
+32
+Who bears API usage costs? 
+At present, only the Bhashini API is required to be integrated,
+and there is no usage cost for government organizations. If any
+other API integration is mandated by the Government of Gujarat
+or Government of India in the future, the vendor shall integrate
+it at no additional cost to the Department. Any API procurement
+or
+usage
+charges,
+if
+applicable,
+shall
+be
+borne
+by
+the
+Department.
+33
+Is machine
+translation acceptable? Will GIL provide
+translated
+content
+for
+Hindi/Gujarati
+or
+Bhashini
+translation in enough?
+At present, only the Bhashini API is required to be integrated,
+and there is no usage cost for government organizations. If any
+other API integration is mandated by the Government of Gujarat
+or Government of India in the future, the vendor shall integrate
+it at no additional cost to the Department. Any API procurement
+or
+usage
+charges,
+if
+applicable,
+shall
+be
+borne
+by
+the
+Department.
+34
+Who validates translated content?  
+Bhasini API will be provided to bidder and Authority of Kalpsar
+will finanlized the content in case of ambiguity.It will be bidder
+resonsibilty to translate the content and provide all content to
+Kalpsar Authority for a final approval.
+35
+Is bidder responsible for: 
+36
+CERT-In Audit  / STQC Audit  / Both 
+37
+Are audit costs to be included in bid value? 
+38
+As per government standard every 6 months VAPT is
+mandatory? Who will bear cost post Go Live for 1 year
+maintenance? 
+39
+Section: 3 , Clause 319, Page No: 26
+Place of Performance
+Travelling allowance will be provided by GIL?
+No
+40
+Is content upload included? 
+Yes
+41
+Expected number of content updates per month? 
+Can not define at this stage however content uploading
+funcaitonlity is required
+42
+Is onsite support required during maintenance?  
+No, offsite is required however based on requirement of
+department the bidder must visit the department even during
+the AMC
+43
+Section:1,Clause 1.3, Point no 3(Page 10)
+Pre bid Meeting Venue: Committee Room,
+Gujarat Informatics Limited, Block No.2,2nd
+Floor. Karmayogi Bhavan, D-wing, Gandhinagar
+Gujarat-382010.
+Due to logistic reason, and to ensure broad participation,
+we request you to for online pre-bid meeting schedule on
+20.06.2026
+VC link was crated and provided to all requested bidder
+44
+Page No. 5, Sr. No. - IX
+The bidder should ISO9001 & ISO certificate
+2000-1/ CMMI level3 or above certificate
+Do you require all these certificates or any one of them will
+also be considered
+The bidder should have BothISO Certificate 9001 &  2000-1 
+OR
+CMMI level3 
+or CMMI level 3 above certificate
+45
+3.3 Website Structure and  
+Features / Add Language  
+Hindi, English & Gujarati /  Page# 17
+Add Language Hindi, English & Gujarati: The we
+b site content should to translated into Hindi,  
+English and Gujarati language for all user.The bi
+dder need to make sure,while changing the  
+language, the meaning of content should not be 
+changed.
+This point says three languages, at other side in point  
+of 3.3 it was written for two languages. (Language  
+Option: Availability in Gujarati and English.) 
+Please confirm how the website will be built in how  
+many lanauges, also suggest for the languages to be  
+configured through Bhashini Plugin. 
+Who will provie the translation contents for English,  
+Gujarati & Hindi? do we need to add content  
+translation charges in bid amount?
+Website should be built for Gujarati and English however it must
+support accurate translation of language of Bhasini.
+Bhasini API will be provided to bidder.
+46
+3.9 The Technical scope of 
+work for Design, Development 
+and Maintenance of Website 
+for KALPASAR DEPARTMENT is 
+as below / Point 51 / Page# 21
+Following AI based facilities to be provided/dev
+eloped by Successful bidder: Incorporating AI  
+tools into website development can enhance use
+r experience and helping department to  
+provide better service, improve engagement, an
+d scale operations more effectively. 
+Inclusion of Chatbot facility: 
+Chatbot facility using text and voice command t
+o be provide by the successful bidder. Chatbots  
+offer instant answers to user inquiries, reducing
+ waiting times and improving the user  
+experience. This is especially useful for question
+s like FAQs. Chatbots can be powered by  
+rulesbased logic, where they follow a set of pred
+efined responses, or by artificial intelligence  
+(AI), which allows them to learn, understand, an
+d respond dynamically based on user input. 
+Chatbot can assist users in navigating the websit
+e by suggesting relevant pages, directing them  
+to the right information, or helping them compl
+ete tasks. 
+AI‐Powered Search facility: Website’s AI‐Power
+ed search functionality to be developed which  
+provide more relevant results, understanding us
+er intent, and learning from interactions.  
+Delivers faster, more accurate results, offering u
+sers a more satisf ing search e perience in
+Chatbot Functionality‐ It is mentioned that the website sho
+uld have chatbot  
+functionality with CMS tool updates.‐ We assume that the c
+hatbot will be provided by the  
+Government/GIL, and our role will be limited to  
+integration with the website.‐ If a separate chatbot solution
+ is required, kindly  
+provide the detailed scope and confirm financial  
+implecations for the same.  
+AI‐Powered Search Facility‐ It is requested to clarify wheth
+er the Department is  
+open to considering this functionality as a separate  
+modular solution, in case the full AI‐based search  
+capability (as described) cannot be delivered within the  
+defined project scope.
+Voice Assistant Facility
+It is requested to clarify whether the Department  
+would consider this feature as a separate solution  
+module, in case the complete AI‐based voice  
+interaction cannot be accommodated within the 
+At present, only the Bhashini API is required to be integrated,
+and there is no usage cost for government organizations. If any
+other API integration is mandated by the Government of Gujarat
+or Government of India in the future, the vendor shall integrate
+it at no additional cost to the Department. Any API procurement
+or
+usage
+charges,
+if
+applicable,
+shall
+be
+borne
+by
+the
+Department.
+47
+3.10 Design & Development  
+Standards / Point 2 / Page# 22
+Migration 
+In case, KALPASAR DEPARTMENT requests for 
+Data Migration from existing website  
+(https://www. KALPASAR DEPARTMENT.gujar
+at.gov.in) to new website, bidder has to  
+accomplish this work without any additional cos
+t. The prescribed technology (i.e., Front end and  
+back‐end technology and database) of the websi
+te will be shared with successful bidder.
+Data Migration 
+k‐ Please specify the volume and type of data (number  
+of pages, documents, media files, database size, etc.)  
+expected for migration.‐ Is there any application integrated
+ with existing  website? Please confirm
+As GIL has AMC for Current Website of Kalpsar Dept. Hence, GIL 
+will provide the details.
+Section: 3 , Clause 3.11, Page No: 23
+Section: 3 , Clause 3.12, Page No: 24
+Section: 3 , Clause 3.20, Page No: 27
+Security Audit
+Before Hosting at GSDC, the bidder shall carry out security audit
+of
+website and obaint safe to host certificate from CERT-In
+empanel
+security audit agency. The security audit cost will not borne by
+department untill it is hosted at GSDC.
+The website must comply with GIGW3.0 guidelines and related
+standards as specified in theRFP.Certificate STQC emplaned
+vendor
+may obtain through GIL empanel GIGW &STQC security audit
+agency. The GIGW & STQC security audit cost borne by Kalpasar
+Department.
+Website Updation & Maintenance
+Multi-language
+
+
+48
+3.12 Security Audit /  Page# 24
+Security Audit 
+Website should be hosted and released only afte
+r undergoing the website security Audit as per  
+the guidelines of the Government of India and o
+btaining a security audit clearance certificate  
+from CERT‐in empanelled IT Security auditors. 
+Bidder has to carry out security audit after com
+pletion of design and development of the  
+website and provide security Audit clearance ce
+rtificate from CERT‐in empanelled IT security  
+auditors. Web developer should be responsible f
+or fixing the vulnerabilities found at the time of  
+hosting is completed till the completion of its co
+ntract period with the KALPASAR DEPARTMEN
+T.
+Website Security Audit‐ Clarify whether the cost of Securit
+y Audit is to be  
+borne by the bidder or reimbursed by the Department
+Before Hosting at GSDC, the bidder shall carry out security audit
+of
+website and obaint safe to host certificate from CERT-In
+empanel
+security audit agency. The security audit cost will not borne by
+department untill it is hosted at GSDC.
+The website must comply with GIGW3.0 guidelines and related
+standards as specified in theRFP.Certificate STQC emplaned
+vendor
+may obtain through GIL empanel GIGW &STQC security audit
+agency. The GIGW & STQC security audit cost borne by Kalpasar
+Department.
+49
+3.12 Security Audit /  Page# 24
+STQC Audit 
+For STQC security audit, bidder has to carry out 
+security audit after completion of design and  
+development of the website and provide securit
+y Audit clearance certificate from STQC  
+empanelled IT security auditors. Web developer
+ should be responsible for fixing the  
+vulnerabilities found at the time of hosting is co
+mpleted till the completion of its contract  
+period with the KALPASAR DEPARTMENT.
+STQC Compliance & Certificate‐ Please confirm whether bo
+th certifications —
+(a) Self‐declaration by the bidder, and
+(b) Formal audit certification by STQC/CERT‐In empanelle
+d agency, are mandatory deliverables before go‐live.‐ Clarif
+y if the cost of STQC/CERT‐In certification should be includ
+ed in the bidder’s financial quote.‐ Confirm if the Departme
+nt will facilitate coordination with an empanelled agency, o
+r the bidder must  independently engage one."
+Before Hosting at GSDC, the bidder shall carry out security audit
+of
+website and obaint safe to host certificate from CERT-In
+empanel
+security audit agency. The security audit cost will not borne by
+department untill it is hosted at GSDC.
+The website must comply with GIGW3.0 guidelines and related
+standards as specified in theRFP.Certificate STQC emplaned
+vendor
+may obtain through GIL empanel GIGW &STQC security audit
+agency. The GIGW & STQC security audit cost borne by Kalpasar
+Department.
+50
+Sec 3.1 (7), Pg 17
+Content Transfer
+In which format data to be provided? In Excel or any
+database back up file? If database backup file then provide
+details of database like database server (MS SQL/My SQL
+etc.), Size of Database etc. Please confirm.
+As GIL has AMC for Current Website of Kalpsar Dept. Hence, GIL 
+will provide the details.
+51
+Sec 3.5, Pg 17
+Chatbot Functionality & Service Guidance
+a) Please confirm if these are mandatory for initial launch
+or future-ready placeholders. 
+b) Should chatbot be FAQ-based or AI/ML-enabled? 
+c) Any specific tech or agent require to integrate this
+functionality or SP can do own your on? 
+d) If any paid subscription/costing rais for this integration
+then who can bare charges of Same? 
+e) We assume that details of FAQ base chatbot given by
+department.
+f) Also, Please confirm if Department provide Chat Bot
+using help of GIL team then it will help full for cost
+estimation. SP needs to just integrate it.
+g) Provide more details about service guidance, who will
+provide content for step by step guidance? how it works?
+Chatbot service will be provided by GIL and bidder will integrate
+the same without asking additional cost.
+52
+Sec 3.9 (51), Pg 21
+Inclusion of Chatbot facility & Voice Assistants
+a) Please confirm if these are mandatory for initial launch
+or future-ready placeholders. b) Should chatbot be FAQ-
+based or AI/ML-enabled? c) Is voice-search integration
+required in both languages?
+If any paid subscription/costing rais for this integration
+then who can bare charges of Same? 
+Chatbot service will be provided by GIL and bidder will integrate
+the same without asking additional cost.
+53
+Sec 3.16, Pg 25
+website for a period of 1 year after the
+successful
+operational
+acceptance/Go-live
+without any additional cost during Operation
+and Maintenance period.
+Please
+confirm
+if
+AMC
+after
+Go-Live
+includes
+only
+corrective/content
+maintenance,
+or
+also
+feature 
+enhancements, security updates, and bug fixes. If
+feature
+enahcements
+comes,
+then
+does
+department
+provide/approved CR.
+No CR will be geneated during the contract period however
+during the AMC corrective/content maintenance, or also feature
+enhancements, security updates, and bug fixes will be done by
+bidder without any cost.
+54
+Sec 3.12, Pg 24
+Security Audit & STQC
+Please clarify whether the security audit will be arranged
+and
+paid
+by
+bidder,
+or
+managed
+centrally
+by
+the
+Department.
+How many times security audit requires after go live of
+website? 
+Who will bare cost for same all frequency of Security
+Audit? It helps to Cost Estimation. 
+If bidder needs to bare cost then department help out for
+select CERT In Empanell Auditor under GIL for security
+audit? Because its help to cost estimation. If we go direct
+with empanell audtior then cost would be high and if we go
+through GIL team then cost would be less. Please confirm.
+Does department wants to STQC? Please clarify whether
+the STQC will be arranged and paid by bidder or managed
+Before Hosting at GSDC, the bidder shall carry out security audit
+of
+website and obaint safe to host certificate from CERT-In
+empanel
+security audit agency. The security audit cost will not borne by
+department untill it is hosted at GSDC.
+The website must comply with GIGW3.0 guidelines and related
+standards as specified in theRFP.Certificate STQC emplaned
+vendor
+may obtain through GIL empanel GIGW &STQC security audit
+agency. The GIGW & STQC security audit cost borne by Kalpasar
+Department.
+55
+Sec 3.9, Pg 20
+Websites predefined themes should be available 
+to update change design any time
+Should multiple theme templates be developed initially
+(e.g., 3 themes), or just the capability to switch color
+schemes later?
+multiple theme templates must be developed initially, switching
+color will not be accepted
+56
+Sec 3.18, Pg 26
+No extra cost shall be remunerated during
+maintenance activities.
+Suggest defining a limit on number of content update
+requests per month to avoid unlimited scope during AMC.
+RFP Conditions shall prevail
+57
+Sec 3.18, Pg 26
+use Google analytics
+Please provide more information of Google Analytics
+reports. Which type of reports require of Google analytics?
+The report generated for the website analtics 
+58
+ Eligibility Criteria ,sr no VII
+The Bidder should have at least one office in
+Gujarat
+and
+preferably
+support
+centers/logistics for the entire state. If the
+Bidder is not having any office in Gujarat, then
+bidder should submit a letter of undertaking to
+open an office in Gujarat within 45 days from
+the date of issue of work order if he is awarded
+the work.
+We
+are
+an
+MSME
+(Udyam
+Registered)
+and
+DPIIT-
+recognized Startup with a registered office in Mohali,
+Punjab.
+We request that this condition be relaxed to allow Bidders
+having office anywhere in India to participate, as modern
+IT/software projects are successfully delivered remotely
+without any compromise in quality or service.
+We are willing to provide an undertaking for:
+- Dedicated remote support & on-site visits as and when
+required
+- Timely response as per agreed SLAs
+This will encourage wider participation of capable IT
+companies from across India.
+RFP Conditions shall prevail.
+
+
+59
+ Eligibility Criteria ,Sr no III
+The Bidder should be Software Development
+firm and should be in operations in successful
+Software Development, Software Customization
+& Implementation anywhere in India for at least
+5 Years as on date of submission of bid.
+60
+ Eligibility Criteria ,Sr no III
+The Bidder should have successfully executed,
+at least 3 Software Development projects during
+last 5 years as on date of submission of bids.
+61
+ Eligibility Criteria ,sr no VII
+The Bidder should have at least one office in
+Gujarat
+and
+preferably
+support
+centers/logistics for the entire state. If the
+Bidder is not having any office in Gujarat, then
+bidder should submit a letter of undertaking to
+open an office in Gujarat within 45 days from
+the date of issue of work order if he is awarded
+the work.
+Whether the Gujarat office requirement is mandatory at
+the bid submission stage, or whether bidders without an
+existing office in Gujarat are eligible to participate
+RFP Conditions shall prevail.
+62
+ Eligibility Criteria 
+NA
+Whether our bid would be considered for technical
+evaluation if we meet all other eligibility criteria but do not
+satisfy the above two conditions
+No Change, RFP conditions shall prevail
+63
+Page No. 5, Sr. No. - IX
+The bidder should ISO9001 & ISO certificate
+2000-1/ CMMI level3 or above certificate
+Whether bidders who do not possess a CMMI Level 3 
+certification are eligible to participate in the bidding 
+process.
+The bidder should have BothISO Certificate 9001 &  2000-1 
+OR
+CMMI level3 
+or CMMI level 3 above certificate
+64
+ Eligibility Criteria 
+NA
+Is the complete bid submission required online only 
+on GeM, or is any physical submission of the technical 
+bid/supporting documents required?
+Except Power of Attorney/Affidavit,bid submission Including all
+technical bid & supportign document required online only on
+GeM. 
+65
+ Eligibility Criteria 
+NA
+If bidder is claiming EMD exemption through 
+MSME/Udyam certificate, is uploading the valid 
+certificate on GeM sufficient, or is any physical 
+document/DD required?
+In case of EMD submitted in form of DD, then physical cover
+original DD must be submitted at GIL
+MSME certificate can uploaded and submitted physical with
+cover for EMD exemption at GIL.
+66
+ Eligibility Criteria 
+NA
+Is Power of Attorney / Authorization 
+Letter required physically, or scanned signed/stamped 
+copy uploaded on GeM is acceptable?
+No, origianl signed copy of Power of Attorney / 
+Authorization Letter required physically at GIL, the same 
+can be uploaded on gem.
+We
+are
+an
+MSME
+(Udyam
+Registered)
+and
+DPIIT-
+recognized Startup under the Startup India initiative of the
+Government of India.
+As per the Government of India's Public Procurement
+Policy for MSMEs (Order 2012, as amended) and DPIIT
+Startup India guidelines, relaxation in eligibility criteria
+including prior experience and years of operation is
+encouraged to promote wider participation of MSMEs and
+Startups in government procurement.
+We kindly request clarification on the following:
+(a) Whether the minimum 5-year operational experience
+criterion is relaxable for MSME / DPIIT-recognized Startup
+entities under this tender.
+(b) If yes, kindly specify the revised experience criteria or
+minimum years applicable for such entities.
+A, & BNo Change,As per RFP
+however EMD exemption is already given in bid for MSME user 
+for Wider participation.

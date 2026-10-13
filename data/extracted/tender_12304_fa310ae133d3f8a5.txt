@@ -1,0 +1,1352 @@
+Page No./Section No./ 
+Clause No.
+Tender Description
+1
+Page 18
+3.8
+Application Security Audit
+the SP shall also be responsible to get web and mobile application security 
+audited by CERT-In Empaneled application security Auditors at the cost of the 
+SP
+Do we consider security audit through GIL reference & rates as per GIL contract rate?
+How many times SP has to do security audit during whole project contract & who will be 
+bare the costing of security audit?
+If department wants to go live with few modules then SP bare the security audit cost of 
+that modules but what about other modules which are not go live and requier security 
+audit then who will bare costing of that modules? or its require to compulsory to do 
+security audit of remaining modules?
+No change, as per RFP. 
+Question: Do we consider security audit through GIL reference & rates 
+as per GIL contract rate?- Ans: No. 
+Bidder has to carry out security audit single time before making the 
+applications Go-Live. If on need basis, any one or more than one 
+modules are developed and to be made Go-Live than successful bidder 
+has to complete and provide safe host certificate of the particular 
+modules and thereafter as and when remaining modules are 
+developed, bidder has to carry out security audit accordingly.
+2
+Page 19
+3.9.1
+During the contract period (Until Go-live), any change in scope of work, or in 
+design and development shall not be construed as change Request order and 
+instead it will become part of scope of work accompanying this bid document 
+and it will be invariably accepted by the bidder without any additional cost 
+identified in the Financial Bid Part 1 (line item no.1).
+If project's module go live one by one module or specific set of modules then what SP has 
+to consider GO-Live or not? Please confirm.
+If its not consider GO-Live then if any change coming in live modules then SP can raised 
+the change request or not? Please confirm.
+No change, as per RFP. 
+3
+Page 31
+Point 5.1.1
+End-to-end digitized unified license application is required for traders involved 
+in buying and selling within APMC.
+If there is any payment gateway require to implement? If yes then who will bare the 
+charges of payment gateway integration?
+Please share the details.
+It is mentioned on the page no.26 of the RFP "Note-Point(I) SP needs to 
+integrate applications with SMS, email and payment gateway facility 
+provided by DAMRF. Charges incurred on sending SMS or payments 
+made by payment gateway shall be borne by DAMRF" 
+4
+Page 31
+Point 5.2.1
+APMCs will maintain separate documents containing diverse statistical 
+information.
+How many documents will be there? We assume that departments wants DMS 
+dashboard. Please confirm OR please elaboarate this functionality.
+Successful bidder will be intimated letter on.
+5
+Page 31
+Point 5.3.1
+Similar to the E-NAM portal, All the 224 APMC will upload the details of buying 
+and selling of agriculture products carried out under each APMC on this e-
+APMC portal (software application). Separate user login of 224 APMC will 
+required to be created
+under this application
+What details can be uploaded by the APMC for buying and selling of the agricultural 
+products?
+Do the SP needs to inegtrate department portal to e-APMC portal? Please confirm.
+What is the our role of third party software? Which type of activity require to on this 
+portal? 
+Do we have require any API integration from third-party and vise versa? If yes then how 
+many API needs to integrate or developed?
+What will be the static and dynamic details of AGMARKNET?
+Who will provide the API for displaying the details? Please share the details.
+Successful bidder will be intimated letter on.
+6
+Page 32
+Point 5.5 (6)
+Audit work of the APMC
+What about "Audit work of the APMC"? Is there any form development or any chart to 
+prepare or report prepare from submitted data? Kindly share approx.. Parameters of this?
+Form 6 & 9  is not available. Kindly share it or share approx. parameters of these forms?
+Successful bidder will be intimated letter on.
+SN
+Tender Reference
+Query / Clarification / Suggestions from the Venders
+Responses to Vendors
+Responses to the pre-bid Queries (22.10.2024)
+Tender for Selection of Agency for Design, Development, Implementation and Operation & Maintenance of web and mobile application for the office of the Director of Agriculture Marketing & Rural Finance, Gandhinagar, Govt. of Gujarat. (GEM/2024/B/5456524 dated 
+05.10.2024)
+
+
+7
+Page 33
+Point 5.6
+The Application for Classification APMC is submitted by APMC to the District 
+Registrar.
+What will be the application details for the classification APMC?
+How many sections and fields will be there?
+Successful bidder will be intimated letter on.
+8
+Page 33
+Point 5.7
+Channel of Appeal (NA-OS-Deputy Director - Director -Summans/Notice- order)
+What is the application form? How many parameters are there?
+What will be the flow for this channel?
+What will be the role of NA, OS, Deputy Director, Director, Summans?
+Please share the details.
+Successful bidder will be intimated letter on.
+9
+Page 33
+Point 5.8
+Annual Administrative report.
+How many reports will be there?
+What will be the details in each report?
+Will there be graphical details or chart, if yes then please specify?
+Will there be features of search, sort, filter, export (pdf/xls) and share the report?
+Please share the details.
+Successful bidder will be intimated letter on.
+10
+Page 33
+Point 5.9
+Applicants for Godown/Warehouse license online.
+What will be the application details for godown/warehouse license?
+How many sections and fields will be there?
+Will there be any kind of verification like Aadhar no. or third party integration?
+After submitting, can the applicant edit/cancel/withdraw/download the submitted  
+application?
+If there is any payment, then what will be the details?
+Please share the details.
+Successful bidder will be intimated letter on.
+11
+Page 33
+Point 5.10
+The service provider needs to integrate web application with SMS, email and 
+payment gateway facility provided by DAMRF. Charges incurred on sending 
+SMS or payments made by payment gateway shall be borne by DAMRF
+Do you require offline payment facility in application forms? 
+For which forms/application, payment integration will be require?
+Will there be refund option of the application amount?
+How many payment gateways need to integrate in applications?
+Please share the details.
+For the godown licence / unified licence payment geteway required, 
+may be for other licences payment gateway can be asked to be 
+integrated later on. 
+12
+Page 33
+Point 5.12
+Mobile Application for APMCs
+Listed mobile activities can be done through web application or not? Please confirm.
+In which framework departments require Android Application? Who will bare the charges 
+of location service (API of Google Map) etc?
+By mobile application, payment integration require or not?
+Successful bidder will be intimated letter on.
+13
+Page 35
+Point 5.14
+SP will provide training for conducting 5 training sessions – Before Go-Live. 
+During O&M training needs to be given as and when required by DAMRF 
+regarding the use of Software Applications. DAMRF will provide necessary 
+facilities to conduct training.
+How many times require to give training to department user and which places? We 
+assume that there is single location of department finalized for proivding training.
+If any various location base training require then who will bare the charges of 
+transportation and other expences like Hotel stay etc or DEPARTMENT will provide facility 
+of all these trainings?
+Successful bidder will be intimated letter on.
+14
+2.5 Qualification/Eligibility 
+Criteria
+The Bidder should have successfully executed, at least 3 Software 
+Development projects during last 5 years as on date of submission of bids in 
+which one project should be executed in any Govt./PSU/Large Enterprise and 
+should not be less than INR 30 Lakh with project completion certificate.
+The Bidder should have successfully executed, at least 1 Software Development projects 
+during last 5 years as on date of submission of bids in which one project should be 
+executed in any Govt./PSU/Large Enterprise and should not be less than INR 90 Lakh with 
+project completion certificate.
+Justification:
+The amendment strengthens the requirement by focusing on a single, larger-scale project 
+of INR 90 Lakh, ensuring the bidder has proven experience in executing substantial, high-
+value projects. This change enhances the credibility of the bidder’s capability to manage 
+and deliver complex projects. It also aligns with the need for vendors who can handle 
+larger government/PSU initiatives efficiently.
+No change, as per RFP. 
+
+
+15
+SECTION 6:  TECHNICAL 
+EVALUATION 
+METHODOLOGY 
+(ii) Technical Evaluation:  Sr 
+No. 02
+Quality Certifications 
+ISO 9001:2015 & CMMi level 3 – 8 Marks
+ISO 9001:2015 & CMMi level 4/5 – 14 Marks 
+ISO 9001:2015 & CMMi level 4/5 & [ISO 20000- 1:2011]/[ISO/IEC 27001 
+(Information Security)] – 20 Marks  
+Quality Certifications 
+  ISO 9001:2015 & CMMi level 3 – 8 Marks
+   ISO 9001:2015 ,  [ISO 20000- 1:2011]/[ISO/IEC 27001 (Information Security)], CMMI 
+level 3  – 14 Marks 
+   ISO 9001:2015 & CMMi level 4/5 & [ISO 20000- 1:2011]/[ISO/IEC 27001 (Information 
+Security)] – 20 Marks  
+Justification:
+The amendment emphasizes the importance of including ISO 20000-1:2011 or ISO/IEC 
+27001 (Information Security) certifications alongside CMMI Level 3 for mid-tier marks, 
+ensuring bidders have both process quality and security standards. This shift reflects a 
+growing need for secure and well-managed IT systems in projects. It ensures that even 
+bidders at CMMI Level 3 demonstrate strong security and IT service management 
+capabilities.
+No change, as per RFP. 
+16
+Pg. No. 8, Section 2.5 - 
+Qualification/ Eligibility 
+Criteria, Point No. 4
+The Bidder should have successfully executed, at least 3 Software 
+Development projects during last 5 years as on date of submission of bids in 
+which one project should be executed in any Govt./PSU/Large Enterprise and 
+should not be less than INR 30 Lakh with project completion certificate.
+Request to kindly consider orders of the projects currently in progress stage
+No change, as per RFP. 
+17
+Pg. No. 31, Section 5.4 - 
+Online Application for 
+Schemes
+Annexure 2,3,4,5
+These Annexures are in Gujarati, kindly provide Annexures in english for the same
+Successful bidder will be intimated letter on.
+18
+Pg. No. 32, Section 5.5 - 
+Development of end-to-end digitized forms/applications which are submitted 
+by the Agricultural Produce Market Committee (APMC);
+Application under Form-6,7,8,9,10,11,12,13,14&15
+These Application Forms are in Gujarati, kindly provide Application Forms in english for 
+the same
+Successful bidder will be intimated letter on.
+19
+Section 5 (Scope
+of Work), Page
+31
+Development of applications using open-source technologies
+Could you provide the list of preferred open-source frameworks, databases, and tools 
+that would align with your expectations?
+Successful bidder will be intimated letter on.
+20
+Section 3.8
+(Application
+Security Audit),
+Page 18
+Security audit by CERT-In empaneled auditors
+Will there be multiple audits throughout the project lifecycle? Can
+the same auditor perform all required assessments?
+Bidder has to carry out security audit single time before making the 
+applications Go-Live. If on need basis, any one or more than one 
+modules are developed and to be made Go-Live than successful bidder 
+has to complete and provide safe host certificate of the particular 
+modules and thereafter as and when remaining modules are 
+developed, bidder has to carry out security audit accordingly.
+21
+Section 4.4
+(Project
+Timeline), Page
+24
+Milestones and deadlines
+Will there be flexibility in the timeline in case of delays caused by external
+dependencies or client-side inputs? If so, what is the process for requesting an extension? No change, as per RFP. 
+22
+Section 4.6
+(Payment Terms),
+Page 25
+Milestone-based payment release
+Could you confirm if partial payments are allowed for partially completed
+milestones? What will be the documentation requirements for milestone approvals?
+No change, as per RFP. 
+23
+Section 3.9
+(Change Requests), Page 19 Handling change requests during contract
+Will there be a predefined process and approval mechanism for change
+requests? How will changes that arise after the Go-Live phase be managed and billed?
+It is clared in the RFP. 
+Please refer Page no.19, Para-3.9 
+24
+Section 3.7
+(Intellectual
+Property Rights),
+Page 18
+Ownership of developed software components
+Can the vendor retain rights to any generic libraries or tools developed during the project 
+for future use?
+Please refer Page no.19, Para-3.7 - Intellectual Property Rights
+25
+Section 4.7
+(Service Level
+Agreement),
+Page 26
+SLA penalties for downtime
+How will planned downtime for maintenance be accounted for in SLA
+metrics? Will pre-approved maintenance windows exempt penalties?
+No change, as per RFP. 
+26
+Section 4.7.4.1
+(Software
+Uptime), Page 28
+Uptime measurement and monitoring
+Could you confirm the tools or monitoring systems to be used for
+measuring uptime and downtime? Who will be responsible for system
+monitoring?
+No change, as per RFP. 
+27
+Section 5.3 (ENAM
+Data Integration), Page 32 Integration with AGMARKNET and ENAM portals
+Will APIs or integration guidelines for AGMARKNET and E-NAM portals be provided by the 
+government?
+Successful bidder will be intimated letter on.
+28
+Section 4.4.1
+(Training), Page
+25
+Training requirements
+How many staff members need to be trained, and what will be the duration of the 
+training sessions? Will the training be conducted on-site or
+remotely?
+Successful bidder will be intimated letter on.
+29
+Section 4.6.1
+(O&M Support),
+Page 25
+Operation & Maintenance during the contract
+Will there be a dedicated contact or escalation matrix provided by DAMRF
+for managing issues during the O&M period?
+No change, as per RFP. 
+
+
+30
+Section 4.4.1
+(Kickoff and SRS
+Submission),
+Page 24
+Project Initiation and SRS delivery timelines
+Will DAMRF provide access to required stakeholders and documentation in time to meet 
+the project timelines?
+No change, as per RFP. 
+Office of the DAMRF will provide all necessary support and successful 
+bidder has to stick to the timelines mentioned in the RFP. 
+31
+Section 1.4
+EMD Rs 1,10,000 in the form of Bank Guarantee
+Can you also allowed Demand Draft For EMD
+No change, as per RFP. 
+32
+Annexure -2 to
+Annexure 5 and Form 7 To 
+Form 15
+Page No-55 To 80
+Annexure -2 to Annexure 5 and Form 7 To Form 15 page No – 55 To Page No-
+80
+We are not understand for which Purpose give a this form in RFP
+It is the part of the scope of  work. Successful bidder has to develop it 
+in digital format. Other details will be shared to successful bidder. 
+33
+3.10 Earnest Money 
+Deposited (EMD)/Bid 
+Security . Page No. 19
+The bidder shall furnish, as part of its bid, an Earnest Money Deposit in the 
+form of an unconditional Bank Guarantee (which should be valid for 12 months 
+from the last date of bid submission) of any Nationalized Bank including the 
+public sector bank or Private Sector Banks or Commercial Banks or Co-
+Operative Banks and Rural Banks (operating in India having branch at 
+Ahmedabad/ Gandhinagar) as per the G.R. no. FD/MSM/e-
+file/4/2023/0057/DMO dated 21.04.2023 issued by Finance Department or 
+further instruction issued by Finance department time to time; in the name of 
+“Director, Agriculture Marketing and Rural Finance, Gujarat State, 
+Gandhinagar, Address: Block No.13/2, Dr. Jivraj Mehta Bhavan, Gandhinagar.” 
+payable at Gandhinagar (as per prescribed format given at Section 9) and must 
+be submitted along with the covering letter
+We request if option of paying EMD through Demand Draft/ Banker's Cheque/ NEFT etc 
+can be given.
+No change, as per RFP. 
+34
+SECTION 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY Page No. 
+36
+Quality Certifications
+  ISO 9001:2015 & CMMi level 3 – 8 Marks
+  ISO 9001:2015 & CMMi level 4/5 – 14 Marks
+  ISO 9001:2015 & CMMi level 4/5 & [ISO 20000- 1:2011]/[ISO/IEC 27001 
+(Information Security)] – 20 Marks
+We request to make ISO 9001, ISO 20000, ISO 27001, CMMi3 and CMMi4/5 :                         
+Any 2 certificates - 10 Marks,                                                                                                               
+Any 3 certificates - 15 Marks                                                                                                                
+Any 4 certificates - 20 Marks
+No change, as per RFP. 
+35
+Page No. 31
+5.2 Management Information System (MIS):
+What are the separate documents that we are consdering in scope
+Successful bidder will be intimated letter on.
+36
+Page No. 31
+5.3 E-NAM (Electronic National Agriculture Market) Day to Day:
+Once when the details of buying and selling of agriculture products is uploaded, do we 
+need any approval workflow required for upload the details of buying and selling of 
+agriculture products?
+May be required. 
+37
+Page No. 32
+5.1 Unified License Online Applications and Approvals:
+We are considering only the following users in scope
+-Traders
+-Junior Clerk
+-Cooperative Officer
+-District Registrar
+-APMC officials
+-Senior Clerk
+-Office Superintendent
+-Director
+Please clarify if there are other users to be considered in scope as well
+As per Scope of work 
+38
+Page No. 32
+5.4 Online Application for Schemes
+Are the number of schemes fixed as pe the Document or are they expected to increase in 
+future?
+Successful bidder will be intimated letter on.
+39
+Page No. 32
+5.4 Online Application for Schemes
+Assuming that once the form is submitted it shall directly go to the respective 
+stakeholders on their 
+Successful bidder will be intimated letter on.
+40
+Page No. 32
+Online application for Godown/Warehouse license 
+What is the number of report that we are considering within the scope and what are the 
+stats that we shall display in the administrative reports
+Successful bidder will be intimated letter on.
+41
+Page No. 32
+Mobile Application for APMCs
+Day to Day - to view the price of commodity, Price can be search as per the Commodity. 
+For the above mentioned feature, we are assuming that it shall be fetched from some 
+other gov.t portal, please clarify
+No, it will be filled by concern APMC. 
+42
+Page No. 33
+5.12 Mobile Application for APMCs: Report generation & official credential 
+should be created
+What are the reports that we are considering in scope. Also please mention the number 
+of reports that shall be considered inscope
+What are the official credentials required in this scenario
+Successful bidder will be intimated letter on.
+43
+Page No. 35
+5.14DAMRF web and mobile application Operation and Maintenance scope of 
+work : Before Go-Live. During O&M training needs to be given as and when 
+required by DAMRF regarding the use of Software Applications. DAMRF will 
+provide necessary facilities to conduct training. 
+Is the training supposed to be conducted over the site or is it supposed to be done 
+virtually?
+Over the site. 
+44
+Page No. 31
+5.4 Online Application for Schemes:
+Please provide the Annexures that are mentioned in the corresponding section
+As per the Scope of work. 
+45
+Page No. 32
+Generic Query
+What is the number of languages that we are considering in scope
+Successful bidder will be intimated letter on.
+
+
+46
+Page No. 32
+5.7 Appeal-related Tasks
+Please clarify the following points:
+1.)What are the tasks that are included in scope?
+2.)Who are the stakeholders that shall be involved in the Appeal related tasks?
+3.)Please share if we need to track the status of the updates through the noitification. 
+4.)What is the process flow of the appeals?
+Successful bidder will be intimated letter on.
+47
+Page No. 32
+5.4 Online Application for Schemes:
+Apart from the approval workflow processes, what are the other features that need to be 
+provided to the following personas:
+1.)Junior Clerk
+2.)Cooperative Officer (Market)
+3.)District Registrar
+4.)Senior Clerk
+5.)Office Superintendent
+6.)Director 
+Successful bidder will be intimated letter on.
+48
+Page No. 33
+5.9 Online application for Godown/Warehouse license
+Assuming that the applicant is APMC, please clarify
+Applicant can be individual / institutions / APMCs
+49
+5.12 Mobile Application for 
+APMCs,  Point No. 13, Page 
+No. 34 of 54
+Change request up to 25%. (In case of additional module asked by Authority.)
+For the avoidance of doubt, We request the department to kindly Cap it in terms of Man 
+Months effort.
+Please refer to the Financial bid mentioned in the RFP Part-1 
+50
+4.7.4.2, Application 
+Performance
+Application Software related problems affecting all or most of the users e.g. 
+users are unable to log-in, users are unable to register, users are unable to 
+access the application etc.
+We request the department to  kindly Implement a directory service like LDAP or Active 
+Directory for centralized user authentication and authorization.
+No change, as per RFP. 
+51
+Point No. 5.13, Page No.34 
+of 54
+Director of Agriculture Marketing & Rural Finance (DAMRF), Gandhinagar, 
+reserves the  right to increase the total Scope of Work for web and mobile 
+application development activities by up to 25% of the initial agreed-upon 
+scope.
+We assume that there will be no integration between mobile  and web portal required.  
+Please confirm.
+Not decided yet. May be required, Successful bidder will be intimated 
+letter on.
+52
+Point No. 5.13, Page No.34 
+of 54
+Director of Agriculture Marketing & Rural Finance (DAMRF), Gandhinagar, 
+reserves the 
+right to increase the total Scope of Work for web and mobile application 
+development 
+activities by up to 25% of the initial agreed-upon scope. 
+We request the department to kindly give the quotation acoording to the Man-Months
+Please refer to the Fianncial bid mentioned in the RFP Part-1 
+53
+General
+We assume that there will be no deployment of  manpower on site. Please confirm.
+There will be no deployment of  manpower on site, However, 
+successful bidder has to coordinate with DAMRF regularly for Design, 
+development and during O&M period.  
+54
+5.3 E-NAM (Electronic 
+National Agriculture 
+Market) Day to Day, Page 
+No. 31 of 54
+Similar to the E-NAM portal, All the 224 APMC will upload the details of buying 
+and selling of agriculture products carried out under each APMC on this e-
+APMC portal (software application). Separate user login of 224 APMC will 
+required to be created 
+under this application 
+We assume that there will not integration of potal required with any developed solution 
+or API or Third Party services
+Integration required
+55
+Labour Laws, Point No. 3, 
+Page No. 40 of 54
+The bidder shall also ensure compliance to the following labour legislations:
+We assume that cost of compliances for the labour legislations will be borne by the 
+department. Please Confirm.
+There will be no deployment of  manpower on site, hence, it is bidders 
+responsibility. 
+56
+SECTION 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY,  Criteria 
+No. 2, page no. 36 of 54
+Quality Certifications
+ISO 9001:2015 & CMMi level 3 – 8 Marks 
+ISO 9001:2015 & CMMi level 4/5 – 14 Marks 
+ISO 9001:2015 & CMMi level 4/5 & [ISO 
+20000- 1:2011]/[ISO/IEC 27001 (Information 
+Security)] – 20 Marks 
+We request the department to kindly reframe the clause as:
+ISO 9001:2015 & CMMi level 3 – 8 Marks 
+ISO 9001:2015, CMMi level 3 and [ISO 
+20000- 1:2011]/[ISO/IEC 27001  – 14 Marks 
+ISO 9001:2015, CMMi level 3 & [ISO 
+20000- 1:2011]/[ISO/IEC 27001 (Information 
+Security)] – 20 Marks
+No change, as per RFP. 
+
+
+57
+SECTION 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY,  Criteria 
+No. 4, page no. 37 of 54
+The bidder should have executed a single 
+project of a similar nature for State, Central 
+Government, PSU, Large Enterprise during last 
+5 years’ worth at least 30 Lakh.
+• Project ≥ 30 Lakh = 10 marks 
+• Project ≥ 45 Lakh = 15 marks
+• Project ≥ 60 Lakh = 20 marks
+"Project of similar nature" means "The SP has 
+developed, deployed and maintained the 
+software application in which the work flow is 
+end-to-end digitized and the application is 
+capable of handling atleast 500 users"
+We assume that citizens and departmental users both will included in capable of handling 
+atleast 500 users with the user and departmental  licenses. Please Confirm.
+No change, as per RFP. 
+58
+Clause No.5.1 
+Page No.31
+5.1 Unified License Online Applications and Approvals:
+Approximately 1500 to 2000 traders from the total 224 APMCs across Gujarat 
+will submit applications.
+Will all 1500 to 2000 traders be users of APMC?
+Also, could you please share the application format?
+Successful bidder will be intimated letter on.
+59
+Clause No. 5.3
+Page No.31 
+5.3 E-NAM (Electronic National Agriculture Market) Day to Day: 
+This software application should display the static and dynamic information 
+from the AGMARKNET portal of the Govt. of India.
+Is integration with E-NAM required?
+Will the proposed solution require website development for APMC to display static and 
+dynamic information, or will this information be displayed within the portal?
+Does APMC require a Content Management System (CMS)?
+Yes
+60
+Clause No.5.4
+Page No.31
+5.4 Online Application for Schemes: 
+• Applications by APMC for below mentioned various schemes operated by the 
+Director of Agriculture Marketing & Rural Finance, Gandhinagar, Govt. of 
+Gujarat will be submitted online. 
+To apply for these schemes, does the applicant need to be a registered user of the 
+system, or can they apply directly for the schemes?
+Depends upon the scheme. 
+61
+Clause No. 5.10
+Page No.33
+5.10 Other Facilities required in this software application: 
+• The service provider needs to integrate web application with SMS, email and 
+payment gateway facility provided by DAMRF. Charges incurred on sending 
+SMS or payments made by payment gateway shall be borne by DAMRF 
+Could you please confirm which payment gateway will be used?
+Successful bidder will be intimated letter on.
+62
+Clause No. 5.12
+Page No.33
+5.12 Mobile Application for APMCs
+• Day to Day - to view the price of commodity, Price can be search as per the 
+Commodity. (APMC & Taluka or District wise) 
+• Prices of commodity can also be searched through location. 
+• Registration of farmers should be there in Mobile Application. 
+• The trader's login should be created. 
+• Listing of commodity by farmers with all the details like offered price, weight 
+etc. 
+Will users need to log in to view commodity prices on both the mobile app and the portal, 
+or can prices be viewed without logging in?
+It should be visible without logging in. 
+63
+-
+General
+How will traders and farmers register themselves? Is there any integration with Aadhaar, 
+PAN card, or other identification documents for registration?
+Please clarify if any other integrations are required for the registration process.
+Successful bidder will be intimated letter on.
+64
+Clause No.2.5
+Page No.8
+The Bidder should be Software Development firm/IT company and should be in 
+operations in successful Software Development, Software Customization & 
+Implementation anywhere in India for at least 5 Years as on date of submission 
+of bid.
+We kindly request GIL to amend the clause as below considering the start-up’s, bidders 
+who has similar experience
+ “The Bidder should be Software Development firm/IT company and should be in 
+operations in successful Software Development, Software Customization & 
+Implementation anywhere in India for at least 3 Years as on date of submission of bid”
+No change, as per RFP. 
+
+
+65
+(ii) Technical Evaluation:
+Clause No.2
+Page No.36
+Quality Certifications
+  ISO 9001:2015 & CMMi level 3 – 8 Marks
+  ISO 9001:2015 & CMMi level 4/5 – 14 Marks
+  ISO 9001:2015 & CMMi level 4/5 & [ISO 20000- 1:2011]/[ISO/IEC 27001 
+(Information Security)] – 20 Marks
+Considering the size and volume of scope of work and budgets, asking for CMMi Level 4/5 
+and 12 marks difference in criteria is a huge ask and advantage to the bidders who has 
+CMMi Level 4/5 certificate. Request GIL to amend the clause as below;
+  ISO 9001:2015 & CMMi level 3 – 8 Marks
+  ISO 9001:2015 & CMMi level 4/5 – 14 Marks
+  ISO 9001:2015 & CMMi level 3/4/5 & [ISO 20000- 1:2011]/[ISO/IEC 27001 (Information 
+Security)] – 20 Marks
+No change, as per RFP. 
+66
+Clause No. 5.14
+Page No.36
+*Development shall be using open source technology and open source 
+database. Please mention the technology stack that is going to be used like OS, 
+Database, Web, BI tool etc. GSDC doesn’t support Solaris.
+Please consider relaxing the requirement to develop solely with open-source technology 
+and allow companies the flexibility to propose development using any technology, 
+provided the database remains open source. However, the source code for the proposed 
+customized solution will remain the property of GIL and will be handed over upon the 
+contract's completion.
+No change, as per RFP. 
+67
+Page Number - 31, 5.3
+5.3 E-NAM (Electronic National Agriculture Market) Day to Day:
+This software application should display the static and dynamic information 
+from the AGMARKNET portal of the Govt. of India
+What kind of data will be fetched from this AGMARKNET Portal, pls share the quantum of 
+work.
+Successful bidder will be intimated letter on.
+68
+Page Number - 33, 5.8 
+5.8 Annual Activity:
+Annual Administrative report.
+Does this belong to any APMC or Department or new developed Portal, what kind of 
+Administrative reports Department is looking for kindly clarify & provide more clarification
+on the same ?
+Successful bidder will be intimated letter on.
+69
+Page Number - 33-34, 5.12 5.12 Mobile Application for APMCs
+Report generation & official credential should be created.
+What does this point Mean - "official credential should be created." - Kindly please explain 
+Which Users Official Credential should be created? What is link with Report Generation ? 
+How this will work?
+Successful bidder will be intimated letter on.
+70
+Page Number - 33, 
+5.7
+5.7 Appeal-related Tasks:
+Channel of Appeal (NA-OS-Deputy Director - Director -Summans/Notice- order)
+Which application or scheme will have Appeal channel? As we can see there are some 
+scheme & Application ? Pls clearify which application will have appeal channel.
+Successful bidder will be intimated letter on.
+71
+Page Number - 31
+For Traders
+5.1 Unified License Online Applications and Approvals
+5.9 Online application for Godown/Warehouse license.
+  
+For APMC
+5.3 E-NAM (Electronic National Agriculture Market) Day to Day
+5.5 Development of end-to-end digitized forms/applications which are 
+submitted by the Agricultural Produce Market Committee (APMC);
+5.4 Online Application for Schemes
+5.6 Application for Classification APMC
+5.7 Appeal-related Tasks
+5.8 Annual Activity
+As we can see there is some of scheme & some of application which are for Traders, 
+Applicant, and some are for APMC, we need to get confirm that the following Application 
+& Scheme are defined by is correct.
+It is multipurpose module, so it is as mentioned in scope of work. 
+72
+Page Number - 3
+SECTION 1: INVITATION FOR BIDS
+Tender Fee/EMD
+Will there be Tender Fee/EMD Exemption for MSME/Udyog Aadhar Certificate holders as 
+per GEM Terms & Conditions? Kindly clarify.
+Please refer to  the Corrigendum. 
+73
+Generic 
+Generic 
+Provide us the Approx number of Internal Department Users those will be part of 
+Application Workflow Processing?
+Successful bidder will be intimated letter on.
+74
+Generic 
+Generic 
+Is there onsite manpower deployment? Kindly clarify.
+There will be no deployment of  manpower on site, However, 
+successful bidder has to coordinate with DAMRF regularly for Design, 
+development and during O&M period.  
+75
+Section: 2: INSTRUCTIONS 
+TO BIDDERS
+Subsection: 2.5 
+Qualification/Eligibility 
+Criteria
+Point: 4
+Page No.: 8
+The Bidder should have successfully executed, at least 3 Software 
+Development projects during last 5 years as on date of submission of bids in 
+which one project should be executed in any Govt./PSU/Large Enterprise and 
+should not be less than INR 30 Lakh with project completion certificate.
+In reference to this clause, request to consider the projects of Software Operation and 
+Maintenance of Software wherein  software/portal development is also part of scope and 
+request to relax the value upto 14 Lakhs and consider projects under O&M/AMC as well.
+No change, as per RFP. 
+76
+Section: 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY
+Subsection: (ii) Technical 
+Evaluation
+Point: 3
+Page No.: 36
+The bidder organization may have a minimum of 20 full-time mobile and 
+application developers currently employed within the organization. All 
+developers must have been continuously employed by the bidder for a period 
+of at least one (1) year as of the date of submission of the bid.
+• 20 full time developers – 4 Marks
+• 21-35 full time developers – 7 Marks
+• 36- 50 full time developers – 10 Marks
+In reference to this clause, request to consider the developers employed by the 
+organization as on date of submission of bid.
+No change, as per RFP. 
+
+
+77
+Section: 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY
+Subsection: (ii) Technical 
+Evaluation
+Point: 4
+Page No.: 37
+The bidder should have executed a single project of a similar nature for State, 
+Central Government, PSU, Large Enterprise during last 5 years’ worth at least 
+30 Lakh.
+• Project ≥ 30 Lakh = 10 marks
+• Project ≥ 45 Lakh = 15 marks
+• Project ≥ 60 Lakh = 20 marks
+"Project of similar nature" means "The SP has developed, deployed and 
+maintained the software application in which the work flow is end-to-end 
+digitized and the application is capable of handling atleast 500 users"
+In reference to this clause, request to also consider the software projects in similar work 
+definition. As large scale enterprise projects may not have end-to-end digitization of 
+application but any single application  such as HRMS / Purchase / Inventory etc, 
+No change, as per RFP. 
+78
+Section - 1 Invitation for 
+Bids
+Point - 3
+Page No.: 3
+No Consortium will be allowed
+In reference to this clause, request to allow consortium of maximum of 2 members.
+No change, as per RFP. 
+79
+Section - 4 Special 
+Conditions of Contract
+4.4 Timeline for DAMPR 
+Project
+4.4.1 Time Limit for DAMRF 
+Project
+Sr. No. 4
+Page No.: 25
+Design, Development, UAT Completion for Applications
+after going through the scope of work, the requirement gathering and SRS itself will take 
+time of 2-3 months and most of government department requirements comes when we 
+request for UAT Acceptance. Request to keep the project timeline which is feasible at the 
+bidder level. 
+or
+Request to provide 3 months timeline for development after all the requirements are 
+finalized by the Department including SRS sign off.
+No change, as per RFP. 
+80
+2.5 Qualification/Eligibility 
+Criteria
+Page # 8
+II. The Bidder should be Software Development firm/IT company and should be 
+in operations in successful Software Development, Software Customization & 
+Implementation anywhere in India for at least 5 Years as on date of submission 
+of bid.
+1. To get experienced bidder, we request below change in this clause. Kindly consider.
+II. The Bidder should be Software Development firm/IT company and should be in 
+operations in successful Software Development, Software Customization & 
+Implementation anywhere in India for at least 10 Years as on date of submission of bid.
+No change, as per RFP. 
+81
+2.5 Qualification/Eligibility 
+Criteria
+Page # 8
+III. The Bidder should have an annual turnover from IT Software related 
+services (Software Development/ Software Customization or Implementation) 
+of at least Rs.2 Crore during each of the last three financial years (2020-21, 
+2021-22 and 2022-23) or cumulative turnover of Rs.6 Crore for the last three 
+financial years (2020-21, 2021-22 and 2022-23)
+1. To get experienced bidder, we request below change in this clause. Kindly consider.
+III. The Bidder should have an annual turnover from IT Software related services (Software 
+Development/ Software Customization or Implementation) of at least Rs.20 Crore during 
+each of the last three financial years (2021-22, 2022-23 and 2023-24) or cumulative 
+turnover of Rs.60 Crore for the last three financial years (2021-22, 2022-23 and 2023-24)
+No change, as per RFP. 
+82
+2.5 Qualification/Eligibility 
+Criteria
+Page # 8
+IX. Employee Strength: The bidder should have at least 20 no. of software 
+developers on it’s pay roll continuously working for the past one year at 
+different levels as on bid submission date.
+1. To get technical capable bidder, we request below change in this clause. Kindly 
+consider.
+IX. Employee Strength: The bidder should have at least 200 no. of software developers on 
+it’s pay roll continuously working for the past one year at different levels as on bid 
+submission date.
+No change, as per RFP. 
+83
+3.8 Inspection/Testing
+Page # 18
+Application Security Audit:
+In addition to inspection & testing, the SP shall also be responsible to get web 
+and mobile application security audited by CERT-In Empaneled application 
+security Auditors at the cost of the SP and submit the Security Audit Clearance 
+Certificate issued by CERT-In Empaneled Security Auditors.
+1. Total how many security audit(s) should bidder consider in their bid during entire 
+tenure of the project (Before Go Live and During Operation & Maintenance)?
+Bidder has to carry out security audit single time before making the 
+applications Go-Live. If on need basis, any one or more than one 
+modules are developed and to be made Go-Live than successful bidder 
+has to complete and provide safe host certificate of the particular 
+modules and thereafter as and when remaining modules are 
+developed, bidder has to carry out security audit accordingly.
+84
+3.9 Change Request
+Page # 18
+3.9.1 During the contract period (Until Go-live), any change in scope of work, or 
+in design and development shall not be construed as change Request order 
+and instead it will become part of scope of work accompanying this bid 
+document and it will be invariably accepted by the bidder without any 
+additional cost identified in the Financial Bid Part 1 (line item no.1).
+1. Part 1 (Line Item No. 1) also includes 5 years of operation and maintenance. How 
+changes or enhancement will be considered during operation & maintenance period? Will 
+it be considered as Change Request and paid as per actual? Please confirm.
+No change, as per RFP. 
+Please refer to the Fianncial bid mentioned in the RFP Part-1 
+85
+4.7.3 Implementation 
+related penalty of service 
+levels
+Page # 27
+The overall Penalty during the project is capped at 10% of total Contract value 
+of this project. If performance of the bidder doesn’t improve and reached 
+beyond the maximum penalty cap (at respective milestone penalty level or at 
+total contract value), then DAMRF may have rights to terminate the contract. 
+In that case the Performance Bank Guarantee of the bidder will be forfeited.
+1. As per industry standard, overall penalty during the project should be capped at 5% of 
+total contract value. Kindly consider.
+No change, as per RFP. 
+
+
+86
+Penalty Calculations
+Page # 29
+Any availability/uptime requirements under SLA shall be subject to standard 
+downtime, the time lost due to any of the following reasons are taken into 
+account while calculating the availability/ uptime requirement:
+1. Time lost due to power failures;
+2. Time taken to recover the system because of power failures;
+3. Time taken for scheduled maintenance/ troubleshooting either for 
+preventive purposes or improvement in function or other purposes;
+4. Time taken for reconfiguration or other planned downtime situations;
+5. Scheduled shutdowns as required by Department
+1. We assume that these points will NOT be considered to calculate SLA and penalty. 
+Please confirm.
+No change, as per RFP. 
+87
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+Registration of farmers should be there in Mobile Application.
+1. 1. How Farmers will be registered? 
+2. Will there be any approval process for farmer registration? If yes, then please elaborate 
+registration and approval process.
+Successful bidder will be intimated letter on.
+88
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+The trader's login should be created.
+1. How Traders will be registered? 
+2. Will there be any approval process for Traders registration? If yes, then please 
+elaborate registration and approval process.
+Successful bidder will be intimated letter on.
+89
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+Report generation & official credential should be created.
+1. How Official will be registered? 
+2. Will there be any approval process for Traders registration? If yes, then please 
+elaborate registration and approval process.
+3. Will these reports available in mobile applications only?
+4. Please share list of reports along with its sample format.
+Successful bidder will be intimated letter on.
+90
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+General
+1. We assume that there will be a common application (Android based) for all three types 
+(Farmers, Traders and Officials) of users and based on the user type they will be able to 
+see options. Please confirm.
+Successful bidder will be intimated letter on.
+91
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+General
+1. Please share list of features / functionalities to be displayed to each type of user 
+(Farmers, Traders and Officials) once they login.
+Successful bidder will be intimated letter on.
+92
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+General
+1. From where master data (commodity, location etc.) will be managed? From mobile 
+appliation (by officials) or from web application?
+Successful bidder will be intimated letter on.
+93
+SECTION 5: SCOPE OF 
+WORK
+5.12 Mobile Application for 
+APMCs
+Page # 33
+General
+1. Will this mobile application be connected with the web application? If yes, then please 
+elaborate how it will be connected and what data will need to be shared between web 
+application and mobile application?
+2. What will be the common features / modules / data between web application and 
+mobile appliation?
+Successful bidder will be intimated letter on.
+
+
+94
+SECTION 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY
+Page # 36
+1 Cumulative turnover of bidder during the last three years ending 31st March 
+2023 from IT business
+  Turnover ≥ 6 Cr = 4 marks
+  Turnover ≥ 9 Cr. = 7 marks
+  Turnover ≥ 12 Cr. = 10 marks
+1. To keep this inline with the Qualification / Eligibility Criteria we suggest below changes 
+in this clause.
+1 Cumulative turnover of bidder during the last three years ending 31st March 2023 from 
+IT business
+  Turnover ≥ 60 Cr = 4 marks
+  Turnover ≥ 90 Cr. = 7 marks
+  Turnover ≥ 120 Cr. = 10 marks
+No change, as per RFP. 
+95
+SECTION 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY
+Page # 36
+3 The bidder organization may have a minimum of 20 full-time mobile and 
+application developers currently employed within the organization. All 
+developers must have been continuously employed by the bidder for a period 
+of at least one (1) year as of the date of submission of the bid.
+• 20 full time developers – 4 Marks
+• 21-35 full time developers – 7 Marks
+• 36- 50 full time developers – 10 Marks
+1. To keep this inline with the Qualification / Eligibility Criteria we suggest below changes 
+in this clause.
+3 The bidder organization may have a minimum of 20 full-time mobile and application 
+developers currently employed within the organization. All developers must have been 
+continuously employed by the bidder for a period of at least one (1) year as of the date of 
+submission of the bid.
+• 200 full time developers – 4 Marks
+• 201 - 250 full time developers – 7 Marks
+• 251 - 300 full time developers – 10 Marks
+No change, as per RFP. 
+96
+SECTION 6: TECHNICAL 
+EVALUATION 
+METHODOLOGY
+Page # 37
+5 Presentation on proposed solution on web Application requirement.
+1. Presentation is a subjective component which is having 40 marks. This is very high 
+compared to standard Technical Evaluation. We therefore request you to keep it between 
+20 to 25 and change other objective type of component accordingly. Kindly consider.
+No change, as per RFP. 
+97
+Part-2 : ATS/AMC, OS, 
+Database Licenses and any 
+other readymade software 
+required to run the web 
+and mobile application for 
+5 years:
+Page # 40
+2. Man-month rate will be calculated by dividing particular year by 12.
+3. Per day rate will be calculated by dividing the derived man-month rate by 30.
+1. This section is purely related to ATS / AMC of OS License, Database License and Any 
+other readymade software license. Hence calculating man-month rate or day rate will be 
+irrelevant. Please remove this.
+Please refer to the Fianncial bid mentioned in the RFP Part-1 
+98
+Labour Laws
+Page # 41
+• Before replacing a resource, a minimum of one months’ time to the office of 
+the DAMRF along with panel must be given to choose the substitution from 
+the panel else penalties and pro-rata deduction in the quarterly fees will be 
+made.
+1. As bidder is not required to deploy any resources, this clause will not come into picture. 
+Kindly remove this.
+This clause stands to be considered as deleted.
+99
+Payment terms
+Page # 42
+• Quarterly invoice payment will be evaluated based on actual available 
+resource in the month using the following formula:
+o Quarterly Payment = Quarterly Payment Value x Actual Man-days available in 
+the Quarter / Total Man-days in the Quarter
+o Over and above penalty will also be levied as per SLA.
+1. As bidder is not required to deploy any resources, this clause will not come into picture. 
+Kindly remove this.
+This clause stands to be considered as deleted.
+100
+General
+Extension
+1. We request you to allow 8 to 10 working days to all the bidders to submit their bids 
+once you publish responses to the bidder's queries. Kindly consider.
+Bidders are advised to refer to the GeM Portal and GIL website 
+regularly 
+101
+Qualification/Eligibility 
+Criteria Point -3
+The Bidder should be Software Development firm/IT company and should be in 
+operations in successful Software Development, Software Customization & 
+Implementation anywhere in India for at least 5 Years as on date of submission 
+of bid.
+We kindly request you to please  , reducing the minimum operational experience from 5 
+years to 4 years. We believe that this adjustment would allow a wider range of 
+participation .                                                                                                                                          
+In our 4 years of existence, we have successfully deployed multiple projects, with 
+documentary evidence available and will beattached in the tender documents. 
+We kindly request a reduction in the experience criteria from 5 years to 4 years to allow 
+for our participation.
+No change, as per RFP. 
+102
+Page No. 36, Technical 
+Evaluation:
+Quality Certifications
+  ISO 9001:2015 & CMMi level 3 – 8 Marks
+  ISO 9001:2015 & CMMi level 4/5 – 14 Marks
+  ISO 9001:2015 & CMMi level 4/5 & [ISO
+20000- 1:2011]/[ISO/IEC 27001 (Information
+Security)] – 20 Marks
+We request you to amend this clause as -
+Quality Certifications
+  ISO 9001:2015 & CMMi level 3 – 15 Marks
+  ISO 9001:2015 & CMMi level 4 – 17 Marks
+  ISO 9001:2015 & CMMi level 5 & [ISO
+20000- 1:2011]/[ISO/IEC 27001 (Information
+Security)] – 20 Marks
+No change, as per RFP. 
+
+
+103
+Moreover, we seek clarification on the following points:
+1. Contract Period:
+The GEM document mentions the contract period as 5 Year(s), 6 Month(s), and 3 Day(s), 
+while the RFP states a contract period of 5 years. Could you please confirm the correct 
+contract duration?
+2. EMD Submission:
+Is it possible to submit the EMD in the form of a Demand Draft, as an alternative to the 
+bank gurantee method?
+We would appreciate your prompt response to these queries to help us proceed with the 
+bid preparation.
+For clarity on Contract Period, please refer to the RFP. 
+104
+GeM Representations
+GeM Representations
+For fair competition and enable highly quality bid participation, we request to create 
+separate marking schemes for CMMI level and ISO certifications instead of clubbing them. 
+Otherwise, inspite of being CMMI3-ISO 9001-27001-20000-1, 3 important contracts of 
+Ministry of Agriculture, cumulative turnover more than 12Cr, we would still be deprieved 
+of a huge 12 marks (being CMMI 2 instead of 4/5) whereas the fact is there is not much 
+difference netween CMMI 3 ver 2.0 and CMMI 4/5. Kindly reconsider for quality 
+participation.
+No change, as per RFP. 
+105
+GeM Representations
+GeM Representations
+Kindly allow the EMD Exempted for MSME as per GEM T&C and previous bid no: 
+GEM/2024/B/4572894 dated 09.02.2024 
+Please refer to  the Corrigendum. 
+
+
+Corrigendum (22.10.2024) 
+Tender for Selection of Agency for Design, Development, Implementation 
+and Operation & Maintenance of web and mobile application for the office of 
+the Director of Agriculture Marketing & Rural Finance, Gandhinagar, Govt. of 
+Gujarat. (GEM/2024/B/5456524 dated 05.10.2024) 
+Change-1 
+Existing Clause (GeM Bid – Para 8. Buyer Added Bid Specific ATC) 
+EMD Exemption mentioned in the GeM GTC will NOT be applicable under this bid. Bidders shall submit 
+EMD of Rs.1,10,000/- in the form of an unconditional Bank Guarantee (which should be valid for 12 
+months from the last date of bid submission) of any Nationalized Bank including the public sector bank 
+or Private Sector Banks or Commercial Banks or Co-Operative Banks and Rural Banks (operating in 
+India 
+having 
+branch 
+at 
+Ahmedabad/Gandhinagar) 
+as 
+per 
+the 
+G.R. 
+no. 
+FD/MSM/e-
+file/4/2023/0057/DMO dated 21.04.2023 issued by Finance Department or further instruction issued 
+by Finance department time to time; in the name of “Director, Agriculture Marketing & Rural Finance, 
+Gujarat State, Gandhinagar. Address: Block No.13/2, Dr. Jivraj Mehta Bhavan, Gandhinagar.” payable 
+at Gandhinagar (as per prescribed format given at Section10) and must be submitted along with the 
+covering letter. 
+Revised Clause  
+EMD Exemption mentioned in the GeM GTC will NOT be applicable under this bid. Bidders shall submit 
+EMD of Rs.1,10,000/- in the form of an unconditional Bank Guarantee (which should be valid for 12 
+months from the last date of bid submission) of any Nationalized Bank including the public sector bank 
+or Private Sector Banks or Commercial Banks or Co-Operative Banks and Rural Banks (operating in 
+India 
+having 
+branch 
+at 
+Ahmedabad/Gandhinagar) 
+as 
+per 
+the 
+G.R. 
+no. 
+FD/MSM/e-
+file/4/2023/0057/DMO dated 21.04.2023 issued by Finance Department or further instruction issued 
+by Finance department time to time; in the name of “Director, Agriculture Marketing & Rural Finance, 
+Gujarat State, Gandhinagar. Address: Block No.13/2, Dr. Jivraj Mehta Bhavan, Gandhinagar.” payable 
+at Gandhinagar (as per prescribed format given at Section10) and must be submitted along with the 
+covering letter. The Bidder may be eligible for exemption from the Earnest Money Deposit (EMD) as 
+per the provisions outlined in the GeM General Terms and Conditions (GTC). Start-Up is Exempted 
+from EMD. MSME is Exempted only when MSME unit is OEM or developing end to end software by 
+themselves only & MSME Certificate having code Division 62: Computer programming, consultancy 
+and related activities will only be exempted. 
+ 
+Change-2 
+Existing clause  
+Bid Document – Section 5: Scope of Work, Sub-Section 5.12- Mobile Application for APMCs 
+• 
+Android based Application. 
+Revised clause  
+Bid Document – Section 5: Scope of Work, Sub-Section 5.12- Mobile Application for APMCs 
+• 
+As part of the scope of work, the successful bidder shall be required to design, develop, and 
+deliver a fully functional Mobile Application for both Android and iOS platforms. 
+ 
+
+
+Please submit undertaking letter as per Ministry of Finance Memorandum No.: F. No.6/18/2019-PPD dated  
+23.07.2020 & Office Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 as per performa given below 
+on OEM letterhead as well as on bidder’s letterhead. 
+ 
+ 
+ 
+ 
+On letterhead of Bidder 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of Finance, Dept. of 
+Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a land border 
+with India. I certify that we as a bidder and quoted product from following OEMs are not from such a country or, if 
+from such a country, these quoted products OEM has been registered with competent authority. I hereby certify 
+that these quoted product & its OEM fulfills all requirements in this regard and is eligible to be considered for 
+procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence for 
+valid registration by the competent authority, otherwise GIL/End user Dept. reserves the right to take legal action 
+on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+
+
+ 
+On letterhead of OEM 
+ 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 & Office 
+Memorandum No.: F.18/37/2020-PPD dated  08.02.2021 published by Ministry of Finance, Dept. of 
+Expenditure, Public Procurement division 
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a land border 
+with India. I certify that our quoted product and our company are not from such a country, or if from such a 
+country, our quoted product and our company have been registered with competent authority. I hereby certify that 
+these quoted product and our company fulfills all requirements in this regard and is eligible to be considered for 
+procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence for 
+valid registration by the competent authority; otherwise GIL/End user Dept. reserves the right to take legal action 
+on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 
+ 

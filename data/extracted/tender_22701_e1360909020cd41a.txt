@@ -1,0 +1,401 @@
+Sr No
+Bid clause /Page no/
+Bid clause
+Query from bidder
+Response to the vendor
+1
+Financial BOQ (Section 3.7)
+Name of Service - Google Vision API(OCR)
+Unit Rate (Without GST) - Per 1000 Pages 
+The Financial BOQ (Section 3.7) lists 'Google Vision API (OCR)' billed at 
+'Per 1000 Pages'. However, Google Vision API does not offer OCR billed 
+per 1000 pages instead Google Vision API bills per image/feature. For 
+example, if you apply Face Detection and Label Detection to the same 
+image, you are billed for one unit of Label Detection and one unit for Face 
+Detection. Google Document AI bills 'Per 1000 Pages', is also explicitly 
+referenced in the Scope of Work Section 3. Kindly clarify whether the 
+BOQ line item should read 'Google Document AI (OCR Processor)' so we 
+can quote accurately and the BOQ reflects the correct Google product.
+The required OCR service is Google Cloud Vision API 
+using the DOCUMENT_TEXT_DETECTION feature, 
+invoked per single page-image (the system submits one 
+image per page, with one OCR feature per image). 
+Vision API bills one unit per image per feature
+1,000 pages = 1,000 image-OCR units 
+Bidders shall quote the rate per 1,000 pages for Google 
+Cloud Vision API OCR. Google Document AI is not 
+required."
+2
+Scope of Work (Section 3)
+Mentions 'Google Document AI' for OCR 
+processing, while the Financial BOQ 
+mentions 'Google Vision API (OCR)' 
+Are we free to use Google Document AI as the OCR service, or is Google 
+Vision API specifically mandated? These are two distinct Google Cloud 
+products with different capabilities and pricing structures.
+Google Cloud Vision API 
+(DOCUMENT_TEXT_DETECTION) is the required OCR 
+service. Bidders shall quote for Vision API. Google 
+Document AI is not required;
+3
+Financial BOQ (Section 3.7)
+No development/professional services 
+line item in BOQ
+The Scope of Work includes significant professional services deliverables 
+— hybrid architecture design, API integration layer, Vector DB 
+integration, RBAC module, audit logging system, usage dashboard, and 
+officer training. However, the Financial BOQ has no line item for 
+development or professional services cost. Should these costs be included 
+within the API unit rates, or will a separate BOQ line item be permitted 
+for professional/integration services?
+The on-premise application is already developed and 
+owned by GIL; no application development is required 
+from the bidder. The bidder's scope is limited to (a) 
+provisioning the Google Cloud API services [ Need 
+access of dashboard to show the actual usage ]
+4
+Financial BOQ (Section 3.7)
+ Input vs output token billing for Gemini
+Google Gemini 2.5 Flash charges input and output tokens at different 
+rates ($0.30 and $2.50 per 1M tokens respectively). The BOQ has a single 
+line item 'LLM per 1M tokens' with one rate column. Should bidders 
+quote a blended rate combining input and output, or will two separate 
+line items be added for input tokens and output tokens?
+Separate input and output token rates are required. 
+Input and output are priced very differently , so the 
+LLM line will be split into two sub-items (Input tokens / 
+Output tokens), billed on actual usage.
+5
+Scope of Work (Section 4.2-4.3)
+ DOCX and TEXT file handling
+The scope requires support for DOCX and TEXT file formats. These 
+formats contain machine-readable text and do not require OCR 
+processing. Can GIL confirm that text extraction from DOCX and TEXT files 
+will be handled on-premise without Document AI API calls, and that the 
+OCR BOQ line item applies only to PDF and image-based documents?
+-Document AI is not being used.
+-DOCX / TXT format are not in the system only the 
+Images (extracted from the PDFs) goes for OCR
+6
+Eligibility Criteria/ Pre-Qualification 
+Criteria: (Section 1.2)
+Authorization letter from Google
+Eligibility Criterion 9 requires 'Manufacturing Authorization of Google'. 
+This criterion is typically applicable to hardware/product resellers on 
+GeM. Since this tender is for Google Cloud API services (software), can 
+GIL clarify what specific document from Google is acceptable — for 
+example, Google Cloud Partner Advantage certificate, Google Cloud 
+reseller authorization letter, or a letter from Google India confirming 
+authorized API service provision?"
+Yes, Google India is authorized a bidder for providing 
+the service Google Gemini by Authorization letter for 
+this tender
+7
+Payment Terms (2.20.1.1)
+The RFP states payment will be made 
+quarterly based on actual API usage
+Payment on actual consumption - "The RFP states payment will be made 
+quarterly based on actual API usage. Can GIL clarify the minimum 
+guaranteed consumption, if any? If actual usage is near zero in a quarter 
+due to low adoption by government officers, will the bidder still be 
+compensated for the development and integration work already 
+delivered?
+No Change
+8
+Extension of Contract (2.20)
+Section 2.20 states the contract may be 
+extended for one more year at the same 
+financial rate
+Google Cloud API prices may change during the contract period. If Google 
+increases its API pricing during the extension/current year, will the bidder 
+be permitted to revise rates accordingly, or will the original quoted rates 
+be strictly enforced?
+No Change
+9
+Penalty Clause (Section 2.20.1.2.1 )
+Section 2.20.1.2.1 states a penalty of 0.5% 
+of order value per week for delay in 
+deliverables.
+Can GIL clarify what constitutes the 'order value' for penalty calculation 
+— is it the total estimated contract value based on indicative quantities, 
+or the actual consumption value billed to date?
+10% penalty of actual consuption.
+10
+Scope of Work (Section 3)
+The scope states the bidder must integrate 
+with GIL's existing on-premise document 
+management application and existing chat 
+UI
+ Will GIL provide complete technical documentation, API specifications, 
+and source code access for the existing application after work order 
+issuance, so that we can design the integration accurately?
+GIL team developed the application in-house so bidder 
+needs to provide required APIs as requested as per 
+RFP.
+11
+Section 2.20.1.1 – Payment Terms, 
+Page 11
+"The payment will be released quarterly 
+on actual usage of Service as mentioned in 
+Detailed BOQ of Financial table."
+Since the underlying Google Cloud services (Google Vision API / OCR, 
+Gemini LLM, and Embedding APIs) are billed by Google to the service 
+provider on a monthly basis, a quarterly payment cycle creates a 
+structural cash flow mismatch for the bidder. The bidder is required to 
+pre-fund Google API costs for up to three months before receiving any 
+reimbursement from GIL, which increases working capital burden and 
+financial risk — particularly given that consumption volumes are not 
+guaranteed. It is therefore requested that the payment cycle be revised 
+from quarterly to monthly, based on actual usage reported and verified 
+at the end of each calendar month. This will bring the payment terms in 
+alignment with the billing cycle of the underlying cloud platform and 
+reduce the financial risk premium that bidders would otherwise be 
+required to build into their quoted rates.
+No Change
+12
+Section 6.4 – Performance and 
+Reliability, Page 18
+"One dashboard will be 
+developed/provided to see the actual 
+usage of Google Gemini Service."
+The RFP explicitly mandates development and provisioning of a usage 
+monitoring dashboard as part of the deliverables. However, the Detailed 
+BOQ contains no separate line item for this deliverable. It is unclear 
+whether the dashboard development, hosting, and maintenance cost is 
+expected to be absorbed within the API consumption rates quoted in the 
+BOQ, or whether a separate line item will be added to the BOQ for this 
+deliverable. Pricing a development deliverable within a per-unit API 
+consumption rate is technically inappropriate and would result in non-
+transparent pricing. It is therefore requested that GIL either add a 
+separate line item in the BOQ for the Usage Monitoring Dashboard, or 
+explicitly clarify in a corrigendum that this deliverable is to be provided at 
+no additional cost and is included within the API service rates.
+ Need access of dashboard/console to show the actual 
+usage.
+Response to the PreBid Queries for RFP for Provision of Google Gemini Services, Government of Gujarat for Gujarat Informatics Limited Gandhinagar, Gujarat
+
+
+13
+Section 3 – Scope of Work, Page 14-
+15
+"The bidder must provide the following 
+professional services to deliver the 
+project: Hybrid Architecture Design — 
+Create a detailed design of the secure data 
+flow between the on-premise 
+environment and Google Cloud APIs."
+The RFP scope of work clearly requires the bidder to provide professional 
+services including hybrid architecture design, secure data flow 
+documentation, and integration services between the on-premise GSDC 
+environment and Google Cloud APIs. These are one-time professional 
+service deliverables distinct from ongoing API consumption. However, the 
+Detailed BOQ contains only three line items — all of which are recurring 
+API usage costs (OCR per 1000 pages, LLM per 1 million tokens, 
+Embedding per 1 million tokens). There is no line item for professional or 
+implementation services. Embedding one-time professional service costs 
+within per-unit API rates will distort pricing, make evaluation non-
+comparable across bidders, and create disputes during contract 
+execution. It is therefore requested that GIL add a separate line item in 
+the BOQ for Professional / Implementation Services, or explicitly clarify 
+that all professional services including architecture design, integration, 
+and deployment are to be delivered at no additional cost and are 
+included within the API consumption rates.
+GIL team developed the application in-house so bidder 
+needs to provide required APIs as requested as per 
+RFP.
+14
+Clause 1.1.4 – General Instructions, 
+Page 3 and Clause 3.7 – Financial 
+Bid, Page 19
+The RFP states that quantities mentioned 
+in the Financial Bid are indicative 
+estimates for financial evaluation and GIL 
+does not guarantee the volume of work. 
+The successful bidder shall be paid for 
+actual units consumed.
+We request the department to kindly provide the estimated monthly and 
+annual consumption volume for OCR pages, Gemini LLM tokens, and 
+Embedding tokens for better price estimation and capacity planning. 
+Also, kindly clarify whether any minimum committed quantity or 
+minimum billing commitment will be applicable during the contract 
+period, since pricing of cloud/API services may vary based on expected 
+usage volumes. Without indicative quantities, it is not possible to 
+compute a meaningful Grand Total in the BOQ or quote commercially 
+viable per-unit rates.
+No Change
+15
+Clause 3.7 – Financial Bid, Page 19
+The BOQ provides unit-rate-based items 
+for Google Vision API (OCR), LLM Gemini 
+2.5 Flash or updated, and Embedding. 
+However, the RFP does not specify the 
+expected input/output token split, 
+document volume, document size, average 
+pages per document, or expected number 
+of users.
+Kindly provide indicative assumptions for: 
+(a) expected number of concurrent and total users, 
+(b) monthly document volume and average document size/pages, 
+(c) expected OCR page volume per month, 
+(d) expected input and output token consumption split for LLM per 
+month, and 
+(e) expected embedding token volume per month. This will help bidders 
+quote realistic and commercially viable rates for the BOQ line items and 
+plan API capacity accordingly.
+Roughly Document size : mostly between 0-30 range
+16
+Clause 1.2 – Eligibility Criteria, Sr. 
+No. 4 and 5, Pages 3–4
+The RFP requires experience with Central 
+Government / State Government / PSU 
+project on proposed cloud platform and 
+experience with AI/ML features within last 
+3 years.
+Kindly clarify: 
+(a) whether projects executed for Government departments, PSUs, 
+Government undertakings, smart city SPVs, statutory bodies, or public 
+sector institutions through SI / implementation partner arrangements will 
+be considered valid experience; 
+(b) whether Work Orders / LOA / LOI along with client certificates / go-
+live confirmation / completion certificates will be accepted as supporting 
+documents for experience claims; and 
+(c) whether experience of the parent company or group entity may be 
+considered for eligibility purposes.
+Accepted except Point C
+17
+Clause 1.2 – Eligibility Criteria, Sr. 
+No. 9, Page 4
+The RFP requires Manufacturing 
+Authorization of Google and an 
+authorization letter from Google as 
+mandatory eligibility document.
+Kindly clarify the exact form and scope of Google authorization required. 
+Since Google Cloud and Gemini services are typically supplied through 
+Google Cloud authorized partners and resellers, kindly confirm: 
+(a) whether an authorization letter from an authorized Google Cloud 
+Partner / Reseller will be acceptable in lieu of a direct Google 
+authorization letter; 
+(b) whether the authorization is required specifically for Google Gemini, 
+Google Vision API, Embedding API, or Google Cloud services in general; 
+and 
+(c) the minimum validity period of such authorization letter as of bid 
+submission date.
+Yes, Google India is authorized a bidder for providing 
+the service Google Gemini by Authorization letter for 
+this tender
+18
+Clause 6.4 – Performance and 
+Reliability, Page 18
+The RFP states that the system shall be 
+designed to handle concurrent users and 
+large documents without material 
+degradation in response time. However, 
+specific performance benchmarks, SLAs, 
+and uptime requirements are not defined 
+in the RFP.
+Kindly specify the measurable performance parameters including: (a) 
+expected number of concurrent users and peak requests per minute; 
+(b) maximum document size and maximum number of pages per 
+document; 
+(c) expected API response time for OCR, LLM, and Embedding calls; 
+(d) uptime/availability SLA percentage; and 
+(e) acceptable processing time for large documents. These parameters 
+are essential to size the solution correctly, define measurable service 
+levels, and design an appropriate architecture.
+- approximate usage is for llm or ocr is not gauranted at 
+this moment.
+- Document size : mostly between 0-30 range, and 
+some document can be long as 700-800 pg or more 
+(rare but very possible)
+-The bidder shall provision the highest applicable 
+Gemini API tier with rate limits sized to sustain GIL's 
+peak concurrent usage, under Google Cloud's published 
+SLA (~99.9%). 
+19
+Section 6.4 – Performance and 
+Reliability, Page 18 and Section 3 – 
+Scope of Work, Page 14–15
+The RFP states that one dashboard will be 
+developed/provided to see the actual 
+usage of Google Gemini Service. The BOQ 
+has no separate line item for dashboard 
+development.
+Kindly clarify the detailed dashboard requirements including: 
+(a) user roles and access levels for the dashboard; 
+(b) usage metrics to be displayed — OCR page count, input/output token 
+count, embedding token count, API success/failure logs; 
+(c) reporting frequency and export formats; 
+(d) invoice reconciliation report requirements; 
+(e) retention period for usage records; and 
+(f) whether dashboard acceptance will be part of go-live criteria. 
+Additionally, kindly confirm whether a separate BOQ line item will be 
+added for dashboard development and maintenance or whether it is 
+included within the API rates.
+No saperate development required. Only provide the 
+console of Google to showcase the usage of actual 
+consuption.
+20
+Clause 3.5 – Copyright, Page 18
+The RFP states that any software, 
+hardware, data, awards, certificates, 
+patent, etc. shall be absolute property of 
+GIL and the successful bidder shall transfer 
+all IPR in the software developed, 
+relinquishing source code within five days 
+from acceptance.
+We request clarification that pre-existing intellectual property including 
+reusable frameworks, libraries, accelerators, connectors, tools, templates, 
+know-how, and third-party or OEM components used by the bidder shall 
+remain the property of the respective owner or bidder. Only project-
+specific custom deliverables developed exclusively for GIL under this 
+assignment should be transferred to GIL. Kindly confirm this 
+interpretation, as a blanket IPR transfer clause covering pre-existing IP 
+would be commercially unacceptable and may deter qualified bidders.
+No Saperate development required. Bidder needs to 
+provide only Google Gemini API only.
+
+
+21
+Clause 2.20.1.6 – Performance Bank 
+Guarantee, Page 12
+The successful bidder has to submit PBG 
+@ 10% of total order value within 15 days 
+from receipt of notification of award. The 
+clause states that performance security 
+will be valid up to the end of warranty 
+period.
+Since this is a one-year consumption-based API service procurement and 
+not a conventional software development contract with a warranty 
+period, kindly clarify: 
+(a) the exact validity period of PBG — whether it is one year from work 
+order or beyond; 
+(b) whether PBG will be released promptly after completion of the one-
+year contract period and settlement of all obligations; and 
+(c) whether the PBG value will be calculated on the awarded estimated 
+contract value or on actual consumption value at contract end. 
+Also, kindly confirm whether the GeM bid document marking ePBG as 
+'No' overrides or is supplementary to the RFP PBG requirement.
+A. PBG period is 15 months 
+B. PBG will be release asap after the work completion 
+and no dues of bidder remaining under this tender 
+C. PBG value is based on contract value. 
+PBG will be required to submit a 10% of contract value 
+/work order value even if it is mentioned in gem bid 
+document as 'NO'
+22
+Clause 2.20 – Extension of Contract, 
+Page 11
+The RFP states that the contract can be 
+extended on mutual agreement for the 
+next one year without updation/changes 
+in financial rate.
+Since Google Gemini, OCR, and Embedding API prices, model versions, 
+applicable taxes, and OEM commercial terms are subject to change over 
+time and are not within the bidder's control, we request the department 
+to clarify whether the financial rates for the extended contract period 
+may be mutually reviewed and revised based on prevailing OEM/cloud 
+pricing and applicable taxes at the time of extension. Locking rates for an 
+extended period on consumption-based cloud services creates 
+unquantifiable commercial risk for bidders and may result in service 
+disruption.
+No change

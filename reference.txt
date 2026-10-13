@@ -1,0 +1,23 @@
+We are building RAG Detective, an AI-powered tool that collects tender data from websites and PDFs, extracts and stores the text and embeddings in PostgreSQL, and automatically diagnoses why a RAG system gives incorrect 
+answers—whether due to OCR, chunking, retrieval, conflicting information, or reasoning errors.
+
+RAG Failure Diagnosis Tool/
+├── ingestion/
+│   ├── extract_text.py
+│   └── chunk_documents.py
+├── retrieval/
+│   ├── vector_search.py
+│   ├── keyword_search.py
+│   └── hybrid_search.py
+├── diagnosis/
+│   ├── retrieval_diagnostics.py
+│   ├── evidence_verification.py
+│   ├── answer_verification.py
+│   └── root_cause.py
+├── evaluation/
+│   ├── evaluation_cases.json
+│   └── evaluate_rag.py
+├── tests/
+├── config.py
+├── main.py
+└── requirements.txt

@@ -1,0 +1,162 @@
+Corrigendum – Dated: 01.08.2026 
+Supply of Polaris Office Suite (Perpetual, Latest License Version) / Microsoft Office Suite (Perpetual, Latest 
+License Version) — Qty: 5,000 Units (Notional quantity) 
+Additional two item Categories added under the financial bid format in the bid. 
+1. Polaris Office Suite 
+2. Microsoft Office Suite 
+Bidder Scope (for Office Suite) 
+The bidder shall supply, install, activate, configure, and commission the Office licenses at the designated 
+Government office(s). The bidder shall provide technical support and facilitate upgrades, updates, and security 
+patches as applicable under the license, for a period of five (5) years from the date of installation. 
+1. Bidder Eligibility Criteria (for Office Suite) 
+1.1 Average Annual Financial Turnover 
+S.No 
+Criteria 
+Requirement for Polaris 
+Requirement for MS Office 
+1 
+Average Annual Turnover 
+The Bidder should have an average 
+annual turnover of at least 20 Cr 
+during the last three years (FY 2022-
+23, FY 2023-24, FY 2024-25). 
+The Bidder should have an 
+average annual turnover of at 
+least 40 Cr during the last three 
+years (FY 2022-23, FY 2023-24, 
+FY 2024-25). 
+Documentary evidence: Audited Financial Statements and CA-certified turnover certificate for the last 3 
+financial years with UDIN number. 
+1.2 Bidder Past Performance criteria 
+The Bidder should have successfully supplied a cumulative quantity of at least 2,500 license units of similar items 
+(Supply of Office Productivity Software Licenses such as MS Office, Polaris Office, etc.) to any Central / State 
+Government Organization / PSU/ Public Listed Company/ Higher Educational Institutions recognized by UGC or 
+Act of Central or State Govt. within the last 7 years before the bid opening date. Cumulative quantities of all such 
+work orders during the last 7 years will be considered for evaluation. 
+ 
+Documentary evidence: Copy of purchase Orders  
+1.3 Manufacturer's Authorization Form (MAF) 
+The Bidder must submit a valid Manufacturer's Authorization Form (MAF) / OEM Authorization Certificate from 
+the respective OEM for the software licenses being offered. The authorization shall confirm that the offered 
+licenses are genuine and include OEM support and entitlement to the latest upgrades, updates, and security 
+patches for a period of five (5) years from the date of installation. 
+ 
+ 
+ 
+ 
+ 
+
+
+EMD Details 
+ 
+ 
+No 
+Item Category 
+EMD Amount in Rs. 
+1 
+Polaris Office Suite 
+20 Lakh 
+2 
+Microsoft Office Suite 
+40 Lakh 
+ 
+Financial bid 
+ 
+Item Category: Polaris Office Suite 
+ 
+Sr. 
+No 
+ITEM 
+Qty. 
+Unit Price with 5 
+years Support  
+(In Rs. Without 
+tax) 
+Total Price  
+(In Rs. 
+Without tax) 
+Rate of 
+GST (%) 
+A 
+B 
+C 
+D 
+E=C*D 
+F 
+1. 
+Polaris Office Suite (Perpetual, Latest License 
+Version) 
+1 
+ 
+ 
+ 
+ 
+Grand Total (for all the line item) 
+ 
+ 
+ 
+ 
+Item Category: Microsoft Office Suite 
+ 
+Sr. 
+No 
+ITEM 
+Qty. 
+Unit Price with 5 
+years Support  
+(In Rs. Without 
+tax) 
+Total Price  
+(In Rs. 
+Without tax) 
+Rate of 
+GST (%) 
+A 
+B 
+C 
+D 
+E=C*D 
+F 
+1. 
+Microsoft Office Suite (Perpetual, Latest 
+License Version) 
+1 
+ 
+ 
+ 
+ 
+Grand Total (for all the line item) 
+ 
+ 
+ 
+• 
+Notional quantity for office suite licenses: 5000 
+ 
+Note: 
+ 
+1 The Bidder may submit a bid for either the Polaris Office Suite, or the Microsoft Office Suite, or both. However, 
+Bidder shall submit a valid Manufacturer's Authorization Form (MAF) / OEM Authorization Certificate issued 
+by the respective OEM, in accordance with the provisions of this bid document. 
+2 The Contract for Hardware Items (Laptop, Desktop Computer and All-in-One Desktop) and Software Items 
+(Polaris Office Suite/ Microsoft Office Suite) shall be evaluated independently. The award of Contract for 
+Hardware Items and Software Items shall also be carried out separately. 
+
+
+3 The quantity of licenses indicated in this Corrigendum is purely indicative/notional. The actual procurement 
+and supply of licenses shall be made as per the requirements, need and ask from the respective Government 
+Departments/Organizations during the validity of the Contract. 
+4 Bidders participating in the Hardware Items category may also participate in the Software Items category, 
+subject to fulfilling the prescribed eligibility criteria and all other requirements applicable to the respective 
+Office Suite category. However, the technical evaluation, financial evaluation, and award of Contract for the 
+Software Items shall be carried out independently of the Hardware Items. 
+5 Evaluation Method: Evaluation shall be carried out separately for each item category. The bidder quoting the 
+lowest price (L1) for the respective item category shall be selected. 
+ 
+ 
+(Please note: A non-refundable Bid Processing Fee of ₹17,700/- shall be applicable per bid, irrespective of the 
+number of item categories quoted. The Earnest Money Deposit (EMD) (refundable) shall be applicable 
+separately for each item category quoted. Submission of both the Bid Processing Fee and EMD is mandatory.) 
+ 
+ 
+All other tender terms & conditions remain unchanged. 
+ 

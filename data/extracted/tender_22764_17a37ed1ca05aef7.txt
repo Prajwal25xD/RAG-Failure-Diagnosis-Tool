@@ -1,0 +1,358 @@
+ASSET DETAILS 
+ 
+Sr. No 
+Make & Model Name 
+Year of 
+purchase 
+Qty. 
+Location 
+1 
+IRA (EXPLORE MORE) T1021 10 
+inch Tablet computer with 4 GB 
+RAM and 64 GB internal storage 
+ 
+06.03.2024 
+40 
+Directorate of 
+Economics & 
+Statistics, Sector-18, 
+Gandhinagar 
+ 
+Tablet IRA (EXPLORE MORE) T1021 10 INCH 4-64GB 
+Technical Specification :   
+ Display Size (in Inch): 10  
+ Display Resolution (in Pixels): 1920 x 1080  
+ Display Colour : 16 Million 
+ Multi touch Support : Yes 
+ Brightness (Minimum)(Nits) : 390 
+ Operating System:  Android 13.0 or higher 
+ Connectivity Type : Wifi + Cellular 
+ Cellular Data Support : 3G,4G/LTE, VoLTE, GSM/Edge 
+ GPS : Yes 
+ Number of GSM SIM Available : 2 
+ Cellular Voice Calling : Yes 
+ Wi-Fi Connectivity Type : 802.11 b/g/n,802.11a/b/g/n,802.11 ac,802.11a/b/g/n/ac 2.4 
+GHz+5GHz 
+ Bluetooth connectivity (Minimum Version) : 5  
+ Processor Speed (Minimum)(GHz) : 2.0 & higher 
+ Processor Core (Number): 8 
+ Processor Architecture : 64 Bit 
+ RAM Type : LPDDR4 
+ RAM Size (GB): 4 GB 
+ Internal Storage Capacity (GB) : 64 GB 
+ Micro SD Card Support : Yes 
+ Storage upgradable upto (Through Micro SD Card) (GB) : 1000 
+ Rear Camera (Mega Pixel) : 8 
+ Front Camera (Mega Pixel) : 5 
+ Video Recording Resolution : 1080p 
+ Video Recording Frame Rate (fps) : 30 
+ Digital Zoom : Yes 
+ Geotagging Feature : Yes 
+ Battery Capacity (minimum) (MAH) : 7001 & higher 
+ USB Ports : Type C 
+ Audio Port : 3.5mm Jack 
+ In-built Speaker : Yes 
+ 
+
+
+Scope of Work 
+1. Terms & Condition 
+ 
+During the term of this Agreement THE BIDDER agrees to maintain the EQUIPMENT 
+in good working order and for this purpose will provide the following repair and 
+maintenance service 
+ 
+a) 
+THE BIDDER shall correct any faults and failures in the EQUIPMENT and shall repair 
+and replace worn or defective parts of the EQUIPMENT during THE Office’s normal 
+working hours on all working days. In cases where unserviceable parts of the 
+EQUIPMENT, need replacement THE BIDDER shall replace such parts, at no extra 
+cost to THE OFFICE, with brand new parts or those equivalent to new parts in 
+performance. THE BIDDER shall further ensure that the EQUIPMENT is not down 
+at any time for want of spare parts. Each and every components including plastic 
+parts, breakdown due to power conditions etc. are covers under the contract.  
+ 
+Note:  Tablets shall be covered under comprehensive AMC inclusive of all 
+type of spares including plastic parts. Bidder may please note that no 
+extra payment towards this additional spares will be given. 
+ 
+Note : Successful bidder will have provide Comprehensive AMC for 1 Year from the date 
+order. However, Department will review the performance of the successful bidder after 
+1 year and decide to extend the AMC for further period of 1 Year on same rate and same 
+terms & conditions of contract order. Department will have right to cancel the contract 
+if the performance is found not satisfactory. 
+ 
+b) 
+Before any bidder participates in the bid, they will have to do the necessary onsite 
+inspection of the condition of the IT assets at the location of Directorate of 
+Economics & Statistics, Sector-18, Gandhinagar. After that, no representations will 
+be considered from any bidder regarding the condition of the IT Assets. 
+ 
+c) 
+THE BIDDER agrees that special arrangements may be made by THE OFFICE to 
+have such maintenance service provided outside the hours specified. 
+ 
+d) 
+THE BIDDER shall provide repair and maintenance service, in response to oral, 
+including telephone, notice by THE OFFICE and such services should be available 
+for a period of 09 hours from 10 a.m. to 7 p.m. on all working days. However, due 
+to any reason if THE OFFICE will remain open on any public holiday then THE 
+BIDDER has to provide service on the request of THE OFFICE. The necessary cost 
+would be incurred by the bidder. 
+ 
+e) 
+THE BIDDER shall ensure 24 hours response time (i.e. total time taken by THE 
+BIDDER between registering the complaint and attending the complaint) or as per 
+the GeM policy. 
+ 
+f) 
+THE BIDDER shall ensure break down call time of 48 hours (i.e. total time taken by 
+THE BIDDER between registering the complaint and rectifying the fault). This time 
+includes time taken to reach the site, diagnose, repair/ replace the faulty 
+component/module/device & network equipment that are covered under the 
+contract or as per the GeM policy. 
+ 
+g) 
+THE BIDDER shall ensure Spares availability. In case, it is not possible to repair 
+
+
+some equipment or not possible to repair at site and has to be taken out for 
+repairs, THE BIDDER shall provide a suitable replacement as Standby arrangement 
+within 24 hours so that the work is not hampered. The packing/unpacking, 
+transportation, loading/unloading, connection/disconnection, configuration/re- 
+configuration and any associated activity with the repair and maintenance shall be 
+the sole responsibility of THE BIDDER. However, if standby arrangement has been 
+made then it shall be replaced with original or functionally equivalent equipment 
+within next 15 working business days. In case if THE BIDDER is not in the 
+position to repair the original equipment, then THE BIDDER has to provide 
+the functionally equivalent equipment. 
+ 
+h) 
+Preventive Maintenance: THE BIDDER shall conduct Preventive Maintenance 
+(including but not limited to inspection, testing, satisfactory execution of all 
+diagnostics, cleaning and removal of dust and dirt from the interior and exterior of 
+the EQUIPMENT, checking and testing of batteries and necessary repairing of the 
+EQUIPMENT) once within the first fifteen days of the commencement of the 
+maintenance period and once within every subsequent quarter, during the 
+currency of this Agreement, on a day and at a time to be mutually agreed upon 
+and inform the representative of THE OFFICE about any necessary steps to be 
+taken like back up of data or purchase of consumables etc. Notwithstanding the 
+foregoing, THE BIDDER recognizes THE OFFICE's operational needs and agrees 
+that THE OFFICE shall have the right to require THE BIDDER to adjourn 
+Preventive Maintenance from any scheduled time to a date and time, not later than 
+fifteen working days thereafter. The report of preventive maintenance shall be 
+submitted to THE OFFICE. 
+ 
+i) 
+All engineering changes generally adopted hereafter by THE BIDDER, for 
+equipment similar to that covered by this Agreement, shall be made to the 
+EQUIPMENT at no cost to THE OFFICE. 
+ 
+j) 
+Qualified maintenance engineers totally familiar with the EQUIPMENT shall 
+perform all repair and maintenance service described herein. 
+ 
+k) 
+Deputed resident engineer should be having adequate knowledge regarding 
+troubleshooting of IT assets. 
+ 
+l) 
+Appropriate call register and ticket handling status system should be in place to 
+log and track troubleshooting activity. 
+ 
+m) 
+THE BIDDER shall maintain at THE OFFICE's site, a written maintenance and repair 
+log; and shall record therein each incident of EQUIPMENT malfunction, date and 
+time of commencement and successful completion of repair work and nature of 
+repair work performed on the EQUIPMENT together with a description of the 
+cause for work, either by description of the malfunction or as regularly scheduled 
+Preventive Maintenance. THE OFFICE shall use the same log for recording the 
+nature of faults and failures observed in the EQUIPMENT, the date and time of 
+their occurrence and the date and time of their communication to THE BIDDER. 
+ 
+n) 
+THE BIDDER shall maintain the operating system software as per the terms of the 
+purchase order/agreement related to this EQUIPMENT. 
+ 
+o) 
+THE BIDDER shall also maintain the system health against virus attack which 
+includes cleaning of viruses. 
+ 
+
+
+p) 
+In case if THE BIDDER is not able to repair the original equipment, THE BIDDER 
+shall supply the new substitute of same specifications or of higher specifications of 
+reputable brand, with prior approval of THE OFFICE. In case, if THE OFFICE found 
+the substitute of lower quality or cheaper substitute than the difference between 
+genuine substitute of reputable brand and the one used by THE BIDDER has to be 
+paid by THE BIDDER. 
+ 
+q) 
+Failure in adhering to any of the terms and conditions mentioned in the scope of 
+work will attract penalty clause. 
+ 
+r) 
+Any worn or defective parts/equipment withdrawn from the EQUIPMENT and 
+replaced by THE BIDDER shall become the property of THE BIDDER; and the 
+parts/equipment replacing the withdrawn parts/equipment shall become the 
+property of THE OFFICE. 
+ 
+s) 
+THE BIDDER's maintenance personnel shall be given access to the EQUIPMENT 
+when necessary, for purposes of performing the repair and maintenance services 
+indicated in this Agreement. 
+ 
+t) 
+THE EQUIPMENT shall not be shifted to an alternate site and installed thereat 
+during the currency of this Agreement without prior written notice to THE 
+BIDDER. However, if THE OFFICE desires to shift the EQUIPMENT to a new site 
+and install it thereat urgently, THE BIDDER shall be informed of the same 
+immediately. THE OFFICE shall bear the charges for 
+such shifting and 
+reinstallation and THE BIDDER shall provide necessary assistance to THE OFFICE 
+in doing so. This Agreement, after such shifting and reinstallation, would continue 
+to be binding on THE BIDDER and THE OFFICE, provided that the two parties 
+may agree to amended charges for the maintenance services after such an event. 
+ 
+u) 
+THE OFFICE shall arrange to maintain appropriate environmental conditions, such 
+as those relating to space, temperature, power supply, and dust to within the 
+acceptable limits required for equipment similar to that covered by this Agreement. 
+ 
+v) 
+No terms or provision hereof shall be deemed waived and no breach excused, 
+unless such waiver or consent shall be in writing and signed by the party 
+claimed to have waived or consented. Any consent by any party to or waiver of a 
+breach by the other, whether express or implied, shall not constitute a consent to, 
+or waiver of, or excuse for any other, different or subsequent breach. 
+ 
+w) 
+During the system failure, if there is need to format storage, then bidder shall take 
+prior permission of the concern authority. Also, bidder has to take back up of 
+the data before formatting of hardware as required by concern authority. 
+ 
+x) 
+In the event of a system failure where formatting, reinitialization, or wiping of any 
+storage media (including but not limited to hard disk drives, solid-state drives, or other 
+storage devices) is required as part of troubleshooting, repair, or restoration activities, 
+the Bidder shall obtain prior written approval from the Purchaser/Department before 
+carrying out such activity.  
+ 
+The Bidder shall ensure that no formatting, data deletion, or storage media wiping is 
+performed without the explicit authorization of the designated departmental 
+representative. The Bidder shall comply with all applicable Departmental Information 
+Security Policies, Data Privacy Guidelines, and Data Retention Procedures, wherever 
+applicable. 
+
+
+ 
+Upon receiving written approval, the Bidder shall perform the formatting or secure 
+wiping of the storage device strictly in accordance with the Department's approved 
+procedures and security requirements. The Bidder shall be responsible for ensuring 
+the confidentiality, integrity, and protection of departmental data throughout the 
+maintenance process and shall not access, copy, disclose, retain, or transfer any data 
+stored on the equipment except as expressly authorized by the Department. 
+ 
+The Bidder shall not be held responsible for any loss of data resulting from formatting 
+or secure wiping carried out after obtaining the Department's written approval. Where 
+required by the Department, the Bidder shall maintain records of such approval and 
+provide a service report detailing the activities performed. 
+ 
+y) 
+Accidental Damage Coverage (ADC): During the contract period, if any equipment 
+covered under this contract sustains accidental damage, including but not limited 
+to screen/display breakage, liquid ingress or liquid damage, accidental physical 
+damage, damage to the charging port, or other accidental hardware failures, the 
+Bidder shall repair or replace the affected equipment at no additional cost to the 
+Purchaser, subject to the terms and conditions of the contract. 
+ 
+Where repair is not technically feasible, commercially viable, or cannot be 
+completed within the stipulated Service Level Agreement (SLA) timelines, the 
+Bidder shall provide a replacement unit of the same make and model or, if the same 
+model is unavailable, an equivalent or higher specification/model. The replacement 
+equipment shall have specifications and performance that are equal to or better 
+than the original equipment and shall be supplied with all applicable warranties, 
+licenses (where applicable), accessories, and support services under the same 
+terms and conditions as the original equipment. 
+ 
+The replacement equipment shall be new or OEM-certified, unless otherwise 
+approved in writing by the Purchaser, and shall remain covered under the existing 
+contract for the remaining contract period. The Bidder shall ensure that repair or 
+replacement is carried out with minimum disruption to the Department's 
+operations and in accordance with the agreed SLA. 
+ 
+2. Bid Evaluation Criteria:  
+ 
+• 
+Bidder will have to submit Self-Declaration letter for acceptance of ATC Given in bid. 
+ 
+• 
+Bidder Turn over: The Bidder must have average annual turnover of Rs.1,20,000 in 
+last three financial Years (2022-23, 2023-24,2024-25). The copies of Audited 
+Annual Accounts/ Statutory CA Certificate for last three years shall be uploaded 
+along with the bid with UDIN Number. 
+ 
+• 
+The bidder must have successfully executed/completed at least  
+o Single order of 32 Qty. OR  
+o 2 orders each of 20 Qty. OR  
+o 3 orders each of 16 Qty.  
+for same or similar product in last 3 years before the bid opening date to any central 
+/ state Government / PSU/ Listed Company. Copies of relevant contracts to be 
+submitted along with bid. 
+
+
+• 
+The bidder must have one office in Gujarat. Please upload the copy of any one of the 
+following: Property tax bill/Electricity Bill/Telephone Bill/GST Registration/Lease 
+agreement etc.. OR if bidder do not have office in Gujarat then at the time of bid 
+submission, they will have to submit undertaking letter to open office in Gujarat 
+within 45 days after award of the contract. 
+ 
+• 
+Bidder should not be blacklisted/debarred by any state government / central 
+government / PSU in last three years as on last date of bid submission. Bidder shall 
+submit undertaking letter at the time of bidding. 
+ 
+3. Additional Conditions: 
+• 
+Upon satisfactory completion of the bid tenure, the tenure will be extended for a 
+further 2 years, by mutual understanding, on the same rates and conditions as the 
+current bid. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Please submit undertaking letter as per Ministry of Finance Memorandum No.: F. 
+No.6/18/2019-PPD dated 23.07.2020 & Office Memorandum No.: F.18/37/2020-
+PPD dated 08.02.2021 as per Performa given below on bidder’s letterhead. 
+ 
+ 
+On letterhead of Bidder 
+Sub: Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  
+23.07.2020 published by Ministry of Finance, Dept. of Expenditure, Public 
+Procurement division  
+ 
+Ref: Bid Number:  
+ 
+ 
+I have read the clause regarding restriction on procurement/services from a bidder of a 
+country which shares a land border with India. I certify that we as a bidder are not from 
+such a country or, if from such a country, we have been registered with competent 
+authority. I hereby certify that we fulfill all requirements in this regard and is eligible to be 
+considered for procurement/services for Bid number ___________________________________. 
+ 
+In case I’m supplying material/services from a country which shares a land border with 
+India, I will provide evidence for valid registration by the competent authority, otherwise 
+GIL/End user Dept. reserves the right to take legal action on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 

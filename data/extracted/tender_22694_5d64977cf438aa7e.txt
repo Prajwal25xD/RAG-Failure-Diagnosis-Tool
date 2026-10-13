@@ -1,0 +1,7387 @@
+Sr.No.
+Phase
+Existing 
+Package
+Connected by 
+Zone
+District
+1
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+2
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+3
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+4
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+5
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+6
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+7
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+8
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+9
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+10
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+11
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+12
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+13
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+14
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+15
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+16
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+17
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+18
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+19
+Phase-II
+Package A
+GFGNL
+Surat
+Bharuch
+20
+Phase-II
+Package A
+GFGNL
+Surat
+Dang
+21
+Phase-II
+Package A
+GFGNL
+Surat
+Dang
+22
+Phase-II
+Package A
+GFGNL
+Surat
+Dang
+23
+Phase-II
+Package A
+GFGNL
+Surat
+Dang
+24
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+25
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+26
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+27
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+28
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+29
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+30
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+31
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+32
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+33
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+34
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+35
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+36
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+37
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+38
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+39
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+40
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+41
+Phase-II
+Package A
+GFGNL
+Surat
+Navsari
+
+
+42
+Phase-II
+Package A
+GFGNL
+Surat
+Navsari
+43
+Phase-II
+Package A
+GFGNL
+Surat
+Navsari
+44
+Phase-II
+Package A
+GFGNL
+Surat
+Navsari
+45
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+46
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+47
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+48
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+49
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+50
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+51
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+52
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+53
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+54
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+55
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+56
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+57
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+58
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+59
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+60
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+61
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+62
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+63
+Phase-II
+Package A
+GFGNL
+Surat
+Surat
+64
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+65
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+66
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+67
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+68
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+69
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+70
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+71
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+72
+Phase-II
+Package A
+GFGNL
+Surat
+Tapi
+73
+Phase-I
+Package A
+BSNL
+Surat
+VALSAD
+74
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+75
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+76
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+77
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+78
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+79
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+80
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+81
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+82
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+83
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+84
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+85
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+86
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+87
+Phase-II
+Package A
+GFGNL
+Vadodara
+Anand
+88
+Phase-II
+Package A
+GFGNL
+Vadodara
+Anand
+
+
+89
+Phase-II
+Package A
+GFGNL
+Vadodara
+Anand
+90
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+91
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+92
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+93
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+94
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+95
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+96
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+97
+Phase-I
+Package A
+BSNL
+Vadodara
+Anand
+98
+Phase-II
+Package A
+GFGNL
+Vadodara
+Anand
+99
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Aravalli
+100
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Sabarkantha
+101
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Sabarkantha
+102
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Sabarkantha
+103
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Aravalli
+104
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Aravalli
+105
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Sabarkantha
+106
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Sabarkantha
+107
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Aravalli
+108
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Aravalli
+109
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Aravalli
+110
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+111
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+112
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+113
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+114
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+115
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+116
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Sabarkantha
+117
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+118
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+119
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+120
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+121
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+122
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+123
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+124
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+125
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+126
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+127
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+128
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+GANDHINAGAR
+129
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Gandhinagar
+130
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Gandhinagar
+131
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Gandhinagar
+132
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Gandhinagar
+133
+Phase-I
+Package B
+GFGNL
+Gandhinagar
+Gandhinagar
+134
+Phase-I
+Package B
+GFGNL
+Gandhinagar
+Gandhinagar
+135
+Phase-I
+Package B
+GFGNL
+Gandhinagar
+Gandhinagar
+
+
+136
+Phase-I
+Package B
+GFGNL
+Gandhinagar
+Gandhinagar
+137
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+138
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Vav-Tharad
+139
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Vav-Tharad
+140
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Vav-Tharad
+141
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+142
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Vav-Tharad
+143
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+144
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+145
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Vav-Tharad
+146
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+147
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+148
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+149
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Vav-Tharad
+150
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+151
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+152
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+153
+Phase-II
+Package A
+GFGNL
+Vadodara
+Chhota Udaipur
+154
+Phase-II
+Package A
+GFGNL
+Vadodara
+Chhota Udaipur
+155
+Phase-II
+Package A
+GFGNL
+Vadodara
+Chhota Udaipur
+156
+Phase-II
+Package A
+GFGNL
+Vadodara
+Chhota Udaipur
+157
+Phase-I
+Package A
+BSNL
+Vadodara
+Chhota Udaipur
+158
+Phase-I
+Package A
+BSNL
+Vadodara
+Chhota Udaipur
+159
+Phase-I
+Package A
+BSNL
+Vadodara
+Chhota Udaipur
+160
+Phase-I
+Package A
+BSNL
+Vadodara
+Chhota Udaipur
+161
+Phase-I
+Package A
+BSNL
+Vadodara
+Chhota Udaipur
+162
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+163
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+164
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+165
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+166
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+167
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+168
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+169
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+170
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+171
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+172
+Phase-II
+Package A
+GFGNL
+Vadodara
+Dahod
+173
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Kheda
+174
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Kheda
+175
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+KHEDA
+176
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+KHEDA
+177
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Kheda
+178
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Kheda
+179
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Kheda
+180
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Kheda
+181
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+KHEDA
+182
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+
+
+183
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+184
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+185
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+186
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+187
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+188
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+189
+Phase-I
+Package A
+BSNL
+Gandhinagar
+Kheda
+190
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+191
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+192
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+193
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+194
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+195
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+196
+Phase-I
+Package A
+BSNL
+Vadodara
+Mahisagar
+197
+Phase-I
+Package A
+BSNL
+Vadodara
+Mahisagar
+198
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+199
+Phase-II
+Package A
+GFGNL
+Vadodara
+VADODARA
+200
+Phase-II
+Package A
+GFGNL
+Vadodara
+VADODARA
+201
+Phase-II
+Package A
+GFGNL
+Vadodara
+VADODARA
+202
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+203
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+204
+Phase-II
+Package A
+GFGNL
+Vadodara
+VADODARA
+205
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+206
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+207
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+208
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+209
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+210
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+211
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+212
+Phase-II
+Package A
+GFGNL
+Vadodara
+Vadodara
+213
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+214
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+215
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+216
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+217
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+218
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+219
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+220
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+221
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+222
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+223
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+224
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+225
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+226
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+227
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+228
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+229
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+
+
+230
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+231
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+232
+Phase-II
+Package B
+GFGNL
+Rajkot
+Porbandar
+233
+Phase-II
+Package B
+GFGNL
+Rajkot
+Porbandar
+234
+Phase-II
+Package B
+GFGNL
+Rajkot
+Devbhoomi Dwarka
+235
+Phase-II
+Package B
+GFGNL
+Rajkot
+Devbhoomi Dwarka
+236
+Phase-II
+Package B
+GFGNL
+Rajkot
+Devbhoomi Dwarka
+237
+Phase-II
+Package B
+GFGNL
+Rajkot
+Devbhoomi Dwarka
+238
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+239
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+240
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+241
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+242
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+243
+Phase-II
+Package B
+GFGNL
+Rajkot
+Porbandar
+244
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+245
+Phase-II
+Package B
+GFGNL
+Rajkot
+Devbhoomi Dwarka
+246
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+247
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+248
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+249
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+250
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+251
+Phase-II
+Package B
+GFGNL
+Rajkot
+Devbhoomi Dwarka
+252
+Phase-II
+Package B
+GFGNL
+Rajkot
+Rajkot
+253
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+254
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+255
+Phase-II
+Package B
+GFGNL
+Rajkot
+Jamnagar
+256
+Phase-II
+Package B
+GFGNL
+Rajkot
+RAJKOT
+257
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+258
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+259
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+260
+Phase-II
+Package B
+GFGNL
+Rajkot
+Morbi
+261
+Phase-I
+Package B
+BSNL
+Rajkot
+Porbandar
+262
+Phase-I
+Package B
+BSNL
+Rajkot
+Porbandar
+263
+Phase-I
+Package B
+BSNL
+Rajkot
+Porbandar
+264
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+265
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+266
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+267
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+268
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+269
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+270
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+271
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+272
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+273
+Phase-I
+Package B
+BSNL
+Rajkot
+Kutch
+274
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+275
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+276
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+
+
+277
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+278
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+279
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+280
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+281
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+282
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+283
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+284
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+285
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+286
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Amreli
+287
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+288
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+289
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+290
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+291
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Amreli
+292
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+293
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+294
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+295
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+296
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+297
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Amreli
+298
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+299
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Amreli
+300
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Amreli
+301
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+302
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+303
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+304
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+305
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+306
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+307
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+308
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+309
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+310
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+311
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+312
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+313
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+314
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+315
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+316
+Phase-I
+Package B
+GFGNL
+Bhavnagar
+Bhavnagar
+317
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Botad
+318
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Botad
+319
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Botad
+320
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Botad
+321
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Botad
+322
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Botad
+323
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Botad
+
+
+324
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+325
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+326
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+327
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+328
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+329
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+330
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Gir Somanth
+331
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+332
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+333
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+334
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+335
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+336
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+337
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+338
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+339
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+340
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+341
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+342
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Junagadh
+343
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+344
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+345
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+346
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+347
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+348
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+349
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+350
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+351
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+352
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+353
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+354
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+355
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+356
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+357
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+358
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+359
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+360
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+361
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+362
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+363
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+364
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+365
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+366
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+367
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+368
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+369
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+370
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+
+
+371
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+372
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+373
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+374
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+375
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+376
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+377
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+378
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+379
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+380
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Mahesana
+381
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Mahesana
+382
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+383
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+384
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+385
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+386
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+387
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+388
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+389
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+390
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+391
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+392
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+393
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+394
+Phase-I
+Package B
+GFGNL
+Ahmedabad
+Patan
+395
+Phase-I
+Package B
+BSNL
+Ahmedabad
+Patan
+396
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+397
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+398
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+399
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+400
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+401
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+402
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+403
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+404
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+405
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+406
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+407
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+408
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+409
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+410
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+411
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+412
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+413
+Phase-I
+Package A
+BSNL
+Surat
+Bharuch
+414
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+415
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+416
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+417
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+
+
+418
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+419
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+420
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+421
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+422
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+423
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+424
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+425
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+426
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+427
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+428
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+429
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+430
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+431
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+432
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+433
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+434
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+435
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+436
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+437
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+438
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+439
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+440
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+441
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+442
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+443
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+444
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+445
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+446
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+447
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+448
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+449
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+450
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+451
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+452
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+453
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+454
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+455
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+456
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+457
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+458
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+459
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+460
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+461
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+462
+Phase-II
+Package A
+GFGNL
+Surat
+Narmada
+463
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+464
+Phase-I
+Package A
+BSNL
+Surat
+NAVSARI
+
+
+465
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+466
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+467
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+468
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+469
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+470
+Phase-II
+Package A
+GFGNL
+Surat
+Valsad
+471
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+472
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+473
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+474
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+475
+Phase-II
+Package A
+GFGNL
+Vadodara
+Panchmahal
+476
+Phase-II
+Package A
+GFGNL
+Gandhinagar
+Banaskantha
+477
+Phase-I
+Package A
+BSNL
+Vadodara
+Chhota Udaipur
+478
+Phase-II
+Package A
+GFGNL
+Vadodara
+Mahisagar
+479
+Phase-I
+Package A
+BSNL
+Vadodara
+Vadodara
+480
+Phase-I
+Package B
+BSNL
+Rajkot
+Porbandar
+481
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Surendranagar
+482
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+483
+Phase-I
+Package B
+BSNL
+Bhavnagar
+Bhavnagar
+484
+Phase-II
+Package B
+GFGNL
+Bhavnagar
+Botad
+485
+Phase-II
+Package B
+GFGNL
+Ahmedabad
+Ahmedabad
+
+
+Block
+LGD Code
+ GP Name
+Amod
+BH4091
+Amod TC
+Ankleshwar
+BH4092
+Ankleshwar TC
+Ankleshwar
+BH4454
+Block Head Quarter Ankleshwar
+Bharuch
+BH4093
+Bharuch DC & BHARUCH TC
+Jambusar
+BH4095
+Jambusar TC
+Jhagadia
+BH4096
+Jhagadia TC
+Netrang
+BH7157
+Netrang TC
+Ankleshwar
+GID022
+Panoli GIDC
+Valia
+BH4098
+Valia TC
+Ankleshwar
+GID001
+Ankleshwar GIDC
+AMOD
+Not available
+BHQ AMOD
+BHARUCH
+Not available
+BHQ BHARUCH
+HANSOT
+BH4094
+BHQ HANSOT
+JAMBUSAR
+Not available
+BHQ JAMBUSAR
+JHAGADIA
+Not available
+BHQ JHAGADIA
+Vagra
+BH4097
+BHQ VAGRA
+VALIA
+Not available
+BHQ VALIA
+Netrang
+Not available
+BHQ Netrang
+Bharuch
+Not available
+Bharuch TC
+Ahwa
+BH0403
+District Panchayat - DANG
+Ahwa
+BH0444
+Dang DC & AHWA TC
+Waghai
+BH7108
+WAGHAI TC
+Subir
+BH7109
+SUBIR TC
+Garudeshwar
+Not available
+AROGYA_VAN
+Garudeshwar
+Not available
+ASST_COMM_OFFICE
+Dediyapada
+BH4175
+Dediyapada TC
+Nandod
+BH0411
+District Panchayat - NARMADA
+Garudeshwar
+Not available
+EKTA_MALL
+Garudeshwar
+BH7129
+Garudeshwar TC
+Garudeshwar
+Not available
+Jungle_safari_park
+Garudeshwar
+Not available
+Main_Hall
+NANDOD
+BH4176
+NANDOD TC
+NANDOD
+BH0452
+Narmada DC
+Garudeshwar
+Not available
+NEW_ADMIN_BILD
+Garudeshwar
+Not available
+OLD_ADMIN_OFFICE
+Sagbara
+BH4177
+Sagbara TC
+Garudeshwar
+Not available
+TENT_CITY_1
+Garudeshwar
+Not available
+TENT_CITY_2
+Tilakwada
+BH4178
+TILAKWADA TC 
+Garudeshwar
+Not available
+VVIP_GUEST_HOUSE
+Jalalpore
+BH4181
+Jalalpore TC & NAVSARI TC
+
+
+Chikhli
+BH4179
+Chikhli TC
+Gandevi
+BH4180
+Gandevi TC
+Navsari
+BH0453
+Navsari DC
+Chikhli
+Not available
+BHQ CHIKHALI
+GANDEVI
+Not available
+BHQ GANDEVI
+JALALPORE
+Not available
+BHQ JALALPORE
+NAVSARI
+BH4182
+BHQ NAVSARI
+VANSDA
+BH4183
+BHQ VANSDA
+Bardoli
+BH4232
+Bardoli TC
+Chorasi
+BH4233
+Chorasi TC
+Palsana
+BH4240
+Palsana TC
+Mangarol
+BH4237
+Mangrol TC
+Mandvi
+BH4236
+Mandvi TC
+Mahuva
+BH4235
+MAHUVA TC
+Kamrej
+BH4234
+KAMREJ TC
+Surat
+BH0459
+Surat DC
+Chorasi
+GID029
+New Katargam G.I.D.C.
+Olpad
+BH4239
+Olpad TC
+Umarpada
+BH4244
+Umarpada TC
+Chorasi
+GID023
+SACHIN GIDC
+Chorasi
+GID002
+Bhatpor GIDC
+Surat
+BH4242
+Surat TC
+Vyara
+BH0585
+District Panchayat - TAPI
+DOLVAN
+BH7127
+DOLVAN TC
+SONGADH
+BH4241
+SONGADH TC
+Kukarmunda
+BH7130
+Kukarmunda TC
+Nizar
+BH4238
+Nizar TC
+VALOD
+BH4245
+VALOD TC
+VYARA
+BH4246
+TAPI DC
+UCHCHHAL
+BH4243
+UCHCHHAL TC
+Vyara
+Not available
+Vyara TC
+KAPRADA
+BH4270
+BHQ KAPRADA
+Dharampur
+BH4630
+Block 
+Dharampur
+BH4269
+Dharampur TC
+VALSAD
+GID010
+Gundlav GIDC office
+Pardi
+GID005
+Killa Pardi GIDC
+Pardi
+BH4632
+PARDI BLOCK
+Pardi
+BH4271
+PARDI TC
+Umbergaon
+BH4272
+UMBERGAON  TC
+Umbergaon
+GID008
+UMBERGAON GIDC
+VALSAD
+BH4634
+VALSAD BLOCK
+VALSAD
+BH0462
+Valsad DC
+VALSAD
+BH4273
+VALSAD TC
+Vapi
+GID009
+Vapi GIDC
+Vapi
+BH7123
+Vapi TC
+Anand
+BH0440
+Anand TC & DC
+Petlad
+BH4075
+Petlad TC
+
+
+Borsad
+BH4073
+Borsad TC
+Anklav
+Not available
+ANKLAV
+Borsad
+Not available
+BORSAD
+Khambhat
+Not available
+KHAMBHAT
+Petlad
+Not available
+PETLAD
+Sojitra
+Not available
+SOJITRA
+Tarapur
+Not available
+TARAPUR
+Umreth
+Not available
+UMRETH
+Anand
+Not available
+ANAND
+Sojitra
+BH4076
+Sojitra TC
+Modasa
+BH0672
+Aravalli DC/TC
+Himmatnagar
+BH0458
+Himmatnagar DC/TC
+VADALI
+BH4230
+Vadali TC
+PRANTIJ
+BH4228
+Prantij TC
+Meghraj
+BH4226
+Meghraj TC
+Malpur
+BH4225
+Malpur TC
+KHEDBRAHMA
+BH4224
+Khedbrahma TC
+IDAR
+BH4223
+Idar TC
+Dhansura
+BH4221
+Dhansura TC
+Bhiloda
+BH4220
+Bhiloda TC
+Bayad
+BH4219
+Bayad TC
+Idar
+Not available
+Idar 
+Khedbrahma
+Not available
+Khedbrahma 
+Prantij
+Not available
+Prantij 
+Talod
+Not available
+TALOD
+Vadali
+Not available
+Vadali
+Vijaynagar
+Not available
+VIJAYNAGAR
+Himmatnagar
+Not available
+HIMATNAGAR
+Godhra
+BH0454
+Godhra DC
+Shehera
+BH4194
+Shehera TC
+Morwa (Hadaf)
+BH4192
+MorwaHadaf TC
+Kalol
+BH4189
+KAALOL TC
+Jambughoda
+BH4187
+Jambughoda TC
+Halol
+BH4186
+Halol TC
+Ghoghamba
+BH4184
+Ghoghamba TC
+Halol
+Not available
+Halol GIDC
+Kalol
+Not available
+Kalol Panchmahal GIDC
+Godhra
+Not available
+District Panchayat - PANCH MAHALS
+Godhra
+Not available
+Godhra TC
+DEHGAM
+BH4118
+Dehgam TC
+Dehgam
+Not available
+DEHGAM
+Gandhinagar
+Not available
+GANDHINAGAR
+Kalol
+Not available
+KALOL
+Mansa
+Not available
+MANSA
+Gandhinagar
+GMM001
+Mahatma Mandir
+Kalol
+GID004
+Chhatral GIDC
+Kalol
+BH4120
+Kalol TC
+
+
+Mansa
+BH4121
+Mansa TC
+Palanpur
+BH0441
+Palanpur TC
+Suigam
+BH7135
+Suigam TC
+Lakhani
+BH7119
+LAKHNI TC
+Vav
+BH4090
+Vav TC
+Vadgam
+BH4089
+VADGAM TC
+Tharad
+BH4088
+THARAD TC
+Kankrej
+BH4086
+Kankrej TC (Shihori)
+Dhanera
+BH4085
+Dhanera TC
+Deodar
+BH4084
+DEODAR TC
+Deesa
+BH4083
+Deesa TC
+Dantiwada
+BH4082
+DANTIWADA TC
+Danta
+BH4081
+Danta TC
+Bhabhar
+BH4080
+Bhabhar TC
+Amirgadh
+BH4079
+Amirgadh TC
+Palanpur
+Not available
+District Panchayat - BANAS KANTHA
+Palanpur
+Not available
+PALANPUR DC
+Chhota Udaipur
+BH0668
+Chhota Udaipur DC/TC
+Bodeli
+BH7156
+Bodeli TC
+Sankheda
+BH4264
+Sankheda TC
+Jetpur Pavi
+BH4259
+PaviJetpur TC
+Chhota Udaipur
+Not available
+CHHOTA UDEPUR
+Jetpur Pavi
+Not available
+JETPUR PAVI
+Kawant
+Not available
+KAWANT
+Nasvadi
+Not available
+NASWADI
+Sankheda
+Not available
+SANKHEDA
+Dahod
+BH0445
+Dahod DC
+Sanjeli
+BH7132
+Sanjeli TC
+Singvad
+BH7124
+Singvad(Randhikpur) TC
+Limkheda
+BH4117
+Limkheda TC
+Jhalod
+BH4116
+Jhalod TC
+Garbada
+BH4115
+Garbada TC
+Fatepura
+BH4114
+Fatepura TC
+Dhanpur
+BH4113
+Dhanpur TC
+Devgadbaria
+BH4112
+Devgad Bariya TC
+Dahod
+BH4111
+Dahod TC
+Dahod
+Not available
+District Panchayat - DAHOD
+Nadiad
+BH4163
+Nadiad DC
+Kheda
+BH0450
+Kheda TC
+GALTESHWAR
+BH7128
+Sevaliya_Galteshwar TC
+THASRA
+BH4164
+Thasra TC
+Mehmedabad
+BH4162
+Mahemdabad TC
+Matar
+BH4161
+Matar TC
+Mahudha
+BH4160
+Mahudha TC
+Kathlal
+BH4158
+Kathlal TC
+KAPADVANJ
+BH4157
+Kapadvanj TC
+Kapadvanj
+Not available
+KAPADVANJ
+
+
+Kathlal
+Not available
+KATHLAL
+Kheda
+Not available
+KHEDA
+Mahudha
+Not available
+MAHUDHA
+Matar
+Not available
+MATAR
+Mehmedabad
+Not available
+MEHMEDABAD
+Thasra
+Not available
+THASRA
+Nadiad
+Not available
+NADIAD
+Virpur
+BH4193
+virpur TC
+Santrampur
+BH4191
+Santrampur TC
+Lunawada
+BH4190
+LUNAWADA TC and DC
+Khanpur
+BH4188
+Khanpur TC
+Kadana
+BH4165
+Kadana TC
+Balasinor
+BH4156
+Balasinor TC
+Balasinor
+Not available
+BALASINOR
+Virpur
+Not available
+VIRPUR
+Vadodara
+BH0461
+Vadodara VDR
+DESAR
+BH7126
+Desar TC
+WAGHODIA
+BH4268
+Waghodia TC
+SAVLI
+BH4265
+Savli TC
+Padra
+BH4263
+PADRA
+Karjan
+BH4260
+Karjan TC
+DABHOI
+BH4258
+Dabhoi TC
+Vadodara
+Not available
+Vadodara TC_South
+Vadodara
+Not available
+Vadodara TC_North
+Vadodara
+Not available
+Vadodara TC
+Dabhoi
+Not available
+DABHOI
+Sinor
+Not available
+SHINOR
+Vadodara
+Not available
+VADODARA(CITY AND RURAL)
+Waghodia
+Not available
+WAGHODIA
+Vadodara
+Not available
+Vadodara TC 3
+Karjan
+Not available
+KARJAN
+Savli
+Not available
+SAVLI
+Rajkot
+BH0416
+District Panchayat - RAJKOT
+Upleta
+BH4217
+UPLETA TC
+Jamnagar
+BH4125
+Jamnagar TC
+Vinchhiya
+BH7133
+VINCHHIYA TC
+Halvad
+BH4251
+Halvad TC
+Wankaner
+BH4218
+wankaner TC
+Tankara
+BH4216
+Tankara TC
+Rajkot
+BH4215
+RAJKOT TC
+Morbi
+BH4213
+MORBI TC
+Maliya
+BH4212
+Maliya TC
+Lodhika
+BH4211
+LODHIKA TC
+Kotda Sangani
+BH4210
+Kotda Sangani TC
+Jetpur
+BH4209
+JETPUR TC
+Jasdan
+BH4208
+JASDAN TC
+Jamkandorna
+BH4207
+JAMKANDORNA TC
+
+
+Gondal
+BH4206
+Gondal TC
+Dhoraji
+BH4205
+Dhoraji TC
+Ranavav
+BH4204
+Ranavav TC
+Kutiyana
+BH4202
+Kutiyana TC
+Okhamandal
+BH4131
+Okhamandal TC
+Khambhalia
+BH4129
+Khambhalia TC
+Kalyanpur
+BH4128
+Kalyanpur TC
+Bhanvad
+BH4122
+Bhanvad TC
+Lalpur
+BH4130
+Lalpur TC
+Kalavad
+BH4127
+Kalavad TC
+Jodiya
+BH4126
+Jodiya TC
+Jamjodhpur
+BH4124
+Jamjodhpur TC
+Dhrol
+BH4123
+Dhrol TC
+Porbandar
+BH4203
+Porbandar TC & DC
+Jamnagar
+BH0447
+Jamnagar DC
+Khambhalia
+BH0674
+Devbhoomi Dwarka DC office
+Morbi
+BH0673
+Morbi DC office
+Rajkot
+BH0457
+RAJKOT DC Office
+Rajkot
+GID028
+AJI VASAHAT
+Rajkot
+GID007
+GIDC UDHYOG NAGAR
+Lodhika
+GID006
+ GIDC LODHIKA
+Okhamandal
+PTO001
+PRANT OFFICE-DWARKA
+Paddhari
+BH4214
+Paddhari TC
+Jamnagar
+GID013
+Jamnagar GIDC 2
+Jamnagar
+GID012
+Jamnagar GIDC 1
+Jamnagar
+BH0406
+District Panchayat - JAMNAGAR
+RAJKOT
+RSM001
+Rajkot Regional Science Musium-RSM
+Halvad
+BH4612
+TDO office-Halvad
+Wankaner
+BH4580
+TDO office-Wankaner
+Tankara
+BH4578
+TDO office-Tankara
+Morbi
+BH4575
+TDO office-Morbi
+Ranavav
+Not available
+Ranavav
+Porbandar
+Not available
+Porbandar 
+Kutiyana
+Not available
+Kutiyana
+ABDASA
+BH4146
+BHQ ABDASA
+ANJAR
+BH4147
+BHQ ANJAR
+BHACHAU
+BH4148
+BHQ BHACHAU
+BHUJ
+BH4149
+BHQ BHUJ
+GANDHIDHAM
+BH4150
+BHQ GANDHIDHAM
+LAKHPAT
+BH4151
+BHQ LAKHPAT
+MANDVI
+BH4152
+BHQ MANDVI
+MUNDRA
+BH4153
+BHQ MUNDRA
+NAKHATRANA
+BH4154
+BHQ NAKHATRANA
+RAPAR
+BH4155
+BHQ RAPAR
+Thangadh
+BH7136
+THANGADH TC
+Wadhwan
+BH4256
+Wadhwan TC
+Sayla
+BH4255
+SAYLA TC
+
+
+Muli
+BH4254
+muli TC
+Limbdi
+BH4253
+LIMBDI TC
+Lakhtar
+BH4252
+LAKHTAR TC
+Dhrangadhra
+BH4250
+Dhrangadhra TC
+Dasada
+BH4249
+Dasada(Patadi) TC
+Chuda
+BH4248
+CHUDA TC
+Chotila
+BH4247
+CHOTILA TC
+Wadhwan
+GID026
+Surendranagar GIDC
+Wadhwan
+BH0460
+SURENDRANAGAR DC
+Amreli
+BH4060
+Amreli DC/TC
+Amreli
+BH4060
+BHQ AMRELI
+Babra
+BH4061
+BHQ BABRA
+Bagasara
+BH4062
+BHQ BAGASARA
+Dhari
+BH4063
+BHQ DHARI
+Dhari
+BH4063
+Dhari TC
+Jafrabad
+BH4064
+BHQ JAFRABAD
+Khambha
+BH4065
+BHQ KHAMBHA
+Kunkavav Vadia
+BH4066
+BHQ KUNKAVAV -VADIA
+Lathi
+BH4067
+BHQ LATHI
+Lilia
+BH4068
+BHQ LILIA
+Lilia
+BH4068
+LiliyaMota TC
+Rajula
+BH4069
+BHQ RAJULA
+SavarKundla
+BH4070
+BHQ SAVERKUNDLA
+SavarKundla
+BH4070
+SavarKundla TC
+Bhavnagar
+BH0443
+Bhavnagar DC
+Bhavnagar
+BH4099
+Bhavnagar TC
+Bhavnagar
+BH4099
+BHQ BHAVNAGAR
+Gariyadhar
+BH4102
+BHQ GARIADHAR
+Gariyadhar
+BH4102
+Gariyadhar TC
+Ghogha
+BH4103
+BHQ GHOGHA
+Mahuva
+BH4104
+BHQ MAHUVA
+Palitana
+BH4105
+BHQ PALITANA
+Palitana
+BH4105
+Palitana TC
+Sihor
+BH4106
+BHQ SIHOR
+Sihor
+BH4106
+Shihor TC
+Talaja
+BH4107
+BHQ TALAJA
+Umrala
+BH4108
+BHQ UMRALA
+Umrala
+BH4108
+Umrala TC
+Vallabhipur
+BH4109
+BHQ VALLABHIPUR
+Vallabhipur
+BH4109
+Vallabhipur TC
+Barwala
+BH4050
+BARVALA
+Botad
+BH4100
+BHQ BOTAD
+Botad
+BH0676
+Botad DC office
+Botad
+BH4100
+BOTAD TC
+Gadhada
+BH4101
+BHQ GADHADA
+Gadhada
+BH4101
+Gadhada TC
+Ranpur
+BH4057
+Ranpur TC
+
+
+Gir Gadhda
+BH7158
+GIR GADHADA TC
+Kodinar
+BH4135
+Kodinar
+Sutrapada
+BH4141
+SUTRAPADA TC
+Talala
+BH4142
+Talala
+Una
+BH4143
+Una TC
+Veraval
+BH0675
+Gir Somnath DC office
+Veraval
+BH4140
+Veraval TC
+Bhesan
+BH4132
+BHESAN (TC)
+Junagadh
+BH0407
+District Panchayat - JUNAGADH
+Junagadh
+BH0448
+JUNAGADH DC
+Junagadh
+GID015
+Junagadh GIDC 1
+Junagadh
+BH4133
+Junagadh TC
+Keshod
+BH4134
+Keshod TC
+Malia Hatina
+BH4136
+MALIA TC
+Manavadar
+BH4137
+Manavadar TC
+Mangrol
+BH4138
+Mangrol TC
+Mendarda
+BH4139
+MENDARDA TC
+Vanthali
+BH4144
+Vanthali
+Visavadar
+BH4145
+Visavadar TC
+Ahmedabad City
+BH0438
+AHMEDABAD DC OFFICE
+Ahmedabad City
+AMDE01
+AHMEDABAD TC (EAST) - BHADRA
+Ahmedabad City
+AMDW01
+AHMEDABAD TC (WEST)-GOTA
+Ahmedabad City
+BH4049
+District Panchayat - AHMEDABAD
+Ahmedabad City
+GID019
+Naroda GIDC
+Ahmedabad City
+GID020
+ODHAV GIDC
+Bavla
+BH4051
+BAVLA
+Daskroi
+BH4052
+DASKROI
+Daskroi
+ASC030
+SCIENCE CITY
+Daskroi
+GID027
+Vatwa GIDC
+Detroj-Rampura
+BH4053
+Detroj TC
+Dhandhuka
+BH4054
+DHANDHUKA
+Dholera
+DSIR001
+Dholera ABCD
+Dholera
+BH7155
+DHOLERA TC
+Dholka
+BH4055
+DHOLKA
+Mandal
+GID018
+MANDAL VITHLAPUR GIDC
+Mandal
+BH4056
+Mandal(TC)
+Sanand
+BH4058
+SANAND
+Sanand
+GID025
+Sanand GIDC
+Viramgam
+BH4059
+VIRAMGAM (TC)
+Becharaji
+BH4166
+Becharaji TC
+Becharaji
+BH4166
+BHQ BECHRAJI
+Jotana
+BH7118
+BHQ JOTANA
+Jotana
+BH7118
+Jotana TC
+Kheralu
+BH4168
+BHQ KHERALU
+Kheralu
+BH4168
+Kheralu TC
+Mahesana
+BH4169
+BHQ MAHESANA
+Mahesana
+BH4169
+Mehsana TC
+
+
+Unjha
+BH4171
+BHQ UNJHA
+Unjha
+BH4171
+Unjha TC
+Vadnagar
+BH4172
+BHQ VADNAGAR
+Vadnagar
+BH4172
+Vadnagar TC
+Vijapur
+BH4173
+BHQ VIJAPUR
+Vijapur
+BH4173
+Vijapur TC
+Visnagar
+BH4174
+BHQ VISNAGAR
+Visnagar
+BH4174
+Visnagar TC
+Kadi
+BH4167
+Kadi TC
+Mahesana
+BH0669
+Mehsana DC
+Satlasana
+BH4170
+BHQ SATLASNA
+Chanasma
+BH4195
+BHQ CHANASMA
+Chanasma
+BH4195
+Chanasma TC
+Harij
+BH4196
+BHQ HARIJ
+Harij
+BH4196
+Harij TC
+Patan
+BH4197
+BHQ PATAN
+Patan
+BH0455
+Patan DC
+Patan
+BH4197
+Patan TC
+Radhanpur
+BH4198
+BHQ RADHANPUR
+Radhanpur
+BH4198
+Radhanpur TC
+Sami
+BH4199
+BHQ SAMI
+Sami
+BH4199
+Sami TC
+Santalpur
+BH4200
+BHQ SANTALPUR
+Shankheshvar
+BH7120
+Shankheshwar TC
+Sidhpur
+BH4201
+BHQ SIDHPUR
+JAMBUSAR
+521885
+Aurangpor Timbi
+JAMBUSAR
+521894
+Salehpor Sangdi
+JAMBUSAR
+521927
+Chandpor Bara
+JAMBUSAR
+521929
+Kansagar
+JAMBUSAR
+521934
+Bakarpor Timbi
+JAMBUSAR
+521935
+Singran
+JAMBUSAR
+521937
+Vanseta
+JAMBUSAR
+521940
+Mahapara
+VALIA
+522438
+Koyalivav
+Netrang
+522448
+Bhangoriya
+Netrang
+522452
+Bedoli
+Netrang
+522453
+Dattnagar
+VALIA
+522455
+Singalvan
+VALIA
+522466
+Dodwada
+VALIA
+522467
+Naldhari
+Netrang
+522478
+Motia
+VALIA
+522499
+Navapara
+VALIA
+522513
+Kosmadi
+Garudeshwar
+521371
+Bakhar
+Garudeshwar
+521474
+Bhanadra
+Garudeshwar
+521362
+Bhekhadia
+Garudeshwar
+521452
+Bhumalia
+
+
+Garudeshwar
+521360
+Bilthana
+Garudeshwar
+521472
+Boria
+Garudeshwar
+521377
+Borutar
+Garudeshwar
+521380
+Chhindiapara
+Garudeshwar
+521378
+Chichadia
+Garudeshwar
+521367
+Dhaniala
+Garudeshwar
+521364
+Dhefa
+Garudeshwar
+521368
+Dhobisal
+Garudeshwar
+521414
+Gabhana
+Garudeshwar
+521361
+Galupura
+Garudeshwar
+521443
+Gambhirpara
+Sagbara
+521775
+Godda
+Garudeshwar
+521462
+Gulvani
+Garudeshwar
+521376
+Gunetha
+Garudeshwar
+521464
+Haripura
+Garudeshwar
+521498
+Junvad
+Garudeshwar
+521555
+Kevadiya (Ct)
+Garudeshwar
+521408
+Kumbhia
+Garudeshwar
+521460
+Limkhetar
+Garudeshwar
+521405
+Mankad Amba
+Garudeshwar
+521369
+Mankuva
+Garudeshwar
+521450
+Mota Piparia
+Garudeshwar
+521449
+Nana Piparia
+Garudeshwar
+521441
+Nana Zunda
+Garudeshwar
+521448
+Nani Raval
+Garudeshwar
+521404
+Nasri
+Garudeshwar
+521475
+Nava Vaghpara
+Garudeshwar
+521469
+Navagam (Limbdi)
+Garudeshwar
+521370
+Navapara (Garudeshwar)
+Garudeshwar
+521366
+Panisadadia
+Sagbara
+521827
+Parodhi
+Garudeshwar
+521379
+Sajanpara
+Garudeshwar
+521499
+Sakva
+Garudeshwar
+521411
+Samasherpura (Kareliwalu)
+Garudeshwar
+521402
+Sandhia
+Garudeshwar
+521417
+Sanjroli
+Garudeshwar
+521442
+Sengpara
+Garudeshwar
+521444
+Surajvad
+Garudeshwar
+521465
+Survani
+Garudeshwar
+521503
+Umarva (Joshivalu)
+Garudeshwar
+521412
+Vadi
+Garudeshwar
+521403
+Valpor
+Garudeshwar
+521463
+Vanazi
+Garudeshwar
+521363
+Vanznitad
+Garudeshwar
+521470
+Vasantpara
+JALALPORE
+522946
+Delvada
+VANSDA
+523208
+Raybor
+
+
+VALSAD
+523291
+Chinchwada
+Umbergaon
+523677
+HUMRAN
+Umbergaon
+523661
+TALVADA
+Dharampur
+523391
+TITUKHATAK
+Valsad
+523304
+Valandi
+Nanapondha
+523492
+VANKAS
+Kalol
+518662
+Navagam
+Halol
+518894
+Nana Chadva
+Halol
+518924
+Nana Handiya
+Morwa (Hadaf)
+518518
+Balukhedi
+Shehera
+518408
+Juna Kheda
+Danta
+507942
+Aderan (Danta)
+Bodeli
+520742
+Gajipura
+Kothmba
+518353
+Maliya Muvada
+Waghodia
+519972
+Gambhirpura
+Ranavav
+163425
+Dharampur
+Chotila
+512374
+Rampara (Rajavad)
+Mahuva
+516712
+Modaliya
+Mahuva
+516748
+Moti Sodvadri
+Gadhada
+516140
+Tatana
+Dhandhuka
+512593
+Vakhatpar
+
+
+Category 
+For Bidder
+(GP/Reve
+nueVillage
+)
+Existing 
+connectivi
+ty status 
+in 
+BharatNet
+Lat
+Long
+Other
+Yes
+21.989107
+72.8692
+Other
+Yes
+21.62796017
+73.00553
+Other
+Yes
+21.631235
+72.99328
+Other
+Yes
+21.709087
+72.99105
+Other
+Yes
+22.055894
+72.79442
+Other
+Yes
+21.716289
+73.15632
+Other
+Yes
+21.637832
+73.36321
+Other
+Yes
+21.56362
+72.99263
+Other
+Yes
+21.568679
+73.15816
+Other
+Yes
+21.61303
+73.01002
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+20.757146
+73.68989
+Other
+Yes
+20.760622
+73.68966
+Other
+Yes
+20.77257
+73.49632
+Other
+Yes
+20.934529
+73.77822
+Other
+Yes
+21.87942
+73.70208
+Other
+Yes
+21.838656
+73.72328
+Other
+Yes
+21.627368
+73.5884
+Other
+Yes
+21.867776
+73.51561
+Other
+Yes
+21.875597
+73.69772
+Other
+Yes
+21.893998
+73.66197
+Other
+Yes
+21.835215
+73.73344
+Other
+Yes
+21.838
+73.72008
+Other
+Yes
+21.866238
+73.49986
+Other
+Yes
+21.866089
+73.5158
+Other
+Yes
+21.877693
+73.69717
+Other
+Yes
+21.875841
+73.69807
+Other
+Yes
+21.542938
+73.7956
+Other
+Yes
+21.851801
+73.72332
+Other
+Yes
+21.880175
+73.72709
+Other
+Yes
+21.953764
+73.58896
+Other
+Yes
+21.874166
+73.69952
+Other
+Yes
+20.950425
+72.94347
+
+
+Other
+Yes
+20.761115
+73.05794
+Other
+Yes
+20.818689
+72.99756
+Other
+Yes
+20.951399
+72.94344
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+21.11304
+73.1118
+Other
+Yes
+21.187754
+72.81036
+Other
+Yes
+21.091292
+72.98671
+Other
+Yes
+21.46027
+73.1548
+Other
+Yes
+21.250587
+73.30142
+Other
+Yes
+21.020322
+73.14294
+Other
+Yes
+21.26400409
+72.9593
+Other
+Yes
+21.1831
+72.8043
+Other
+Yes
+21.227209
+72.84214
+Other
+Yes
+21.334943
+72.74214
+Other
+Yes
+21.460533
+73.47485
+Other
+Yes
+21.090426
+72.86218
+Other
+Yes
+21.167704
+72.73647
+Other
+Yes
+21.179812
+72.80102
+Other
+Yes
+21.101061
+73.39289
+Other
+Yes
+20.907103
+73.33697
+Other
+Yes
+21.163097
+73.56484
+Other
+Yes
+21.541998
+74.12344
+Other
+Yes
+21.47442627
+74.18568
+Other
+Yes
+21.048075
+73.2622
+Other
+Yes
+21.101388
+73.39488
+Other
+Yes
+21.17700459
+73.77071
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+20.539643
+73.17965
+Other
+Yes
+20.537975
+73.1678
+Other
+Yes
+20.621022
+72.971
+Other
+Yes
+20.523205
+72.95926
+Other
+Yes
+20.507788
+72.94727
+Other
+Yes
+20.498404
+72.94252
+Other
+Yes
+20.199789
+72.74972
+Other
+Yes
+20.159266
+72.78534
+Other
+Yes
+20.60859
+72.92881
+Other
+Yes
+20.607121
+72.92746
+Other
+Yes
+20.609503
+72.92987
+Other
+Yes
+20.364422
+72.91937
+Other
+Yes
+20.39459578
+72.91316
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+
+
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+23.36336673
+73.46844
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+23.360212
+73.20473
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.9184227
+73.84435
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.368385
+73.72799
+Other
+Yes
+22.50538706
+73.46752
+Other
+Yes
+22.571807
+73.63247
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+23.229801
+72.63397
+Other
+Yes
+23.287531
+72.44579
+Other
+Yes
+23.242798
+72.49703
+
+
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+24.507185
+72.03028
+Other
+Yes
+24.111773
+71.78279
+Other
+Yes
+24.258104
+72.18317
+Other
+Yes
+NA
+NA
+Other
+Yes
+24.195402
+72.76373
+Other
+Yes
+24.054035
+71.59442
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.877205
+74.23226
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.819662
+73.99129
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.677456
+74.31312
+Other
+Yes
+23.254177
+74.0451
+Other
+Yes
+22.635675
+74.09921
+Other
+Yes
+22.721301
+73.91516
+Other
+Yes
+22.833131
+74.25965
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+
+
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+23.1950951
+73.89332
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+23.2841085
+73.83827
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.05996414
+73.13007
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.298211
+70.79169
+Other
+Yes
+21.745342
+70.28699
+Other
+Yes
+ 22.479466°
+70.050527°
+Other
+Yes
+22.202818
+71.38591
+Other
+Yes
+23.013292
+71.20434
+Other
+Yes
+22.596934
+70.943
+Other
+Yes
+22.65769
+70.74535
+Other
+Yes
+22.306734
+70.8045
+Other
+Yes
+22.826003
+70.84557
+Other
+Yes
+23.090843
+70.75462
+Other
+Yes
+22.135128
+70.6384
+Other
+Yes
+22.045374
+70.86066
+Other
+Yes
+21.751905
+70.61637
+Other
+Yes
+22.046248
+71.21189
+Other
+Yes
+21.893516
+70.49566
+
+
+Other
+Yes
+21.969858
+70.79483
+Other
+Yes
+21.739305
+70.44956
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.239948
+68.95911
+Other
+Yes
+22.209091
+69.6561
+Other
+Yes
+22.008171
+69.39967
+Other
+Yes
+21.926342
+69.76928
+Other
+Yes
+22.185307
+69.96211
+Other
+Yes
+22.209433
+70.38245
+Other
+Yes
+22.693806
+70.31406
+Other
+Yes
+21.905468
+70.03256
+Other
+Yes
+22.560778
+70.41765
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.480053
+70.05028
+Other
+Yes
+22.22448
+69.67429
+Other
+Yes
+22.820129
+70.85851
+Other
+Yes
+22.306126
+70.79646
+Other
+Yes
+22.276813
+70.82415
+Other
+Yes
+22.275817
+70.79831
+Other
+Yes
+22.2456
+70.68
+Other
+Yes
+22.242653
+68.96122
+Other
+Yes
+22.419909
+70.6105
+Other
+Yes
+22.416409
+70.06159
+Other
+Yes
+22.458115
+70.04895
+Other
+Yes
+22.469259
+70.06381
+Other
+Yes
+22.354614
+70.76579
+Other
+Yes
+23.012566
+71.2035
+Other
+Yes
+22.609542
+70.95447
+Other
+Yes
+22.646972
+70.74106
+Other
+Yes
+22.821708
+70.83633
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.573203
+71.18053
+Other
+Yes
+22.707872
+71.67117
+Other
+Yes
+22.53884
+71.4823
+
+
+Other
+Yes
+22.636316
+71.46044
+Other
+Yes
+22.571774
+71.79842
+Other
+Yes
+22.865707
+71.78059
+Other
+Yes
+22.994484
+71.43956
+Other
+Yes
+23.188069
+71.79424
+Other
+Yes
+22.484812
+71.69856
+Other
+Yes
+22.430272
+71.20657
+Other
+Yes
+22.720041
+71.66075
+Other
+Yes
+22.725447
+71.62492
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+22.159657
+71.89564
+Other
+Yes
+22.180581
+71.68158
+Other
+Yes
+22.181192
+71.68166
+Other
+Yes
+22.180581
+71.68158
+Other
+Yes
+21.970292
+71.57766
+Other
+Yes
+21.970292
+71.57766
+Other
+Yes
+22.359928
+71.7152
+
+
+Other
+Yes
+20.923072
+70.92397
+Other
+Yes
+20.798539
+70.70078
+Other
+Yes
+20.837132
+70.48996
+Other
+Yes
+21.078279
+70.54908
+Other
+Yes
+20.828078
+71.0387
+Other
+Yes
+20.973337
+70.41707
+Other
+Yes
+20.910768
+70.35701
+Other
+Yes
+21.550793
+70.70823
+Other
+Yes
+21.516389
+70.44685
+Other
+Yes
+21.516919
+70.44659
+Other
+Yes
+21.551804
+70.46368
+Other
+Yes
+21.516891
+70.45206
+Other
+Yes
+21.283865
+70.21507
+Other
+Yes
+21.159441
+70.3102
+Other
+Yes
+21.49848
+70.13698
+Other
+Yes
+21.125495
+70.12043
+Other
+Yes
+21.337523
+70.43317
+Other
+Yes
+21.475758
+70.33349
+Other
+Yes
+21.339172
+70.75001
+Other
+Yes
+23.06566
+72.58169
+Other
+Yes
+23.024087
+72.57847
+Other
+Yes
+23.103644
+72.5311
+Other
+Yes
+23.024254
+72.58037
+Other
+Yes
+23.090725
+72.66514
+Other
+Yes
+23.022325
+72.65232
+Other
+Yes
+22.833698
+72.36351
+Other
+Yes
+23.005846
+72.66744
+Other
+Yes
+23.07992
+72.49715
+Other
+Yes
+22.971516
+72.62797
+Other
+Yes
+23.332212
+72.18472
+Other
+Yes
+22.385368
+71.97865
+Other
+Yes
+22.25753
+72.18556
+Other
+Yes
+22.243954
+72.18631
+Other
+Yes
+22.734747
+72.43626
+Other
+Yes
+23.358641
+72.0686
+Other
+Yes
+23.283194
+71.91586
+Other
+Yes
+22.988806
+72.38626
+Other
+Yes
+23.001829
+72.24908
+Other
+Yes
+23.128534
+72.04402
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+
+
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+23.281841
+72.35079
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+Other
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+21.960749
+73.70769
+RV
+Yes
+21.859858
+73.63475
+RV
+Yes
+21.96386
+73.67882
+RV
+Yes
+21.892902
+73.71822
+
+
+RV
+Yes
+21.964001
+73.66023
+RV
+Yes
+21.867098
+73.66316
+RV
+Yes
+21.956112
+73.7634
+RV
+Yes
+21.932863
+73.71432
+RV
+Yes
+21.945921
+73.76662
+RV
+Yes
+21.967829
+73.72825
+RV
+Yes
+21.995712
+73.70344
+RV
+Yes
+21.967949
+73.72236
+RV
+Yes
+21.897697
+73.68041
+RV
+Yes
+21.963661
+73.656
+RV
+Yes
+21.887884
+73.61213
+RV
+Yes
+21.605694
+73.7632
+RV
+Yes
+21.894921
+73.82914
+RV
+Yes
+21.954717
+73.7626
+RV
+Yes
+21.905655
+73.81246
+RV
+Yes
+21.842621
+73.60076
+RV
+Yes
+21.884312
+73.69837
+RV
+Yes
+21.924458
+73.78655
+RV
+Yes
+21.913349
+73.85146
+RV
+Yes
+21.94112
+73.84966
+RV
+Yes
+21.959851
+73.72127
+RV
+Yes
+21.869307
+73.67526
+RV
+Yes
+21.872553
+73.67033
+RV
+Yes
+21.859652
+73.58665
+RV
+Yes
+21.879427
+73.63344
+RV
+Yes
+21.940008
+73.80013
+RV
+Yes
+21.86063
+73.60427
+RV
+Yes
+21.8541
+73.70984
+RV
+Yes
+21.973302
+73.70526
+RV
+Yes
+21.973772
+73.73753
+RV
+Yes
+21.480868
+73.8597
+RV
+Yes
+21.94696
+73.73612
+RV
+Yes
+21.85734
+73.63126
+RV
+Yes
+21.913014
+73.75139
+RV
+Yes
+21.940232
+73.73093
+RV
+Yes
+21.90317
+73.62724
+RV
+Yes
+21.881496
+73.59734
+RV
+Yes
+21.88415
+73.61134
+RV
+Yes
+21.888233
+73.79888
+RV
+Yes
+21.847498
+73.66869
+RV
+Yes
+21.915588
+73.73068
+RV
+Yes
+21.944723
+73.775
+RV
+Yes
+21.893154
+73.81128
+RV
+Yes
+21.976643
+73.70534
+RV
+Yes
+21.86661
+73.68098
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+
+
+RV
+Yes
+20.5517807
+72.94135
+RV
+Yes
+20.17597
+72.81441
+RV
+Yes
+20.246183
+72.87949
+RV
+Yes
+20.475568
+73.29092
+RV
+Yes
+20.545059
+73.07852
+RV
+Yes
+20.361411
+72.97944
+RV
+Yes
+NA
+NA
+RV
+Yes
+22.413791
+73.5626
+RV
+Yes
+22.380127
+73.59262
+RV
+Yes
+22.90933
+73.85659
+RV
+Yes
+23.058774
+73.67671
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+23.034388
+73.53256
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+22.324151
+71.08725
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+RV
+Yes
+NA
+NA
+
+
+Building Location Type
+Updated 
+Comment
+s
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Panchayat Building
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - SoU
+Other
+Other - SoU
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+District Panchayat Building
+DHQ
+Other - SoU
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - SoU
+Other
+Other - SoU
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+Other - SoU
+Other
+Other - SoU
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - SoU
+Other
+Other - SoU
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - SoU
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+District Panchayat Building
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+Taluka Panchayat Office
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+District Panchayat Building
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Other -Public Spot
+Other
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Panchayat Building
+DHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Panchayat Building
+DHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+
+
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Other - GoG Building
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+District Panchayat Building
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector Office
+DHQ
+District Collector office
+DHQ
+District Collector office
+DHQ
+District Collector office
+DHQ
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+Other - Prant office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+District Panchayat Building
+DHQ
+Other - RSM
+Other
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+District Collector office - Colocated Shelter location
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+District Panchayat Building
+DHQ
+District Collector office
+DHQ
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)-Colocated Shleter 
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Panchayat Building
+DHQ
+Other - GIDC Building
+Other
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - Public Spot
+Other
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other -Public Spot
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Other - GIDC Building
+Other
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+
+
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+District Collector office
+DHQ
+Taluka Panchayat Office
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+District Collector office
+DHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+TC (Taluka Mamlatdar Office)
+BHQ
+Taluka Panchayat Office
+BHQ
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+
+
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue village
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue village
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue Village - SoU/Garudeshwar
+RV
+Revenue village
+RV
+Revenue village
+RV
+
+
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue village
+RV
+Revenue Village
+RV
+Revenue Village
+RV
+Revenue Village
+RV
+Revenue Village
+RV

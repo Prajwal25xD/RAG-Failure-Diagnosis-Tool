@@ -1,0 +1,1710 @@
+बड ववरण/Bid Details
+बड बंद होने क तारख/समय /Bid End Date/Time
+04-08-2026 13:00:00
+बड खुलने क तारख/समय /Bid Opening
+Date/Time
+04-08-2026 13:30:00
+बड पेशकश वैधता (बंद होने क तारख से)/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय/रा!य का नाम/Ministry/State Name
+Gujarat
+वभाग का नाम/Department Name
+Urban Development And Urban Housing Department Gujarat
+संगठन का नाम/Organisation Name
+N/a
+काया%लय का नाम/Office Name
+Gujarat Urban Development Mission
+िशकायत िनवारण के संपक% ववरण/ Contact details of
+Grievance redressal
+HOD Email id :aceo-gudm@gujarat.gov.in 
+Buyer Email id: gmadmin-gudm@gujarat.gov.in
+कुल मा ा/Total Quantity
+3
+व'तु (ेणी /Item Category
+Hyper Converged Infrastructure for Data Center (V2) , Smart
+Rack (V2) , Firewall
+GeMARPTS म* खोजी गई -'.ं/स / Searched
+Strings used in GeMARPTS
+Firewall
+GeMARPTS म* खोजा गया प0रणाम / Searched
+Result generated in GeMARPTS
+Firewall (V4), Next Generation Firewall Software, Web
+Application Firewall (V3), Pressure Calibrator
+अिधसूचना के िलए चयिनत 5ासंिगक (े-णयाँ / Relevant
+Categories selected for notification
+Firewall (V4)
+Firewall (V3)
+Firewall - NGFW
+वष8 के अनुभव एवं टन%ओवर से एमएसई को छूट 5ा< है /
+MSE Relaxation for Years Of Experience
+and Turnover
+Yes | Complete
+'टाट%अप के िलए अनुभव के वष8 और टन%ओवर से छूट 5दान
+क गई है / Startup Relaxation for Years Of
+Experience and Turnover
+Yes | Complete
+ 
+बड सं>या/Bid Number: GEM/2026/B/7756393
+?दनांक /Dated: 14-07-2026
+बड द'तावेज़ / Bid Document
+1 / 12
+
+
+वIेता से मांगे गए द'तावेज़/Document required
+from seller
+Certificate (Requested in ATC),OEM Authorization
+Certificate,Additional Doc 1 (Requested in ATC),Additional
+Doc 2 (Requested in ATC),Additional Doc 3 (Requested in
+ATC),Additional Doc 4 (Requested in ATC),Compliance of
+BoQ specification and supporting document
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+Jया आप िनवदाकारL Mारा अपलोड ?कए गए द'तावेज़L को
+िनवदा म* भाग लेने वाले सभी िनवदाकारL को ?दखाना
+चाहते हN? संदभ% मेनू है/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड लगाने क समय सीमा 'वतः नहं बढ़ाने के िलए
+आवRयक बड क सं>या। / Minimum number of
+bids required to disable automatic bid
+extension
+3
+?दनL क सं>या, -जनके िलए बड लगाने क समय-सीमा
+बढ़ाई जाएगी। / Number of days for which Bid
+would be auto-extended
+7
+ऑटो एJसट*शन अिधकतम ?कतनी बार ?कया जाना है। /
+Number of Auto Extension count
+3
+बड से 0रवस% नीलामी स?Iय ?कया/Bid to RA enabled
+Yes
+0रवस% नीलामी यो/यता िनयम/RA Qualiﬁcation Rule
+H1-Highest Priced Bid Elimination
+बड का 5कार/Type of Bid
+Two Packet Bid
+5ाथिमक उXपाद (ेणी/Primary product category
+Hyper Converged Infrastructure for Data Center (V2)
+तकनीक मूYयांकन के दौरान तकनीक 'प[ीकरण हेतु
+अनुमत समय /Time allowed for Technical
+Clarifications during technical evaluation
+3 Days
+िनर\ण आवRयक (सूचीब] िनर\ण 5ािधकरण /जेम के साथ
+पूव% पंजीकृत एज*िसयL Mारा)/Inspection Required (By
+Empanelled Inspection Authority / Agencies
+pre-registered with GeM)
+No
+मूYयांकन प]ित/Evaluation Method
+Total value wise evaluation
+म_य'थता खंड/Arbitration Clause
+No
+सुलह खंड/Mediation Clause
+No
+बड ववरण/Bid Details
+ईएमड ववरण/EMD Detail
+एडवाईजर बNक/Advisory Bank
+HDFC Bank
+ईएमड रािश/EMD Amount
+2200000
+2 / 12
+
+
+ईपीबीजी ववरण /ePBG Detail
+एडवाइजर बNक/Advisory Bank
+State Bank of India
+ईपीबीजी 5ितशत (%)/ePBG Percentage(%)
+5.00
+ईपीबीजी क आवRयक अविध (माह) /Duration of ePBG
+required (Months).
+68
+(a). जेम क शत8 के अनुसार ईएमड छूट के इbछुक बडर को संबंिधत केटेगर के िलए बड के साथ वैध समिथ%त द'तावेज़ 5'तुत करने है। एमएसई
+केटेगर के अंतग%त केवल व'तुओं के िलए विनमा%ता तथा सेवाओं के िलए सेवा 5दाता ईएमड से छूट के पा  हN। cयापा0रयL को इस नीित के दायरे से
+बाहर रखा गया है।/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).ईएमड और संपादन जमानत रािश, जहां यह लागू होती है, लाभाथd के प\ म* होनी चा?हए। / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(c).ईएमड और संपादन जमानत रािश लाभाथd के प\ म* होनी चा?हए। / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथd /Beneficiary : 
+----
+EMD in Favor of "Gujarat Informatics Limited" and PBG in favor of "Gujarat Urban Development
+Mission."Gandhinagar
+(---)
+बोली वभाजन लागू नहं ?कया गया/ Bid splitting not applied.
+एमएसई खरद वरयता/MSE Purchase Preference
+एमएसई खरद वरयता/MSE Purchase Preference
+No
+एमआईआई खरद वरयता/MII Purchase Preference
+एमआईआई खरद वरयता/MII Purchase Preference
+No
+1. If the bidder is a Micro or Small Enterprise as per latest orders issued by Ministry of MSME, the bidder shall be
+relaxed from the eligibility criteria of "Experience Criteria" as defined above subject to meeting of quality and
+technical specifications. The bidder seeking Relaxation from Experience Criteria, shall upload the supporting
+documents to prove his eligibility for Relaxation.
+2. If the bidder is a Micro or Small Enterprise (MSE) as per latest orders issued by Ministry of MSME, the bidder
+shall be relaxed from the eligibility criteria of "Bidder Turnover" as defined above subject to meeting of quality
+and technical specifications. If the bidder itself is MSE OEM of the offered products, it would be relaxed from the
+"OEM Average Turnover" criteria also subject to meeting of quality and technical specifications. The bidder
+seeking Relaxation from Turnover, shall upload the supporting documents to prove his eligibility for Relaxation.
+3. If the bidder is a DPIIT registered Startup, the bidder shall be relaxed from the the eligibility criteria of
+"Experience Criteria" as defined above subject to their meeting of quality and technical specifications. The bidder
+seeking Relaxation from Experience Criteria, shall upload the supporting documents to prove his eligibility for
+Relaxation.
+4. If the bidder is a DPIIT registered Startup, the bidder shall be relaxed from the the eligibility criteria of "Bidder
+Turnover" as defined above subject to their meeting of quality and technical specifications. If the bidder is DPIIT
+3 / 12
+
+
+Registered OEM of the offered products, it would be relaxed from the "OEM Average Turnover" criteria also
+subject to meeting of quality and technical specifications. The bidder seeking Relaxation from Turnover shall
+upload the supporting documents to prove his eligibility for Relaxation. 
+5. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+6. Reverse Auction would be conducted amongst all the technically qualified bidders except the Highest quoting
+bidder. The technically qualified Highest Quoting bidder will not be allowed to participate in RA. However, H-1
+will also be allowed to participate in RA in following cases:
+i. If number of technically qualified bidders are only 2 or 3.
+ii. If Buyer has chosen to split the bid amongst N sellers, and H1 bid is coming within N.
+iii. In case Primary product of only one OEM is left in contention for participation in RA on elimination of H-1.
+iv. If L-1 is non-MSE and H-1 is eligible MSE and H-1 price is coming within price band of 15% of Non-MSE L-1
+v. If L-1 is non-MII and H-1 is eligible MII and H-1 price is coming within price band of 20% of Non-MII L-1
+Pre Bid Detail(s)
+मूYय िभeनता खंड द'तावेज़/Pre-Bid
+Date and Time
+5ी-बड 'थान/Pre-Bid Venue
+22-07-2026 15:00:00
+Gujarat Informatics Limited (GIL)
+Conference Room
+Block No. 2, 2nd Floor, C & D Wing, KARMAYOGI BHAVAN, Sector 10A, Sector
+10, Gandhinagar, Gujarat 382010
+Hyper Converged Infrastructure For Data Center (V2) ( 1 pieces )
+तकनीक विश[याँ /Technical Specifications
+* जेम केटेगर विश[ के अनुसार / As per GeM Category Speciﬁcation
+ववरण/Speciﬁcation
+विश[ का नाम /Specification
+Name
+बड के िलए आवRयक अनुमत मूYय /Bid Requirement
+(Allowed Values)
+BASIC INFORMATION
+Type of HCI offered
+1. Compute node HCI, 2. Storage node HCI, 3. Generic
+node HCI(consisting both Compute and Storage)
+Types of data copies across
+Cluster available in the
+offered solution (Hint:
+Select 0 if not aaplicable)
+0, 1, 2, 3
+Number of Nodes offered in
+HCI Cluster (Hint:- 1 node
+option upgrade or DR only)
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17,
+18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31,
+32, 36, 40, 48, 50, 56, 60, 64, 66, 68, 70
+Type of Processor offered
+in the system
+1. Intel Skylake, 2. Intel Cascade lake, 3. Intel latest
+processor, 4. AMD EPYC Processor
+Type of storage media
+offered with the solution
+1. SSD Drives, 2.SAS Drives, 3. NLSAS Drives, 4.
+NVMe, 5. NA
+No of cache drives per node
+0, 1, 2, 3, 4
+4 / 12
+
+
+HCI Interconnect
+Switches
+Number of L2 Switches to
+be offered for
+Interconnection all the
+Network Ports in the
+Cluster
+0, 2, 4, 6, 8
+Throughput Available per
+port
+10 Gbps, 25 Gbps, 40 Gbps, 100 Gbps, NA
+PERFORMANCE
+Scalability: Any additional
+node/ storage/ RAM added
+to the cluster to augment
+compute/storage/memory
+capacities, the same
+performance per node on
+upgraded node / Storage /
+RAM
+Yes, No
+HCI FEATURES
+HCI Features 1
+1. HCI have all the features of offered industry
+standard hypervisor, 2. HCI have independently scale
+storage and compute as and when needed without
+any downtime., 3. HCI have mechanism for Metadata
+protection for all offered nodes within the cluster so
+as to provide high availability and no single point of
+failure., 4. HCI is configuration of SSD/SAS/NL
+SAS/NVMe then the caching must be on appropriate
+capacity of SSD/ NVME drives to meet the
+IOPS/performance requirements., 5. HCI supports thin
+provisioning of both storage entities and virtual
+machine hard disks, 6. HCI provides automatic
+failover in case of hardware failure., 7 VLAN for
+networking and integrated VM IP?s Management
+capabilities, 8. HCI has security compliance
+methodology to ensure highly secure environment., 9.
+HCI has data replication with WAN optimization., 10.
+NA
+HCI Features 2
+1. HCI provides management through a remote/On
+premise GUI console. Also provides storage, compute
+& hypervisor metrics on a per VM /Node level as well
+as health and monitoring of entire platform., 2.
+Platform support LDAP Active Directory integration.
+The clients installed on any major Operating System.,
+3.Platform supports monitoring via SNMPv3 , email
+alerting via SMTP., 4. Capable of creating instant
+snapshots of virtual machines and maintaining
+multiple copies of snapshots & clones, 5. Capabability
+to support native VM/HCI level replication for installed
+Hypervisor, 6. Storage policy on indvidual VM will
+provide enhanced performance and flexibility to end
+user for better storage management., 7. NA
+HCI Generic
+Parameters
+HCI support
+1.AHV (Acropolis Hypervisor), 2. Hypervisor Agnostic
+Solution, 3. Hyper-V, 4.VSPHERE, 5. Xen Server, 6.
+KVM, 7. RHEV, 8.NA
+GENERIC
+PARAMETERS
+The offered product have
+support from OEM for
+1. Updation for Patches and Bug fixes for software
+within supoort period., 2. Upgradation of version
+software within support period ., 3. Service and
+support from OEM within support period., 4. NA
+ववरण/Speciﬁcation
+विश[ का नाम /Specification
+Name
+बड के िलए आवRयक अनुमत मूYय /Bid Requirement
+(Allowed Values)
+5 / 12
+
+
+Number of Years upto
+which support is available
+from OEM for Updation
+(Patches and Bug fixes)
+within support period
+1, 2, 3, 4, 5, 7, NA
+Number of Years upto
+which support is available
+from OEM for Upgradation
+of version within support
+period
+1, 2, 3, 4, 5, 7, NA
+"Number of years of service
+and support from OEM"
+1, 2, 3, 4, 5, 7, NA
+Installation, &
+Commissioning
+Yes, No
+Number of days Training
+Provided at Site by OEM
+0, 1, 2, 3, 5, 8, 10
+ववरण/Speciﬁcation
+विश[ का नाम /Specification
+Name
+बड के िलए आवRयक अनुमत मूYय /Bid Requirement
+(Allowed Values)
+Additional Specification Parameters - Hyper Converged Infrastructure For Data Center (V2) ( 1
+pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+for more specifications, kindly
+refer to the bid document as
+attached
+for more specifications, kindly refer to the bid document as attached
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/0रपो?टfग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+I.सं./S.N
+o.
+परेषती/0रपो?टfग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+?डलीवर के ?दन/Delivery
+Days
+1
+Parmar Mihika
+Ishvarbhai
+382010,Karmyogibhavan, Block
+No. 1, Ground Floor, Sector No.
+10/A, Gandhinagar-382010
+1
+90
+Smart Rack (V2) ( 1 pieces )
+तकनीक विश[याँ /Technical Specifications
+* जेम केटेगर विश[ के अनुसार / As per GeM Category Speciﬁcation
+6 / 12
+
+
+ववरण/Speciﬁcation
+विश[ का नाम /Specification
+Name
+बड के िलए आवRयक अनुमत मूYय /Bid Requirement
+(Allowed Values)
+SPECIFICATIONS
+Type of rack
+Smart Rack, Seismic Racks, Self-Contained Cabinets
+Size of Rack Enclosure
+25U, 26U, 27U, 31U, 33U, 36U, 37U, 38U, 40U, 41U,
+42U, 44U, 45U, 47U, 48U, 50U, 52U, 56U, 43U, 15U
+If Seismic Racks,
+Earthquake zones (Not
+applicble for Smart Rack,
+Self contained cabinets)
+Zone 1, Zone 2, Zone 3, Zone 4, NA as Smart Rack /
+Self-Contained Cabinets
+Rear door thickness in mm
+2, 2.5, 3 Or higher
+Number of Rack trays
+0, 1, 2 Or higher
+Number of cooling Fan For
+Heat dissipation
+0, 1, 2 Or higher
+Number of fan trays
+0, 1, 2 Or higher
+If available ,UPS Back up
+time up to (in Mins) (In case
+No UPS select as 0)
+10, 15, 20, 25, 30, 0 Or higher
+On Site OEM Warranty
+(years)
+1, 3, 5 Or higher
+Additional Specification Parameters - Smart Rack (V2) ( 1 pieces ) 
+Specification Parameter
+Name
+Bid Requirement (Allowed Values)
+for more specifications, kindly
+refer to the bid document as
+attached
+for more specifications, kindly refer to the bid document as attached
+* Bidders offering must also comply with the additional specification parameters mentioned above. 
+परेषती/0रपो?टfग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+I.सं./S.N
+o.
+परेषती/0रपो?टfग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+?डलीवर के ?दन/Delivery
+Days
+1
+Parmar Mihika
+Ishvarbhai
+382010,Karmyogibhavan, Block
+No. 1, Ground Floor, Sector No.
+10/A, Gandhinagar-382010
+1
+90
+Firewall ( 1 Unit )
+तकनीक विश[याँ /Technical Specifications
+7 / 12
+
+
+Iेता विश[ द'तावेज़ /Buyer
+Specification Document
+Download
+परेषती/0रपो?टfग अिधकार तथा मा ा/Consignees/Reporting Officer and Quantity
+I.सं./S.N
+o.
+परेषती/0रपो?टfग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+मा ा /Quantity
+?डलीवर के ?दन/Delivery
+Days
+1
+Parmar Mihika
+Ishvarbhai
+382010,Karmyogibhavan, Block
+No. 1, Ground Floor, Sector No.
+10/A, Gandhinagar-382010
+1
+90
+Buyer added Bid Specific Additional Scope of Work
+I.सं./S.N
+o.
+Document Title
+Description
+0रवस% 5भार के अनुसार
+जीएसट/Applicable i.r.o. Items
+1
+Bid Document
+View
+Kindly refer the scope of work and
+detailed specification.
+Hyper Converged Infrastructure
+For Data Center (V2)(1),Smart
+Rack (V2)(1),Firewall(1)
+The uploaded document only contains Buyer specific Additional Scope of Work and / or Drawings for the bid items added
+with due approval of Buyer’s competent authority. Buyer has certified that these additional scope and drawings are
+generalized and would not lead to any restrictive bidding.
+Iेता Mारा जोड़ गई बड क वशेष शतi/Buyer Added Bid Specific Terms and Conditions
+1. Generic
+OPTION CLAUSE: The Purchaser reserves the right to increase or decrease the quantity to be ordered up
+to 25 percent of bid quantity at the time of placement of contract. The purchaser also reserves the right to
+increase the ordered quantity up to 25% of the contracted quantity during the currency of the contract at
+the contracted rates. The delivery period of quantity shall commence from the last date of original
+delivery order and in cases where option clause is exercised during the extended delivery period the
+additional time shall commence from the last date of extended delivery period. The additional delivery
+time shall be (Increased quantity ÷ Original quantity) × Original delivery period (in days), subject to
+minimum of 30 days. If the original delivery period is less than 30 days, the additional time equals the
+original delivery period. The Purchaser may extend this calculated delivery duration up to the original
+delivery period while exercising the option clause. Bidders must comply with these terms.
+2. Inspection
+Nominated Inspection Agency: On behalf of the Buyer organization, any one of the following
+Inspection Agency would be conducting inspection of stores before acceptance:
+Pre-dispatch Inspection at Seller Premises (applicable only if pre-dispatch inspection clause has been
+selected in ATC):
+----
+Post Receipt Inspection at consignee site before acceptance of stores:
+8 / 12
+
+
+Inspection will be done by Gujarat Informatics Limited.
+3. Forms of EMD and PBG
+Bidders can also submit the EMD with Account Payee Demand Draft in favour of
+Gujarat Informatics Limited
+payable at
+Sector-16 Gandhinagar
+.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy
+to the Buyer within 5 days of Bid End date / Bid Opening date.
+4. Generic
+Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+5. Forms of EMD and PBG
+Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary
+name
+Gujarat Informatics Limited
+Account No.
+50200010918090
+IFSC Code
+HDFC0000190
+Bank Name
+HDFC Bank
+Branch address
+Sector-16 Gandhinagar
+.
+Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on-
+line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid.
+6. Certificates
+Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+Bid document, ATC and Corrigendum if any.
+7. Rate Contract
+Escalation Matrix For Service Support : Bidder/OEM must provide Escalation Matrix of Telephone Numbers
+for Service Support.
+8. Rate Contract
+Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM must have Dedicated/toll Free
+Telephone No. for Service Support.
+9. Rate Contract
+AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the
+state of Consignee. DOCUMENTARY EVIDENCE TO BE SUBMITTED.
+10. Generic
+Data Sheet of the product(s) offered in the bid, are to be uploaded along with the bid documents. Buyers
+can match and verify the Data Sheet with the product specifications offered. In case of any unexplained
+mismatch of technical parameters, the bid is liable for rejection.
+11. Service & Support
+9 / 12
+
+
+Escalation Matrix For Service Support : Bidder/OEM must provide  Escalation Matrix of Telephone Numbers
+for Service Support.
+12. Service & Support
+Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM  must have  Dedicated/toll Free
+Telephone No. for Service Support.
+13. Generic
+Manufacturer Authorization:Wherever Authorised Distributors/service providers are submitting the
+bid, Authorisation Form /Certificate with OEM/Original Service Provider details such as name, designation,
+address, e-mail Id and Phone No. required to be furnished along with the bid
+14. Generic
+While generating invoice in GeM portal, the seller must upload scanned copy of GST invoice and the
+screenshot of GST portal confirming payment of GST.
+15. Warranty
+Timely Servicing / rectification of defects during warranty period: After having been notified of the defects
+/ service requirement during warranty period, Seller has to complete the required Service / Rectification
+within 3 days time limit. If the Seller fails to complete service / rectification with defined time limit, a
+penalty of 0.5% of Unit Price of the product shall be charged as penalty for each week of delay from the
+seller. Seller can deposit the penalty with the Buyer directly else the Buyer shall have a right to recover all
+such penalty amount from the Performance Security (PBG).Cumulative Penalty cannot exceed more than
+10% of the total contract value after which the Buyer shall have the right to get the service / rectification
+done from alternate sources at the risk and cost of the Seller besides forfeiture of PBG. Seller shall be
+liable to re-imberse the cost of such service / rectification to the Buyer.
+16. Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+Kindly refer to the bid document as
+attached in the scope of work.
+.
+अ'वीकरण/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+1. Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3. Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+10 / 12
+
+
+4. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5. Publishing bids on GeM for procurement of works.
+6. Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7. Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8. Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9. Creating bid for items from incorrect categories.
+10. Reference of conditions published on any external site or reference to external documents/clauses.
+11. Asking for any Tender fee / Bid Participation fee, as the case may be.
+12. Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13. Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14. In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+11 / 12
+
+
+यह बड सामाeय शत8 के अंतग%त भी शािसत है /This Bid is also governed by the General Terms and Conditions
+जेम क सामाeय शत8 के खंड 26 के संदभ% म* भारत के साथ भूिम सीमा साझा करने वाले देश के बडर से खरद पर 5ितबंध के संबंध म*
+भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी बडर इस िनवदा म* बड देने के िलए तभी पा  होगा जब वह बड देने वाला
+स\म 5ािधकार के पास पंजीकृत हो।बड म* भाग लेते समय बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा ?कए जाने
+व इसका अनुपालन न करने पर अनुबंध को तXकाल समा< करने और कानून के अनुसार आगे क कानूनी कार%वाई का आधार होगा।/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---धeयवाद/Thank You---
+12 / 12
+
+
+Page 1 of 16 
+ 
+ 
+Purchase of HCI solution for GUDM 
+ 
+Additional Eligibility Evaluation Criteria:  
+ 
+S/N 
+Eligibility Criteria 
+Attachments 
+1.  
+The bidder should be a registered company (registered under 
+Indian Companies Act, 1956 or Indian Companies Act, 2013) in 
+India and must have 3 years of existence in India as on bid 
+submission. 
+ 
+ 
+Copy of certificate of Incorporation, 
+PAN 
+and 
+GST 
+registration 
+Certificate. 
+ 
+ 
+2.  
+The bidder should have a total sum of turnover of Rs. 24 Crore 
+(Minimum) in the last three financial years as on bid 
+submission. 
+The copies of Audited Annual 
+Accounts/Balance Sheet along with 
+Profit & Loss Account and CA 
+Certified Statement for last three 
+financial years as on bid submission 
+shall be attached along with the bid. 
+UDIN number should available in CA 
+certificate. 
+3.  
+The OEM of the proposed product should have a total sum of 
+turnover of Rs. 60 Crore (Minimum) in the last three financial 
+years as on bid submission. 
+ 
+OEM: HCI solution, Firewall, Smart Rack,  Software part. 
+The copies of Audited Annual 
+Accounts/Balance Sheet along with 
+Profit & Loss Account and CA 
+Certified Statement for last three 
+financial years as on bid submission 
+shall be attached along with the bid. 
+UDIN number should be available in 
+the CA certificate. 
+4.  
+Bidder should have Supply, Installation, Testing and 
+Commissioning (SITC) of hyper-converged infrastructure (HCI) 
+related work / Data Centre IT Infrastructure related experience 
+i.e. Server, Storage, Virtualization, Network and Security and 
+the following value of work order should be available in the 
+last three financial years to any central / state Government / 
+PSU/ Listed Company as on bid submission. 
+• One work order having value of Rs. 10 Cr or  
+• Two work orders, each work order having value of Rs. 6 Cr 
+or 
+• Three work orders, each work order having value of Rs. 5 Cr  
+All work orders/contracts should be in the name of the bidder 
+ 
+Details of such projects undertaken 
+along with work order/purchase 
+order copy/clients’ ongoing (along 
+with client certificate)/ completion 
+certification with the details w.r.t to 
+the clause should be enclosed. 
+5.  
+OEM Should have supplied HCI solution having value of 
+Rs. 30 cr. work order should be available in the last 
+three financial years as on bid submission. 
+ 
+OEM: HCI solution, Firewall, Smart Rack, Software part. 
+Details of such projects undertaken 
+along with work order/purchase 
+order copy/clients’ on-going or 
+completion certification with the 
+details w.r.t to the clause should be 
+enclosed. 
+6.  
+Bidder and OEM should not be debarred in the last two years 
+by any Ministry of Government of India or by any State 
+Government of India or any of the Government PSUs at the 
+time of bidding. 
+Self-
+Declaration/Certificate/affidavit 
+mentioning that the Bidder is not 
+blacklisted as per the clause. 
+
+
+Page 2 of 16 
+ 
+7.  
+The bidder should be authorized by the OEMs of the proposed 
+equipment/devices to bid for this tender. 
+ 
+ 
+AND 
+ 
+The proposed solution should not be End of Support (EoS) for 
+5 years from the date of installation 
+MAF for Authorized partner. Self-
+declaration if the bidder is an OEM. 
+8.  
+The Bidder should have at least one office in Gujarat If the 
+Bidder does not have any office in Gujarat, then the bidder 
+should submit a letter of undertaking to open the office in 
+Gujarat within 45 days from the date of award. 
+The 
+copy 
+of 
+Property 
+tax 
+bill/Electricity 
+Bill/Telephone 
+Bill/GST/CST should be enclosed. 
+Registration/Lease 
+agreement 
+should be submitted as proof Or 
+Undertaking 
+Letter 
+should 
+be 
+enclosed.  
+ 
+Note:  
+1. All the details and the supporting documents for the above-mentioned items should be uploaded in 
+the bid. 
+2. Bidder’s experience and bidder’s turnover criteria will not be considered for the GeM bid; however, 
+the bidder must match the eligibility criteria, experience, and bidder’s turnover criteria as mentioned 
+in this document and will be considered for evaluation. 
+3. Bidder should be authorized by the OEM to quote this bid. MAF of HCI solution, Firewall, Smart Rack, 
+Software should be submitted. 
+ 
+Pre-bid Meeting 
+Gujarat Informatics Limited, Block No. 2, 2nd Floor, C & D Wing, Karmayogi Bhavan, Sector - 10 A, 
+Gandhinagar - 382010 Gujarat. 
+Queries to be submitted to GM (Networking), Gujarat Informatics Limited, Block No. 2, 2nd Floor, 
+Karmayogi Bhavan, Sector-10A, Gandhinagar 382 010  
+E-mail: mgrhninfra1-gil@gujarat.gov.in, dgmtech-gil@gujarat.gov.in , gm-tech@gujarat.gov.in 
+ 
+Prebid Queries Format as mentioned below 
+RFP Page 
+No.,Section 
+No. , 
+Clause No. 
+Existing Clause as per RFP 
+Query/Suggestion of Bidder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 3 of 16 
+ 
+ 
+ 
+ 
+ 
+Scope of Work:  
+1. The bidder shall supply, install, configure, test and commission the proposed Hyper-Converged 
+Infrastructure (HCI), Network, Security, Software and all associated hardware/software 
+components, including required licenses, for the GUDM e-Nagar Project. 
+2. The proposed infrastructure shall be deployed for UAT and Development environments and shall 
+support application testing, validation and performance assessment activities. 
+3. The bidder shall provide minimum 3-nodes for proposed HCI solution with required compute, 
+storage, networking and security components, including all active and passive accessories, as per 
+the technical specifications of the tender. 
+4. The bidder shall provision and configure the proposed infrastructure to support the envisaged 
+workload of the GUDM e-Nagar application ecosystem and future scalability requirements. 
+5. The proposed solution shall support migration, deployment and integration of applications from 
+the UAT and Development environment to the GSDC Production Environment. The bidder shall 
+provide all necessary assistance, tools, accessories, configuration support and technical services 
+required for seamless migration of workloads, applications, virtual machines, containers and 
+associated data. 
+6. The proposed solution shall support migration and deployment of applications from the 
+UAT/Development environment to the GSDC Production Environment and shall be 
+compatible with the VMware Tanzu platform deployed at GSDC. The bidder shall provide 
+all necessary migration, integration, testing and deployment support without any 
+additional cost.  
+7. Any Hardware, software, accessories, tools configuration, interoperability or migration-related 
+activities required for successful deployment in the VMware Tanzu environment shall be in the 
+scope of the bidder without any additional cost to GUDM. 
+8. The bidder shall provide and configure a dedicated 1 GPU based single node with capacity of 48 
+GB or higher for AI/ML, analytics and future application requirements. 
+9. The bidder shall provide and configure the UTM/Next Generation Firewall, network switches, 
+smart rack, UPS, cooling, monitoring, and all other supporting infrastructure required for 
+successful operation of the solution. Any electrification required will be extended by the bidder. 
+10. The bidder shall provide necessary support during application testing, user acceptance testing, 
+performance validation and issue resolution related to the supplied infrastructure. 
+11. The bidder shall ensure integration of the proposed infrastructure with the existing GSDC/GUDM 
+network and security environment and comply with all applicable policies, standards and 
+guidelines. Any security, vulnerabilities identified by GSOC/GSDC in hardware or application has 
+to be resolved in co-ordination with application and security team. 
+12. The bidder shall submit OEM certifications, technical documentation, architecture diagrams, 
+SOPs, troubleshooting guides, knowledge transfer documents and other relevant documents for 
+the deployed solution. 
+13. The bidder shall conduct Factory Acceptance Testing (FAT), installation, commissioning and 
+operational acceptance of the proposed solution in coordination with GUDM/GIL and obtain 
+necessary sign-offs. 
+14. The bidder shall rectify all discrepancies observed during FAT, testing, commissioning or 
+acceptance activities and ensure successful completion of the project as per the contractual 
+requirements. 
+15. The bidder shall provide comprehensive OEM warranty, support services and maintenance for a 
+period of five (5) years from the date of successful FAT, including software updates, hardware 
+replacement, technical support and performance assurance of the complete solution. 
+
+
+Page 4 of 16 
+ 
+ 
+ 
+
+
+Page 5 of 16 
+ 
+ 
+Minimum Specification  
+ 
+HCI Solution As per GEM 
+Sr. 
+No. 
+Specification 
+Specification Name 
+Bid Requirement 
+1 
+BASIC 
+INFORMATIO
+N 
+Type of HCI offered 
+Generic node HCI(consisting 
+both Compute and  Storage) 
+Total usable Storage in TB available 
+without using Deduplication, 
+Compression (after installation of HCI 
+software resources required for 
+solution) in the offered solution 
+The offered HCI solution shall 
+provide minimum 170 TB 
+usable storage (without 
+deduplication and 
+compression benefits) and 
+the same usable capacity 
+shall be available under N+1 
+failure condition (failure of 
+any one node). 
+Total usable Cores available (after 
+installation of HCI software resources 
+required for solution) in the offered 
+solution (Hint :- Select '0' if not 
+applicable) 
+Minimum 192 cores or higher 
+Number of Nodes offered in HCI Cluster 
+(Hint:- 1 node 
+option upgrade or DR only) 
+3 or higher 
+Number of Sockets offered per Node 
+2 
+Number of Cores per Sockets 
+Minimum 32 cores or higher 
+per socket 
+Number of populated Processor per 
+Node 
+2 
+Type of Processor offered in the system 
+Intel latest processor /  AMD 
+EPYC Latest Processor 
+Type of storage media offered with the 
+solution 
+4. NVMe 
+RAM Capacity (Raw) offered per node 
+in GB 
+ (Hint: Select 0 if not applicable) 
+512 GB Or higher 
+Number of Network ports per node  
+(Hint: Select '0' if not applicable 
+3 or higher 
+Throghput Per Network port 
+10/25 Gbps Or higher 
+Type of Network port 
+SFP+ 
+2 
+HCI 
+Interconnect 
+Switches 
+Number of L2 Switches to be offered 
+for Interconnection all the Network 
+Ports in the Cluster* 
+2 or required as per proposed 
+solution 
+Throughput Available per port 
+10/25 Gbps Or higher 
+3 
+PERFORMAN
+CE 
+IOPS delivered at 70:30 Read:Write 
+Ratio on 8K block 
+size with latency of 5ms maximum for 
+each node 
+100000 Or higher 
+
+
+Page 6 of 16 
+ 
+Scalability: Any additional node/ 
+storage/ RAM added to the cluster to 
+augment compute/storage/memory 
+capacities, the same performance per 
+node on upgraded node / Storage / 
+RAM* 
+Yes 
+4 
+HCI 
+FEATURES 
+HCI Features 1 
+1. HCI have all the features of 
+offered industry standard 
+hypervisor. 
+2. HCI have independently 
+scale storage and compute as 
+and when needed without 
+any downtime. 
+3. HCI have mechanism for 
+Metadata protection for all 
+offered nodes within the 
+cluster so as to provide high 
+availability and no single 
+point of failure. 
+4. HCI is configuration of 
+SSD/SAS/NL SAS/NVMe then 
+the caching must be on 
+appropriate capacity of 
+SSD/NVME drives to meet the 
+IOPS/performance 
+requirements. 
+5. HCI supports thin 
+provisioning of both storage 
+entities and virtual machine 
+hard disks. 
+6. HCI provides automatic 
+failover in case of hardware 
+failure. 
+7. VLAN for networking and 
+integrated VM IP’s 
+Management capabilities. 
+8. HCI has security 
+compliance methodology to 
+ensure highly secure 
+environment. 
+9. HCI has data replication 
+with WAN optimization. 
+HCI Features 2 
+1. HCI provides management 
+through a remote/On 
+premise GUI console. Also 
+provides storage, compute & 
+hypervisor metrics on a per 
+VM /Node level as well as 
+health and monitoring of 
+entire platform. 
+2. Platform support LDAP 
+Active Directory integration. 
+
+
+Page 7 of 16 
+ 
+The clients installed on any 
+major Operating System. 
+3. Platform supports 
+monitoring via SNMPv3, email 
+alerting via SMTP. 
+4. Capable of creating instant 
+snapshots of virtual machines 
+and maintaining multiple 
+copies of snapshots & clones. 
+6. Storage policy on indvidual 
+VM will provide enhanced 
+performance and flexibility to 
+end user for better storage 
+management. 
+HCI Features 3 
+1. Redundant components 
+with no single point of failure 
+in the system. 
+2. Intelligent optimum data 
+distribution across all nodes. 
+3. HCI support container 
+based application. 
+4. Single management tool 
+supports multiple clusters. 
+5. Management tool is built 
+into the solution and scales 
+with the cluster. 
+6. HCI having built-in security 
+for data. 
+7. HCI capable to sustain 
+single power supply failure. 
+HCI Features 4 
+1. VM/Node-centric policy-
+based management. 
+3. Support for VM or APP 
+consistent snapshot/backup. 
+HCI Features 5 
+1. Management tool is built 
+into the solution, scales with 
+the cluster, and does not 
+require separate hardware 
+infrastructure. 
+2. Integrated/Software based 
+Remote Data 
+recovery/Replication solution. 
+3. Data Integrity Checks. 
+4. Management tool provides 
+visibility of network 
+infrastructure. 
+5. Integrated management 
+for hyperconverged 
+infrastructure and virtual 
+environments with Storage & 
+Compute/Storage/Network/C
+
+
+Page 8 of 16 
+ 
+ompute. 
+6. Intelligent data distribution 
+across all nodes and uniform 
+capacity utilization across all 
+nodes at all time. 
+Supports 
+2. Antivirtus, 3. Anti malware 
+Supported industry protocols by HCI 
+1. NFS 
+2. CIFS 
+3. SMB 
+4. iSCSI 
+5. Equivalent IP Storage 
+Protocol 
+6. iSCSI for Containers 
+Inline data Compression & 
+Deduplication function licences for 
+2. Unlimited 
+5 
+HCI Generic 
+Parameters 
+Number of nodes HCI supports in same 
+cluster/deployment, such that any 
+node out of the offered be able to use 
+the storage of all other nodes* 
+Minimum 16 Node Or higher 
+HCI support 
+Proposed solution shall 
+support any one or more 
+industry-standard enterprise 
+hypervisors such as AHV, 
+Hyper-V, vSphere, Xen, KVM, 
+RHEV, or equivalent. 
+"Bare-metal / Non Bare metal type of 
+virtualization hypervisor" 
+Bare-metal  
+"The length of cable connecting the 
+Nodes to the Switch (meters)" 
+3.0 - 50.0 Or higher 
+  
+  
+The offered product have support from 
+OEM for 
+1. Updation for patches and 
+bug fixes for software within 
+support period. 
+2. Upgradation of software 
+version within support 
+period. 
+3. Service and support from 
+OEM within support period. 
+Number of Years upto which support is 
+available 
+from OEM for Updation (Patches and 
+Bug fixes) 
+within support period 
+5 
+Number of Years upto which support is 
+available from OEM for Upgradation of 
+version within support period* 
+5 
+"Number of years of service and 
+support from OEM"* 
+5 
+Installation, & Commissioning 
+Yes 
+
+
+Page 9 of 16 
+ 
+7 
+ATC clause 
+ATC clause 
+ The proposed HCI solution 
+and virtualization platform 
+should support seamless 
+migration and deployment of 
+workloads/applications from 
+UAT environment to existing 
+VMware Tanzu/containerized 
+ecosystem at GSDC 
+Production Environment, 
+wherever applicable. Bidder 
+shall ensure smooth 
+migration, integration, and 
+operational continuity during 
+implementation. 
+Currently, we are working on 
+an AI-based chatbot within 
+the scope defined in the RFP, 
+primarily to assist citizens 
+through FAQs and scenario-
+based automated responses 
+for respective ULB services. 
+However, if GUDM plans to 
+extend this to an advanced 
+chatbot using NLP/LLM-based 
+capabilities, additional GPU-
+based infrastructure will be 
+required for UAT and Staging 
+environments. The indicative 
+configuration is as below: 
+UAT & Staging: 
+• GPU Memory: Minimum 48 
+GB ECC GPU Memory or 
+higher; Tensor Cores: 
+Minimum 500 or higher; GPU 
+shall support AI/ML, Deep 
+Learning, NLP, LLM, and 
+containerized workloads. GPU 
+should be compatible with 
+the proposed server platform. 
+• CPU – 8 Cores, 16 GB RAM 
+• Storage – 500 GB 
+• OS – Ubuntu 22.04 or above 
+Further, the Production 
+environment infrastructure 
+will be proposed separately.  
+The container platform must 
+support GPU resource 
+allocation for AI/ML 
+workloads 
+HCI Features 4: Supports 
+DRS/Distributed switch or 
+equivalent enterprise 
+virtualization functionalities. 
+
+
+Page 10 of 16 
+ 
+Networking part: 24 x 
+10/25GbE SFP+ & 4 x 100GbE 
+QSFP data center grade 
+switch + L3 License 
+All 24 ports should be 
+populated with 25G Module 
+from day 1 
+5 Years Warranty and Service 
+along with enterprise support 
+Smart Rack 42 U 
+Sr.No
+. 
+Parameter 
+Specification 
+1 
+Type of Rack 
+Smart Rack  
+2 
+Size of Rack 
+Enclosure 
+42U or Higher 
+3 
+Mount Type 
+Floor Mounted 
+4 
+Front Door 
+Lockable Toughened Glass Door 
+5 
+Rear Door 
+Lockable Perforated Steel Door 
+6 
+Rear Split 
+Door Design 
+Yes 
+7 
+Side Panels 
+Removable with Key Locks 
+8 
+Cable 
+Management 
+Vertical and Horizontal Cable Managers 
+9 
+Cable Entry 
+Top and Bottom 
+10 
+Rack Trays 
+Minimum 2 
+11 
+Load Bearing 
+Capacity 
+As per OEM Design 
+12 
+Secure Locks 
+Yes 
+13 
+Cooling 
+Capacity 
+Minimum 20 kW 
+14 
+Climate 
+Control 
+Yes 
+15 
+Humidity 
+Control 
+Yes 
+
+
+Page 11 of 16 
+ 
+16 
+Environment
+al Monitoring 
+Temperature and Humidity Monitoring 
+17 
+Water Leak 
+Detection 
+Yes 
+18 
+Fire 
+Suppression 
+System 
+Integrated Automatic Fire Suppression 
+19 
+Fire 
+Alarm/Hooter Yes 
+20 
+Emergency 
+Door Release 
+Yes 
+21 
+Rodent 
+Protection 
+Yes 
+22 
+Intelligent 
+Power 
+Distribution 
+2 x Intelligent Metered PDU, 32A, C13/C19 Mixed Outlets 
+23 
+Power Strips 
+Minimum 2 
+24 
+Cooling 
+Capacity 
+Minimum 20 kW In-Rack Precision Cooling (N+1 Redundancy Preferred) 
+, 2 Units of 2 Ton AC which will run in redundancy mode. 
+25 
+UPS 
+Integration 
+Supported 
+26 
+UPS Rating 
+Min 20 KVA or higher 
+27 
+UPS Backup 
+Time 
+Min 30 Minutes or Higher 
+28 
+Cabinet 
+Lighting 
+LED Internal Lighting 
+29 
+Biometric 
+Access 
+Control 
+Yes 
+30 
+Monitoring 
+Interface 
+Integrated Monitoring and Alerting Dashboard 
+31 
+Network 
+Integration 
+Support for integration with DCIM/NMS tools 
+32 
+Rack 
+Warranty 
+Minimum 5 Years OEM Warranty 
+  
+Physical Dimensions 
+Parameter 
+Specification 
+33 
+Height 
+42U Standard Rack 
+34 
+Width 
+900 mm or Higher 
+35 
+Depth 
+3600 mm or Higher 
+36 
+ADDITIONAL 
+PERFORMAN
+CE 
+PARAMETER 
+• The Smart Rack Should advance modular server and network 
+equipment enclosure designed for optimized space utilization, 
+enhanced airflow, and simplified cable management. 
+• It provides secure housing with lockable doors, adjustable mounting 
+rails, and built-in monitoring options for temperature, humidity, and 
+power usage. 
+• Ideal for data centers, IT rooms, and network closets, the Smart Rack 
+ensures efficient equipment organization, easy maintenance, and 
+improved operational reliability while supporting scalability for growing 
+infrastructure needs. 
+
+
+Page 12 of 16 
+ 
+The Smart Rack shall support installation of HCI nodes, Top-of-Rack (ToR) switches, firewall 
+appliances, intelligent PDUs, UPS, cooling units, and associated power/network cabling 
+infrastructure with provision for future scalability. The rack shall provide integrated monitoring, 
+environmental controls, security, and power management capabilities under a unified 
+management framework. 
+Firewall 
+Sr 
+Minimum Specification 
+1 
+UTM appliance suitable for UAT, Development, and Enterprise Branch deployment. 
+2 
+Minimum 240 GB or higher onboard storage. 
+4 
+Minimum 2 Gbps Firewall throughput. 
+5 
+Minimum 2 Gbps IPS throughput. 
+6 
+Minimum 1 Gbps Threat Protection throughput 
+7 
+Appliance shall have minimum 2× 10G/25G SFP+ interfaces from day one. 
+8 
+Appliance shall have minimum 8 × 1G RJ-45 interfaces from day one. 
+9 
+Minimum 5 Gbps IPSec VPN throughput. 
+10 
+Supports IPSec VPN and SSL VPN. 
+11 
+Supports Stateful Firewall, NAT, and Policy-Based Routing.. 
+12 
+Supports Intrusion Prevention System (IPS). 
+13 
+Supports Application Visibility and Control (AVC). 
+14 
+Supports URL Filtering and Web Security. 
+15 
+Supports Anti-Virus, Anti-Malware, and Anti-Bot protection. 
+16 
+Supports minimum 1 Million concurrent sessions. 
+17 
+Supports minimum 50,000 new sessions per second. 
+Supports IPv4 and IPv6. 
+18 
+Supports SNMP, Syslog, Email Alerts, and Role-Based Administration. 
+19 
+Supports integration with LDAP/Active Directory 
+20 
+Appliance shall be supplied with all required subscriptions/licenses for IPS, URL Filtering, 
+Anti-Malware, Application Control, and Threat Protection from Day-1. 
+21 
+Minimum 5 Years OEM Warranty, Subscription, Updates, and Enterprise Support. 
+Bandwidth 
+1 
+Lease Line 
+50 Mbps 
+Minimum 4 usable static IPs 
+ 
+Uptime: It is required to maintain uptime of 99.741%. Further, the bidder is responsible for providing 
+comprehensive warranty and support (24x7x365) for the period of five years from the date of successful 
+completion of FAT. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 13 of 16 
+ 
+IMPLEMENTATION TIMELINES & PENALTIES:   
+ 
+S/N 
+Measurement 
+Target 
+Penalty for Delay 
+Applicable for overall contract 
+1 
+Kick-off meeting 
+1 
+week 
+from 
+issuance of GEM 
+order 
+Rs 50,000/week or part thereof. Delay Beyond 4 
+weeks, GUDM may terminate the contract and Forfeit 
+the PBG. 
+2 
+Delivery 
+of 
+Components 
+(Hardware, 
+Software, License, 
+etc.) 
+T1 = T + 12 weeks 
+A penalty of 0.5% of Contract Value per week or part 
+thereof proportionately. Delay beyond T + 14 weeks 
+GUDM may terminate the contract and Forfeit the PBG 
+3 
+Installation 
+and 
+Commissioning  
+T2 = T1 + 4 weeks 
+A penalty of 0.5% of Contract Value per week or part 
+thereof proportionately. Delay beyond T1 + 6 weeks 
+DST/GIL may terminate the contract and Forfeit the 
+PBG 
+4 
+Final 
+Acceptance 
+Test (FAT) 
+T3 = T2 + 2 weeks 
+A penalty of 0.5% of Contract Value per week or part 
+thereof proportionately. 
+5 
+Migration at GSDC 
+GUDM’s 
+Intimation 
+date 
+for Migration at 
+production stage 
+(4 weeks from 
+date 
+of 
+intimation) 
+A penalty of 0.5% of Contract Value per week or part 
+thereof. 
+ 
+FINAL ACCEPTANCE TEST:  To be carried out based on the following but not limited to: 
+• Verification of installation and commissioning (Hardware, software and licenses) 
+• OEM Certifications 
+• All Functional and Technical requirements. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 14 of 16 
+ 
+MILESTONE BASED PAYMENT TERMS:  
+ 
+S/N 
+Activity 
+Payment (%) 
+Table 1: Schedule-I     
+1 
+Delivery of all components (Hardware, Software, 
+Licenses, etc.)  
+50 % of the total GEM contract value 
+2 
+Successful installation, Testing, Integration, 
+Commissioning 
+20 % of the total GEM contract value 
+3 
+Successful completion of training & Final 
+Acceptance test of entire solution 
+10% of the total GEM contract value 
+4 
+Successful completion of Migration of entire 
+solution 
+20% of the total GEM contract value 
+PRICE BID SCHEDULE: 
+ 
+Sr. 
+# 
+Device Description 
+Unit 
+Item 
+Quantity 
+Unit Rate 
+Inc. GST 
+Total Rate 
+1 
+Hyper Converged Infrastructure(HCI) solution 
+along with  Smart Racks, Firewall, Bandwidth, 
+etc. 
+with 
+required 
+Switches, 
+Hardware, 
+software, licences, necessary accessories and 
+tools. 
+Lot 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                                                       
+ 
+Note:  
+ 
+1. L1 will be the lowest sum total of rates of all line items including GST as per GeM GTC 
+2. RA has been enabled in the GEM Bid.   
+ 
+ADDITIONAL DOCUMENT TO BE SUBMITTED:  
+ 
+In the technical bid section of GeM, the bidder is required to upload the following documents;  
+ 
+1. Brochure and OEM Compliance of the Offered product on OEM letterhead.  
+2. BoQ with part-code on OEM letterhead for software and/or hardware components required to complete the 
+solution.  
+3. Compliance of the SoW, SLA and Payment terms etc as uploaded as part of the GeM Bid on bidder’s letterhead.  
+4. Undertaking as per guidelines published by Ministry of Finance, Dept. of Expenditure, Public Procurement 
+Division dated 23.07.2020 in the given format by Bidder as well as OEM.  
+5. RA has been enabled in the GEM Bid.   
+ 
+ 
+ 
+ 
+
+
+Page 15 of 16 
+ 
+ 
+ 
+On letterhead of Bidder 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 published by 
+Ministry of Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ________________________________ 
+ 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a land border 
+with India. I certify that we as a bidder and quoted product from following OEMs are not from such a country or, 
+if from such a country, these quoted products OEM has been registered with competent authority. I hereby certify 
+that these quoted product & its OEM fulfills all requirements in this regard and is eligible to be considered for 
+procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence for 
+valid registration by the competent authority, otherwise GIL/End user Dept. reserves the right to take legal action 
+on us. 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+
+
+Page 16 of 16 
+ 
+ 
+ 
+On letterhead of OEM 
+ 
+Sub : Undertaking as per Office Memorandum No.: F. No.6/18/2019-PPD dated  23.07.2020 published by 
+Ministry of Finance, Dept. of Expenditure, Public Procurement division  
+ 
+Ref: Bid Number: ____________________________________ 
+ 
+Dear Sir, 
+ 
+I have read the clause regarding restriction on procurement from a bidder of a country which shares a land border 
+with India. I certify that our quoted product and our company are not from such a country, or if from such a 
+country, our quoted product and our company have been registered with competent authority. I hereby certify 
+that these quoted product and our company fulfills all requirements in this regard and is eligible to be considered 
+for procurement for Bid number_______________________. 
+ 
+No.  
+Item Category 
+Quoted Make & Model  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In case I’m supplying material from a country which shares a land border with India, I will provide evidence for 
+valid registration by the competent authority; otherwise, GIL/End user Dept. reserves the right to take legal action 
+on us. 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory of M/s <<Name of Company>>  
+ 
+ 

@@ -1,0 +1,10568 @@
+Sr.No.
+Phase
+Existing Package
+Connected by 
+ Proposed Zone
+Existing Zone
+1
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+2
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+3
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+4
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+5
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+6
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+7
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+8
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+9
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+10
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+11
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+12
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+13
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+14
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+15
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+16
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+17
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+18
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+19
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+20
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+21
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+22
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+23
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+24
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+25
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+26
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+27
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+28
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+29
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+30
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+31
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+32
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+33
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+34
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+35
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+36
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+37
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+38
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+39
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+40
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+41
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+
+
+42
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+43
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+44
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+45
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+46
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+47
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+48
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+49
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+50
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+51
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+52
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+53
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+54
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+55
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+56
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+57
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+58
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+59
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+60
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+61
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+62
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+63
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+64
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+65
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+66
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+67
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+68
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+69
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+70
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+71
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+72
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+73
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+74
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+75
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+76
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+77
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+78
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+79
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+80
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+81
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+82
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+83
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+84
+Phase-II
+Package A
+Not connected
+Surat
+Not Connected
+85
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+86
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+87
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+88
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+
+
+89
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+90
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+91
+Phase-I
+Package A
+Not connected
+Surat
+Not Connected
+92
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+93
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+94
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+95
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+96
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+97
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+98
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+99
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+100
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+101
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+102
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+103
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+104
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+105
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+106
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+107
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+108
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+109
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+110
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+111
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+112
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+113
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+114
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+115
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+116
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+117
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+118
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+119
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+120
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+121
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+122
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+123
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+124
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+125
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+126
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+127
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+128
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+129
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+130
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+131
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+132
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+133
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+134
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+135
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+
+
+136
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+137
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+138
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+139
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+140
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+141
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+142
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+143
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+144
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+145
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+146
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+147
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+148
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+149
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+150
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+151
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+152
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+153
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+154
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+155
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+156
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+157
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+158
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+159
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+160
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+161
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+162
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+163
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+164
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+165
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+166
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+167
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+168
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+169
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+170
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+171
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+172
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+173
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+174
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+175
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+176
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+177
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+178
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+179
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+180
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+181
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+182
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+
+
+183
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+184
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+185
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+186
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+187
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+188
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+189
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+190
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+191
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+192
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+193
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+194
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+195
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+196
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+197
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+198
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+199
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+200
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+201
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+202
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+203
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+204
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+205
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+206
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+207
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+208
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+209
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+210
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+211
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+212
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+213
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+214
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+215
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+216
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+217
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+218
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+219
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+220
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+221
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+222
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+223
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+224
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+225
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+226
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+227
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+228
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+229
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+
+
+230
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+231
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+232
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+233
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+234
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+235
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+236
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+237
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+238
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+239
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+240
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+241
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+242
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+243
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+244
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+245
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+246
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+247
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+248
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+249
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+250
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+251
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+252
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+253
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+254
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+255
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+256
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+257
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+258
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+259
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+260
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+261
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+262
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+263
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+264
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+265
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+266
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+267
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+268
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+269
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+270
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+271
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+272
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+273
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+274
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+275
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+276
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+
+
+277
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+278
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+279
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+280
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+281
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+282
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+283
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+284
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+285
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+286
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+287
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+288
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+289
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+290
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+291
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+292
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+293
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+294
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+295
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+296
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+297
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+298
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+299
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+300
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+301
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+302
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+303
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+304
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+305
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+306
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+307
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+308
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+309
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+310
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+311
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+312
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+313
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+314
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+315
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+316
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+317
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+318
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+319
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+320
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+321
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+322
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+323
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+
+
+324
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+325
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+326
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+327
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+328
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+329
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+330
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+331
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+332
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+333
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+334
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+335
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+336
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+337
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+338
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+339
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+340
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+341
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+342
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+343
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+344
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+345
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+346
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+347
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+348
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+349
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+350
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+351
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+352
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+353
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+354
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+355
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+356
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+357
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+358
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+359
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+360
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+361
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+362
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+363
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+364
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+365
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+366
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+367
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+368
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+369
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+370
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+
+
+371
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+372
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+373
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+374
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+375
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+376
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+377
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+378
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+379
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+380
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+381
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+382
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+383
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+384
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+385
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+386
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+387
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+388
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+389
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+390
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+391
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+392
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+393
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+394
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+395
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+396
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+397
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+398
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+399
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+400
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+401
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+402
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+403
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+404
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+405
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+406
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+407
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+408
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+409
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+410
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+411
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+412
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+413
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+414
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+415
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+416
+Phase-II
+Package A
+Not connected
+Vadodara
+Not Connected
+417
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+
+
+418
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+419
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+420
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+421
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+422
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+423
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+424
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+425
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+426
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+427
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+428
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+429
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+430
+Phase-I
+Package A
+Not connected
+Vadodara
+Not Connected
+431
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+432
+Phase-II
+Package A
+Not connected
+Gandhinagar
+Not Connected
+433
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+434
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+435
+Phase-I
+Package A
+Not connected
+Gandhinagar
+Not Connected
+436
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+437
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+438
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+439
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+440
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+441
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+442
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+443
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+444
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+445
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+446
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+447
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+448
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+449
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+450
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+451
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+452
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+453
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+454
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+455
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+456
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+457
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+458
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+459
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+460
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+461
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+462
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+463
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+464
+Phase-II
+Package B
+Not connected
+Rajkot
+Not Connected
+
+
+465
+Phase-II
+Package B
+Not connected
+Ahmedabad
+Not Connected
+466
+Phase-II
+Package B
+Not connected
+Ahmedabad
+Not Connected
+467
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+468
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+469
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+470
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+471
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+472
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+473
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+474
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+475
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+476
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+477
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+478
+Phase-I
+Package B
+Not connected
+Bhavnagar
+Not Connected
+479
+Phase-II
+Package B
+Not connected
+Bhavnagar
+Not Connected
+480
+Phase-II
+Package B
+Not connected
+Bhavnagar
+Not Connected
+481
+Phase-II
+Package B
+Not connected
+Bhavnagar
+Not Connected
+482
+Phase-II
+Package B
+Not connected
+Bhavnagar
+Not Connected
+483
+Phase-II
+Package B
+Not connected
+Bhavnagar
+Not Connected
+484
+Phase-II
+Package B
+Not connected
+Ahmedabad
+Not Connected
+485
+Phase-II
+Package B
+Not connected
+Ahmedabad
+Not Connected
+486
+Phase-II
+Package B
+Not connected
+Ahmedabad
+Not Connected
+487
+Phase-II
+Package B
+Not connected
+Ahmedabad
+Not Connected
+488
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+489
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+490
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+491
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+492
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+493
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+494
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+495
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+496
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+497
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+498
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+499
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+500
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+501
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+502
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+503
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+504
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+505
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+506
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+507
+Phase-I
+Package B
+Not connected
+Ahmedabad
+Not Connected
+508
+Phase-I
+Package B
+Not connected
+Rajkot
+Not Connected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+District
+Block
+LGD Code
+ GP Name
+Category 
+For Bidder
+(GP/Reve
+nueVillage
+)
+Bharuch
+Vagra
+157020
+Ambheta
+GP
+Bharuch
+Vagra
+157030
+Gandhar
+GP
+Bharuch
+Vagra
+157032
+Jageshwar
+GP
+Bharuch
+Vagra
+157042
+Lakhigam
+GP
+Bharuch
+Vagra
+157044
+Luvara
+GP
+Dang
+Ahwa
+299508
+Bhapkhal
+GP
+Dang
+Ahwa
+299510
+Bhisya
+GP
+Dang
+Ahwa
+299505
+Gadad
+GP
+Dang
+Ahwa
+299512
+Kamad
+GP
+Dang
+Ahwa
+299513
+Nandanpeda
+GP
+Dang
+Ahwa
+299509
+Sonuniya
+GP
+Dang
+Subir
+299496
+Behdun
+GP
+Dang
+Subir
+299497
+Bijurpada
+GP
+Dang
+Subir
+299495
+Gawhan
+GP
+Dang
+Subir
+299498
+Girmal
+GP
+Dang
+Subir
+299499
+Jhari
+GP
+Dang
+Subir
+299503
+Junner
+GP
+Dang
+Subir
+299502
+Kasadbari
+GP
+Dang
+Subir
+299504
+Sajupada
+GP
+Dang
+Waghai
+299487
+Baj
+GP
+Dang
+Waghai
+299489
+Bhadarpada
+GP
+Dang
+Waghai
+299486
+Dagadpada
+GP
+Dang
+Waghai
+299492
+Kakarda
+GP
+Dang
+Waghai
+299490
+Masli
+GP
+Dang
+Waghai
+299491
+Shivarimal
+GP
+Dang
+Waghai
+299484
+Tekpada
+GP
+Dang
+Waghai
+299485
+bapada (Vag
+GP
+Dang
+Ahwa
+299506
+li (Samgaha
+GP
+Dang
+Ahwa
+299507
+Gadvihir
+GP
+Dang
+Ahwa
+299517
+Hanwatchon
+GP
+Dang
+Ahwa
+299515
+mal(Gadads
+GP
+Dang
+Ahwa
+299511
+pada(Galkun
+GP
+Dang
+Ahwa
+299516
+Umbarpada
+GP
+Dang
+Subir
+299611
+Wahutiya
+GP
+Dang
+Ahwa
+299518
+Wangan
+GP
+Narmada
+Dediyapada
+301718
+Arethi
+GP
+Narmada
+Dediyapada
+301734
+Bandi Servan
+GP
+Narmada
+Dediyapada
+521741
+Dabka
+GP
+Narmada
+Dediyapada
+301659
+Kunbar
+GP
+Narmada
+Dediyapada
+521591
+Mal
+GP
+Narmada
+Dediyapada
+301776
+Mathasar
+GP
+
+
+Narmada
+Dediyapada
+521744
+Mohbi
+GP
+Narmada
+Dediyapada
+521590
+Mohbudi
+GP
+Narmada
+Dediyapada
+301721
+Morjadi
+GP
+Narmada
+Chikda
+301725
+Moti Bedwa
+GP
+Narmada
+Dediyapada
+301777
+Nani Singlot
+GP
+Narmada
+Dediyapada
+301778
+Pansar
+GP
+Narmada
+Dediyapada
+521572
+Sankli
+GP
+Narmada
+Dediyapada
+521742
+Shisha
+GP
+Narmada
+Chikda
+301779
+Tilipada
+GP
+Narmada
+Dediyapada
+301774
+Vaghumar
+GP
+Navsari
+Chikhli
+300624
+Ambapada
+GP
+Navsari
+Chikhli
+300625
+Pradhanpad
+GP
+Surat
+Mandvi
+300633
+Balaltirth
+GP
+Surat
+Mandvi
+300632
+Karutha
+GP
+Surat
+Mandvi
+300635
+Katkuva
+GP
+Surat
+Mandvi
+300634
+Sadadi
+GP
+Surat
+Mangarol
+300639
+Bhatkol
+GP
+Surat
+Mangarol
+300636
+Panetha
+GP
+Surat
+Mangarol
+300638
+Vansoli
+GP
+Surat
+Olpad
+300641
+Kachhol
+GP
+Surat
+Umarpada
+300644
+Chandrapad
+GP
+Surat
+Umarpada
+300646
+Vadpada
+GP
+Surat
+Mandvi
+300631
+ngpor Harsh
+GP
+Surat
+Mandvi
+300933
+ava Rataniy
+GP
+Surat
+Mangarol
+300637
+Jharni
+GP
+Surat
+Mangarol
+300934
+akilpara Ano
+GP
+Surat
+Olpad
+300640
+Andhi
+GP
+Surat
+Olpad
+300643
+Kanbhi
+GP
+Surat
+Umarpada
+300645
+Haldhari
+GP
+Surat
+Olpad
+523766
+Kasla Bujran
+GP
+Surat
+Olpad
+300935
+Dabhari
+GP
+Tapi
+Kukarmunda
+301663
+Medhpur
+GP
+Tapi
+Songadh
+301724
+Champavad
+GP
+Tapi
+Songadh
+301719
+Dhanmauli
+GP
+Tapi
+Songadh
+301720
+Don
+GP
+Tapi
+UKAI
+301048
+Satkashi
+GP
+Tapi
+Songadh
+305277
+Hanmantiya
+GP
+Tapi
+UKAI
+301049
+Mandavipan
+GP
+Tapi
+Songadh
+301662
+Umarada
+GP
+Tapi
+UKAI
+301047
+Vagada
+GP
+Tapi
+UKAI
+301051
+adhadadhuv
+GP
+Tapi
+UKAI
+301050
+Budhwada
+GP
+Tapi
+Vyara
+305279
+Kapadvan
+GP
+Valsad
+Kaprada
+276003
+Burala
+GP
+Valsad
+Kaprada
+275892
+Fatepur
+GP
+Valsad
+Kaprada
+275946
+Ghadavi
+GP
+Valsad
+Kaprada
+244121
+Madhuban
+GP
+
+
+Valsad
+Kaprada
+275894
+Piprodi
+GP
+Valsad
+Kaprada
+167321
+Tukvada
+GP
+Valsad
+Kaprada
+275885
+Varoli
+GP
+Aravalli
+Bayad
+301143
+Amrapur
+GP
+Aravalli
+Bayad
+301141
+Bibipura
+GP
+Aravalli
+Bayad
+301068
+epura (Dhab
+GP
+Aravalli
+Bayad
+301067
+Manpur
+GP
+Aravalli
+Bayad
+300458
+Netrodiya
+GP
+Aravalli
+Bayad
+300459
+Rughnathpu
+GP
+Aravalli
+Bayad
+301139
+antada Kava
+GP
+Aravalli
+SHAMALAJI
+301821
+apda (Jaagi
+GP
+Aravalli
+Bhiloda
+301861
+Jetpur
+GP
+Aravalli
+Dhansura
+299523
+Bajipura
+GP
+Aravalli
+Dhansura
+301070
+Borwai
+GP
+Aravalli
+Meghraj
+301830
+Medi Panta
+GP
+Aravalli
+Meghraj
+301658
+Bhunjari
+GP
+Aravalli
+Meghraj
+301071
+Motimori
+GP
+Aravalli
+Modasa
+301074
+Bhilkuva
+GP
+Aravalli
+Modasa
+301172
+Vantada
+GP
+Aravalli
+Modasa
+301073
+Dholiya
+GP
+Aravalli
+Modasa
+301661
+Motipura
+GP
+Aravalli
+Modasa
+301072
+Vantada(Ka)
+GP
+Sabarkantha
+Himmatnagar
+300607
+AMBAVADA
+GP
+Sabarkantha
+Talod
+299654
+AMRAPUR 
+GP
+Sabarkantha
+Khedbrahma
+300614
+BAHEDIYA
+GP
+Sabarkantha
+Khedbrahma
+299620
+NDIYANA TA
+GP
+Sabarkantha
+Poshina
+299638
+BEDI
+GP
+Sabarkantha
+PRANTIJ
+300619
+BHAGPUR
+GP
+Sabarkantha
+Khedbrahma
+299621
+BHRMIYA
+GP
+Sabarkantha
+Khedbrahma
+299623
+BORDI
+GP
+Sabarkantha
+PRANTIJ
+300620
+BORIYA 
+GP
+Sabarkantha
+Idar
+299616
+BUDHIYA
+GP
+Sabarkantha
+Poshina
+299629
+CHOLIYA
+GP
+Sabarkantha
+Vijaynagar
+299646
+DADHVAV
+GP
+Sabarkantha
+Himmatnagar
+299607
+DALPUR 
+GP
+Sabarkantha
+Khedbrahma
+299622
+DHAROI
+GP
+Sabarkantha
+Vijaynagar
+299645
+DHOLIVAV
+GP
+Sabarkantha
+Khedbrahma
+299618
+DIGTHALI
+GP
+Sabarkantha
+POSHINA
+300616
+GANCHHAL
+GP
+Sabarkantha
+Vijaynagar
+300618
+GOLVADA
+GP
+Sabarkantha
+Talod
+299655
+LABNI MUVA
+GP
+Sabarkantha
+POSHINA
+300617
+GUNBHAKHR
+GP
+Sabarkantha
+Talod
+301829
+HAJI NI MUV
+GP
+Sabarkantha
+Talod
+301132
+JASHANPUR
+GP
+Sabarkantha
+Himmatnagar
+299608
+JORAPUR
+GP
+Sabarkantha
+Talod
+299653
+KABODRA
+GP
+Sabarkantha
+Idar
+299615
+KALYANPUR
+GP
+
+
+Sabarkantha
+Vijaynagar
+299647
+KATHVAVDI
+GP
+Sabarkantha
+Talod
+300608
+ESHARPURA
+GP
+Sabarkantha
+Vijaynagar
+299643
+KHERVADA
+GP
+Sabarkantha
+POSHINA
+299639
+KOLAND
+GP
+Sabarkantha
+Idar
+299617
+KI(MOHANP
+GP
+Sabarkantha
+POSHINA
+299640
+MALVAAS
+GP
+Sabarkantha
+PRANTIJ
+299648
+MAMROLI
+GP
+Sabarkantha
+Idar
+299613
+MASTUPUR 
+GP
+Sabarkantha
+Vijaynagar
+299644
+MODHARI
+GP
+Sabarkantha
+PRANTIJ
+299649
+MORVAD
+GP
+Sabarkantha
+Khedbrahma
+300615
+NAVI METRA
+GP
+Sabarkantha
+Khedbrahma
+299624
+PADHARA
+GP
+Sabarkantha
+Khedbrahma
+301144
+NCH MAHU
+GP
+Sabarkantha
+Talod
+300610
+SHINA MUVA
+GP
+Sabarkantha
+Khedbrahma
+299619
+PATADIYA
+GP
+Sabarkantha
+Khedbrahma
+301136
+DARA(DODIV
+GP
+Sabarkantha
+POSHINA
+299630
+POLAPAN
+GP
+Sabarkantha
+PRANTIJ
+299650
+PUNADARA
+GP
+Sabarkantha
+POSHINA
+299636
+SAALERA
+GP
+Sabarkantha
+Talod
+300609
+RAJINA MUV
+GP
+Sabarkantha
+Idar
+300613
+SAHEBPURA
+GP
+Sabarkantha
+Talod
+300611
+SAVAPUR
+GP
+Sabarkantha
+PRANTIJ
+299651
+SUKHAD
+GP
+Sabarkantha
+Idar
+299614
+SUNDARPUR
+GP
+Sabarkantha
+POSHINA
+299631
+TEBDA 
+GP
+Sabarkantha
+Himmatnagar
+299610
+THUMRA
+GP
+Sabarkantha
+Khedbrahma
+299626
+UMBORA
+GP
+Sabarkantha
+POSHINA
+299637
+VALSADI
+GP
+Sabarkantha
+Himmatnagar
+301723
+SANA(Mothi
+GP
+Sabarkantha
+POSHINA
+299632
+VINCHHI
+GP
+Sabarkantha
+POSHINA
+299628
+ZINZNAT
+GP
+Sabarkantha
+POSHINA
+299633
+MATARVADA
+GP
+Sabarkantha
+PRANTIJ
+Not available
+TANTARDA 
+GP
+Sabarkantha
+Idar
+305278
+KABSO 
+GP
+Sabarkantha
+Talod
+305281
+RANIPURA
+GP
+Sabarkantha
+Idar
+305284
+GANESHPUR
+GP
+Aravalli
+Meghraj
+302758
+morna Dhun
+GP
+Aravalli
+Meghraj
+302791
+la (Bhemap
+GP
+Aravalli
+Meghraj
+302788
+Sendaryo
+GP
+Sabarkantha
+Idar
+510014
+Mahivada
+GP
+Sabarkantha
+Idar
+305283
+Sapavada
+GP
+Panchmahal
+Ghoghamba
+300004
+Ghogha
+GP
+Panchmahal
+Ghoghamba
+301129
+Rameshra
+GP
+Panchmahal
+Jambughoda
+300003
+Bhanpura
+GP
+Panchmahal
+Kalol
+299951
+Devpura
+GP
+Panchmahal
+Shehera
+300014
+Navagam
+GP
+Panchmahal
+Ghoghamba
+301116
+Damavav
+GP
+
+
+Panchmahal
+Ghoghamba
+301112
+Adalpura
+GP
+Panchmahal
+Ghoghamba
+301113
+Mahadeviya
+GP
+Panchmahal
+Ghoghamba
+301127
+Malmahudi
+GP
+Panchmahal
+Ghoghamba
+301126
+Kothara
+GP
+Panchmahal
+Ghoghamba
+301114
+Vavkulli Two
+GP
+Panchmahal
+Godhra
+301104
+Mada Mahud
+GP
+Panchmahal
+Godhra
+301105
+alav Muwad
+GP
+Panchmahal
+Godhra
+301123
+Navidhari
+GP
+Panchmahal
+Godhra
+301107
+na Mordung
+GP
+Panchmahal
+Godhra
+301106
+mara na mu
+GP
+Panchmahal
+Halol
+300002
+Kotamaida
+GP
+Panchmahal
+Halol
+298987
+Mandavi
+GP
+Panchmahal
+Jambughoda
+298976
+Fulpari
+GP
+Panchmahal
+Jambughoda
+298974
+Kanjipani
+GP
+Panchmahal
+Kalol
+301110
+Richha
+GP
+Panchmahal
+Kalol
+301109
+Jambudi
+GP
+Panchmahal
+Kalol
+301111
+Himmatpura
+GP
+Panchmahal
+Kalol
+301108
+ayaniya Tapi
+GP
+Panchmahal
+Morwa (Hadaf)
+301121
+anesh Muva
+GP
+Panchmahal
+Morwa (Hadaf)
+301125
+una Muvad
+GP
+Panchmahal
+Morwa (Hadaf)
+301124
+Nani Mojari
+GP
+Panchmahal
+Shehera
+301120
+Khanda
+GP
+Panchmahal
+Shehera
+300005
+Dhayka
+GP
+Panchmahal
+Shehera
+301128
+ava Bhunidr
+GP
+Panchmahal
+Shehera
+301119
+Chhayna
+GP
+Panchmahal
+Shehera
+300011
+Bariya Na M
+GP
+Panchmahal
+Shehera
+301117
+Jodhpur
+GP
+Panchmahal
+Jambughoda
+298970
+Masabar
+GP
+Panchmahal
+Jambughoda
+298969
+Khodsal
+GP
+Panchmahal
+Morwa (Hadaf)
+302248
+Chora
+GP
+Gandhinagar
+Mansa
+300627
+manpura (Sa
+GP
+Gandhinagar
+Mansa
+300626
+aninagar (So
+GP
+Banaskantha
+Danta
+155890
+Aderan (T)
+GP
+Banaskantha
+Ogad
+275769
+Rathodvas
+GP
+Vav-Tharad
+Bhabhar
+300973
+Khadosan
+GP
+Banaskantha
+Danta
+300953
+Bedapani
+GP
+Banaskantha
+Danta
+300955
+Guda
+GP
+Banaskantha
+Danta
+300954
+Padaliya
+GP
+Banaskantha
+Dantiwada
+300987
+Vadvas
+GP
+Banaskantha
+Deesa
+300996
+Chatrala
+GP
+Banaskantha
+Deesa
+300989
+Fatepura
+GP
+Vav-Tharad
+Deodar
+300951
+Jasali
+GP
+Vav-Tharad
+Deodar
+300943
+Mesra
+GP
+Vav-Tharad
+Deodar
+300949
+Narana
+GP
+Vav-Tharad
+Deodar
+300950
+Nava
+GP
+Vav-Tharad
+Deodar
+300942
+Ogadpura
+GP
+Vav-Tharad
+Deodar
+300945
+Salpura
+GP
+
+
+Banaskantha
+Dhanera
+260548
+Charda
+GP
+Banaskantha
+Dhanera
+300985
+Ramuna
+GP
+Banaskantha
+Dhanera
+300986
+Sankad
+GP
+Banaskantha
+Dhanera
+301000
+Vaktapura
+GP
+Banaskantha
+Ogad
+300978
+Jotada
+GP
+Banaskantha
+Ogad
+300977
+Kantheriya
+GP
+Banaskantha
+Ogad
+300979
+Nava
+GP
+Banaskantha
+Ogad
+275763
+Savpura
+GP
+Vav-Tharad
+Lakhani
+300958
+Achhavadiya
+GP
+Vav-Tharad
+Lakhani
+300586
+Bhimgadh
+GP
+Vav-Tharad
+Lakhani
+300960
+Deka
+GP
+Vav-Tharad
+Lakhani
+300999
+Dodiya
+GP
+Vav-Tharad
+Suigam
+300962
+Boru
+GP
+Vav-Tharad
+Tharad
+300577
+Betaliya
+GP
+Vav-Tharad
+Tharad
+300585
+Bhimpura
+GP
+Vav-Tharad
+Rah
+300938
+Dedudi
+GP
+Vav-Tharad
+Tharad
+300581
+Karnasar
+GP
+Vav-Tharad
+Tharad
+300583
+Kumbhara
+GP
+Vav-Tharad
+Rah
+300575
+Lakhapura
+GP
+Vav-Tharad
+Tharad
+300941
+Mahadevpur
+GP
+Vav-Tharad
+Rah
+300579
+Meghpura
+GP
+Vav-Tharad
+Tharad
+300582
+Padadar
+GP
+Vav-Tharad
+Tharad
+300576
+Savarakha
+GP
+Vav-Tharad
+Rah
+300584
+Sidhotara
+GP
+Vav-Tharad
+Rah
+300940
+Terol
+GP
+Banaskantha
+Vadgam
+300570
+Amirpura
+GP
+Banaskantha
+Vadgam
+300571
+Joita
+GP
+Banaskantha
+Vadgam
+300568
+Sardarpura
+GP
+Banaskantha
+Vadgam
+300572
+Thuvar
+GP
+Vav-Tharad
+Vav
+300965
+Bhadvel
+GP
+Vav-Tharad
+Vav
+300964
+Savpura
+GP
+Vav-Tharad
+Dharnidhar
+300970
+Uchpa
+GP
+Vav-Tharad
+Dharnidhar
+300968
+Vajiyasara
+GP
+Banaskantha
+Amirgadh
+300952
+wala (Arniwa
+GP
+Vav-Tharad
+Bhabhar
+300972
+hembua Jun
+GP
+Vav-Tharad
+Bhabhar
+300974
+Mespura
+GP
+Banaskantha
+Dantiwada
+300995
+Malivas
+GP
+Banaskantha
+Dantiwada
+301157
+Ganguwada
+GP
+Banaskantha
+Dantiwada
+300988
+Marwada
+GP
+Banaskantha
+Deesa
+300993
+laniyapara(D
+GP
+Banaskantha
+Deesa
+155991
+Morthal Goli
+GP
+Banaskantha
+Deesa
+300997
+va Nesda Pa
+GP
+Banaskantha
+Deesa
+300990
+Robas Nani
+GP
+Banaskantha
+Deesa
+300992
+Yavarganj
+GP
+Vav-Tharad
+Deodar
+300947
+Haripura (Dh
+GP
+Vav-Tharad
+Deodar
+300948
+Dhrandvada
+GP
+Vav-Tharad
+Deodar
+300946
+Kuvarva
+GP
+
+
+Vav-Tharad
+Deodar
+300944
+Navapura(Ja
+GP
+Banaskantha
+Dhanera
+300983
+Magarawa
+GP
+Banaskantha
+Kankrej
+300982
+Kshetravas
+GP
+Banaskantha
+Kankrej
+300976
+Nanjipura
+GP
+Banaskantha
+Ogad
+Not available
+Nasaratpura
+GP
+Banaskantha
+Ogad
+300994
+Aanandnaga
+GP
+Banaskantha
+Ogad
+300980
+Salimgadh
+GP
+Banaskantha
+Ogad
+300981
+Tervadiya Va
+GP
+Banaskantha
+Kankrej
+300998
+Kakrala
+GP
+Vav-Tharad
+Lakhani
+300959
+arkari Goliy
+GP
+Vav-Tharad
+Lakhani
+301158
+Kasalpura
+GP
+Vav-Tharad
+Lakhani
+300957
+hemaji Goliy
+GP
+Vav-Tharad
+Lakhani
+300956
+Kesarsing
+GP
+Vav-Tharad
+Lakhani
+300961
+marapura (V
+GP
+Banaskantha
+Palanpur
+300600
+Jeshangpura
+GP
+Banaskantha
+Palanpur
+300601
+Okhapura
+GP
+Banaskantha
+Palanpur
+300599
+akhar (Khed
+GP
+Banaskantha
+Palanpur
+Not available
+Ukarda
+GP
+Vav-Tharad
+Rah
+300939
+Chotapa
+GP
+Vav-Tharad
+Tharad
+300578
+Pathamda
+GP
+Vav-Tharad
+Rah
+300574
+Therwada
+GP
+Banaskantha
+Vadgam
+300573
+awada-Saba
+GP
+Banaskantha
+Vadgam
+300569
+sana (Sembh
+GP
+Vav-Tharad
+Vav
+300966
+vpura (Talsa
+GP
+Vav-Tharad
+Dharnidhar
+300971
+Gambhirpur
+GP
+Vav-Tharad
+Vav
+300963
+Ishvariya
+GP
+Vav-Tharad
+Dharnidhar
+300969
+mdi (Petapa
+GP
+Vav-Tharad
+Bhabhar
+300975
+Ladula
+GP
+Banaskantha
+Amirgadh
+Not available
+Godadpura
+GP
+Banaskantha
+Deesa
+300991
+saryunagar
+GP
+Banaskantha
+Dhanera
+300984
+vid(Saral)
+GP
+Banaskantha
+Ogad
+Not available
+Ruvelnava
+GP
+Vav-Tharad
+Tharad
+Not available
+Sanadhar
+GP
+Vav-Tharad
+Bhabhar
+302789
+Radakiya
+GP
+Banaskantha
+Dhanera
+302786
+epura (Malo
+GP
+Banaskantha
+Vadgam
+Not available
+Bhakhari
+GP
+Chhota Udaipur
+Kadval
+300424
+Vasangadh
+GP
+Chhota Udaipur
+Bodeli
+301045
+Nana Kantav
+GP
+Chhota Udaipur
+Chhota Udaipur
+301039
+Bokadiya
+GP
+Chhota Udaipur
+Chhota Udaipur
+301657
+Kumbhani
+GP
+Chhota Udaipur
+Chhota Udaipur
+301042
+Mota Rampu
+GP
+Chhota Udaipur
+Chhota Udaipur
+301040
+Nani Sadhal
+GP
+Chhota Udaipur
+Chhota Udaipur
+301726
+Navagaam
+GP
+Chhota Udaipur
+Chhota Udaipur
+301041
+Rangpur
+GP
+Chhota Udaipur
+Jetpur Pavi
+166535
+Karali
+GP
+Chhota Udaipur
+Jetpur Pavi
+301656
+Kohivav
+GP
+Chhota Udaipur
+Kadval
+301860
+ta Amadara
+GP
+
+
+Chhota Udaipur
+Kadval
+301862
+Oliyakalam
+GP
+Chhota Udaipur
+Jetpur Pavi
+301722
+Tamboliya
+GP
+Chhota Udaipur
+Kawant
+301043
+Kharamda
+GP
+Chhota Udaipur
+Kawant
+166697
+Motavanta
+GP
+Chhota Udaipur
+Kawant
+166715
+Sodhvad
+GP
+Chhota Udaipur
+Kawant
+301138
+Tava
+GP
+Chhota Udaipur
+Kawant
+301044
+Usela
+GP
+Chhota Udaipur
+Sankheda
+301046
+Vadadli
+GP
+Dahod
+Dhanpur
+299734
+Andarpura
+GP
+Dahod
+Dohad
+301052
+Junapani
+GP
+Dahod
+Dohad
+299745
+Khajuri
+GP
+Dahod
+Sukhsar
+299730
+Aspur
+GP
+Dahod
+Fatepura
+299725
+Barsaleda
+GP
+Dahod
+Sukhsar
+299728
+Chikhali
+GP
+Dahod
+Sukhsar
+299724
+Dablara
+GP
+Dahod
+Fatepura
+299739
+Moti Charol
+GP
+Dahod
+Sukhsar
+299731
+Padaliya
+GP
+Dahod
+Govindguru Limdi
+301655
+aligam (Inam
+GP
+Dahod
+Sanjeli
+299741
+Bhaman
+GP
+Dahod
+Sanjeli
+299742
+Chakisana
+GP
+Dahod
+Sanjeli
+299744
+Dhalsimal
+GP
+Dahod
+Sanjeli
+299743
+Jaror
+GP
+Dahod
+Singvad
+299755
+Toyani
+GP
+Dahod
+Devgadbaria
+299732
+mlipani Chho
+GP
+Dahod
+Devgadbaria
+300921
+Bhulvan
+GP
+Dahod
+Devgadbaria
+300918
+Kasatiya
+GP
+Dahod
+Devgadbaria
+301824
+thvada Agha
+GP
+Dahod
+Devgadbaria
+301822
+athvada Pur
+GP
+Dahod
+Devgadbaria
+301820
+Bhutiya
+GP
+Dahod
+Devgadbaria
+300919
+Guna Muvad
+GP
+Dahod
+Devgadbaria
+300920
+dungri-2 Mu
+GP
+Dahod
+Devgadbaria
+300915
+Nana Keliya
+GP
+Dahod
+Devgadbaria
+301142
+Kelkuva Ek
+GP
+Dahod
+Devgadbaria
+299733
+Koyda
+GP
+Dahod
+Devgadbaria
+300916
+a (Bodi Dun
+GP
+Dahod
+Devgadbaria
+300917
+Vav
+GP
+Dahod
+Devgadbaria
+301133
+ama Ni Nan
+GP
+Dahod
+Devgadbaria
+301826
+helana Muv
+GP
+Dahod
+Devgadbaria
+301825
+atana Muva
+GP
+Dahod
+Devgadbaria
+244474
+pura (Sevan
+GP
+Dahod
+Devgadbaria
+299740
+Jamran
+GP
+Dahod
+Dhanpur
+299736
+Kanjar
+GP
+Dahod
+Dohad
+301053
+mala Gadhw
+GP
+Dahod
+Dohad
+301823
+Roz Faliya
+GP
+Dahod
+Fatepura
+260273
+Dungara
+GP
+Dahod
+Fatepura
+299758
+Fategadhi
+GP
+Dahod
+Fatepura
+300926
+Bilval
+GP
+
+
+Dahod
+Fatepura
+300925
+Nalva
+GP
+Dahod
+Sukhsar
+301019
+rpura Na M
+GP
+Dahod
+Sukhsar
+300922
+ariya Marga
+GP
+Dahod
+Sukhsar
+299722
+Kanpur
+GP
+Dahod
+Sukhsar
+300923
+Koiduban
+GP
+Dahod
+Sukhsar
+300924
+Pachor
+GP
+Dahod
+Sukhsar
+300928
+Chandli
+GP
+Dahod
+Sukhsar
+300929
+Saliyata
+GP
+Dahod
+Sukhsar
+299727
+Rupakheda
+GP
+Dahod
+Fatepura
+300927
+Bhutkhedi
+GP
+Dahod
+Govindguru Limdi
+300737
+Ghuneshiya
+GP
+Dahod
+Govindguru Limdi
+300738
+Kapri
+GP
+Dahod
+Govindguru Limdi
+300740
+Richhumara
+GP
+Dahod
+Jhalod
+300913
+Fulpura Tal
+GP
+Dahod
+Govindguru Limdi
+300747
+ultora Pashi
+GP
+Dahod
+Govindguru Limdi
+300766
+Gultora Utta
+GP
+Dahod
+Govindguru Limdi
+300734
+Khutankhed
+GP
+Dahod
+Govindguru Limdi
+300732
+Vank
+GP
+Dahod
+Jhalod
+300724
+Rundi
+GP
+Dahod
+Jhalod
+300728
+Therki
+GP
+Dahod
+Limkheda
+302224
+Chopat Palli
+GP
+Dahod
+Limkheda
+302233
+Kakri Dungar
+GP
+Dahod
+Singvad
+302232
+Humadpur
+GP
+Dahod
+Singvad
+302229
+Vanjhariya
+GP
+Dahod
+Singvad
+301140
+Jaliyapada
+GP
+Dahod
+Dahod
+302228
+Navagam-2
+GP
+Dahod
+Devgadbaria
+302225
+Dem Khajur
+GP
+Dahod
+Dhanpur
+302231
+hada Pashch
+GP
+Dahod
+Jhalod
+302230
+aradu Kajeli
+GP
+Dahod
+Jhalod
+302234
+aradu Kajeli
+GP
+Dahod
+Jhalod
+302235
+aradu Khoriy
+GP
+Dahod
+Jhalod
+302236
+Garadu Talav
+GP
+Dahod
+Jhalod
+302237
+Garadu Than
+GP
+Dahod
+Jhalod
+302239
+du Kakaradh
+GP
+Dahod
+Jhalod
+302240
+du Kakaradh
+GP
+Dahod
+Jhalod
+302241
+radu Bor Fa
+GP
+Dahod
+Govindguru Limdi
+302227
+Moti Mahud
+GP
+Dahod
+Jhalod
+Not available
+Rampura-1
+GP
+Dahod
+Jhalod
+300914
+pura Dabod
+GP
+Kheda
+Kathlal
+300400
+haraj Na Mu
+GP
+Kheda
+Kathlal
+300399
+Moti Bhanava
+GP
+Mahisagar
+Lunawada
+301057
+hil Na Muva
+GP
+Mahisagar
+Lunawada
+301058
+ariya Napan
+GP
+Mahisagar
+Santrampur
+301060
+Diwali Ghant
+GP
+Mahisagar
+Santrampur
+301059
+atimba Muv
+GP
+Mahisagar
+Khanpur
+303009
+Bhuvabar
+GP
+Vadodara
+Dabhoi
+166420
+Asgol
+GP
+
+
+Vadodara
+Dabhoi
+166428
+Bhilodiya
+GP
+Vadodara
+Vadodara
+167077
+Ankodiya
+GP
+Vadodara
+Vadodara
+245085
+Bajva
+GP
+Vadodara
+Vadodara
+167081
+Chapad
+GP
+Vadodara
+Vadodara
+167090
+lpur (Sankh
+GP
+Vadodara
+Vadodara
+167091
+Gokalpura
+GP
+Vadodara
+Vadodara
+167101
+Khanpur
+GP
+Vadodara
+Vadodara
+167105
+Koyli
+GP
+Vadodara
+Vadodara
+167106
+Mahapura
+GP
+Vadodara
+Vadodara
+167123
+Samiyala
+GP
+Vadodara
+Vadodara
+245088
+Laljipura
+GP
+Vadodara
+Vadodara
+167136
+Talsat
+GP
+Mahisagar
+Virpur
+303010
+Mandaliya
+GP
+Aravalli
+Meghraj
+302803
+Sathariya
+GP
+Aravalli
+Modasa
+302759
+Lalpur
+GP
+Sabarkantha
+Idar
+305271
+NAVAVAS
+GP
+Sabarkantha
+Talod
+305285
+R BORIYA CH
+GP
+Sabarkantha
+Talod
+305286
+TIMBA TALAV
+GP
+Devbhoomi Dwarka
+Bhanvad
+300628
+Kantoliya
+GP
+Kutch
+Anjar
+300594
+Pashuda
+GP
+Kutch
+Bhachau
+160189
+Amarapar
+GP
+Kutch
+Bhachau
+160191
+Bambhanka
+GP
+Kutch
+Bhachau
+160201
+Dholavira
+GP
+Kutch
+Bhachau
+160202
+Gadhada
+GP
+Kutch
+Bhachau
+160203
+Ganeshpar
+GP
+Kutch
+Bhachau
+160207
+Janan
+GP
+Kutch
+Bhachau
+160212
+Kalyanpar
+GP
+Kutch
+Bhuj
+300595
+Jambudi
+GP
+Kutch
+Mundra
+300597
+Baraya
+GP
+Kutch
+Mundra
+300596
+Mangra
+GP
+Kutch
+Nakhatrana
+301160
+Dador
+GP
+Morbi
+Halvad
+301831
+sangpur (Ga
+GP
+Morbi
+Maliya
+301030
+New Navlakh
+GP
+Morbi
+Maliya
+301031
+Nirubennaga
+GP
+Morbi
+Maliya
+301032
+Nandanvan
+GP
+Morbi
+Maliya
+301033
+chvati Petap
+GP
+Morbi
+Maliya
+301034
+Vishalnagar
+GP
+Morbi
+Morbi
+301027
+Shaktinagar
+GP
+Morbi
+Morbi
+301029
+Solankinaga
+GP
+Rajkot
+Gondal
+301146
+Vavdivido
+GP
+Rajkot
+Jamkandorna
+301147
+Vaibhavnaga
+GP
+Rajkot
+Rajkot
+300472
+Gundala
+GP
+Rajkot
+Rajkot
+300474
+Jivapar
+GP
+Jamnagar
+Jamnagar
+301001
+hambhunag
+GP
+Jamnagar
+Jodiya
+301003
+Laxmipara
+GP
+Kutch
+Mundra
+300598
+Shekhadiya
+GP
+Jamnagar
+Kalavad
+302247
+anagar (Peta
+GP
+
+
+Surendranagar
+Thangadh
+303096
+Abhepar
+GP
+Surendranagar
+Thangadh
+303098
+Kanpar
+GP
+Amreli
+Dhari
+300327
+Rajsthali
+GP
+Amreli
+Dhari
+300567
+Vaghavadi
+GP
+Amreli
+Jafrabad
+237213
+Shiyal Bet
+GP
+Amreli
+Lathi
+301398
+Methali
+GP
+Bhavnagar
+Ghogha
+301130
+Bhandar
+GP
+Bhavnagar
+Ghogha
+300588
+Malekwada
+GP
+Bhavnagar
+Jesar
+301064
+Ayavej-2
+GP
+Bhavnagar
+Jesar
+300623
+Mudakidhar
+GP
+Bhavnagar
+Mahuva
+157443
+Gadhada
+GP
+Bhavnagar
+Mahuva
+157501
+Nikol
+GP
+Bhavnagar
+Palitana
+301065
+Fachara
+GP
+Bhavnagar
+Vallabhipur
+301066
+Rampur
+GP
+Botad
+Botad
+301827
+Krushnanaga
+GP
+Gir Somanth
+Gir Gadhda
+159887
+Chikhal Kuba
+GP
+Gir Somanth
+Kodinar
+515129
+Jithla
+GP
+Junagadh
+Mangrol
+300621
+Nava Kotda
+GP
+Junagadh
+Mangrol
+300622
+Sheriyajbara
+GP
+Ahmedabad
+Dhandhuka
+166179
+Jasapar
+GP
+Ahmedabad
+Viramgam
+301150
+handranaga
+GP
+Ahmedabad
+Viramgam
+300587
+Chuninapura
+GP
+Ahmedabad
+Viramgam
+301149
+Jadavpura
+GP
+Mahesana
+Becharaji
+301131
+Gajapura
+GP
+Mahesana
+Jotana
+301134
+Marutinaga
+GP
+Mahesana
+Kadi
+301005
+Merda
+GP
+Mahesana
+Mahesana
+161402
+Sobhasan
+GP
+Mahesana
+Satlasana
+301135
+ava Sudasan
+GP
+Mahesana
+Satlasana
+300397
+vas Rajpur(G
+GP
+Mahesana
+Vijapur
+301155
+Nava Devpur
+GP
+Mahesana
+Vijapur
+301159
+va Ranasipur
+GP
+Mahesana
+Vijapur
+301137
+amnagar Kot
+GP
+Patan
+Chanasma
+300604
+blipura-Sitap
+GP
+Patan
+Chanasma
+300603
+Gangapura
+GP
+Patan
+Chanasma
+300602
+Maniyaripur
+GP
+Patan
+Sami
+300406
+Bhamathal
+GP
+Patan
+Santalpur
+300411
+Charanda
+GP
+Patan
+Santalpur
+300402
+Fulpura
+GP
+Patan
+Santalpur
+300403
+Lunichana
+GP
+Patan
+Santalpur
+300401
+Sherpura
+GP
+Patan
+Santalpur
+300405
+Unadi
+GP
+Patan
+Santalpur
+300404
+Vaghpura
+GP
+Patan
+Sidhpur
+300605
+ndreshwar P
+GP
+kutch
+GANDHIDHAM
+160287
+GALPADAR
+GP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Existing connectivity status in BharatNet
+Lat
+Long
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+24.13203
+72.7476
+No
+23.90458
+71.78061
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+24.3802
+71.56296
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+24.55231
+71.59379
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+24.33879
+72.24728
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+NO
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.19237
+73.86568
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.13315
+73.93792
+No
+22.42139
+73.88056
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.73284
+73.89745
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+NO
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.06279
+73.53454
+
+
+No
+22.07099
+73.51517
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.43067
+73.07522
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.42754
+73.15521
+No
+NA
+NA
+No
+No
+NA
+NA
+No
+NA
+NA
+No
+Na
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+23.9057
+70.44812
+No
+23.8101
+70.3343
+No
+23.87501
+70.21678
+No
+23.86029
+70.36371
+No
+23.85107
+70.38708
+No
+23.83166
+70.30159
+No
+23.84387
+70.2625
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+
+
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+20.90866
+71.51283
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+21.0217
+71.74819
+No
+21.1069
+71.83431
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+21.02764
+71.06581
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+22.47901
+72.14285
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+23.55437
+72.39335
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+No
+NA
+NA
+NO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Building Location Type
+Updated 
+Comment
+s
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+PPP-NC
+Gram Panchayat
+PPP-NC
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+
+
+Gram Panchayat
+PPP-NC
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+PPP-NC
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Revenue Village
+RV to GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+
+
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+
+
+GRAM Panchayat
+Pure GP
+GRAM Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Revenue Village
+RV to GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+Gram Panchayat
+Pure GP
+GP currently on Satellite connectivity
+Pure GP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

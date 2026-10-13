@@ -1,0 +1,1084 @@
+बड ववरण/Bid Details
+बड बंद होने क तारख/समय /Bid End Date/Time
+03-08-2026 18:00:00
+बड खुलने क तारख/समय /Bid Opening
+Date/Time
+03-08-2026 18:30:00
+बड पेशकश वैधता (बंद होने क तारख से)/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय/रा!य का नाम/Ministry/State Name
+Gujarat
+वभाग का नाम/Department Name
+Science And Technology Department Gujarat
+संगठन का नाम/Organisation Name
+Gujarat State Electronics Mission
+काया%लय का नाम/Office Name
+Gujarat
+िशकायत िनवारण के संपक% ववरण/ Contact details of
+Grievance redressal
+HOD Email id :md-gsem@gujarat.gov.in 
+Buyer Email id: ad-gsem@gujarat.gov.in
+व'तु (ेणी /Item Category
+Repair and Overhauling Service - Multimedia Projector
+(MMP); EPSON; Yes; Buyer Premises, Service Provider
+Premises , ANNUAL MAINTENANCE SERVICE - AUDIO
+CONFERENCING SYSTEM - DSP; Xilica; Neither OEM nor ASP
+, ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING
+SYSTEM - Audio Distribution Amplifier; Bosch; Neither OEM
+nor ASP , ANNUAL MAINTENANCE SERVICE - AUDIO
+CONFERENCING SYSTEM - Video Interface unit; lumens;
+Neither OEM nor ASP , ANNUAL MAINTENANCE SERVICE -
+AUDIO CONFERENCING SYSTEM - Cabling and accessories;
+premium quality; Neither OEM nor ASP , ANNUAL
+MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM -
+Handheld microphone with desk stand; Bosch; Neither OEM
+nor ASP , ANNUAL MAINTENANCE SERVICE - AUDIO
+CONFERENCING SYSTEM - Projector Screen; Generic; Neither
+OEM nor ASP , ANNUAL MAINTENANCE SERVICE - AUDIO
+CONFERENCING SYSTEM - Wall Mount Speakers; Bosch;
+Neither OEM nor ASP , ANNUAL MAINTENANCE SERVICE -
+AUDIO CONFERENCING SYSTEM - Processor - touch panel
+control; Bosch; Neither OEM nor ASP , ANNUAL
+MAINTENANCE SERVICE - VIDEO CONFERENCING SYSTEM -
+Professional Large Format Display (DFM); LG; Neither OEM
+nor ASP , ANNUAL MAINTENANCE SERVICE - VIDEO
+CONFERENCING SYSTEM - Led Display System (DFM);
+generic; Neither OEM nor ASP , Manpower Outsourcing
+Services - Man-days based - IT-Technical; Skilled, Semi-
+skilled; IT hardware technician
+अनुबंध अविध /Contract Period
+ 1 Year(s) 1 Day(s)
+ 
+बड सं+या/Bid Number: GEM/2026/B/7755809
+,दनांक /Dated: 22-07-2026
+बड द'तावेज़ / Bid Document
+1 / 19
+
+
+बडर का 4यूनतम औसत वाष%क टन%ओवर (3 वष; का)
+/Minimum Average Annual Turnover of the
+bidder (For 3 Years)
+15 Lakh (s)
+उ4हं/समान सेवा के िलए अपे>?त वगत अनुभव के
+वष%/Years of Past Experience Required for
+same/similar service
+3 Year (s)
+इसी तरह क सेवाओं का पछला आवCयक अनुभव है/Past
+Experience of Similar Services required
+Yes
+टन%ओवर पा ता मानदंड/Turnover eligibility criteria
+To be verified by the buyer at the time of technical
+evaluation
+एमएसएमई के िलए अनुभव के वष; और टन%ओवर से छूट Eदान
+क गई है/MSE Relaxation for Years of
+Experience and Turnover
+No
+'टाट%अप के िलए अनुभव के वष; और टन%ओवर से छूट Eदान
+क गई है /Startup Relaxation for Years of
+Experience and Turnover
+No
+वFेता से मांगे गए द'तावेज़/Document required
+from seller
+Experience Criteria,Bidder Turnover,Certificate (Requested
+in ATC),OEM Annual Turnover,Additional Doc 1 (Requested
+in ATC),Additional Doc 2 (Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+Gया आप िनवदाकारH Iारा अपलोड ,कए गए द'तावेज़H को
+िनवदा मJ भाग लेने वाले सभी िनवदाकारH को ,दखाना
+चाहते हL? संदभ% मेनू है/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड लगाने क समय सीमा 'वतः नहं बढ़ाने के िलए
+आवCयक बड क सं+या। / Minimum number of
+bids required to disable automatic bid
+extension
+3
+,दनH क सं+या, >जनके िलए बड लगाने क समय-सीमा
+बढ़ाई जाएगी। / Number of days for which Bid
+would be auto-extended
+3
+ऑटो एGसटJशन अिधकतम ,कतनी बार ,कया जाना है। /
+Number of Auto Extension count
+2
+बड से Tरवस% नीलामी स,Fय ,कया/Bid to RA enabled
+No
+बड का Eकार/Type of Bid
+Two Packet Bid
+तकनीक मूUयांकन के दौरान तकनीक 'पWीकरण हेतु
+अनुमत समय /Time allowed for Technical
+Clarifications during technical evaluation
+2 Days
+अनुमािनत िनवदा मूUय (सभी करH स,हत) भारतीय Xपये मJ
+/ Estimated Bid Value in INR (Inclusive of all
+taxes)
+420000
+बड ववरण/Bid Details
+2 / 19
+
+
+Payment Timelines
+Payments shall be made to the Seller within 30 days of
+issue of service delivery acceptance certificate (SDAC) and
+on-line submission of bills (This is in supersession of 10 days
+time as provided in clause 12 of GeM GTC)
+मूUयांकन पYित/Evaluation Method
+Total value wise evaluation
+मूUय दशा%ने वाला वZीय द'तावेज [ेकअप आवCयक है /
+Financial Document Indicating Price
+Breakup Required
+Yes
+म\य'थता खंड/Arbitration Clause
+No
+सुलह खंड/Mediation Clause
+No
+बड ववरण/Bid Details
+ईएमड ववरण/EMD Detail
+आवCयकता/Required
+No
+ईपीबीजी ववरण /ePBG Detail
+एडवाइजर बLक/Advisory Bank
+State Bank of India
+ईपीबीजी Eितशत (%)/ePBG Percentage(%)
+5.00
+ईपीबीजी क आवCयक अविध (माह) /Duration of ePBG
+required (Months).
+13
+(a).ईएमड और संपादन जमानत रािश, जहां यह लागू होती है, लाभाथ_ के प? मJ होनी चा,हए। / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable. 
+लाभाथ_ /Beneficiary : 
+--
+Gujarat, Science and Technology Department Gujarat, Gujarat State Electronics Mission,
+(--)
+UIN Number NCTGC2415P
+बोली वभाजन लागू नहं ,कया गया/ Bid splitting not applied.
+एमआईआई अनुपालन/MII Compliance
+एमआईआई अनुपालन/MII Compliance
+Yes
+एमएसई खरद वरयता/MSE Purchase Preference
+एमएसई खरद वरयता/MSE Purchase Preference
+No
+3 / 19
+
+
+1. The minimum average annual financial turnover of the bidder during the last three years, ending on 31st
+March of the previous financial year, should be as indicated above in the bid document. Documentary evidence in
+the form of certified Audited Balance Sheets of relevant periods or a certificate from the Chartered Accountant /
+Cost Accountant indicating the turnover details for the relevant period shall be uploaded with the bid. In case the
+date of constitution / incorporation of the bidder is less than 3-year-old, the average turnover in respect of the
+completed financial years after the date of constitution shall be taken into account for this criteria. 
+2. Years of Past Experience required: The bidder must have experience for number of years as indicated above in
+bid document (ending month of March prior to the bid opening) of providing similar type of services to any
+Central / State Govt Organization / PSU. Copies of relevant contracts / orders to be uploaded along with bid in
+support of having provided services during each of the Financial year. 
+3. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+4. Past Experience of Similar Services: The bidder must have successfully executed/completed similar Services
+over the last three years i.e. the current financial year and the last three financial years(ending month of March
+prior to the bid opening): - 
+1. Three similar completed services costing not less than the amount equal to 40% (forty percent) of the
+estimated cost; or 
+2. Two similar completed services costing not less than the amount equal to 50% (fifty percent) of the estimated
+cost; or 
+3. One similar completed service costing not less than the amount equal to 80% (eighty percent) of the estimated
+cost. 
+एGसेल मJ अपलोड ,कए जाने क आवCयकता /Excel Upload Required :
+IT Items for Video Conference - 1783594829.xlsx
+अितTर` योaयता /आवCयक डेटा/Additional Qualification/Data Required
+Payment Terms:1783594347.pdf
+Product Details:1783594399.pdf
+Scope of Work:1783594415.pdf
+Terms and Conditions pertaining to the Bid/Contract:1783594421.pdf
+Repair And Overhauling Service - Multimedia Projector (MMP); EPSON; Yes; Buyer
+Premises, Service Provider Premises ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Product Category
+Multimedia Projector (MMP)
+Product Brand
+EPSON
+Spares Required
+Yes
+Place of Repair/Maintenance
+Buyer Premises , Service Provider Premises
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+4 / 19
+
+
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Number of
+Products to
+be Repaired
+अितTर` आवCयकता
+/Additional
+Requirement
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - DSP; Xilica;
+Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+DSP
+Make/Brand Of Assets
+Xilica
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+5 / 19
+
+
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Audio Distribution
+Amplifier; Bosch; Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Audio Distribution
+Amplifier
+Make/Brand Of Assets
+Bosch
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+6 / 19
+
+
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Video Interface
+Unit; Lumens; Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Video Interface unit
+Make/Brand Of Assets
+lumens
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+7 / 19
+
+
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Cabling And
+Accessories; Premium Quality; Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Cabling and
+accessories
+Make/Brand Of Assets
+premium quality
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+8 / 19
+
+
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Handheld
+Microphone With Desk Stand; Bosch; Neither OEM Nor ASP ( 13 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Handheld microphone with
+desk stand
+Make/Brand Of Assets
+Bosch
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+9 / 19
+
+
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+13
+N/A
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Projector Screen;
+Generic; Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Projector Screen
+Make/Brand Of Assets
+Generic
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+10 / 19
+
+
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Wall Mount
+Speakers; Bosch; Neither OEM Nor ASP ( 2 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Wall Mount Speakers
+Make/Brand Of Assets
+Bosch
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+11 / 19
+
+
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+2
+N/A
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+ANNUAL MAINTENANCE SERVICE - AUDIO CONFERENCING SYSTEM - Processor - Touch
+Panel Control; Bosch; Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Type of Audio conferencing equipment Asset
+Processor - touch panel
+control
+Make/Brand Of Assets
+Bosch
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Audio conferencing equipment
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+12 / 19
+
+
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+ANNUAL MAINTENANCE SERVICE - VIDEO CONFERENCING SYSTEM - Professional Large
+Format Display (DFM); LG; Neither OEM Nor ASP ( 3 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Amc Category
+Professional Large Format
+Display (DFM)
+Amc Brand
+LG
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Additional Asset Type
+lg
+Additional Make/Brand
+lg
+Onsite Service Engineers Requirement
+As Indicated in Bid Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on
+client Video conference system
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+13 / 19
+
+
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+3
+N/A
+ANNUAL MAINTENANCE SERVICE - VIDEO CONFERENCING SYSTEM - Led Display
+System (DFM); Generic; Neither OEM Nor ASP ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/ Specification
+मूUय/ Values
+कोर / Core
+Amc Category
+Led Display System
+(DFM)
+Amc Brand
+generic
+Status of Annual Maintenance Service Provider
+Neither OEM nor ASP
+Additional Asset Type
+NA
+Additional Make/Brand
+NA
+Onsite Service Engineers Requirement
+As Indicated in Bid
+Document
+Basic Maintenance of OS, Office Suite, Drivers Update and Patch update on client
+Video conference system
+Inclusive
+Periodicity of Preventive Maintenance Services
+Monthly
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+14 / 19
+
+
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Quantity
+अितTर` आवCयकता
+/Additional
+Requirement
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+N/A
+Manpower Outsourcing Services - Man-days Based - IT-Technical; Skilled, Semi-skilled;
+IT Hardware Technician ( 1 )
+तकनीक विशWयाँ /Technical Specifications
+ववरण/
+Specification
+मूUय/ Values
+कोर / Core
+Type of Function
+IT-Technical
+Skill Category
+Skilled , Semi-skilled
+List of Profiles
+IT hardware technician
+Experience of
+Resource
+3 to 7 Years
+Is Geographical
+presence of the
+Service Provider
+registered office
+is required in
+the consignee's
+State
+Yes , No
+Name of states/
+UT for
+geographical
+presence is
+required
+Andhra Pradesh , Arunachal Pradesh , Assam , Bihar , Chhattisgarh , Goa , Gujarat ,
+Haryana , Himachal Pradesh , Jharkhand , Karnataka , Kerala , Madhya Pradesh ,
+Maharashtra , Manipur , Meghalaya , Mizoram , Nagaland , Odisha , Punjab , Rajasthan ,
+Sikkim , Tamil Nadu , Telangana , Tripura , Uttar Pradesh , Uttarakhand , West Bengal ,
+Andaman and Nicobar Islands , Chandigarh , Dadra and Nagar Haveli and Daman and Diu ,
+Delhi , Jammu and Kashmir , Ladakh , Lakshadweep , Puducherry , Not Applicable
+एडऑन /Addon(s)
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price defined by Buyer
+Fेता Iारा िनधा%Tरत 4यूनतम मूUय/Minimum Floor Price
+defined by Buyer
+No
+अितTर` विशW द'तावेज़ /Additional Specification Documents
+15 / 19
+
+
+परेषती/Tरपो,टcग अिधकार /Consignees/Reporting Officer and Quantity
+F.सं./S.N
+o.
+परेषती/Tरपो,टcग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधनH क मा ा
+/ Total
+number of
+man-days
+required
+during
+contract
+period
+अितTर` आवCयकता
+/Additional
+Requirement
+1
+Bharti Parthivkumar
+Ambalal
+382010,Gujarat State
+Electronics Mission (GSEM)
+,Department of Science &
+Technology (DST) 3rd Floor,
+Block No. 3, F2 Wing,
+Karmayogi Bhavan,
+Gandhinagar, Gujarat- 382010
+1
+Charges per man-
+day (Inclusive of
+Wages, EPF, ESIC,
+EDLI, Bonus, etc)
+exclusive of GST :
+0
+Estimated number
+of overtime man-
+hours during
+contract period : 0
+Per hour charges
+for Overtime Man-
+hours exclusive of
+GST : 0
+Fेता Iारा जोड़ गई बड क वशेष शतf/Buyer Added Bid Specific Terms and Conditions
+1. Service & Support
+AVAILABILITY OF OFFICE OF SERVICE PROVIDER: An office of the Service Provider must be located in the
+state of Consignee.  DOCUMENTARY EVIDENCE TO BE SUBMITTED.
+2. Service & Support
+Dedicated /toll Free Telephone No. for Service Support : BIDDER/OEM  must have  Dedicated/toll Free
+Telephone No. for Service Support.
+3. Service & Support
+Escalation Matrix For Service Support : Bidder/OEM must provide  Escalation Matrix of Telephone Numbers
+for Service Support.
+4. Certificates
+Bidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the
+Bid document, ATC and Corrigendum if any.
+5. Payment
+PAYMENT OF SALARIES AND WAGES: Service Provider is required to pay Salaries / wages of
+contracted staff deployed at buyer location first i.e. on their own and then claim payment from Buyer
+alongwith all statutory documents like, PF, ESIC etc. as well as the bank statement of payment done to
+staff.
+6. Generic
+Bidder financial standing: The bidder should not be under liquidation, court receivership or similar
+16 / 19
+
+
+proceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.
+7. Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+Legal Entity: The lead bidder partner should be an IT Company registered under the company’s act, 1956
+(or) and should have been in existence for a period of at least one year as on 31st March, 2025. Copy of C
+ertificate of Incorporation of a Company submitted by the bidder.
+OEM Turnover: The minimum average annual financial turnover of the OEM during the last three years, e
+nding on 31st March of the previous financial year, should be Rs. 27.50 Lac (2022-23 & 2023-24 & 2024-25
+) in the bid document. Documentary evidence in the form of certified Audited Balance Sheets of relevant p
+eriods or a certificate from the Chartered Accountant / Cost Accountant indicating the turnover details for t
+he relevant period shall be uploaded with the bid.
+OEM Experience: The OEM must have supplied same or similar product of Rs. 13.75 Lacs of order value d
+uring the last 3 years before the bid opening date.
+Bidder Turnover: The minimum average annual financial turnover of the bidder during the last three year
+s, ending on 31st March of the previous financial year, should be Rs. 11 Lacs in the bid document. Docume
+ntary evidence in the form of certified Audited Balance Sheets of relevant periods or a certificate from the 
+Chartered Accountant / Cost Accountant indicating the turnover details for the relevant period shall be upl
+oaded with the bid.
+Bidder Past Experience: The bidder must have successfully executed/completed at least one single orde
+r of Rs. 4.40 Lacs of estimated bid value or 2 Orders each of Rs. 2.75 Lacs of estimated bid value or 3 Orde
+rs each of Rs.2.20 Lacs of estimated bid value for similar product/services in the last 3 years to any central
+/ state Government / PSU/ Listed Company.
+Note: Bidder’s experience and bidder’s turnover criteria will not be considered for GeM bid. However, bidd
+er must match eligibility criteria, experience, bidder’s turnover criteria, etc. as per Buyer Added text based
+ATC and will be considered for evaluation. EMD should be submitted by the bidder as per GEM.
+.
+8. Buyer Added Bid Specific ATC
+Buyer uploaded ATC document Click here to view the file.
+अ'वीकरण/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+1. Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3. Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5. Publishing bids on GeM for procurement of works.
+6. Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7. Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+17 / 19
+
+
+published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8. Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9. Creating bid for items from incorrect categories.
+10. Reference of conditions published on any external site or reference to external documents/clauses.
+11. Asking for any Tender fee / Bid Participation fee, as the case may be.
+12. Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13. Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14. In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+This Bid is governed by the सामा4य िनयम और शतf/General Terms and Conditions, conditions stipulated in Bid and
+Service Level Agreement specific to this Service as provided in the Marketplace. However in case if any condition
+specified in सामा4य िनयम और शतf/General Terms and Conditions is contradicted by the conditions stipulated in
+Service Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+18 / 19
+
+
+जेम क सामा4य शत; के खंड 26 के संदभ% मJ भारत के साथ भूिम सीमा साझा करने वाले देश के बडर से खरद पर Eितबंध के संबंध मJ
+भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी बडर इस िनवदा मJ बड देने के िलए तभी पा  होगा जब वह बड देने वाला
+स?म Eािधकार के पास पंजीकृत हो।बड मJ भाग लेते समय बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा ,कए जाने
+व इसका अनुपालन न करने पर अनुबंध को तjकाल समाk करने और कानून के अनुसार आगे क कानूनी कार%वाई का आधार होगा।/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+---ध4यवाद/Thank You---
+19 / 19

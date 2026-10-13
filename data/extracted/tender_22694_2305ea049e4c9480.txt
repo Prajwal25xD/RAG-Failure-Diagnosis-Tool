@@ -1,0 +1,58 @@
+Server
+Host Name
+IP Address
+OS
+CPU RAM Storage
+Web Server
+CLD-GFERP-APP1
+172.16.30.177
+CentOS 7
+8
+32
+405 GB
+Database Server
+CLD-GFERP-DB1
+172.17.30.76
+CentOS 7
+8
+64
+871 GB
+LDAP Server
+cld-gferp-ldap1
+172.17.30.186
+Cent OS 7
+4
+8
+472 GB
+New Web Server
+cld-gferp-app2
+172.16.31.70
+Ubuntu 24.04.3
+8
+12
+553 GB
+New DB Server
+cld-gferp-db2
+172.17.28.54
+Ubuntu 24.04.3
+8
+12
+1.1TB
+New LDAP Server
+cld-gferp-ldap2
+172.17.28.55
+Ubuntu 24.04.3
+8
+12
+110 GB
+Software Details:
+Software
+Version
+Python
+2.7.5
+Odoo
+12
+PostgreSQL
+9.6.16
+Nginx
+1.26.1

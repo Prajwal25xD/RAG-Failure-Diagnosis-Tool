@@ -1,0 +1,2492 @@
+Page | 1  
+ 
+ 
+                   GUJARAT INFORMATICS LIMITED 
+Block No: 2, 2nd Floor, Karmayogi Bhavan, 
+C & D Wing, Sector‐10, Gandhinagar: 382 010 
+Phone No: 23256022, Fax No: 23238925 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Earnest Money Deposit: Rs.18,400/-.  
+ 
+GeM Bid No: GEM/2026/B/******** Dated ‐**/**/2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bid for Selection of Agency for Scanning & Digitization 
+of Records of Gujarat Gram Gruh Nirman Board, 
+Gandhinagar. 
+
+
+Page | 2  
+ 
+Abbreviation  
+  
+GoG  
+Government of Gujarat  
+DST  
+Department of Science & Technology, GoG  
+GSDC  
+Gujarat State Data Center  
+GGGNB  
+Gujarat Gram Gruh Nirman Board 
+ITB  
+Instruction to Bidder  
+EMD  
+Earnest Money Deposit  
+GCC  
+General Condition of Contract  
+SCC  
+Special Condition of Contract  
+PBG  
+Performance Bank Guarantee  
+TSP  
+Total Solution Provider  
+SP  
+Service Provider  
+TP  
+Training Provider  
+TC  
+ GIL 
+Training Centre  
+Gujarat Informatics limited 
+SSD 
+Solid State Drive  
+ 
+ 
+
+
+Page | 3  
+ 
+SECTION 1: INVITATION FOR BIDS  
+  
+Gujarat Informatics Limited on behalf of Gujarat Gram Gruh Nirman Board, 
+Gandhinagar invites online bids for “Tender for Selection of Agency for 
+Scanning and Digitization of Records of Gujarat Gram Gruh Nirman 
+Board, Gandhinagar”. 
+  
+Actual award of contract will follow the conditions as per this document. This 
+document is given for enabling the bidders to know the tender conditions so 
+as to guide them in filing up the technical bid and financial bid for the said 
+work.  
+  
+1. The bidders may download the tender document from website of Gujarat 
+Informatics Limited (www.gil.gujarat.gov.in) as well as from https://gem.gov.in.   
+2. This RFP document is not transferable.  
+3. No Consortium will be allowed.  
+The Bidder must submit the bid and execute the contract as a single 
+legal entity. Bids submitted by a consortium of companies, joint 
+ventures, or partnerships will not be considered and will be deemed non-
+responsive. 
+The Bidder will be solely responsible for the execution of the contract and 
+the delivery of all deliverables specified. Any attempt to subcontract or 
+form a consortium will result in the immediate disqualification of the bid 
+or termination of the contract. 
+4. Bidders shall submit EMD (Rs. 18,400/-) in the form of Demand Draft 
+OR in the form of an unconditional Bank Guarantee (which should be valid 
+for 12 months from the last Date of bid submission) of any Nationalized 
+Bank including the public sector bank or Private Sector Banks or 
+Commercial Banks or Co-Operative Banks and Rural Banks (operating in 
+India having branch at Ahmedabad/Gandhinagar) as per the G.R. no. 
+FD/MSM/e-file/4/2025/2712/DMO Dated 01.04.2026 issued by Finance 
+Department or further instruction issued by Finance department time to 
+time; in the name of “Accounts Officer, Gujarat Gram Gruh Nirman Board, 
+Gandhinagar” payable at Gandhinagar (as per prescribed format given at 
+Section 10) and must be submitted along with the covering letter. The 
+Bidder may be eligible for exemption from the Earnest Money Deposit 
+(EMD) as per the provisions outlined in the GeM General Terms and 
+Conditions (GTC). MSME exemption shall be applicable only to bidders 
+whose valid MSME certificate includes Code Division 62: ‘Computer 
+Programming, Consultancy and Related Activities’ and Code Division 63: 
+‘Information Service Activities’ in the valid registration certificate. 
+OR 
+Bidders can also submit the EMD with Payment Online through 
+RTGS/internet banking in Beneficiary name Gujarat Informatics Ltd., 
+Account No. 50200010918090, IFSC Code HDFC0000190, Bank Name 
+HDFC Bank Ltd. Branch address Sector-16, Gandhinagar Branch.  
+  
+5. The sealed cover should be super scribed as “EMD for the Request for 
+Proposal for “Tender for Scanning and Digitization of Records of Gujarat 
+Gram Gruh Nirman Board, Gandhinagar, (Document Image)”. Bidder to 
+
+
+Page | 4  
+ 
+submit AFFIDAVIT PHYSICALLY as per the prescribed format (To be 
+submitted IN ORIGINAL on Non-Judicial Stamp Paper of Rs.300/- duly 
+attested by First Class Magistrate/ Notary public) along with the 
+sealed cover. Bidder who have submitted EMD online has to follow the 
+above process for Affidavit.  
+ 
+6. Important Information  
+Sl. No. 
+Information  
+Details  
+1.   
+Last Date, Time for submission of 
+written queries for clarification only by 
+e-mail as per predefine format.   
+**.**.2026 up to 15:00 hrs  
+e-mail ID:  
+dgmTech‐gil@gujarat.gov.in;  
+mgrhn‐itcon@gujarat.gov.in 
+vipulp@gujarat.gov.in ; 
+ 
+2.   
+Last Date and time for submission of 
+EMD in physically along with original 
+Affidavit of Self Declaration.  
+Within 7 days from the last Date of 
+bid submission. 
+ 
+3.   
+Contact person for queries  
+e-mail ID:  
+dgmTech‐gil@gujarat.gov.in;  
+mgrhn‐itcon@gujarat.gov.in 
+vipulp@gujarat.gov.in ; 
+4.   
+Address for communication  
+Gujarat Informatics Ltd., Block no. 
+2, 2nd Floor, Karmayogi Bhavan, 
+Sector-10A, 
+Gandhinagar-382017, 
+Gujarat 
+  
+All bids must be submitted online on https://gem.gov.in website 
+  
+7. GIL/GGGNB reserve the right to accept or reject any tender offer without 
+giving any reason.  
+  
+8. Financial bids of only those bidders who qualify on the basis of evaluation 
+of technical bids will be opened.  
+  
+9. Use & Release of Bidder Submissions:  
+GIL/GGGNB is not liable for any cost incurred by a Bidder in the 
+preparation and production of any Proposal, the preparation or execution 
+of any benchmark demonstrations, simulation or laboratory service or for 
+any work performed prior to the execution of a formal contract.  All 
+materials submitted become the property of the GGGNB/GIL & may be 
+returned at its sole discretion. The content of each Bidder’s Proposal will 
+be held in strict confidence during the evaluation process, and details of 
+any Proposals will not be discussed outside the evaluation process.  
+  
+10. Bid validity period is 180 days.  
+ 
+ 
+Evaluation and comparison of Bids   
+  
+
+
+Page | 5  
+ 
+1. For technical evaluation and comparison of the bids will be done by GIL 
+based on the prequalification evaluation criteria given in the tender 
+document.  
+2. The solution provider will be selected based on evaluation of pre-
+qualification.  Financial bids of only those bidders who qualify on the 
+basis of pre-qualification evaluation will be opened. Only with tax values 
+will be considered for financial evaluation.  
+3. For evaluation of Financial Bids, the bids with tax values will only be 
+considered for comparison.  
+4. GIL/GGGNB will exclude and not take into the account any allowance 
+for price adjustment during the period of the execution of the contract, 
+if provided in the bid.  
+5. GIL will send/submit tender related updates and documentation to 
+department (GGGNB office) for approval. After completion of technical 
+and financial bid evaluation, GIL will send/submit complete tender 
+report to the office of the GGGNB, Gandhinagar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page | 6  
+ 
+SECTION 2: INSTRUCTIONS TO BIDDERS  
+  
+INTRODUCTION  
+  
+The Gujarat Gram Gruh Nirman Board, Gandhinagar location is at Sector-10-
+A, Gandhinagar – 382010, Gujarat.  
+ 
+Qualification/Eligibility Criteria  
+The firm/company meeting the following eligibility criteria will be considered 
+for further evaluation.  
+ 
+Sr.  
+No.  
+Qualification/Eligibility Criteria  
+Attachments  
+I. The bidder should be a registered company 
+(registered under Indian Companies Act, 
+1956 or Indian Companies Act, 2013) in 
+India. 
+The bidder should be in the business of 
+data Entry and/or Scanning for at least five 
+years as on 31st March 2026 having 
+experience of Scanning of old documents of 
+national or similar institutes, old historical 
+& hand written documents preservation 
+institute, State/Central Govt. Office. 
+Valid  copy  of  the  Company 
+Incorporation Certificate must 
+be submitted for the same along 
+with copy of work order/client 
+certificate older than five years
+with supporting documents in 
+compliance to the mentioned 
+experience.  
+II. The agency/services provider must have a
+valid GST Number and PAN Card in India 
+Copy of Goods and Services Tax
+(GST) certificate with GST 
+registration number (GSTIN) 
+and a Copy of PAN Card. 
+III. The bidder should have ISO 9001:2015 or 
+latest 
+certification 
+for 
+“data
+Entry/Scanning/Digitization and related 
+services”.  
+Submit a copy of the requisite 
+certificate   
+IV. The 
+bidder 
+must 
+have 
+successfully 
+executed/completed at least one (1) single 
+order of 14.40 Lakh Pages or two (2) orders 
+each of 09 Lakh Pages or three (3) orders 
+each of 7.20 Lakh Pages for Record 
+Scanning and Digitisation projects during 
+last Five years as on 31st March 2026 
+Copy of the work completion
+Certificate of the same must be 
+attached.  
+V. The Bidder should have Minimum Average 
+Annual Turnover of Last 3 Years Rs.18.40
+Lakh during last three financial years 
+(2022-23, 2023-24 and 2024-25). 
+ 
+Audited and Certified Balance 
+Sheet & Profit/Loss Account of 
+last 3 Financial Years. CA 
+turnover certificate mentioning 
+UDIN no. 
+VI. The Bidder should have at least one office 
+in 
+Gujarat 
+and 
+preferably 
+support 
+centers/logistics for the entire state.   
+The 
+copy 
+of 
+Property 
+tax 
+bill/Electricity 
+Bill/Telephone 
+Bill/G.S.T.-C.S.T. 
+
+
+Page | 7  
+ 
+Registration/Lease agreement 
+should be submitted as proof. 
+ 
+Note: Copy of G.S.T.-C.S.T. 
+Registration as a proof for 
+having office in Gujarat State is 
+mandatory  
+VII. The Bidder should not be under a 
+declaration of ineligibility for corrupt and 
+fraudulent practices issued by Government 
+of Gujarat or any of the PSU in the State of 
+Gujarat and by the Government of India. 
+Self-Declaration 
+mentioning 
+that 
+the 
+agency is not currently debarred by 
+Government of Gujarat or any of the PSU 
+in the State of Gujarat or by the 
+Government of India due to engagement in 
+any corrupt & fraudulent practices. 
+Self-Declaration   
+VIII. No Consortium will be allowed.   
+Self-declaration  
+IX. Resources and scanning machine for 
+completion of work within 90 days 
+including manpower to be deputed at 
+Gujarat Gram Gruh Nirman Board
+Self-declaration 
+  
+ 
+All Supporting Documents are to be uploaded on GeM portal https://gem.gov.in  
+  
+Cost of Bidding  
+1.1.1 The Bidder shall bear all the costs associated with the preparation and 
+submission of its bid, and GIL/GGGNB will in no case be responsible or 
+liable for these costs, regardless of conduct or outcome of bidding 
+process.  
+  
+A. BIDDING DOCUMENTS Contents of Bidding Documents  
+1.1.2 The bid must be submitted online on GeM portal https://gem.gov.in.  
+ 
+1.1.3 The Bidder is expected to carefully examine all instructions, forms, terms, 
+and specifications contained in the bidding documents. Failure to 
+furnish all information required under the bidding documents in the 
+prescribed format, or submission of a bid that is not substantially 
+responsive to the bidding documents in all respects, shall be at the 
+Bidder’s risk and may result in rejection of the bid. 
+  
+Clarification of Bidding Documents  
+1.1.4 A prospective bidder requiring any clarification of the bidding documents 
+may seek clarification of his/her query on the date indicated in the bid 
+document. GIL/GGGNB will respond to any request for the clarification 
+of any bidding documents, which it receives during the meeting on the 
+date mentioned on the RFP clause of this document GIL/GGGNB shall 
+
+
+Page | 8  
+ 
+hold a pre-bid meeting with the prospective bidders on date & time 
+mentioned in the bid document.   
+ 
+1.1.5 The Bidders will have to ensure that their queries for pre-bid meeting 
+should reach to Name, Address and email id of the officer mentioned by 
+post, facsimile or email on or before on date & time given in bid 
+document.  
+  
+Bidder’s Request For Clarification  
+Name of Organization 
+submitting request  
+Name & position of 
+person submitting 
+request:  
+Address of organization 
+including phone, fax, 
+email points of contact 
+Sr.  
+No.  
+Bidding Document 
+Reference (Clause 
+/page)  
+Content of RFP 
+requiring clarification 
+Points of Clarification 
+required  
+1  
+  
+  
+  
+ 
+GIL shall not be responsible for ensuring that the bidder’s queries have been 
+received by them. Any requests for clarifications post the indicated date 
+(pre bid meeting date) and time may not be entertained by GIL/GGGNB.  
+  
+Amendment of Bidding Documents  
+1.1.6  At any time prior to the deadline for submission of bids, GIL/GGGNB 
+may, for any reason, whether on its own initiative or in response to the 
+clarification may change their biding document by amendment; the 
+amendment will be uploaded online through https://gil.gujarat.gov.in & 
+https://gem.gov.in.  
+ 
+1.1.7 In order to allow prospective bidders reasonable time to consider the 
+amendments while preparing their bids, GIL/GGGNB at its discretion, 
+may extend the deadline for submission of bids.  
+ 
+1.1.8 At any time prior to the last date for receipt of bids, GIL/GGGNB may for 
+any reason, whether at its own initiative or in response to a clarification 
+requested by a prospective bidder, modify the RFP document by a 
+corrigendum.  
+ 
+1.1.9 Any such corrigendum shall be deemed to be incorporated into this RFP.  
+  
+B. PREPARATION OF BIDS    
+Language of Bid  
+1.1.10 The proposal prepared by the bidder, as well as all correspondence and 
+documents relating to the bid exchanged by the bidder and GIL shall be 
+in English language. Supporting documents and printed literature 
+furnished by the bidder may be in another language provided they are 
+accompanied by an appropriate translation of the relevant document in 
+the English language and in such a case, for purpose of interpretation 
+of the Bid, the translation shall govern.  
+
+
+Page | 9  
+ 
+  
+Documents Comprising the Bid  
+1.1.11 The bid prepared by the Bidder shall comprise of the following 
+documents:  
+a. Cover of EMD and Affidavit (Physically at GIL)  
+b. Technical Bid and a Financial Bid (Online)  
+ 
+1.1.12 The bid documents and addendums (if any) together shall be considered 
+as final and self-contained bid document not withstanding any previous 
+correspondence or document issued by GIL/GGGNB.  
+  
+Bid Form  
+1.1.13 The Bidder shall complete the Technical Bid and a Financial Bid 
+furnished with this document giving details as per the format mentioned 
+on the GeM Portal https://gem.gov.in.   
+  
+Bid Prices  
+1.1.14 The bidder shall indicate the prices in the format mentioned in the 
+financial bid.  
+ 
+1.1.15 The following points need to be considered while indicating prices:  
+a) The prices quoted should also include, applicable GST, inland 
+transportation, insurance and other local costs incidental to 
+delivery of the goods and services to their final destination 
+within the State of Gujarat. It is to reiterate that bidder to 
+quote price including GST in financial bid in online GeM 
+portal.   
+b) Invoicing shall be from Gujarat only.  
+ 
+1.1.16 The Bidder’s separation of the price components in accordance with the 
+financial bid be solely for the purpose of facilitating the comparison of 
+bids by GIL and will not in any way limit the Client’s right to contract 
+on any of the terms offered.  
+ 
+  
+Bid Currency  
+1.1.17 Prices shall be quoted in Indian Rupees only.  
+  
+Period of Validity Bids  
+1.1.18 Bids shall be valid for 180 days after the date of bid opening. The 
+GIL/GGGNB shall reject a bid valid for a shorter period as non-
+responsive.  
+ 
+1.1.19In exceptional circumstances, the tendering authority may solicit the 
+bidder’s consent to an extension of the period of validity. The request 
+and the responses thereto shall be made in writing.    
+ 
+1.1.20 Bid evaluation will be based on the bid prices without taking into 
+consideration the above changes.  
+  
+
+
+Page | 10  
+ 
+Format and Signing of Bid  
+1.1.21 Bidders have to submit the bids on the GeM portal website 
+https://gem.gov.in. All supporting documents in the form of scanned 
+copies submitted online should have sign and seal of the bidder.   
+ 
+1.1.22 Before filling in any of the details asked, bidders should go through the 
+entire bid document and get the required clarifications from 
+GIL/GGGNB during the pre-bid conference.  
+  
+C. SUBMISSION OF BIDS  
+Sealing and Marking of Bids  
+1.1.23 All bids must be submitted online through GeM portal https://gem.gov.in 
+as per the formats mentioned therein. 
+  
+1.1.24 Telex, cable, e-mailed or facsimile bids will be rejected.  
+  
+Deadline for Submission of Bids  
+1.1.25 Bids must be submitted online not later than the time and Date 
+specified in the Bid.      
+                      
+1.1.26 GIL/GGGNB may, at its discretion, extend deadline for submission of 
+bids by amending the bid documents and all rights and obligations of 
+GIL/GGGNB and Bidders previously subject to the deadline will 
+thereafter be subject to the deadline as extended.  
+  
+Late Bids  
+1.1.27 Any bid received by GIL after deadline for submission of bids 
+prescribed by GIL/GGGNB, will be rejected and/or return 
+unopened to bidder.  
+  
+Modification and Withdrawal of Bids  
+1.1.28 The bidder may modify or withdraw its bid before the last Date of 
+submission of bids through the GeM portal website https://gem.gov.in  
+ 
+1.1.29 No bid may be modified subsequent to the deadline for submission 
+of the bids.  
+ 
+1.1.30 No bid may be withdrawn in the interval between the deadline for 
+submission of bids and the expiry period of the bid validity specified 
+by the bidder on the bid form. Withdrawal of a bid during this 
+interval shall result in the bidder’s forfeiture of its bid security.  
+ 
+D. OPENING AND EVALUATION OF BID  
+Opening of Bids by GIL/GGGNB  
+1.1.31Financial bids of only those bidders who qualify on the basis of pre-
+qualification. 
+  
+Clarification of Bids  
+1.1.32 During evaluation of bids GIL may, at its discretion, ask the bidder 
+for a clarification of its bid. GIL may also ask for rate analysis of any 
+
+
+Page | 11  
+ 
+or all items and if rates are found to be unreasonably low or high, 
+the bid shall be treated as non-responsive and hence liable to be 
+rejected. The request for a clarification and the response shall be in 
+writing and no change in prices or substance of the bid shall be 
+sought, offered or permitted.    
+  
+Preliminary Examination  
+1.1.33 GIL will examine the bids to determine whether they are complete, 
+whether any computational errors have been made, whether 
+sureties have been furnished, whether the documents have been 
+properly signed, and whether the bids are generally in order.   
+1.1.34 If a bid is not substantially responsive, it will be rejected by GIL and 
+may not subsequently be made responsive by the bidder by 
+correction of the non-conformity.   
+1.1.35 Conditional bids are liable to be rejected.  
+  
+Contacting GGGNB  
+1.1.36 No Bidder shall contact GIL/GGGNB on any matter relating to its 
+bid, from the time of the bid opening to the time of contract is 
+awarded. If bidder wishes to bring additional information to the 
+notice of GIL/GGGNB, bidder should do so in writing. GIL/GGGNB 
+reserves its right as to whether such additional information should 
+be considered or otherwise.  
+1.1.37 Any effort by a bidder to influence GIL/GGGNB in its decision on 
+bid evaluation, bid comparison or contract award may result in 
+disqualification of the bidder’s bid and also forfeiture of his bid 
+security amount.   
+  
+E. AWARD OF CONTRACT Post-qualification  
+1.1.38 An affirmative determination will be a prerequisite for the award of 
+the contract to the Bidder. A negative determination will result in 
+rejection of Bidder’s bid, in which event the department will proceed 
+to the next lowest evaluated bid to make a similar determination of 
+the Bidder’s capabilities to perform the contract satisfactorily.   
+  
+Award Criteria  
+1.1.39 GGGNB will award the contract to the successful bidder decided as 
+per the evaluation procedure mentioned in this bid document.   
+1.1.40 GGGNB reserves the right to award the contract to the bidder whose 
+bid may not have been determined as the lowest evaluated bid, 
+provided further that the bidder is determined to be qualified to 
+perform the contract satisfactorily.  
+1.1.44 GGGNB reserves the right to award the contract in part to more 
+than one bidder, provided further that the bidder(s) are determined 
+to be qualified to perform the contract satisfactorily.   
+  
+GIL/GGGNB’s Right to Accept Any Bid and to reject any or All Bids  
+1.1.45 GIL/GGGNB reserve the right to accept or reject any bid, and to 
+cancel the bidding process and reject all bids at any time prior to 
+award of Contract, without thereby incurring any liability to the 
+
+
+Page | 12  
+ 
+affected Bidder or bidders or any obligation to inform the affected 
+Bidder or bidders of the grounds for GIL’s action.   
+  
+Notification of Awards  
+1.1.46 Prior to the expiration of the period of the bid validity, concerned 
+GIL/GGGNB will notify the successful bidders in writing, to be 
+confirmed in writing by registered letter, that his bid has been 
+accepted.  
+1.1.47 The notification of award GeM Contract will constitute the 
+formation of the Contract.  
+  
+ 
+Corrupt or Fraudulent Practices  
+1.1.50 GGGNB requires that the bidders under this tender observe the 
+highest standards of ethics during the execution of the contract.  In 
+pursuance of this policy, GGGNB defines for the purposes of this 
+provision, the terms set forth as follows:  
+c) “Corrupt practice” means the offering, giving, receiving or 
+soliciting of anything of value to influence the action of the 
+public official in the procurement process or in contract 
+execution: and  
+d) “Fraudulent practice” means a misrepresentation of facts in 
+order to influence a procurement process or an execution of 
+a contract to determent of the GIL/GGGNB and includes 
+collusive practice among the bidders (Prior to or after the bid 
+submission) designed to establish bid prices at artificial non-
+competitive level and to deprive the GGGNB of the benefit of 
+the free and open competition.  
+  
+1.1.51 GGGNB shall reject a proposal for award if it determines that the 
+Bidder recommended for award has engaged in corrupt or 
+fraudulent practices and same shall be conveyed to Dept of Science 
+& Technology/GIL or black listed/debarred by any of the 
+Department of Government of Gujarat in competing for the contract 
+in question.  
+1.1.52 GGGNB shall declare a firm ineligible, and black listed/debarred 
+either indefinitely or for a stated period of time, to be awarded a 
+contract if it at any time determines that the firm has engaged in 
+corrupt and fraudulent practices in competing for, or in executing, 
+a contract. The same shall be conveyed to Dept of Science & 
+Technology/GGGNB. 
+1.1.53 If any of the qualifying documents submitted by the bidder are 
+found to be fraudulent or bogus at any time after the award of 
+contract, the contract shall liable to be terminated with immediate 
+effect.   
+1.1.54 If it is found that bidder have violated/ infringement of any Indian 
+or foreign trademark, patent register, design, or other intellectual 
+property rights, department shall terminate the contract of bidder 
+and / or declare a firm ineligible and black listed/debarred either 
+indefinitely or for stated period.  
+
+
+Page | 13  
+ 
+   
+Interpretation of the clauses in the Tender Document/Contract 
+Document  
+1.1.55 In case of any ambiguity in the interpretation of any of the clauses 
+in Bid Document or the Contract Document, GIL/GGGNB’s 
+interpretation of the clauses shall be final and binding on all parties.  
+1.1.56 However, in case of doubt as to the interpretation of the bid, the 
+bidder may make a written request prior to the pre-bid conference 
+to;   
+Gujarat Informatics Limited 
+  Block no. 2, 2nd Floor, Karmayogi Bhavan, 
+  Sector-10A, Gandhinagar-382010, Gujarat 
+  
+GIL/GGGNB may issue clarifications to all the bidders as an 
+addendum. Such an addendum shall form a part of the bid 
+document /Contract document.  
+ 
+Performance Security/Performance Bank Guarantee (PBG). 
+  
+1.1.57 The successful Bidder has to furnish a security deposit so as to 
+guarantee his/her (Bidder) performance of the contract.   
+1.1.58 The Successful bidder has to submit Performance Bank Guarantee 
+@ 5% of total order value within 15 days from the receipt of 
+notification of award/Contract Agreement for the duration of 
+warranty of all Nationalized Bank including the public sector bank 
+or Private Sector Banks authorized by RBI or Commercial Bank or 
+Regional Rural Banks of Gujarat or Co-Operative Bank of Gujarat 
+(operating in India having branch at Ahmedabad/Gandhinagar) as 
+per the G.R. no. FD/MSM/e-file/4/2025/2712/DMO Dated 
+01.04.2026 issued by Finance Department or further instruction 
+issued by Finance department time to time.  (The draft of 
+Performance Bank Guarantee is as per Section 10).   
+1.1.59 The Performance Security shall be in the form of Bank Guarantee 
+valid for 1 (ONE) Year from the Date of Completion of work.  
+1.1.60 The proceeds of the performance security shall be payable to the 
+“Accounts 
+Officer, 
+Gujarat 
+Gram 
+Gruh 
+Nirman 
+Board, 
+Gandhinagar” as compensation for any loss resulting from the 
+Service provider’s failure to complete its obligations under the 
+Contract.  
+1.1.61 The Performance Security will be discharged by GGGNB and 
+returned to the Bidder on completion of the bidder’s performance 
+obligations under the contract.  
+1.1.62 In the event of any contract amendment, the bidder shall, within 
+21 days of receipt of such amendment, furnish the amendment to 
+the Performance Security, rendering the same valid for the duration 
+of the Contract, as amended for further period.  
+1.1.63 No interest shall be payable on the Performance Bank Guarantee 
+amount. GGGNB may invoke the above bank guarantee for any kind 
+of recoveries, in case; the recoveries from the bidder exceed the 
+amount payable to the bidder.  
+
+
+Page | 14  
+ 
+SECTION 3: GENERAL CONDITION CONTRACT  
+  
+Definitions  
+  
+In this Contract, the following terms shall be interpreted as indicated:  
+  
+1 
+“The Contract” means the agreement entered into between GGGNB 
+and the Service Provider, as recorded in the Contract Form Signed 
+by the parties, including all the attachments and appendices 
+thereto and all documents incorporated by reference therein;  
+2 
+"Bidder" means any agency that is participating in the tender 
+process.  
+3 
+"Service Provider" means any agency who is a successful bidder 
+and to whom the contract has been awarded.  
+4 
+“The Contract Price” means the price payable to the Service 
+Provider under the Contract for the full and proper performance of 
+its contractual obligations;  
+5 
+“The Goods” means all the equipment, machinery and /or other 
+materials which the Service Provider is required to supply/deploy 
+to GGGNB office for execution under the Contract;  
+6 
+“Document” 
+means 
+files, 
+maps, 
+photographs, 
+registers, 
+manuscripts, Gazettes, Books etc.  
+7 
+“Services” means services ancillary to the scanning and 
+digitization 
+of 
+records, 
+including 
+collection, 
+handling, 
+transportation, scanning, indexing, data entry, digital storage, 
+quality checking, technical assistance, training, and any other 
+related obligations of the Service Provider covered under the 
+Contract;  
+8 
+“The Project Site”, wherever applicable, means the place or places 
+where the work is to be executed.  
+9 
+“Day” means a working day.  
+10 
+“Unit” means one single office where the entire set up has to be 
+provided.  
+11 
+“Office Completeness” means the site should be complete in all 
+respects i.e.   
+ Hardware is supplied and installed  
+ Requisite Software is installed  
+ Requisite Application Software is installed  
+ Connectivity setup is established  
+ Requisite Manpower is deployed, if any  
+ The entire setup for execution of contract becomes functional 
+& the transactions can be done on computers.  
+12 
+“Maintenance” means   
+• 
+Taking care of the machine  
+• 
+Changing the Spares when they become faulty  
+• 
+Locate, remove, and repair technical faults  
+• 
+Identify Software related problems such as run time error 
+viruses etc. & reload the machines with Software  
+
+
+Page | 15  
+ 
+• 
+Housekeeping of all Hardware  
+• 
+Ensuring continuous power supply to all machines during 
+working hours.  
+• 
+Any other task to be performed to keep the system functional.  
+  
+13 
+Performance Standards   
+This factor incorporates the maintenance standards as defined 
+below:  
+  
+Service Level Standards: -   
+The agency has to meet the service level norms failing which the 
+contract is liable to get cancelled.  
+a) 
+Install high quality hardware and peripherals at all sites to 
+ensure minimum downtime.  
+b) 
+Provide skilled and efficient manpower to attain maximum 
+production.  
+c) 
+Provide quality consumables like Paper, Toners, Tapes, 
+external SSD etc.   
+d) 
+Absolutely avoid usage of low quality consumables.  
+  
+1  
+Application  
+a) These General Conditions shall apply to the extent that they 
+are not superseded by provisions in other parts of the 
+Contract.  
+  
+2  Use of Contract Documents and Information  
+  
+1) The Service Provider shall not, without the GGGNB’s prior 
+written consent, disclose the Contract, or any provision 
+thereof, or any specification, plan, drawing, pattern, sample 
+or information furnished by or on behalf of GGGNB in 
+connection therewith, to any person other than a person 
+employed by the Service Provider in performance of the 
+Contract.  Disclosure to any such employed person shall be 
+made in confidence and shall extend only as far as may be 
+necessary for purposes of such performance.  
+2) Any document, other than the Contract itself, shall remain the 
+property of GGGNB and shall be returned (in all copies) to 
+GGGNB on completion of the Service Provider’s performance 
+under the Contract if so required by GGGNB.  
+3) The Service Provider shall permit GGGNB to inspect the 
+Service Provider’s accounts and records relating to the 
+performance of the Service Provider and to have them audited.    
+  
+3  
+Patent Rights  
+The Service Provider shall indemnify GIL/GGGNB against all third 
+party claims of infringement of patent, trademark or industrial 
+design rights arising from use of the Goods/software or any part 
+thereof in India and Other Country. 
+
+
+Page | 16  
+ 
+4  Inspections and Tests  
+1) Authorized person in GGGNB will verify the Data entry printouts. 
+If the printouts are not found as per the norms prescribed by this 
+office, they shall be generated again and again until they attain 
+the prescribed norms and no extra payment will be made for the 
+same. Verification of documents will be done on the basis of 
+document completeness. 
+ 
+2) No staff of GGGNB will be made available for the said work except 
+for handing over and taking back the documents, receiving USB 
+Hard drives, SSD & indexed printouts. The entire verification of 
+record will be done randomly and batch-wise by the GGGNB. It 
+will be the onus of the bidder to ensure that the quality of the work 
+is not compromised. If the quality is not satisfactory, it will 
+amount to rejection of the entire batch. The bidder has to make a 
+thorough verification of the quality at his own level. 
+3)  The paper used for printing shall be of good quality. 
+4) The documents shall be handed over to the bidder / or his 
+authorized agent in the morning and shall be collected back by 
+the staff of GGGNB at the end of the day. 
+5) The hard disk of the computers shall contain only the operating 
+system, and the application software required for digital Scanning 
+of the documents, and shall be formatted before leaving the 
+premises for any reason.  
+6) The bidder has to submit the proposal for the work flow he intends 
+to follow to ensure error free service.  This will form a part of the 
+technical bid.  
+7) Daily Reporting of Scanning and Digitization Progress: 
+The successful bidder shall be required to provide a detailed Daily 
+Progress Report on the scanning and digitization work carried out 
+during the course of the project. This report shall be submitted to 
+the Gujarat Gram Gruh Nirman Board (GGGNB) and other 
+concerned offices. The Daily Progress Report shall include, but not 
+be limited to, the following details: 
+ Number of documents scanned on the day. 
+ Total number of pages digitized. 
+ Cumulative number of documents and pages scanned till Date. 
+ Location/office/branch where the scanning was carried out. 
+ Details of any issues encountered (e.g., damaged documents, 
+unreadable scans, or technical difficulties). 
+ Remarks on pending or rescan work, if any. 
+Format and Mode of Submission: 
+ The 
+report 
+shall 
+be 
+submitted 
+in 
+a 
+prescribed 
+format 
+(Excel/PDF/online template), as specified by the GGGNB. 
+ The report must be submitted by the end of each working day via 
+email or through an online mode, if any, suggested by GGGNB. 
+ 
+
+
+Page | 17  
+ 
+5  Delivery and Documents  
+Delivery of the Goods/services shall be made by the Service Provider 
+in accordance with the terms specified by GGGNB. in the 
+Notification of Award.   
+  
+6  
+Transportation  
+Where the Service Provider is required under the Contract to 
+transport the goods to a specified place of destination within 
+Gujarat defined as Project site, transport to such place of 
+destination in Gujarat including insurance, as shall be specified in 
+the Contract, shall be arranged by the Service Provider, and the 
+related cost shall be included in the Contract Price.  
+  
+7  
+Incidental Services  
+The Service Provider is required to provide the following services, 
+including additional services, if any.  
+  
+1) performance or supervision of the on-site assembly and/or start-
+up of the supplied Goods;  
+2) furnishing of tools required for assembly and/or maintenance of 
+the supplied Goods;  
+3) furnishing of detailed operations and maintenance manual for 
+each appropriate unit of supplied Goods;  
+4) Performance or supervision or maintenance and/or repair of the 
+supplied Goods, for the period of time mentioned in the tender 
+notification.  
+  
+8  
+Payment  
+  
+1) All payments will be done to the agency after completion of 
+the job/contract.  
+2) Payment shall be made solely based on the actual number of 
+pages scanned and digitized by the agency, regardless of any 
+page count estimates provided in this RFP.  
+3) The payment will be made only after the Gujarat Gram Gruh 
+Nirman Board issues a Work Compliance Certificate regarding 
+satisfactory performance by the agency.  
+4) Any penalties imposed on the agency for non-performance will 
+be deducted from the payments/ PBG.  
+5) All work contract service tax will be deducted at source as per 
+the prevalent rules & regulations at the time of making payments 
+to the Bidder during the billing cycles.   
+6) Payment will be made within two month’s time from the Date of 
+receipt of bill, provided there is no dispute.  
+7) It is binding on the agency to which the work will be allotted to 
+complete the total job-work within the specified time-period as 
+decided by GGGNB. In case of delay, the agency will be penalized 
+proportionately. The amount of penalty will be adjusted against 
+the amount payable to the agency for the job-work & the net 
+payment will be made to the agency. For example, if the average 
+
+
+Page | 18  
+ 
+delays are 10% then the agency will get 10% less amount per 
+page quoted by him to the extent of the pages where the delay 
+has occurred.   
+8) The Successful bidder should provide details of scanned pages 
+through auto-counting facility so that the exact number of pages 
+scanned by the bidder can be easily traced while processing 
+payment for total number of pages scanned by the bidder. 
+ 
+  
+9  
+Change Orders  
+  
+9.1 GGGNB may at any time, by written order given to the Service 
+Provider, make changes within the general scope of the Contract 
+in any one or more of the following:   
+  
+a) The place of delivery; and/or  
+b) The Services to be provided by the Service Provider for 
+scanning and digitisation of records.  
+c) The Quantity of services to be supplied & or the locations 
+of supply.  
+  
+9.2 If any such change causes an increase or decrease in the cost 
+of, or the time required for, the Service Provider’s 
+performance of any provisions under the Contract, an 
+equitable adjustments shall be made in the Contract Price or 
+delivery schedule, or both, and the Contract shall accordingly 
+be amended.  Any claims by the Service Provider for 
+adjustment under this clause must be asserted within thirty 
+(30) days from the Date of the Service Provider’s receipt of 
+GGGNB’s change order.  
+  
+10 Delays in the Service Provider’s Performance  
+  
+10.1 Delivery of the Goods and performance of the Services shall be 
+made by the Service Provider in accordance with the time 
+schedule specified by GGGNB.  
+  
+10.2 If at any time during performance of the Contract, the Service 
+Provider should encounter conditions impeding timely 
+delivery of the Goods and performance of Services, the Service 
+Provider shall promptly notify GGGNB in writing of the fact of 
+the delay, its likely duration and its cause(s).  As soon as 
+practicable after receipt of the Service Provider’s notice, 
+GGGNB shall evaluate the situation and may, at its 
+discretion, extend the Service Provider’s time for performance 
+with or without a penalty, in which case the extension shall 
+be ratified by the parties by amendment of the Contract.  
+  
+10.3 The bidders shall read & understand the requirements 
+thoroughly & shall adhere to the schedule strictly. The 
+
+
+Page | 19  
+ 
+supply, installation & commissioning of Hardware & software 
+at all locations shall be completed within 7 days from the Date 
+of GeM Contract.  
+ 
+10.4 Office of the GGGNB may review the performance of the bidder 
+and decide to extend the contract on same rate and same 
+terms & conditions. GGGNB office, Gandhinagar will also 
+have right to terminate the contract if the performance is 
+found not satisfactory. 
+  
+11  Penalty Clause  
+  
+Waiver of Penalty for Rescanning of Non-Compliant Documents: 
+In the event that any scanned Service Books or related documents are 
+found to be non-compliant, incomplete, illegible, or not properly aligned 
+with the original physical documents, the following condition shall apply: 
+a. The successful bidder shall, upon notification by the GGGNB or 
+its authorized representative, promptly undertake rescanning of 
+such documents at no additional cost to the GGGNB. 
+b. No penalty shall be imposed on the bidder for such instances 
+provided that: 
+i. 
+The bidder shall cooperate fully with the GGGNB or its 
+authorized representative during the verification process 
+and take necessary corrective actions without dispute.  
+ii. 
+The bidder agrees to and completes the rescanning of the 
+affected documents within the time frame specified by the 
+GGGNB or its authorized representative. 
+iii. 
+The rescanned documents are fully compliant, clear, and 
+readable, and replace the originally deficient scanned 
+copies. 
+iv. 
+This penalty waiver is applicable only where the bidder 
+complies with the rescanning requirement as outlined 
+above. Persistent failure to meet quality standards or 
+refusal to rescan when requested may result in penalties 
+and/or other contractual actions as per the terms of the 
+agreement. 
+ 
+c. If the Service Provider is not executing the contract to the 
+satisfaction of GGGNB, then may invoke any or all of the 
+following clauses.  
+  
+i. 
+Forfeit the performance Guarantee Amount. Or  
+ii. Impose a proportionate penalty of the delivered price 
+of the unperformed services. Or  
+iii. Terminate the contract without giving any notice.  
+  
+d. Quality:  
+
+
+Page | 20  
+ 
+  
+100% accuracy shall be maintained in scanning & Data entry. For 
+accuracy less than 100%, the penalty will be deducted as 
+mentioned below.  
+  
+Level of Accuracy (in percentage)
+Penalty 
+>= 98.00 && < 99.00 
+- 2 % of the order value  
+>= 95.00 && < 98.90 
+- 5 % of the order value  
+>= 92.00 && < 95.00 
+- 7 % of the order value  
+<92 
+- No Payment  
+  
+ 
+Accuracy % = [Total correctly scanned pages – Total incorrectly 
+scanned pages/Total correctly scanned pages] × 100. 
+Example:  
+ Total correctly scanned pages – 100000 
+ Total incorrectly scanned pages – 1000 
+ Accuracy % = (100000 – 1000/100000) x 100  
+= (99000/100000) x 100 
+= (0.99) x 100 
+= 99 % 
+Correctly scanned pages means the scanned page will be the exact 
+replica of the original page.  
+Incorrectly scanned pages means the scanned page which shows 
+vertical or horizontal lining in the page, abnormally bright or dark colour 
+page, creating black & white or coloured spot in scan page, 
+enlargement/compression of words in the scan page, Missing characters 
+or paragraph in the scan page from the original document.    
+ 
+e. Delays in deliverables:  
+ 
+In the event of delay in completion of the work beyond the stipulated 
+contract period, a penalty shall be imposed at the rate of 0.5% (zero 
+point five percent) of the total contract value per week of delay. The 
+total amount of such deduction shall be recovered from payments 
+due to the Contractor. 
+ 
+The delay period shall be calculated on a weekly basis, and any part 
+of a week shall be considered as a full week for the purpose of 
+penalty calculation. 
+ 
+The total penalty for delay shall be subject to a maximum of 10% 
+(ten percent) of the total contract value.  
+   
+d. Damage or Permanent loss of Documents: The selected 
+bidder shall be responsible to take care of documents during 
+the process of scanning and Data entry. If any documents are 
+damaged during the process, the selected bidder shall be 
+responsible to rectify it/ repair the same at its own cost. In 
+
+
+Page | 21  
+ 
+case of any permanent loss or damage of documents, the 
+penalty will be applicable as mentioned in SLA mentioned 
+below.  
+  
+SLA 
+Measures  
+No. of 
+Documents 
+Action  
+Flat Penalty Rs. 
+Damage of 
+Pages 
+1 to 5  
+Rectify it/ repair the same 
+on immediate basis  
+ Rs. 1000 per Page 
+Above 5  
+Rectify it/ repair the same 
+on immediate basis  
+Rs. 2000 per Page 
+Permanent 
+loss  of 
+Pages 
+1  
+---  
+Rs. 2000 per Page 
+2 to 5  
+---  
+Rs. 3000 per Page 
+Above 5  
+---  
+Rs. 5000 per Page 
+  
+ 
+ 
+12 Termination for Default or Otherwise  
+  
+12.1 GGGNB may, without prejudice to any other remedy for breach 
+of contract, by written notice of default sent to the Service 
+Provider, terminate the Contract in whole or part:  
+  
+a) if the Service Provider fails to deliver any or all of the 
+Goods/Services within the period(s)/schedule specified in 
+the Contract,  
+b) if the Service Provider fails to perform as per the 
+performance standards.  
+c) If the Service Provider, in the judgment of GGGNB has 
+engaged in corrupt or fraudulent practices in competing 
+for or in executing the Contract.  
+  
+12.2  In Circumstances mentioned in a, b, c above GGGNB may 
+exercise the following option: -  
+a) Direct the agency to leave the Hardware/Software in the 
+offices of the GGGNB and terminate the Contract.  
+  
+12.3 In case of premature termination of Contract for no fault of 
+Service Provider GGGNB may Direct the agency to take back 
+the Hardware without any additional compensation  
+ 
+  
+13  Force Majeure  
+  
+13.1 For purposes of this clause, “Force Majeure” means an event 
+beyond the control of the Service Provider and not involving 
+the Service Provider’s fault or negligence and not foreseeable.  
+Such events may include, but are not limited to, acts of the 
+Purchase either in its sovereign or contractual capacity, 
+
+
+Page | 22  
+ 
+wards or revolutions, fires, floods, epidemics, quarantine 
+restrictions and freight embargoes.  
+  
+13.2 If a force Majeure situation arises, the Service Provider shall 
+promptly notify GGGNB in writing of such conditions and the 
+cause thereof.  Unless otherwise directed by GGGNB in 
+writing, the Service Provider shall continue to perform its 
+obligations under the Contract as far as it reasonably 
+practical, and shall seek all reasonable alternative means for 
+performance not prevented by the Force Majeure.  
+  
+ 
+14  Termination for Insolvency  
+GGGNB may at any time terminate the Contract by giving written notice 
+to the Service Provider, if the Service Provider becomes bankrupt or 
+otherwise insolvent. In this event, termination will be without 
+compensation to the Service Provider, provided that such termination will 
+not prejudice or affect any right of action or remedy, which has accrued 
+or will accrue thereafter to GGGNB.  
+  
+15  Resolution of Disputes  
+The matter regarding any dispute shall first be sorted out at the level of 
+GGGNB, Gandhinagar, Gujarat.  If the dispute persists to remain 
+unresolved then it will be entertained, heard & finalized as per the 
+provisions of the Arbitration and Conciliation Act, 1996.   
+ 
+16  Taxes and Duties  
+The rates quoted shall be in Indian Rupees and shall be inclusive of all 
+taxes.    
+  
+17  Binding Clause  
+All decisions taken by GGGNB regarding the processing of this tender and 
+award of contract shall be final and binding on all parties concerned.  
+  
+18  Manpower Support:  
+1) The service provider will be bound to supply Support Manpower 
+with good antecedents as specified in the Manpower deployment 
+Plan.  
+  
+2) All salaries and statutory benefits will have to be borne by the 
+service provider & no payments will be made by these offices.  
+  
+3) In case of absence of any of his employee, the service provider 
+should provide alternative person the next day.  
+  
+4) The service provider should ensure that the behaviour of manpower 
+is decent. The service provider will be held responsible for indecent 
+behaviour of manpower, & such employees should be immediately 
+replaced when such matter is reported.  
+  
+
+
+Page | 23  
+ 
+5) All statutory obligations of the service provider towards his 
+employees shall be fulfilled by him and GGGNB shall not be 
+responsible for any such obligations.  
+  
+19    GGGNB, Gandhinagar, reserves the right:-  
+To vary, modify, revise, amend or change any of the terms and 
+conditions mentioned above; or   
+To reject any or all the tender/s without assigning any reason 
+whatsoever thereof or may terminate the tender process midway 
+without assigning any reason.    
+  
+20. The decision regarding acceptance of tender by GGGNB will be full 
+and final.  
+21. Conditional tenders shall be summarily rejected.  
+22. GGGNB is free to phase out the work if it feels it necessary.  
+23. Completion Period: The successful bidder shall complete the entire 
+scope of work under this tender within a period of 90 (Ninety days) 
+from the date of issuance of the GeM Contract/Work Order or Letter 
+of Acceptance (LoA), whichever is earlier. The bidder shall submit a 
+detailed work schedule and milestones within 7 days of award of the 
+contract. 
+ 
+ 
+ 
+SECTION 4: SPECIAL CONDITIONS OF CONTRACT  
+  
+1 Service Provider’s Integrity  
+The Service Provider is responsible for and obliged to conduct all 
+contracted activities as defined in the scope of work in accordance with 
+the Contract.  
+   
+2 Service Provider’s Obligations  
+1) The Service Provider is obliged to work closely with GGGNB’s staff, 
+act within its own authority and abide by directives issued by 
+GGGNB.  
+2) The Service Provider will abide by the job safety measures prevalent 
+in India and will free GGGNB from all demands or responsibilities 
+arising from accidents or loss of life the cause of which is the Service 
+Provider’s negligence. The Service Provider will pay all indemnities 
+arising from such incidents and will not hold GGGNB responsible 
+or obligated.  
+3) The Service Provider is responsible for managing the activities of its 
+personnel and will hold itself responsible for any misdemeanour.  
+4) The Service Provider will treat as confidential all Data and 
+information about GGGNB, obtained in the execution of his 
+responsibilities, in strict confidence and will not reveal such 
+information to any other party without the prior written approval of 
+GGGNB.   
+  
+
+
+Page | 24  
+ 
+3 Hardware Installation  
+The Service Provider is responsible for all deliveries, unpacking, 
+assemblies, wiring, installation, cabling between hardware units and 
+connecting to power supplies. The Service Provider will test all 
+hardware operation and accomplish all adjustments necessary for 
+successful and continuous operation for execution of contract at all 
+installation sites.  
+  
+4  Inspections – GGGNB will do the technical inspections as required. 
+Vendor will provide all assistance to GGGNB staff to enable periodic 
+technical/administrative/operational verification of the system.  
+
+
+Page | 25  
+ 
+SECTION 5:  SCOPE OF WORK  
+ 
+It will be the responsibility of the agency: -  
+1) To work at the Gujarat Gram Gruh Nirman Board, Opp. Bij Nigam, 
+Sector 10A, Sector 10, Gandhinagar, Gujarat. The successful bidder 
+shall work during office hrs.  
+2) The successful bidder shall be required to execute a Non-Disclosure 
+Agreement (NDA) with the Department prior to commencement of the 
+work. 
+3) Bring all the requisite Hardware/software and peripherals as may be 
+required for the execution of digitisation and scanning of records to 
+meet the desired service standards.   
+4) Service Provider shall do the pagination of each file/documents 
+before starting scanning. It shall be part of scanning work. No extra 
+charge for the same will be given to the service provider.  
+5) Unbinding of bounded volumes will not be permitted as far as 
+possible and the successful bidder has to take the prior permission 
+of the GGGNB before unbinding of bounded volumes. Also, automatic 
+page flipping machines and scanning by digital mobile cameras will 
+not be allowed.  
+6) Service Provider will have to Scan the Documents in min. resolution 
+of 400 dpi and submit the same in SSD along with the retrieval 
+software. They have to submit indexed print out of the files scanned. 
+In future there may be decided to upload the document images on 
+the web, so the successful bidder has to work considering the same.  
+7) All the scanning will be done in true 400 DPI resolution, where 
+readability is poor the vendor should be prepared to go for 600 dpi 
+or even higher resolution. If it will be incorrectly scanned or not 
+readable (different than actual document clarity) than it may attract 
+penalty as per penalty clause, further service provider has to rescan 
+all such documents. 
+8) The Service Provider has to hand over the documents to the 
+concerned officer in a batch and they will cross-check this 
+information and will prepare a list containing discrepancies, if any.  
+9) The Service Provider will scan all the documents and will carry out 
+Quality Checks in order to ensure that the scanning quality is good 
+and the pages are perfectly scanned.  
+10) As all the pages of the document are stapled or tied, the Service 
+Provider will not be allowed to unstapled/untie for the purpose of 
+scanning.  
+11) Scanned images (preferably in .jpg, .gif, .tif format) of these 
+documents will have to be converted into PDF files.  
+12) The PDF files of the scanned documents shall be stored in the 
+database and copied onto a USB SSD. The corresponding data files 
+related to these documents shall also be stored on the same USB 
+SSD on which the document files are maintained. Further, the USB 
+SSD shall contain the runtime version of the software to enable quick 
+search, viewing, and printing of both the database records and the 
+associated PDF files. 
+
+
+Page | 26  
+ 
+13) The 
+Service 
+Provider 
+(SP) 
+shall 
+create 
+and 
+maintain 
+the 
+database/index for the scanned documents to enable efficient 
+searching and retrieval of specific scanned documents through the 
+search engine. The scanned documents shall also be uploaded to the 
+website; accordingly, the database/index shall be designed and 
+prepared to support such integration and access requirements. 
+Further, the data entry software for the scanned documents shall be 
+developed in consultation with the GGGNB office.  
+14) Indexing and Retrieval: The successful bidder shall be responsible 
+for providing comprehensive indexing of all scanned documents. 
+Each scanned documents must be indexed using its unique number 
+as the primary indexing field to facilitate efficient retrieval and 
+searchability of records. The bidder must ensure that the retrieval 
+software should supports easy and accurate retrieval of documents 
+using the Number. 
+15) The software should be capable of quick search, retrieval, viewing 
+and printing of the Database and PDF files as well as physical 
+location, Class no. of the file. The Retrieval software should be 
+capable of searching within image-PDF files (searchable PDF Files). 
+All rights of the software will be reserved with GGGNB.  
+16) SP should be responsible for Data entry of tentatively below 
+mentioned fields or other fields as may be identified and provided by 
+the GGGNB office. Below mentioned list is a tentative list and the 
+service provider has to add other fields as may be identified and 
+provided by the GGGNB office without any extra cost.  
+ 
+Record Tracking 
+ 
+No 
+BRANCH NAME 
+FIELD NAME 
+AVERAGE NUMBER 
+OF CHARECTERS 
+FOR FIELD 
+(APPEOX) 
+1 
+ESTABLISHMENT  
+BRANCH 
+Gujarat Rural Housing Board Act, Rules, 
+Resolutions, Powers delegated to officers, 
+RTI-2005, 
+Board 
+Manual, 
+Service 
+Classification and Recruitment Regulations 
+booklets. 
+148 
+Board Resolution & Implication 
+29 
+Staff File / Retirement file 
+23 
+Department Inquiry  
+17 
+Higher grade pay 
+14 
+About Deputation 
+15 
+Application to departments  
+24 
+Confidential report file 
+22 
+Court case 
+09 
+2 
+Project Branch 
+Name of Branch 
+06 
+Name of village 
+13 
+Name of Taluka 
+15 
+Name of District 
+15 
+Survey No 
+10 
+Society Name 
+60 
+
+
+Page | 27  
+ 
+Subject of File 
+100 
+3 
+Estate Branch 
+Name of Branch 
+06 
+Name of village 
+20 
+Name of Taluka 
+20 
+Name of District 
+15 
+Society Name 
+50 
+House Number 
+03 
+Ledger Number 
+07 
+Name of Original Beneficiary 
+30 
+Name of Beneficiary in whose favour house is 
+Transfer 
+30 
+Name of Beneficiary in whose favour Varsai is 
+done 
+30 
+Date of Milkat Falavani Committee Meeting 
+10 
+Taba Pavati 
+30 
+Date of Order of transfer / Varsai/ /Dastavej
+10 
+Type of Scheme 
+06 
+ 
+4 
+Account Branch 
+Budget 
+30 
+Audit Report 
+30 
+Cash Book 
+20 
+Audit Register 
+20 
+Cheque Register 
+20 
+Bank Reconciliation Register  
+20 
+DD Register  
+20 
+Grant Register 
+20 
+Bill Register 
+20 
+Voucher File 
+20 
+5 
+Planning Branch, 
+Sub 
+Division 
+- 
+Vadodra, Rajkot 
+and Gandhinagar  
+Name of Branch 
+30 
+Name of village 
+30 
+Name of Taluka 
+30 
+Name of District 
+30 
+Survey No 
+20 
+Society Name 
+100 
+Subject of File 
+100 
+ 
+ 
+17) The Created PDF file should be searchable using the above 
+mentioned fields.  
+18) All the documents are very important. The Documents may have 
+different size. Proper care should also be taken while scanning for 
+every document. The successful bidder has to provide security 
+measures while storing in SSD hard drive that no one can change 
+the content of the documents.  
+19) The Documents are very old and acidic. Some papers may be brittle 
+and fragile. So additional care should also be taken to handle while 
+the process of scanning.  
+20) Total Approximate Pages Volume of all the GGGNB offices is 
+18,00,088 (Page Size A1, A2, A3, A4 and Legal). The volume will be 
+increased/decreased by 25%. 25% may be higher or lower Condition 
+to the effect that payment shall be for actual volume irrespective of 
+25% increase or decrease of the estimated quantum of the work 
+stated in the tender document.  
+
+
+Page | 28  
+ 
+ 
+21) The Successful Bidder shall be required to undertake the scanning 
+and digitization of records at the Gujarat Gram Gruh Nirman Board 
+Office Located at Gandhinagar. 
+22) On-Site Execution: All scanning and digitization work must be 
+carried out on-site. The movement of physical documents outside the 
+designated locations is strictly prohibited. 
+23) The successful bidder has to ensure timely deployment of resources 
+and completion of scanning and digitization work within the project 
+timelines specified in this document. 
+24) Data Submission to GGGNB, Gandhinagar: The bidder shall also 
+provide two (2 SSDs to the Gujarat Gram Gruh Nirman Board 
+(GGGNB), Gandhinagar, each containing the complete combined 
+Data of all digitized record of GGGNB. These SSDs must also include 
+the retrieval/search software with full functionality for accessing 
+digitised record easily. 
+25) The documents/pages have to be scanned/digitized by the 
+successful bidder using the OCR (Optical Character Recognition) 
+method. 
+26) The successful bidder under this bid has to create the 
+Database/index for the scanned documents so that search engine 
+could handle the search of particular scanned document.  
+27) The Data entry software for scanned document should be prepared 
+in consultation with the GGGNB office.  
+28) The software should be capable of quick search, retrieval, viewing 
+and printing of the Database and PDF files as well as physical 
+location, Class no. of the file. The Retrieval software should be 
+capable of searching within image-PDF files (searchable PDF Files). 
+All rights of the software will be reserved with GGGNB.  
+29) The retrieval software developed and provided by the successful 
+bidder under this bid should be capable to execute/run with the 
+latest hardware and operating systems software. 
+30) Retrieval software should be capable to be integrated with the other 
+software as and when required. Department will provide API to 
+integrate with additional software, however the software should have 
+capability to integrate with other applications. 
+31) Retrieval software should be capable to be upgraded to the latest 
+software version/technology. In case of customized software bidder 
+has to provide customized source code to the department. 
+32) After development of the retrieval software, the successful bidder has 
+to demonstrate software features to the office of the GGGNB, 
+Gandhinagar and bidder shall have to modify the software as per 
+requirements of the office of the GGGNB, Gandhinagar. After carry 
+out necessary changes proposed by the office of the GGGNB and 
+confirmed by the office of the GGGNB the successful bidder shall 
+operationalize the said retrieval software. 
+  
+*Note: Considering the Confidentiality of records/papers, entire projects 
+need to be executed at the GGGNB office and during working hours 
+only. In case, work after working hours/ on public holiday, 
+
+
+Page | 29  
+ 
+successful bidder is required to take prior permission of the 
+Authority. Successful bidder is required to depute the scanning 
+machine with necessary resource at GGGNB office and for the 
+same, GGGNB will provide the sufficient space and electricity. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION 6: FINANCIAL BID  
+ 
+Sr. 
+No.  
+Size of 
+Page  
+Total 
+Volume/pages to 
+be covered under 
+this project  
+Rates per page 
+including 
+pagination work 
+Total 
+(Rs.)  
+ 
+Total 
+Cost with 
+tax (Rs.)  
+ 
+ 
+A 
+B 
+C=(AxB) 
+D 
+1 
+A1 
+45,500 
+ 
+ 
+ 
+2 
+A2 
+41,450 
+ 
+ 
+ 
+3 
+A3 
+3,05,778 
+ 
+ 
+ 
+4 
+A4 
+14,00,360 
+ 
+ 
+ 
+5 
+LEGAL 
+7,000 
+ 
+ 
+ 
+Grand total with tax 
+ 
+ 
+Note:  
+ Price quoted should be inclusive of all taxes. 
+ The  grand total with tax of items no. 1  to 5 above will  be considered for final 
+evaluation. 
+ The cost of the above parts should be matched with the breakup of each components 
+mentioned above. GIL/GGGNB will disqualify the bidder and not issue a work order if 
+the price break up is not matched with each component. 
+ The  bidder  has  to  provide  a  detailed  BoM  defining  each  and  every  line  item,  sub 
+components along with its pricing quoted separately, if required. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page | 30  
+ 
+ 
+SECTION 7 - Work Specifications  
+ 
+The following will be the broad specifications of the work to be done.  
+ 
+I. Role of the Government Department/GGGNB  
+1. The GGGNB will provide space for the project work at its offices as 
+specified in the scope of work.   
+2. The GGGNB will carry out random checking of the scanned 
+documents and the Data-base so as to ensure accuracy.  
+3. In order to ensure that the documents are safe and do not go in any 
+unauthorized hands, the GGGNB will depute its supervisor(s) at the 
+site of scanning/Data entry.  
+4. At the end of the process, the GGGNB will receive the documents, 
+scanned documents in USB SSD drives (2 copies) and indexed 
+printout  
+  
+II. Role of the Service Provider (SP)  
+1. 
+Arranging necessary computing, scanning and printing hardware 
+and standby power supply equipment (like Generators and UPS, if 
+required).  
+2. 
+Arranging the necessary furniture and storage devices at the site.  
+3. 
+Receive the documents along-with covering lists from GGGNB. The 
+Service Provider will have to maintain Registers for receiving the 
+documents and subsequent dispatch/handing over to the 
+Authorized Officers of the GGGNB.  
+4. 
+The Service Provider must ensure that the documents are not 
+damaged/mutilated/defaced/altered 
+in 
+any 
+manner. 
+The 
+scanning equipment will be of such quality so that they do not 
+damage the documents in any manner.  
+5. 
+Feeding the covering list into the computer and checking the 
+documents for discrepancy, if any, between the documents and its 
+covering list provided by the GGGNB.  
+6. 
+Scanning the documents and putting them in the same batches 
+together as they were received along-with the covering list 
+indicating discrepancies, if any. Un-stapling the documents will 
+not be allowed. 
+7. 
+Printing a check list of the Data relating to documents so as to 
+ensure 100 percent accuracy of the Data base. It is to be 
+remembered that the Data base will be checked randomly by the 
+Department/GGGNB and any error found will be penalized @ 
+Rs.10 per page. In addition to the above, the Service Provider will 
+have to rectify the errors by incorporating them in printed copies 
+in the concerned Registers and by writing to the USB SSD with 
+correct entries.  
+8. 
+Converting the scanned images into PDF file (one PDF file per 
+document/file). Each page of the PDF file will have document no., 
+subject, year and page number.  
+
+
+Page | 31  
+ 
+9. 
+Writing in the USB SSD and printing the documents and check 
+lists, binding them and finally delivering them to the GGGNB.  
+10. The Service Provider will have to ensure that the entire work of 
+scanning, Data entry (if any) is done at the GGGNB office and that 
+no documents are taken out of the site at any time.  
+11. In order to ensure that there are no missing or duplicate records 
+and/or scanned images, the Service Provider should develop 
+appropriate software to check against this.  
+12. Quality control of the scanning work will be an important aspect 
+and the Service Provider will employ sufficient personnel to ensure 
+good quality of output.   
+13. As the said work is very confidential and involves high 
+responsibility, the Service Provider is solely responsible for its 
+security and confidentiality.   
+14. For the said work, Govt. will provide the space. No rent will be 
+charged for the use of space.  Rates should be quoted taking this 
+factor into account.  
+15. The scanning work should commence within 7 days from the Date 
+of receipt of GeM Contract.  
+16. Contract period of 180 Days from Date of issue of work order. It 
+will be considered from the day when necessary records are 
+provided by GGGNB. In case, the grant not allocated or insufficient 
+grant or any other reason or poor performance of the agency, 
+GGGNB has rights to discontinue the work. 
+17. The bidder should move all his equipment into the premises 
+provided for the job and undertake the work at the said premises. 
+The documents/Data shall not be moved out of these premises.  
+18. All the documents are very important. The Documents may have 
+different size. Proper care should also be taken while scanning for 
+every document. 
+19. The Documents are approx.. 20-25 years old and acidic. Some 
+papers may be brittle and fragile. So additional care should also 
+be taken to handle while the process of scanning.  
+20. The agency shall submit a detailed execution plan to the Gujarat 
+Gram Gruh Nirman Board, Gandhinagar for approval prior to 
+commencement of the work. 
+  
+Other Conditions:  
+a) Authentication of the said work shall be done by the authorized 
+person in GGGNB.   
+b) Documents scanned to be periodically subject to checks for 
+verification of the quality scanning and digitisation of documents.  
+c) The bidder can have a look at the documents in GGGNB Office 
+before submission of their bid, if they feels it is required.  
+d) The staff of the GGGNB will only hand over documents to the 
+bidder. All processing like making documents dust free, unpinning, 
+pinning, pagination etc. will be done by the bidder. The GGGNB 
+staff will provide documents which will be tied in batches.  
+e) If the bidder fails to execute the contract, the Security Deposit of 
+the bidder will be forfeited and contract will be executed at the cost 
+
+
+Page | 32  
+ 
+of and risks of such bidder or the offer of the next lowest evaluated 
+bidder may be accepted and in such case if the extra amount other 
+than the amount of first lowest tender is required to be paid, such 
+extra amount will be recovered from the defaulting bidder.  
+f) The bidder shall use only licensed and authentic Software.  
+g) Any material necessary for the said work will not be supplied by 
+these offices.  
+h) Any foreign material required for the said work shall be obtained at 
+the own risk and responsibility of the bidder.  No help or extra 
+charges will be made for this.  
+i) The Bidder shall remove all his equipment’s and vacate the space 
+within 15 days from the completion of the said work.  If the Bidder 
+fails to do so, the rent as prescribed by R&B Dept will be charged 
+and will be recovered by deducting from the amount due to the 
+bidder.  
+j) Bidder shall be held personally responsible for any type of 
+destruction/ mishandling of the documents, since the documents 
+are originals.  
+k) In case of failure of electric power supply, alternative arrangements 
+of generator etc. shall be made by the bidder on his own and at his 
+own cost.  No assistance in this matter will be given by these offices.  
+l) For the said work if extra electric points are required, the bidder 
+shall, fit such points on his own and shall remove them as soon as 
+the said work is completed.  
+m) The compensation against the damages if any to the electrical 
+equipment’s and other immovable material / equipment’s in the 
+room allotted are found, shall be recovered from the amount due to 
+the bidder.  
+n) Since the documents are of important nature, the bidder on 
+awarding of the work will have to give a written undertaking that 
+the documents shall be restored in the original position.   
+o) Bidder shall submit the details along with photo identity, of all his 
+/ her employees who shall be working on this job and shall make 
+sure that all the employees wear a photo identity card all the time 
+in the work premises.  
+p) The tendering authority takes no responsibility for delay, lost or 
+non-receipt 
+of 
+tender 
+document 
+sent 
+by 
+bidder 
+through 
+post/courier.  
+q) Telex/telegraphic/fax/Xerox/physical bids will not be accepted.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page | 33  
+ 
+SECTION 8: BID FORM  
+ 
+To,  
+DGM (Tech.) 
+Gujarat Informatics Limited 
+Block No. 2, 2nd Floor, Karmayogi Bhavan,  
+C & D Wing, Sector - 10, Gandhinagar – 382010. 
+   
+Dear Sir,  
+  
+Having examined the Bidding Documents including Addenda Nos. __________ 
+(insert numbers, if any), the receipt of which is hereby duly acknowledged, we, 
+the undersigned, offer to render “Tender for Selection of Agency for Scanning 
+and digitization of records (Document Image) on behalf of Gujarat Gram Gruh 
+Nirman Board (GGGNB), Gandhinagar” in conformity with the said bidding 
+documents for the same as per the technical and financial bid and such other 
+sums as may be ascertained in accordance with the Financial Bid attached 
+herewith and made part of this bid. We have not placed any condition for the 
+bid on our part and agree to bind ourselves to the terms and conditions of this 
+tender unconditionally. Any conditions placed by us elsewhere in the present 
+bid are hereby withdrawn unconditionally.   
+  
+We undertake, if our bid is accepted, to render the services in accordance with 
+the delivery schedule which will be specified in the contract document that we 
+will sign if the work order given to us.  
+  
+If our bid is accepted, we will obtain the guarantee of a bank for the sum 
+indicated as per tender document for the due performance of the Contract, in 
+the form prescribed by GGGNB.  
+  
+We agree to abide by this bid for a period of 180 (One hundred and eighty only) 
+days after the Date fixed for bid opening of the Instruction to Bidders and it 
+shall remain binding upon us and may be accepted at any time before the 
+expiration of that period.  
+  
+Until a formal contract is prepared and executed, this bid, together with your 
+written acceptance thereof and your notification of award shall constitute a 
+binding Contract between us.  
+  
+Name: _____________________________________________________________________ 
+Address: _____________________________________________________________  
+We understand that you are not bound to accept the lowest or any bid you 
+may receive.  
+Dated this __________ day of______  2026  
+Signature  
+(in the capacity of)  
+  
+Duly authorized to sign Bid for and on behalf of_____________________________.  
+Date:
+           
+ 
+
+
+Page | 34  
+ 
+SECTION 9: FORMAT OF EARNEST MONEY DEPOSIT IN 
+FORM OF BANK GUARANTEE  
+  
+Ref:    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Bank Guarantee No.  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Date:  
+To,  
+DGM (Tech.) 
+Gujarat Informatics Limited 
+Block No. 2, 2nd Floor, Karmayogi Bhavan,  
+C & D Wing, Sector - 10, Gandhinagar – 382010.  
+  
+Whereas ------------------------------------------------------------ (here in after called 
+"the Bidder") has submitted its bid Dated ---------------- in response to the GeM 
+Bid no: ……………………. Dated ……………… for RFP for “Tender for Selection 
+of Agency for Scanning and digitization of records (Document Image) on behalf 
+of Gujarat Gram Gruh Niraman Board  (GGGNB), Gandhinagar” KNOW ALL 
+MEN by these presents that WE -------------------------------------------------------
+-------- ------------------------------------------------- having our registered office at 
+------------ ----------------------- --------------------------- (hereinafter called "the 
+Bank") are bound unto the ______________, Gujarat Gram Gruh Nirman Board, 
+Gandhinagar in the sum of ---------------------- for which payment well and 
+truly to be made to Gujarat Gram Gruh Nirman Board, Gandhinagar, the Bank 
+binds itself, its successors and assigns by these presents. Sealed with the 
+Common Seal of the said Bank this --------------day of ---------------------- ----
+2026.  
+  
+THE CONDITIONS of this obligation are:  
+1. The E.M.D. may be forfeited:  
+  
+  
+a. if a Bidder withdraws its bid during the period of bid validity   
+b. Does not accept the correction of errors made in the tender 
+document;   
+c. In case of a successful Bidder, if the Bidder fails:  
+  
+ 
+ 
+  
+(i) To sign the Contract as mentioned above within the time limit 
+stipulated by purchaser or   
+(ii) To furnish performance bank guarantee as mentioned above 
+or  
+(iii) If the bidder is found to be involved in fraudulent practices.  
+(iv)If the bidder fails to submit the copy of purchase order & 
+acceptance thereof.  
+  
+We undertake to pay to the GGGNB/Purchaser up to the above amount upon 
+receipt of its first written demand, without GGGNB/Purchaser having to 
+substantiate its demand, provided that in its demand GGGNB/Purchaser will 
+specify that the amount claimed by it is due to it owing to the occurrence of 
+any of the above-mentioned conditions, specifying the occurred condition or 
+conditions.   
+
+
+Page | 35  
+ 
+  
+This guarantee will remain valid up to 12 months from the last Date of bid 
+submission. The Bank undertakes not to revoke this guarantee during its 
+currency without previous consent of the OWNER/PURCHASER and further 
+agrees that the guarantee herein contained shall continue to be enforceable 
+till the OWNER/PURCHASER discharges this guarantee  
+  
+The Bank shall not be released of its obligations under these presents by any 
+exercise by the OWNER/PURCHAER of its liability with reference to the 
+matters aforesaid or any of them or by reason or any other acts of omission or 
+commission on the part of the OWNER/PURCHASER or any other indulgence 
+shown by the OWNER/PURCHASER or by any other matter or things.  
+  
+The Bank also agree that the OWNER/PUCHASER at its option shall be 
+entitled to enforce this Guarantee against the Bank as a Principal Debtor, in 
+the first instance without proceeding against the SELLER and not 
+withstanding any security or other guarantee that the OWNER/PURCHASER 
+may have in relation to the SELLER’s liabilities.  
+  
+Dated at _______________ on this _________ day of ___________2026.  
+  
+____________________  
+  
+Signed and delivered by  
+_____________________  
+  
+ For & on Behalf of   
+  
+   
+Name of the Bank & Branch &  
+Its official Address  
+  
+  
+  
+  
+  
+  
+Approved Bank: Any Nationalized Bank including the public sector bank or 
+Private Sector Banks or Commercial Banks or Co-Operative Banks and Rural 
+Banks (operating in India having branch at Ahmedabad/ Gandhinagar) as per 
+the G.R. no. FD/MSM/e-file/4/2025/2712/DMO Dated 01.04.2026 issued by 
+Finance Department or further instruction issued by Finance department time 
+to time.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page | 36  
+ 
+ 
+SECTION 10: PERFORMANCE BANK GUARANTEE 
+Performa of Contract-cum-Equipment  
+ 
+(To be stamped in accordance with Stamp Act) 
+Ref:    
+  
+  
+  
+  
+  
+  
+                                                             
+Bank Guarantee No.  
+  
+  
+  
+  
+  
+  
+  
+  
+                                                             
+Date:  
+  
+To  
+Name & Address of the Purchaser/Indenter  
+____________________________  
+  
+____________________________  
+  
+Dear Sir,  
+  
+In consideration of <<Name & Address of the Purchaser/Indenter, 
+Government of Gujarat, Gandhinagar>> (hereinafter referred to as the 
+OWNER/PURCHASER which expression shall unless repugnant to the context 
+or meaning thereof include successors, administrators and assigns) having 
+awarded 
+to 
+M/s 
+…………….…………………………………………………………
+ having  
+Principal  
+Office  
+at 
+…………………………………………………  
+(hereinafter referred to as the “SELLER” which expression shall unless 
+repugnant to the context or meaning thereof include their respective 
+successors, 
+administrators, 
+executors 
+and 
+assigns) 
+the 
+supply 
+of 
+____________________by issue of Purchase Order No………………. Dated ………… 
+issued by Gujarat Gram Gruh Nirman Board, Gandhinagar for and on behalf 
+of the OWNER/PURCHASER and the same having been accepted by the 
+SELLER resulting into CONTRACT for  supplies of materials/equipment’s as 
+mentioned in the said purchase order and the SELLER having agreed to provide 
+a Contract Performance and Warranty Guarantee for faithful performance of 
+the aforementioned  
+contract  
+and  warranty  
+quality  
+to  
+the 
+ OWNER/PURCHASER, __________________________________having Head Office 
+at (hereinafter referred to as the ‘Bank’ which expressly shall, unless repugnant 
+to the context or meaning thereof include successors, administrators, 
+executors and assigns) do hereby guarantee to undertake to pay the sum of 
+Rs._______________(Rupees________________________) 
+to 
+the 
+OWNER/ 
+PURCHASER on demand at any time up to________________ without a reference 
+to the SELLER.  Any such demand made by the OWNER/PURCHASER on the 
+Bank shall be conclusive and binding notwithstanding any difference between 
+Tribunals, Arbitrator or any other authority.  
+  
+The Bank undertakes not to revoke this guarantee during its currency without 
+previous consent of the OWNER/PURCHASER and further agrees that the 
+guarantee herein contained shall continue to be enforceable till the 
+OWNER/PURCHASER discharges this guarantee.  OWNER/PURCHASER 
+shall have the fullest liberty without affecting in any way the liability of the 
+
+
+Page | 37  
+ 
+Bank under this guarantee from time to time to extend the time for 
+performance by the SELLER of the aforementioned CONTRACT.  The OWNER/ 
+PURCHASER shall have the fullest liberty, without affecting this guarantee, to 
+postpone from time to time the exercise of any powers vested in them or of any 
+right which they might have against the SELLER, and to exercise the same at 
+any time in any manner, and either to enforce to forebear to enforce any 
+covenants contained or implied, in the aforementioned CONTRACT between 
+the OWNER/PURCHASER and the SELLER or any other course of or remedy 
+or security available to the OWNER/PURCHASER.  
+  
+The Bank shall not be released of its obligations under these presents by any 
+exercise by the OWNER/PURCHAER of its liability with reference to the 
+matters aforesaid or any of them or by reason or any other acts of omission or 
+commission on the part of the OWNER/PURCHASER or any other indulgence 
+shown by the OWNER/PURCHASER or by any other matter or things.  
+  
+The Bank also agree that the OWNER/PUCHASER at its option shall be 
+entitled to enforce this Guarantee against the Bank as a Principal Debtor, in 
+the first instance without proceeding against the SELLER and not 
+withstanding any security or other guarantee that the OWNER/PURCHASER 
+may have in relation to the SELLER’s liabilities.  
+  
+Notwithstanding anything contained herein above our liability under this 
+Guarantee 
+is 
+restricted 
+to 
+Rs. 
+_________________ 
+(Rupees 
+_________________________) and it shall remain in force up to and including 
+________________ and shall be extended from time to time for such period as 
+may be desired by the SELLER on whose behalf this guarantee has been given.  
+  
+Dated at _______________ on this _________ day of ___________2026  
+  
+_____________________  
+Signed and delivered by  
+  
+_____________________  
+    
+For & on Behalf of   
+  
+  
+Name of the Bank & Branch &  
+Its official Address  
+  
+  
+  
+  
+  
+  
+List of approved Banks  
+  
+Approved Bank: All Nationalized Bank including the public sector bank or 
+Private Sector Banks or Commercial Banks or Co-Operative & Rural 
+Banks (operating in India having branch at Ahmedabad/ Gandhinagar) as 
+per the G.R. no. FD/MSM/e-file/4/2025/2712/DMO Dated 01.04.2026 
+issued by Finance Department or further instruction issued by Finance 
+department time to time   
+
+
+Page | 38  
+ 
+SECTION 11:  
+(TO BE SUBMITTED PHYSICALLY ALONG WITH EMD)  
+  
+AFFIDAVIT  
+  
+(To be submitted IN ORIGINAL on Non-Judicial Stamp Paper of Rs.300/- 
+duly attested by First Class Magistrate/ Notary public)  
+I/We,___________________________, 
+age______years 
+residing 
+at 
+______________________ 
+in 
+capacity 
+of 
+_______________________M/s. 
+___________________________________ hereby solemnly affirm that  
+  
+All General Instructions, General Terms and Conditions, as well as Special 
+Terms & Conditions laid down on all the pages of the Tender Form, have been 
+read carefully and understood properly by me which are completely acceptable 
+to me and I agree to abide by the same.  
+  
+We have submitted following Certificates / Documents for T.E. as required as 
+per General Terms & Conditions as well as Special Terms & Conditions of the 
+tender  
+Sr. No.  Name of the Document  
+1  
+  
+2  
+  
+  
+All the Certificates / Permissions / Documents / Permits / Affidavits are valid 
+and current as on Date and have not been withdrawn/ cancelled by the issuing 
+authority.  
+  
+It is clearly and distinctly understood by me that the tender is liable to be 
+rejected if on scrutiny at any time, any of the required Certificates / 
+Permissions / Documents / Permits / Affidavits is / are found to be invalid / 
+wrong / incorrect / misleading / fabricated / expired or having any defect.  
+  
+I/We further undertake to produce on demand the original Certificate / 
+Permission / Documents / Permits for verification at any stage during the 
+processing of the tender as well as at any time asked to produce.  
+  
+I/We also understand that failure to produce the documents in "Prescribed 
+Performa" (wherever applicable) as well as failure to give requisite information 
+in the prescribed Performa may result in to rejection of the tender.  
+  
+My/Our firm has not been banned / debarred / black listed at least for three 
+years (excluding the current financial year) by any Government Department / 
+State Government / Government of India / Board /Corporation / Government 
+Financial Institution in context to purchase procedure through tender.  
+  
+I/We confirm that I / We have meticulously filled in, checked and verified the 
+enclosed documents / certificates / permissions / permits/ affidavits / 
+information etc. from every aspect and the same are enclosed in order (i.e. in 
+chronology) in which they are supposed to be enclosed. Page numbers are 
+
+
+Page | 39  
+ 
+given on each submitted document. Important information in each document 
+is "highlighted" with the help of "marker pen" as required.  
+  
+The above certificates/ documents are enclosed separately and not on the 
+Proforma printed from tender document.  
+  
+I/We say  and  submit  that  the  Permanent  Account  Number  (PAN)  given  
+by  the  Income  Tax  Department  is ____________________, which  is  issued  
+on  the  name  of ___________________________ [Kindly mention here either name 
+of the Proprietor (in case of Proprietor Firm) or name of the tendering firm, 
+whichever is applicable].  
+  
+I/We understand that giving wrong information on oath amounts to forgery 
+and perjury, and I/We am/are aware of the consequences thereof, In case any 
+information provided by us are found to be false or incorrect, you have right 
+to reject our bid at any stage including forfeiture of our EMD/PBG/cancel the 
+award of contract. In this event, this office reserves the right to take legal 
+action on me/us.  
+  
+I/We have physically signed &stamped all the above documents along with 
+copy of tender documents (page no. ---- to -- ).  
+  
+I/We hereby confirm that all our quoted items meet or exceed the requirement 
+and are absolutely compliment with specification mentioned in the bid 
+document.  
+  
+My/Our Company has not filed any Writ Petition, Court matter and there is 
+no court matter filed by State Government and its Board Corporation, is 
+pending against our company.  
+  
+I/We hereby commit that we have paid all outstanding amounts of dues/ 
+taxes/ cess/ charges/ fees with interest and penalty.  
+  
+In case of breach of any tender terms and conditions or deviation from bid 
+specification other than already specified as mentioned above, the decision of 
+Tender Committee for disqualification will be accepted by us.  
+  
+Whatever stated above is true and correct to the best of my knowledge and 
+belief.  
+  
+Date:   
+  
+  
+  
+  
+  
+  
+Stamp & Sign of the Tenderer  
+  
+Place:                                                               (Signature and seal of the 
+Notary)  
+  
+ 
+ 
+ 
+
+
+Page | 40  
+ 
+SECTION 12: Particulars of the Bidder’s Organization  
+ 
+Sr.  
+No.  
+Particulars  
+Details  
+Basic information of Organization  
+ 
+I.  
+Name of firm  
+  
+II.  
+Address of the corporate headquarters with Name, 
+Address, telephone no., contact person, mobile no., 
+email ID  
+  
+III.  
+Date of incorporation  
+  
+IV.  
+PAN/TAN/Service Tax Details   
+  
+V.  
+List of current directors  
+  
+VI.  
+Other key management persons  
+  
+VII.  
+Key contact person/s for this project along  with  
+designation  and  contact details (Mobile no., email ID 
+etc.)  
+  
+  
+Note: Above details are mandatory, Bidder may use additional sheets for 
+above submissions.  
+  
+(Authorized Signatory)  
+  
+Name: __________________________  
+Designation & Authority: ___________  
+Place: ___________________________  
+Date: ___________________________  
+Stamp: __________________________  
+Company Name: __________________  
+Business Address: _________________  
+  
+Note: - Kindly attach necessary supporting documents  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 

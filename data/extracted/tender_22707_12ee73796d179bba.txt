@@ -1,0 +1,334 @@
+बड ववरण/Bid Details
+बड बंद होने क तारख/समय /Bid End Date/Time
+13-07-2026 15:00:00
+बड खुलने क तारख/समय /Bid Opening
+Date/Time
+13-07-2026 15:30:00
+बड पेशकश वैधता (बंद होने क तारख से)/Bid Offer
+Validity (From End Date)
+180 (Days)
+मं ालय/रा!य का नाम/Ministry/State Name
+Gujarat
+वभाग का नाम/Department Name
+Science And Technology Department Gujarat
+संगठन का नाम/Organisation Name
+Gujarat Informatics Limited (gil)
+काया%लय का नाम/Office Name
+Western Zone
+िशकायत िनवारण के संपक% ववरण/ Contact details of
+Grievance redressal
+HOD Email id : 
+Buyer Email id: buycon6.gilg.gj@gembuyer.in
+व'तु (ेणी /Item Category
+E-content Service Subscription Based Model - Journals,
+Books, Magazines, Websites; Websites; Yes
+अनुबंध अविध /Contract Period
+ 2 Year(s)
+एमएसएमई के िलए अनुभव के वष. और टन%ओवर से छूट 4दान
+क गई है/MSE Relaxation for Years of
+Experience and Turnover
+No
+'टाट%अप के िलए अनुभव के वष. और टन%ओवर से छूट 4दान
+क गई है /Startup Relaxation for Years of
+Experience and Turnover
+No
+व5ेता से मांगे गए द'तावेज़/Document required
+from seller
+Bidder Turnover,Certificate (Requested in ATC),Additional
+Doc 1 (Requested in ATC),Additional Doc 2 (Requested in
+ATC),Additional Doc 3 (Requested in ATC),Additional Doc 4
+(Requested in ATC)
+*In case any bidder is seeking exemption from Experience /
+Turnover Criteria, the supporting documents to prove his
+eligibility for exemption must be uploaded for evaluation by
+the buyer
+7या आप िनवदाकार9 :ारा अपलोड ;कए गए द'तावेज़9 को
+िनवदा म< भाग लेने वाले सभी िनवदाकार9 को ;दखाना
+चाहते ह>? संदभ% मेनू है/Do you want to show
+documents uploaded by bidders to all
+bidders participated in bid?
+Yes (Documents submitted as part of a clarification or
+representation during the tender/bid process will also be
+displayed to other participated bidders after log in)
+बड लगाने क समय सीमा 'वतः नहं बढ़ाने के िलए
+आवBयक बड क संCया। / Minimum number of
+bids required to disable automatic bid
+extension
+3
+ 
+बड संCया/Bid Number: GEM/2026/B/7581031
+;दनांक /Dated: 22-06-2026
+बड द'तावेज़ / Bid Document
+1 / 7
+
+
+;दन9 क संCया, Kजनके िलए बड लगाने क समय-सीमा
+बढ़ाई जाएगी। / Number of days for which Bid
+would be auto-extended
+7
+ऑटो ए7सट<शन अिधकतम ;कतनी बार ;कया जाना है। /
+Number of Auto Extension count
+1
+बड से Nरवस% नीलामी स;5य ;कया/Bid to RA enabled
+No
+बड का 4कार/Type of Bid
+Single Packet Bid
+तकनीक मूOयांकन के दौरान तकनीक 'पQीकरण हेतु
+अनुमत समय /Time allowed for Technical
+Clarifications during technical evaluation
+5 Days
+अनुमािनत िनवदा मूOय (सभी कर9 स;हत) भारतीय Rपये म<
+/ Estimated Bid Value in INR (Inclusive of all
+taxes)
+8400000
+मूOयांकन पSित/Evaluation Method
+Total value wise evaluation
+मTय'थता खंड/Arbitration Clause
+No
+सुलह खंड/Mediation Clause
+No
+बड ववरण/Bid Details
+ईएमड ववरण/EMD Detail
+एडवाईजर ब>क/Advisory Bank
+HDFC Bank
+ईएमड रािश/EMD Amount
+168000
+ईपीबीजी ववरण /ePBG Detail
+आवBयकता/Required
+No
+(a). जेम क शत. के अनुसार ईएमड छूट के इWछुक बडर को संबंिधत केटेगर के िलए बड के साथ वैध समिथ%त द'तावेज़ 4'तुत करने है। एमएसई
+केटेगर के अंतग%त केवल व'तुओं के िलए विनमा%ता तथा सेवाओं के िलए सेवा 4दाता ईएमड से छूट के पा  ह>। XयापाNरय9 को इस नीित के दायरे से
+बाहर रखा गया है।/EMD EXEMPTION: The bidder seeking EMD exemption, must submit the valid supporting document
+for the relevant category as per GeM GTC with the bid. Under MSE category, only manufacturers for goods and
+Service Providers for Services are eligible for exemption from EMD. Traders are excluded from the purview of this
+Policy.
+(b).ईएमड और संपादन जमानत रािश, जहां यह लागू होती है, लाभाथY के पZ म< होनी चा;हए। / EMD & Performance security should be
+in favour of Beneficiary, wherever it is applicable.
+(c).ईएमड और संपादन जमानत रािश लाभाथY के पZ म< होनी चा;हए। / Earnest Money Deposit (EMD) shall also be accepted by
+the buyer in the form of a surety bond. 
+लाभाथY /Beneficiary : 
+Payable at
+Gujarat Informatics Limited, Block No. 2, 2nd Floor, Karmayogi Bhavan, Gandhinagar (Gujarat Informatics
+Limited)
+2 / 7
+
+
+(Managing Director)
+बोली वभाजन लागू नहं ;कया गया/ Bid splitting not applied.
+एमआईआई अनुपालन/MII Compliance
+एमआईआई अनुपालन/MII Compliance
+Yes
+एमएसई खरद वरयता/MSE Purchase Preference
+एमएसई खरद वरयता/MSE Purchase Preference
+No
+1. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and
+for determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.
+This has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any
+impact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of
+quoted prices which would be determined by the buyer based on its own assessment of reasonableness and
+based on competitive prices received in Bid / RA process. 
+Pre Bid Detail(s)
+मूOय िभ[नता खंड द'तावेज़/Pre-Bid
+Date and Time
+4ी-बड 'थान/Pre-Bid Venue
+29-06-2026 16:00:00
+Committee Room, Block No. 2, 2nd Floor, C & D Wing, Karmayogi Bhavan
+Sector - 10 A, Gandhinagar - 382010 Gujarat.
+E-content Service Subscription Based Model - Journals, Books, Magazines, Websites;
+Websites; Yes ( 1 )
+तकनीक विशQयाँ /Technical Specifications
+ववरण/ Specification
+मूOय/ Values
+कोर / Core
+Content Sources
+Journals , Books , Magazines , Websites
+Platform Accessibility
+Websites
+Library/ User Customization Required
+Yes
+एडऑन /Addon(s)
+5ेता :ारा िनधा%Nरत [यूनतम मूOय/Minimum Floor Price defined by Buyer
+5ेता :ारा िनधा%Nरत [यूनतम मूOय/Minimum Floor Price
+defined by Buyer
+No
+अितNर] विशQ द'तावेज़ /Additional Specification Documents
+3 / 7
+
+
+परेषती/Nरपो;ट^ग अिधकार /Consignees/Reporting Officer and Quantity
+5.सं./S.N
+o.
+परेषती/Nरपो;ट^ग
+अिधकार /Consignee
+Reporting/Officer
+पता/Address
+संसाधन9 क मा ा
+/ Number of
+users
+अितNर] आवBयकता
+/Additional
+Requirement
+1
+Jasvantkumar
+Kanjibhai Makwana
+382010,Block no.2, 2nd Floor,
+Karmayogi Bhavan, Sector10A,
+Gandhinagar, GANDHINAGAR,
+382010
+1
+Total Number of
+Months for which
+service is required
+: 24
+5ेता :ारा जोड़ गई बड क वशेष शतa/Buyer Added Bid Specific Terms and Conditions
+1. Generic
+OPTION CLAUSE 25% : The buyer can increase or decrease the contract quantity or contract duration up
+to 25 percent at the time of issue of the contract. However, once the contract is issued, the contract
+quantity or contract duration can only be increased up to 25 percent. Bidders are bound to accept the
+revised quantity or duration.
+For lumpsum-based service contracts, the buyer may increase the scope of work and contract value up to
+25 percent with the consent of the service provider
+2. Buyer Added Bid Specific ATC
+Buyer Added text based ATC clauses
+1. The bidder must submit an Undertaking as per guidelines published by Ministry of Finance, Dept. of 
+Expenditure, Public Procurement division dated 23.07.2020, as per the format attached in ATC.
+2. The bidder must submit a declaration of not banned/blacklisted/debarred by any Central/State Gove
+rnment Authority/Institution.
+3. The bidder shall submit a declaration confirming acceptance of all Additional Terms & Conditions (A
+TC) and all other terms and conditions of the bid without any deviation.
+4. Exemption from submission of Earnest Money Deposit (EMD) shall be applicable as per GeM General
+Terms & Conditions (GTC). Bidders claiming exemption must upload valid supporting documents as 
+per GeM norms.
+5. Earnest Money Deposit: Rs. 1,68,000 /- (One Lac Sixty-Eight Thousand only). (Bidders can also subm
+it the EMD with Payment online through RTGS / internet banking in Beneficiary name Gujarat Inform
+atics Ltd., Account No. 50200010918090, IFSC Code HDFC0000190, Bank Name HDFC Bank Ltd. Bra
+nch address Sector-16, Gandhinagar Branch)
+6. Bidder must submit Bidder Information as per the format attached in ATC.
+7. If there are any queries regarding the RFP Document or related matters, bidders are requested to se
+nd an email to: dgmapp-gil[at]gujarat[dot]gov[dot]in, dir-dol@gujarat.gov.in, manager-egov1@guja
+rat.gov.in, manager-egov@gujarat.gov.in, exe1-egov-gil@gujarat.gov.in & tse1-egov-gil@gujarat.go
+v.in within 7 (seven) days from the date of publication of the bid.
+8. Pre-bid queries may be sent via email to: dgmapp-gil[at]gujarat[dot]gov[dot]in, dir-dol@gujarat.gov
+.in, manager-egov1@gujarat.gov.in, manager-egov@gujarat.gov.in, exe1-egov-gil@gujarat.gov.in &
+tse1-egov-gil@gujarat.gov.in 
+9. 
+Bidders submitting EMD through RTGS / internet banking are requested to submit a copy of the canc
+elled cheque and bank mandate along with the bid. In case of unsuccessful bidders, the EMD refund,
+if applicable, shall be processed to the same account as per GeM norms.
+10. Bidders are advised to read the RFP carefully before applying for the bid. 
+.
+3. Buyer Added Bid Specific ATC
+Buyer uploaded ATC document Click here to view the file.
+4 / 7
+
+
+4. Forms of EMD and PBG
+Bidders can also submit the EMD with Payment online through RTGS / internet banking in Beneficiary
+name
+Gujarat Informatics Limited
+Account No.
+50200010918090
+IFSC Code
+HDFC0000190
+Bank Name
+HDFC Bank
+Branch address
+Sector 16 Gandhinagar
+.
+Bidder to indicate bid number and name of bidding entity in the transaction details field at the time of on-
+line transfer. Bidder has to upload scanned copy / proof of the Online Payment Transfer along with bid.
+5. Forms of EMD and PBG
+Bidders can also submit the EMD with Account Payee Demand Draft in favour of
+Gujarat Informatics Ltd
+payable at
+Gandhinagar
+.
+Bidder has to upload scanned copy / proof of the DD along with bid and has to ensure delivery of hardcopy
+to the Buyer within 5 days of Bid End date / Bid Opening date.
+अ'वीकरण/Disclaimer
+The Additional Terms and Conditions (ATC) have been incorporated by the Buyer after approval of their
+Competent Authority. The Buyer ,is solely responsible for the impact of these clauses on the bidding process, its
+outcome, and consequences thereof including any restriction arising in the bidding process due to these ATCs
+and including the modification of technical specifications and / or terms and conditions governing the bid.All
+representations / grievances pertaining to the ATC clauses shall be raised with the buyer organization directly
+and not with GeM.If any of the clause(s) is/are incorporated by the Buyer regarding the following, the bid &
+resultant contract shall be treated as null & void. Further, GeM reserves the right, at its sole discretion, to cancel
+the bid forthwith, without issuance of any prior notice or intimation :-
+1. Publishing Custom / BOQ bids for items for which regular GeM categories are available (unless such
+Custom / BOQ item is bunched with the major regular product Category Item).
+2. Mandating procurement of / from specific Brand / Make / Model / Manufacturer / Dealer except in case of
+Single Bid / Proprietary Article Certificate (PAC) Buying.
+3. Inclusion of disqualification criteria related to suspension of seller / service provider, where such
+suspension period has already expired.
+4. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.
+5. Publishing bids on GeM for procurement of works.
+6. Procurement of Goods by creating a Service bid on GeM & vice-versa.
+7. Seeking sample with bid or approval of samples during bid evaluation process. However, trial / sample, as
+the case may be, shall be permitted in cases where trial / sample are allowed as per approved and
+published procurement policy of the Buyers’ controlling Ministry / Department / State / Public Sector
+Enterprises Headquarters. If there is any violation of trial / sample clause with regard to approved policy
+of the Buyers’ Ministry / Department / State / Public Sector Enterprises Headquarters, then this is to be
+determined and redressed by the concerned Buyer Organisation only.
+8. Seeking experience from specific organization / department / institute only or from foreign / export
+experience.
+9. Creating bid for items from incorrect categories.
+10. Reference of conditions published on any external site or reference to external documents/clauses.
+5 / 7
+
+
+11. Asking for any Tender fee / Bid Participation fee, as the case may be.
+12. Buyer added ATC Clauses which are in contravention of clauses defined in bid detail section, including
+specifications, EMD Detail, ePBG Detail and MII and MSE Purchase Preference sections of the bid, unless
+otherwise allowed by the applicable GeM GTC.
+13. Any ATC clause in contravention with GeM GTC Clause 4 (xiii) (h) will be invalid. In case of multiple L1
+bidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1
+bidders through a Random Algorithm executed by GeM system.
+14. In a category based bid, adding additional items, through buyer added, additional scope of work/
+additional terms and conditions/or any other document. If buyer needs more items along with the main
+item, the same must be added through bunching category based items or by bunching custom catalogues
+or bunching a BoQ with the main category based item, the same must not be done through ATC or Scope
+of Work.
+Further, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of
+this bid, they can raise their representation against the same by using the Representation window provided in
+the bid details field in Seller dashboard after logging in as a seller. Buyer is duty bound to reply to all such
+representations and would not be allowed to open bids if he fails to reply to such representations.
+All GeM Sellers/Service Providers shall ensure full compliance with all applicable labour laws,
+including the provisions, rules, schemes and guidelines under the four Labour Codes i.e. the Code
+on Wages, 2019; the Industrial Relations Code, 2020; the Occupational Safety, Health and Working
+Conditions Code, 2020; and the Code on Social Security, 2020 as and when notified and brought into
+force by the Government of India.
+For all provisions of the Labour Codes that are pending operationalisation through rules, schemes or
+notifications, the corresponding provisions of the pre-existing labour enactments (such as The
+Minimum Wages Act, 1948, The Payment of Wages Act, 1936, The Payment of Bonus Act, 1965, The
+Equal Remuneration Act, 1976, The Payment of Gratuity Act, 1972, etc. and relevant State Rules)
+shall continue to remain applicable.
+The Seller/ Service Providers shall, therefore, be responsible for ensuring compliance under:
+All notified and enforceable provisions of the new Labour Codes as mentioned hereinabove;
+and
+All operative provisions of the erstwhile Labour Laws until their complete substitution.
+All obligations relating to wages, social security, safety, working conditions, industrial relations etc.
+and any other statutory requirements shall be strictly met by the Seller/ Service Provider. Any non-
+compliance shall constitute a breach of the contract and shall entitle the Buyer to take appropriate
+action in accordance with the contract and applicable law.
+This Bid is governed by the General Terms and Conditions, conditions stipulated in Bid and Service
+Level Agreement specific to the Service, as the case may be, as provided in the Marketplace.
+However, in case of Service, if any condition specified in General Terms and Conditions is
+contradicted by the conditions stipulated in Service Level Agreement specific to said Service, then it
+will over-ride the conditions in the General Terms and Conditions.
+This Bid is governed by the सामा[य िनयम और शतa/General Terms and Conditions, conditions stipulated in Bid and
+Service Level Agreement specific to this Service as provided in the Marketplace. However in case if any condition
+specified in सामा[य िनयम और शतa/General Terms and Conditions is contradicted by the conditions stipulated in
+Service Level Agreement, then it will over ride the conditions in the General Terms and Conditions.
+जेम क सामा[य शत. के खंड 26 के संदभ% म< भारत के साथ भूिम सीमा साझा करने वाले देश के बडर से खरद पर 4ितबंध के संबंध म<
+भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी बडर इस िनवदा म< बड देने के िलए तभी पा  होगा जब वह बड देने वाला
+सZम 4ािधकार के पास पंजीकृत हो।बड म< भाग लेते समय बडर को इसका अनुपालन करना होगा और कोई भी गलत घोषणा ;कए जाने
+व इसका अनुपालन न करने पर अनुबंध को तeकाल समाf करने और कानून के अनुसार आगे क कानूनी कार%वाई का आधार होगा।/In terms
+of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which shares a
+land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to undertake
+compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action in
+accordance with the laws.
+6 / 7
+
+
+---ध[यवाद/Thank You---
+7 / 7

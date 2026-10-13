@@ -1,0 +1,186 @@
+Page 1 of 4 
+ 
+Clarification 
+ 
+      
+Revised RFP for Selection of Project Implementing Agency For 
+Implementation Of ABP(Amended BharatNet Program) in 
+Gujarat under GFGNL 
+(Design, Construction, Supply, Implementation, Testing & 
+Commissioning and Operation & Management Model) 
+           (Tender No. GFGNL/GFG/e -file/263/2026/0070/Phase-III(ABP in Gujarat)) 
+ 
+Date: 5th September, 2026 
+ 
+ 
+ 
+ 
+Issued By: 
+Gujarat Fibre Grid Network Limited (GFGNL) 
+      A Government of Gujarat Company 
+Block No: 6, 5th Floor, Udyog Bhavan, Sector-11, Gandhinagar 382010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 2 of 4 
+ 
+v) FACT SHEET 
+# 
+Particular 
+Details 
+9. 
+Last date for submission 
+of Bid/proposal 
+02/07/2026 16/07/2026  30/07/2026  14/08/2026 18/08/2026 
+25/08/2026  27/08/2026 05/09/2026 11/09/2026 at 06:10 pm 
+10.
+Last date for submission 
+of Bid/proposal (Physical 
+copy excluding financial 
+bid only if asked based 
+on nature of RFP) 
+i) 
+Tender Fee 
+ii) 
+EMD 
+iii) 
+PoA(Power 
+of 
+Attorney) 
+Integrity Pact 
+Within 5 working days from the Date of submission of online 
+bid dates in working hours (till 06:10pm) 
+Address: 
+Chief Finance Officer(CFO), 
+Gujarat Fibre Grid Network Limited Block No: 6, 5th Floor, 
+Udyog Bhavan, Sector-11, Gandhinagar 382010 
+in event of particular ask of submitting physical copy then 
+logical portion of the bid should be appropriate in the 
+respective sealed cover for maintaining confidentiality. 
+ 
+ 
+Clarifications 
+1.Section 10, Clause XIV: Rack at Sub-Block/Shelter Locations (Phase-I & Phase-II) 
+The clause requiring “sufficient perforation for ventilation” in racks has been identified as 
+a typographical error and therefore stands deleted. The other applicable rack 
+specifications shall be remaining as per RFP. 
+2.Annexure-A, TEC-GR Standards List, Line-Item 20 
+The reference to TEC 66140:2019 was inadvertently retained in the Master RFP in this 
+section, However, it was deleted in technical specification table. Hence, This standard 
+stands deleted. 
+3.Clarification on Rack Certification Requirements 
+To promote broader competition and participation, bidders may submit 
+TEC/TSEC/QF103 certification for either a 24U rack or a 48U rack. Certification of 
+any one of the specified rack sizes shall be considered acceptable for bid evaluation for 
+both 24U and 48U rack. Bidder shall require to certify QA/TSEC for additional test cases 
+for the offered rack during the execution from the concerned authority. The rack 
+provisions as per technical specification in the RFP, i.e. without sensor/smart feature 
+shall be complied. 
+4.Clarification on UPS Configuration 
+Both “UPS systems with built-in galvanic isolation” and “UPS systems using external 
+galvanic isolation transformers” shall be accepted, provided that the proposed solution 
+maintains a minimum of 20% free rack space in the deployed rack on field. 
+
+
+Page 3 of 4 
+ 
+5. Updated “Revised - Annexure-Existing Inventory details_Bharatnet_PH_I and II” is 
+enclosed as few of the line items were duplicate. 
+6. Leaf Switch: Port density and throughput, For 24 Ports, Minimum 4 × QSFP28 (minimum 
+40 /100 GbE) uplink ports.  Remaining shall be Minimum (1/10/25 GbE) ports. 
+7. In Technical Specification “XXIII. 
+Manual -Change Over Switch Specification”  line item 
+02 -Change Type shall be read as “manual change over” instead of automatic. 
+8. Under the Clause- 6.5 O&M PAYMENTS(ii), INR 351 (Including Taxes) per GP for Phase-
+I and Phase-II is now read as INR 351 (excluding Taxes) per GP for Phase-I and Phase-
+II. 
+9. To Clarify, Under Clause 6.5 -IV (O&M Payments), the O&M Rate (Year wise) OPEX to 
+be paid as % capex/ notional capex are excluding taxes. 
+10. In annexure-B, -XIV in technical specifications of “ Rack at Sub- Block/ Shelter locations 
+for Phase 1 & 2 both”  for Quantity “2 nos = 1 for Equipment’s & 1 for FDMS (Depending 
+on site requirement)” stands deleted. 
+11. For section-10, Technical Specifications of Helpdesk & Grievance Management 
+Following Clauses stands deleted,  
+b. lt shall be SIP-based voice network with full redundancy (1:1) and support for IPv6 
+for futureproofing. 
+c. lt shall support ACD features include skill-based routing, customizable queuing, 
+real-time statistics, and agent chat. 
+f. It shall provide IP Phones with monochrome display, speakerphone, headset 
+support, SNMP/DHCP/DNS protocols, and QoS. 
+g. lt shall provide video conferencing system with H.265/H.264 support, 1080p 
+resolution, dual monitor HDMI/DVI outputs, and cloud platform compatibility. 
+ 
+12. For  “XXXIV. Hyper Converged Infrastructure” under line item 15, Integration with 
+enterprise backup solutions, bidder shall provide the back up solution on cloud without 
+any extra cost to GFGNL.  And “Capability to offload backup to cloud/object storage.” 
+Stands deleted. 
+      Further,  For  “XXXIV.Hyper Converged Infrastructure”, the PIA shall take backup at 
+the on-premises storage provided by the GFGNL.  
+13. PIA shall provide Government empaneled SMS Gateway and e-mail Gateway to meet the 
+operational requirement. Only, sms charges for the usage shall be reimburse by PIA to 
+GFGNL / GFGNL shall arrange the facility for messages/SMS. 
+14. Mini OLT line item in Financial line item shall include the cost of eMS of GPON. 
+ 
+
+
+Page 4 of 4 
+ 
+15. Clarification on SoR line Items: 
+S. 
+No. 
+Item Description 
+Unit 
+Total 
+Quantity 
+(GJ) 
+5.3 
+Supply, installation including services of RCC Poles – 7/8 meter 
+Nos 
+19250 
+18.23
+Supply, Installation, testing & commissioning  of Structured  6 sq 
+mm (DISCOM Pole to DISCOM provided electric meter,i.e., 
+Service Cable for internal wiring during with casing 
+capping/conduit,mouning clamp etc. 
+meter 
+56 5000 
+18.24
+Supply, Installation, testing & commissioning  of Structured  10 
+sq mm (DISCOM Pole to DISCOM provided electric meter,i.e., 
+Service Cable for internal wiring during with casing 
+capping/conduit,mouning clamp etc. 
+meter 
+56 5000 
+18.9 
+Supply, Installation, testing & commissioning and service of 
+ELCB(Earth Leakage Circuit Breaker) for Single Phase with 
+1year  onsite replacement warranty 
+Nos. 
+1 150 
+18.10
+Supply, Installation, testing & commissioning and service of 
+ELCB(Earth Leakage Circuit Breaker) for Three Phase with 1 
+years onsite replacement warranty 
+Nos. 
+1 40 
+18.25
+Supply, installation, testing & commissioning of 2TR twin 
+Circuit without FCU, with controller Commercial Grade ACs 
+with 5 years+5 Years extended Onsite warranty for Compressor,  
+controller, other active parts (circuits/pcb)  and One Year 
+replacement warranty entire Unit  
+Nos. 
+147 280 
+ 
+ 
+=========================End Of Document============================ 

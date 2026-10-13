@@ -1,0 +1,4914 @@
+1 
+ 
+ 
+ 
+Tender for Rate Contract [Single Stage Two Envelope (Two Parts)] Through 
+e‐Procurement Method “PRINT SERVICE PROVIDERS for Printing & 
+Personalizing PVC Electors Photo Identity Cards (EPIC)” based on Open 
+Competitive Bidding Process on behalf of Office of the Chief Electoral 
+Officer, General Administration Department (Election Division), 
+Gandhinagar 
+ 
+(Tender No: SWT13072026) 
+ 
+Bid Processing Fees: Rs. 17,700/- (Including G.S.T.) (Non-Refundable) 
+Earnest Money Deposit: Rs. 8,00,000/- (Refundable) 
+(Original self‐declaration Affidavit shall be submitted along with EMD & 
+Bid processing fees physically at GIL) 
+ 
+ 
+Gujarat Informatics Ltd. 
+Block No. 2, 2ndFloor, C & D Wing, 
+Karmayogi Bhavan, Sector - 10 A, 
+Gandhinagar – 382010, Gujarat. 
+www.gil.gujarat.gov.in 
+ 
+ 
+ 
+Date of pre‐bid meeting 
+: 
+ 
+20.07.2026 up to 1500 hrs. at CEO-GAD 
+Last date for submission of Bids (online) 
+: 17.08.2026 up to 1500 hrs. 
+Date of opening of bids 
+: 17.08.2026 up to 1600 hrs. 
+ 
+ 
+
+
+2 
+ 
+ 
+ 
+ 
+This report (and any extract from it) is proposed for PE’s use and may not be copied, 
+paraphrased, reproduced, or distributed in any manner or form, whether by 
+photocopying, electronically, by internet, within another document or otherwise for any 
+purpose other than the project objectives specified by PE/ Govt. of Gujarat. Further, any 
+quotation, citation, or attribution of this publication, or any extract from it, is strictly 
+prohibited without prior written permission. 
+
+
+3 
+ 
+ 
+ 
+Important Instructions 
+ 
+ 
+1. 
+The Bidders are advised to acquaint themselves with the provisions of the 
+procurement rules (Gujarat Financial (Amendment) Rules, 2002) along with 
+amendments before participating in the Bidding process. If there is any 
+discrepancy between the provisions of the Rules and this Bidding Document, 
+the provisions of the Rules shall prevail. 
+ 
+2.  
+Bidders are advised to thoroughly read the bidding document, and by 
+signing this document, they submit unconditional acceptance to all the terms 
+& conditions of the bidding document without any deviations. 
+ 
+3. 
+Each page of the Bid Document should be digitally signed as a token of 
+acceptance of the bid by the authorized signatory or bidder. Thereafter the 
+digitally signed bid should be uploaded on the nProcure website/portal on 
+or before the date/time. The PE is not responsible for any delay or failure to 
+submit the bid in time by the bidder due to any technical or non‐technical 
+reason whatsoever. 
+
+
+4 
+ 
+ 
+ 
+Sections of the Bid Document/RFP 
+• Notice Inviting Bid (NIB) 
+• Bid Data Sheet (BDS) 
+• Section I: Scope of work, directions, specifications, security of data, contract 
+period, Role of DEO, flow chart. 
+• Section II: Pre-qualification criteria, Technical bid evaluation sheet, selection 
+process 
+• Section III: Instructions to bidders. 
+• Section IV: General terms and conditions of contract. 
+• Section V: A: Technical bid submission sheet, security printer certificate, other 
+certificates and formats, sample card 
+• Section V: B: Financial bid, agreement format Sample 
+
+
+5 
+ 
+ 
+ 
+ABBREVIATIONS & DEFINITIONS 
+ 
+AERO 
+Assistant Electoral Registration Officer 
+Authorised Signatory 
+The bidder’s representative/ officer vested (explicitly, implicitly, or through 
+conduct) with the powers to commit the authorizing organization to a binding 
+agreement. Also called signing officer/ authority having the Power of 
+Attorney (PoA) from the competent authority of the respective Bidding firm. 
+AV 
+Audio-Video 
+BG 
+Bank Guarantee 
+BDS 
+Bid Data Sheet 
+Bid/ eBid/ Tender/RFP 
+A formal offer made in pursuance of an invitation by a procuring entity and 
+includes any tender, proposal or quotation in electronic format, bidding 
+document (e-Proc and manual), Request for Proposal and tender document 
+Bid Evaluation Committee 
+(BEC) 
+Alias Departmental Purchase Committee (DPC) duly constituted by the 
+Department for opening received bids and evaluate the bids till the agreement 
+is executed and placing award of contract. 
+Bid Security/EMD 
+Security provided to the procuring entity by a bidder for securing the 
+fulfilment of any obligation in terms of the provisions of the bidding 
+documents. 
+Bidder/Tenderer 
+Any person/ firm/ agency/ company/ contractor/ supplier/ vendor as per 
+qualification laid herein, participating in the procurement/ bidding process 
+with the procurement entity. 
+Bidding Document 
+Documents issued by the procuring entity, including any amendments 
+thereto, that set out the terms and conditions of the given procurement and 
+includes the invitation to bid 
+BoM 
+Bill of Material 
+Cards 
+PVC Cards 
+CMC 
+Contract Monitoring Committee 
+Competent Authority 
+An authority or officer to whom the relevant administrative or financial 
+powers have been delegated for taking decision in a matter relating to 
+procurement. CEO, Gujarat in this bidding document. 
+Contract/ Procurement 
+Contract 
+A contract entered between the procuring entity and a successful short-listed 
+bidder. 
+Contract/ Project Period 
+The Contract/ Project Period shall commence from the date of issue of Work 
+order till the successful commissioning of the project (one-time job) as per 
+bidding document. 
+Day 
+A calendar day as per Govt. of State/GoI 
+DEO 
+District Election Officer (Collector of District) 
+DPC 
+Alias Bid Evaluation Committee (BEC) duly constituted by the Department 
+for opening received bids and evaluate the bids till agreement is executed and 
+placing award of contract. 
+DSC 
+Digital Signature Certificate 
+ED 
+Office of the Chief Electoral Officer, Gujarat, Block - 7, 2nd Floor, New 
+Sachivalaya, Gandhinagar -382010, Gujarat headed by the Chief Electoral 
+Officer 
+ETDC 
+Electronic Testing & Development Centre 
+eProc/e-Proc Website 
+State e-Procurement Website/Portal i.e. https://https://tender.nprocure.com  
+
+
+6 
+ 
+ 
+ 
+EPIC 
+Elector's Photo Identity Card 
+ERO 
+Electoral Registration Officer 
+FOR/ FOB 
+Freight on Road or Freight on Board 
+GoI 
+Govt. of India 
+Goods 
+All articles, material, commodities, electricity, livestock, furniture, fixtures, 
+raw material, spares, instruments, software, machinery, equipment, industrial 
+plant, vehicles, aircraft, ships, railway rolling stock and any other  category  of 
+goods, whether in solid, liquid or gaseous form, purchased or otherwise 
+acquired for the use of a procuring entity as well as services or works 
+incidental to the supply of the  goods  if  the  value  of  services  or works or 
+both does not exceed that of the goods themselves 
+ICT 
+Information and Communication Technology. 
+IFB/NIT/NIB 
+Invitation for Bids or Notice Inviting Tenders or Notice Inviting Bidders (A 
+document published by the procuring entity inviting Bids relating to the 
+subject matter of procurement and any amendment thereto and includes 
+notice inviting Bid and request for proposal) 
+INR 
+Indian Rupee 
+In Writing 
+Communicated in writing form through letter, fax, email etc. 
+ISI 
+Indian Standards Institution 
+ISO 
+International Organisation for Standardisation 
+IT 
+Information Technology 
+ITB 
+Instruction to Bidders 
+JV/Consortium/Association 
+Joint Venture or Consortium or Association of Bidders participating in the bid 
+LD 
+Liquidated Damages 
+LOA/LOI 
+Letter of Agreement/Letter of Intent 
+Lowest Bidder/Bidders 
+Short-listing of bidders up to 2(max.) who have participated in the bid online 
+and quoted / agree to supply items on the financially lowest price (technically 
+qualified) during the contract period. 
+NCB 
+A bidding process in which qualified bidders only from within India are 
+allowed to participate 
+NeGP 
+National e-Governance Plan of Government of India, Department of 
+Information Technology (DIT), Ministry of Communications and Information 
+Technology (MCIT), New Delhi. 
+Notification 
+A notification published in the Official Gazette 
+OEM 
+Original Equipment Manufacturer 
+PAN 
+Permanent Account Number 
+Personalization 
+Printing of Electors’ details such as Photo, Name, Relation, Relative Name, 
+DoB, Gender, Address, AC, Part Number etc. with ERO Signature on PPPVC 
+EPIC as per ECI guidelines/SoW and E-Roll Data 
+PBQ 
+Pre-Bid Query(ies) 
+PSP 
+Print Service Provider 
+PVC 
+Poly Vinyl Chloride (PVC) 
+PPPVC EPIC 
+Pre-Printed PVC EPIC card is Pre-Personalized or Non-Personalized PPPVC 
+EPIC card 
+PBG/Security Money 
+Performance Bank Guarantee 
+
+
+7 
+ 
+ 
+ 
+PC 
+Procurement / Purchase Committee 
+PQ/EC 
+Pre-Qualification bid criteria/Eligibility criteria 
+PE 
+Procurement Entity 
+Procurement Process 
+The process of procurement extending from the issue of invitation to Bid till 
+the award of the procurement contract or cancellation of the procurement 
+process, as the case may be 
+Procurement / Public 
+Procurement 
+The acquisition by purchase, lease, license or otherwise of works, goods or 
+services, including award of Public Private Partnership projects, by a 
+procuring entity whether directly or through an agency with which a contract 
+for procurement services is entered into, but does not include any acquisition 
+without consideration, and “procure” or “procured” shall be construed 
+accordingly 
+PSD/ SD 
+Performance Security Deposit/ Security Deposit 
+Purchaser/ Tendering 
+Authority/ Procuring Entity 
+Person or entity that is a recipient of a good or service provided by a seller 
+(bidder) under a purchase order or contract of sale. Also called buyer. 
+RFP 
+Request For Proposals 
+RO 
+Returning Officer 
+GST 
+Goods and services Tax 
+Services 
+Any subject matter of procurement other than goods or works and includes 
+physical, maintenance, professional, intellectual, consultancy and advisory 
+services or any service classified or declared as such by a procuring entity 
+and does not include appointment of any person made by any procuring 
+entity 
+Singular/Plural 
+If the context so requires singular means plural and vice versa. 
+Signed Document 
+Signed Document using electronic Digital Signature Certificate (DSC) 
+SLA 
+Service Level Agreement is a negotiated agreement between two parties 
+wherein one is the customer, and the other is the service provider. It is a 
+service contract where the level of service is formally defined. In practice, the 
+term SLA is sometimes used to refer to the contracted delivery time (of the 
+service) or performance. 
+SSDG 
+State Services Delivery Gateway 
+State Government 
+Govt. of Gujarat 
+State Public Procurement 
+Portal 
+https://https://tender.nprocure.com 
+STQC 
+Standardisation Testing and Quality Certification, Govt. of India 
+Subject Matter of 
+Procurement 
+Any item of procurement whether in the form of goods, services or works 
+Successful Bidders 
+Short-listing of up to 2 bidders (max.) who have participated in the bid online 
+and quoted / agree to supply items on the financially lowest price (technically 
+qualified) during the contract period. 
+GSTIN 
+Goods and services Tax Identification Number 
+TPA 
+Third Party Auditors 
+Vendors/Vendors 
+Short-listing of up to 2 bidders (max.) who have participated in the bid online 
+and quoted / agree to supply items on the financially lowest price (technically 
+qualified) during the contract period. 
+Website of CEO, Gujarat 
+https://ceo.gujarat.gov.in 
+WO/ PO 
+Work Order/ Purchase Order 
+
+
+8 
+ 
+ 
+ 
+Please note that all those terms which have not been explicitly defined in this document have the same 
+meaning as in the General Clauses Act or any other Central or State Act/Rules.
+
+
+9 
+ 
+ 
+ 
+Office of the Chief Electoral Officer 
+Gujarat State 
+NIB (NOTICE INVITING Bids) 
+ 
+NIB No: 01 
+                                                                                                                           Date:13.07.2026 
+Sealed Single Stage Two‐envelopes unconditional Online Bids are invited on nProcure 
+website/portal ( i . e . https://www.nprocure.com) on behalf of the Office of the Chief Electoral 
+Officer, Gujarat State for the short‐listing of Print Service Provider (PSP) for rate contract for the item 
+as listed below up to 1500 hrs. of 17.08.2026. 
+ 
+Sr. 
+No. 
+Name of Work 
+Scope of 
+Work and 
+Other 
+Specifications 
+Average 
+Annual 
+Quantity of 
+EPIC Kits 
+required 
+(including 
+annual 
+Revision and 
+Continuous 
+Updation 
+process) 
+Average 
+Annual 
+Estimated 
+Procurement 
+Cost in Rs. 
+Price of 
+Bidding 
+Document 
+(Rs.) 
+Amount of 
+Bid 
+security/EMD 
+(Rs. ) 
+Validity 
+Period 
+of bid 
+Place of 
+Delivery 
+ 
+1 
+Printing & Supply 
+of Personalized 
+Colour PVC 
+Elector's Photo 
+Identity Cards 
+(EPIC) with high 
+security Hologram 
+(hot stamped) 
+supplied by the 
+designated vendor 
+As 
+mentioned 
+in the 
+bid/ECI 
+guidelines 
+45,00,000 
+units 
+(Approx.) 
+per year 
+Rs. 
+4,00,00,000/- 
+(approx.) 
+Rs. ___/‐ 
+Rs.______/- 
+ 
+ 
+180 
+Days 
+FOR 
+Destination: 
+Post office at 
+Ahmedabad 
+2 
+Welcome Letter 
+and Voter’s Pledge 
+(Back-to-back)  
+25,00,000  
+units  
+(Approx.)  
+per year 
+3 
+Voter Guide (Back-
+t o - b a c k )  
+25,00,000 
+ units  
+(Approx.)  
+per year 
+4 
+Envelope described 
+as “EPIC Kit” to be 
+delivered to 
+respective District 
+Election Officers 
+(DEOs) with other 
+security features as 
+per ECI guidelines. 
+45,00,000 
+units 
+(Approx.) 
+per year 
+
+
+10 
+ 
+ 
+ 
+ 
+ 
+Price and/or purchase preference as per Instructions to Bidders shall be admissible in the evaluation 
+and award of Contract. 
+1. The bid is for a Rate Contract for short‐listing of suppliers for the abovementioned items. 
+2. The Bidders may enclose the specifications, catalogue, and other product characteristics offered. They 
+shall also include details on their backup services offered, warranties, etc. 
+3. The complete Bidding Document, including the Conditions of Contract, evaluation and qualification 
+criteria and procedure, Bidding forms, designs, specifications, delivery schedule, etc. can be seen 
+and downloaded from the website (https://www.nprocure.com and gil.gujarat.gov.in). 
+4. Bids, duly signed on all pages (as mentioned in the bid document) and serially numbered, should 
+be submitted 
+electronically on https://www.nprocure.com by following the electronic Bid 
+submission procedure as specified on the portal. 
+5. The Bid Security/EMD in the form of Demand Draft or Banker’s cheque or Bank Guarantee shall be 
+submitted personally or by post in sealed envelopes up to 1500 hrs. on 17.08.2026 to the GM 
+(Software Procurement, Gujarat Informatics Ltd., Block No. 2, 2nd Floor, Karmayogi Bhavan, 
+Gandhinagar, Gujarat - 382010 bearing “Bid for Short‐listi ng for  Printing and Supply of Personaliz ed 
+Colour PVC Elec tors’ Photo I denti ty C ards w ith sec urity features.”  
+6. Bid Processing Fee: Rs. 17,700/‐ including GST paid in Demand Draft in favour of Gujarat Informatics 
+Limited payable at Gandhinagar. 
+7. Bids received after the specified time and date shall not be accepted. Off‐line bids shall not be entertained. 
+8. Bids have been invited electronically, the procedure for submission of Bids, including payment of 
+Bidding Document, user charges/ processing fee, Bid Security, etc. shall be as provided on the 
+State e‐Procurement Portal https:/ as mentioned in the bid document) and serially numbered, 
+should be submitted electronically on https://www.nprocure.com 
+9. The Technical Bids shall be opened on  17.08.2026at 1600 hrs. in the office of CEO, Gujarat. 
+10. The procuring Entity is not bound to accept the lowest Bid and may reject any or all Bids without 
+assigning any reason thereof. 
+11. The Bidders shall have to submit/upload a valid 'GST' registration and ‘GST’ return of last year and the 
+‘PAN’ issued by the Income Tax Department. 
+12. The Service Provider is required to sort the received data Pincode-wise. This is to ensure grouping 
+together of all the Cards meant for delivery to one Pincode. The vendor is expected to understand 
+the directions issued by the ECI vide its letters No.- 23/EPIC Security/2021-ERS dated 05.10.2021, 
+23/ID/2021- ERS dated 22.06.2021, 491/ECI/LET/FUNC/SVEEP-III/EPIC/ENVELOPE/2021 dated 
+14.10.2021, 23/ID/2021- ERS dated 17.01.2022 and 23/EPIC Security/2021-ERS dated 18.01.2022 and 
+deliver the EPICs in the covers as per the letters instructions so that DEO will hand over the same to the 
+Postal Department for further distribution to the concerned electors. 
+13. Bidders who wish to participate in this bid will have to register on as mentioned in the bid document) 
+and serially numbered, should be submitted electronically on https://www.nprocure.com. Further 
+bidders who wish to participate in online bids will have to procure Digital Certificate as per Information 
+Technology Act 2000 using which they can sign their electronic bids. Bidders can procure the same from 
+(n) code solutions – a division of GNFC Ltd., or any other agency licensed by Controller of Certifying 
+Authority, Govt. of India. Bidders who already have a valid Digital Certificate need not procure a new 
+Digital Certificate. 
+sd/- 
+Chief Electoral Officer 
+Gujarat 
+Block No. 7, 2nd Floor, New Sachivalaya, 
+Gandhinagar, Gujarat - 382010
+
+
+11 
+ 
+ 
+ 
+(Abridged Form of NIB for Publication in the Newspapers) 
+ 
+Bid Data Sheet (BDS) 
+1 
+Ref. of invitation of Bids 
+NIB No. - 01 
+dated: 13.07.2026 
+2 
+Designation & Address of officer as the 
+Procuring Entity (PE) And 
+For clarification purposes 
+Chief Electoral Officer, Gujarat, 
+Block No. 7, 2nd Floor, New Sachivalaya, Gandhinagar, 
+Gujarat - 382010 on behalf of the District Election 
+Officers (Collectors), All Districts of Gujarat 
+Designation 
+Chief Electoral Officer, Gujarat. 
+Address 
+Block 
+No. 
+7, 
+2nd 
+Floor, 
+New 
+Sachivalaya, Gandhinagar, Gujarat – 
+382010 
+Phone No. 
+079-23250452 
+Email 
+ceo_gujarat@eci.gov.in 
+3 
+Placing 
+Work 
+Order 
+/Payment 
+authority 
+CEO/DEO, Payment by CEO/DEO, Gujarat 
+4 
+Subject Matter of Procurement 
+“Short-listing of Print Service Provider for Printing & 
+Supply of Personalized Colour PVC Elector's Photo 
+Identity Cards (EPIC) with high-security Hologram (hot 
+stamped), Welcome Letter, Voter’s Pledge, and Voter 
+Guide all put in an Envelope described as “EPIC Kit” to 
+be delivered to respective District Election Officers 
+(DEOs) with other security features as per ECI 
+guidelines. 
+5 
+FOR Destination 
+Post office of Ahmedabad, delivery of article should be 
+reached at the destination within 10 days of supply of 
+data. 
+6 
+Joint 
+Venture 
+/ 
+Consortium 
+/ 
+Association of Bidders 
+Not Allowed 
+7 
+Contract Period 
+3 years can be extended to a maximum of 5 years with 
+mutual consent. (Initially the contract will be made for 
+first 3 years and renewed for 2 more years upon mutual 
+consent) 
+8 
+Bid Procedure 
+Single Stage Two Envelope Bidding (Two Parts) rate 
+contract 
+9 
+Bid 
+Evaluation 
+Criteria 
+(Selection 
+Method) 
+Open 
+Competitive 
+Bid 
+procedure 
+is 
+given 
+at 
+https://https://tender.nprocure.com 
+Based on L1 of the technically qualified bidders 3 firms 
+will be shortlisted (Preferably L1, L2 and L3) L2 and L3 
+bidders have to match L1 in order to consider as 
+shortlisted firm. In all cases, the final selection of 
+shortlisted firms shall be made by the Committee, and 
+no dispute in this regard shall be entertained. 
+10 
+Websites for downloading Bidding 
+Document, 
+Corrigendum’s, 
+Addendums etc. 
+Websites: https://gil.gujarat.gov.in   
+https://https://tender.nprocure.com, 
+https://ceo.gujarat.gov.in    
+11 
+Bid Document Fee 
+Rs. 17,700/- in DD in favour of “Gujarat Informatics 
+Ltd., payable at Gandhinagar” 
+12 
+Estimated 
+Procurement 
+Cost 
+(per 
+annum) 
+Rs. 4 cr. (Four Crores) (Approximately)  
+
+
+12 
+ 
+ 
+ 
+13 
+Bid 
+Security/EMD 
+and 
+Mode 
+of 
+Payment 
+Rs. 8 lakhs in DD in favour of “Gujarat Informatics Ltd., 
+payable at Gandhinagar” 
+14 
+Period of Sale of Bidding 
+Document (Start/ End Date) 
+Start Date: 13.07.2026 
+End Date:  17.08.2026 by 1500 hrs. 
+Pre-Bid Meeting Date/ Time 20.07.2026 at 1500 hrs. 
+15 
+Date/ Time/ Place of Pre-bid Meeting 
+Pre-Bid queries submission as per Annexure 1: by 1500 
+hrs. on or before 20.07.2026 
+After which no query would be accepted & also PBQs 
+should be sent to the prescribed email only and not to 
+be uploaded on the e-Proc website (Signed Hard and 
+soft copy both should be sent to the prescribed email 
+address)  
+In case of repeat queries uploaded on e-Proc Website, 
+these queries will not be treated as responsive and will 
+not be entertained. 
+Pre Bid Meeting Place: Office of the Chief Electoral 
+Officer, Gujarat, Block No. 7, 2nd Floor, New 
+Sachivalaya, Gandhinagar, Gujarat – 382010 
+16 
+Submission 
+of 
+Banker’s 
+Cheque/Demand 
+Draft 
+/ 
+Bank 
+Guarantee for Tender Fee, Bid and one 
+set of Technical Bid dulysigned in 
+physical 
+copy 
+in 
+sealedcover 
+mentioning the tender name, cutoff 
+date and time of bid submission, duly 
+addressed to the bid calling authority 
+(designation and address) and bidding 
+firm name with complete contact 
+details clearly written on the sealed 
+envelope. Each in separate covers duly 
+signed and sealed with name of tender, 
+addressee details, participating bidder 
+details and content details.All the above 
+contents should be kept in a final outer 
+covering with tender name, cutoff date 
+and time of bid submission, duly 
+addressed to the bid calling authority 
+(designation and address) and bidding 
+firm name with complete contact 
+details. 
+Start Date: 13.07.2026 during office time only 
+End Date: 17.08.2026 up to 1500 hrs. 
+17 
+Date for the submission of Bids 
+Manner: 
+Online 
+at 
+website 
+https://https://tender.nprocure.com  
+Up to 17.08.2026 up to 1500 hrs. 
+18 
+Date/ Time/ Place of Technical Bid 
+Opening (Online at e-proc website)   
+Date: 17.08.2026 
+Time: 1600 hrs. 
+Place: Office of the Chief Electoral Officer, Gujarat, 
+Block No. 7, 2nd Floor, New Sachivalaya, Gandhinagar, 
+Gujarat - 382010. 
+19 
+Date/ Time/ Place of Financial Bid  
+Opening 
+Will be intimated later to the Technically qualified 
+bidders only 
+
+
+13 
+ 
+ 
+ 
+20 
+Bid Validity 
+180 days from the last date of bid submission. 
+21 
+Language of Bid 
+English only 
+22 
+Alternate Bids 
+Not permitted 
+23 
+Bid submitted 
+Original bid: Unconditional and with no deviation 
+24 
+Bidder’s Detail: - 
+  
+  
+a. Name of Bidder 
+  
+  
+b. Address of Correspondence 
+  
+  
+c. Name of Authorized Signatory 
+  
+  
+d. Mobile Number1 
+  
+  
+e. Mobile Number2, if any 
+  
+  
+f.   Telephone Number 
+STD Code () 
+g. Fax Number 
+STD Code () 
+h. Name of Website 
+  
+  
+i.   E-Mail1 
+  
+  
+j.   E-Mail2 
+  
+  
+ 
+Note: 
+ 
+1) The Procurement entity reserves the complete right to cancel the bid process and reject any or all the 
+Bids without giving reasons thereof. 
+2) No contractual obligation whatsoever shall arise from the bidding document/ bidding process 
+unless and until a formal contract is signed and executed between the procuring entity and the 
+successful short‐listed bidders. 
+3) Bidder (authorised signatory) shall submit their offer online in Electronic formats both for technical 
+and financial proposal. However, Banker’s Cheque/ Demand Draft/ Bank Guarantee for Tender 
+Fees and Bid Security should be submitted physically at the office of Procuring Entity as prescribed 
+in NIB, and a scanned copy of same should also be uploaded along with the technical Bid/cover. 
+However, to ensure more clarity, bidders are also expected to send the physical complete and 
+signed copy of the entire bidding document except financial bid to the Office of the CEO, Gujarat 
+immediately 
+after 
+uploading 
+the 
+bid 
+document 
+on 
+nProcure 
+(https://https://tender.nprocure.com) site. In any case the physical copy should reach before the 
+bid opening. If the physical copy is not delivered, bid processing will take place solely based on 
+electronic bid document uploaded on nProcure (https://https://tender.nprocure.com) site. Bidders 
+should ensure that there is no anomaly between the electronic and physical bid document. 
+Physical copy will be referred to only if there is no clarity in the electronic document. Discretion in 
+this regard will be completely that of the DPC/CEO. 
+4) In case any bidder fails to physically submit the Banker’s Cheque/ Demand Draft/ Bank Guarantee 
+for Tender Fee, Bid Security, and Processing Fee on or before the prescribed last date/time in 
+the BDS, its bid shall not be accepted. The Banker’s Cheque/ Demand Draft/ Bank Guarantee for 
+Bidding document fee and Bid Security/EMD should be drawn in favour of “Gujarat Informatics 
+Ltd., Gandhinagar” and the Bid Processing Fee in favour of “Gujarat Informatics Ltd., 
+Gandhinagar”. 
+5) Bidders who wish to participate in this bid will have to register on https://gil.nprocure.com. Further 
+bidders who wish to participate in online bids will have to procure Digital Certificate as per 
+Information Technology Act 2000 using which they can sign their electronic bids. Bidders can procure 
+the same from (n) code solutions – a division of GNFC Ltd., or any other agency licensed by Controller 
+of Certifying Authority, Govt. of India. Bidders who already have a valid Digital Certificate need not 
+procure a new Digital Certificate. 
+6) The election Department will not be responsible for delay in online submission for any reason. For 
+this, bidders are requested to upload the complete bid well in advance so as to avoid 11th-hour 
+
+
+14 
+ 
+ 
+ 
+issues like slow internet speed, choking of the website due to heavy load or any other unforeseen 
+problems. 
+7) Bidders 
+are 
+also 
+advised 
+to 
+refer 
+"Bidders 
+Manual 
+Kit" 
+available 
+at 
+the 
+website 
+(https://https://tender.nprocure.com) for further details about the e‐Tendering process. In case the 
+bidders need any support related to electronic bidding on https://gil.nprocure.com, they may contact 
+the following office: 
+(n)Code Solutions - A division of GNFC Ltd. 
+(n)Procure Cell, 403, GNFC Infotower, S.G. Road, Bodakdev, Ahmedabad – 380054 (Gujarat) 
+Fax: 079 – 4000 7533, E-mail: nprocure@ncode.in; nprocuregift@ncode.in, Toll Free No: 1800 419 4632 
+8) The Procuring Entity reserves the complete right to cancel the bid process and reject any or all of the 
+Bids. 
+9) The Procurement Entity disclaims any factual/other errors in the bidding document (the onus is 
+purely on the individual bidders to verify such information) and the information provided 
+therein is intended only to help the bidders prepare a logical bid proposal. 
+10) The provisions of Financial Rules and Guidelines of the State of Gujarat, including an amendment(s), 
+shall be applicable for this procurement. Furthermore, in case of any inconsistency in any of the 
+provisions of this bidding document with the provisions of Financial Rules and Guidelines of the 
+State of Gujarat thereto including an amendment(s), the 
+later shall prevail and ECI 
+guidelines/directions/circulars issued from time to time. 
+
+
+15 
+ 
+ 
+ 
+Section-I 
+ 
+1.   SCOPE OF WORK (SoW): 
+1) Background: 
+In an effort to prevent electoral fraud, EPICs or Elector's Photo Identity Card were introduced by 
+the Election Commission of India in the year 1993. Guidelines have been issued by ECI from time to 
+time to incorporate various security features in EPIC. 
+The ECI has directed that “Colour PVC Card manufacturer and security printer” ‐ with in‐house 
+printing on PVC sheet with security features and capacity of personalisation, and proper security 
+management to be selected. 
+EPIC to be supplied with prescribed security features and personalization details printed upon 
+them. 
+The ECI has also directed that EPIC cards will be procured by CEOs. 
+The Bidders are requested to examine the instructions, terms & conditions, specifications 
+and ECI guidelines on Personalized PVC EPICs issued time to time which are available on the ECI 
+website, given in the bid. Failure to furnish all required information in every respect will be at the 
+Bidder's risk and may result in the rejection of bid. 
+It will be imperative for each Bidder(s) to familiarise itself/themselves with the prevailing 
+legal situations for the executing of contract. This Department shall not entertain any request for 
+clarification from the Bidder regarding such legal aspects of submission of the Bids. 
+It will be the responsibility of the Bidder that all factors have been investigated and considered 
+while submitting the Bids, and no claim whatsoever including those of financial adjustments to the 
+contract awarded under this tender will be entertained. Neither any time extension nor financial 
+adjustments arising thereof shall be permitted on account of failure by the Bidder to appraise 
+themselves. 
+The Bidder shall be deemed to have satisfied itself fully before Bidding as to the correctness and 
+sufficiency of its Bids for the contract and price quoted in the Bid to cover all obligations under this 
+Tender. 
+It must be clearly understood that the Terms & Conditions and specifications are intended to 
+be strictly enforced along with ECI guidelines in the subject matter. No escalation of cost in the 
+Tender by the Bidder will be permitted throughout the period of contract or throughout the period 
+of completion of the contract whichever is later on account of any reasons whatsoever, but the 
+benefit of price fall due to any reason shall be passed on. 
+The Bidder should be fully and completely responsible to concerning Procurement 
+entity/DEOs for all the deliveries and deliverables within the stipulated timelines. 
+The Procurement entity reserves right to cancel part or complete bids without giving any reason 
+
+
+16 
+ 
+ 
+ 
+thereof, which shall be accepted by all bidders. 
+State of Gujarat structure is given as below: 
+1. Districts (District Election Officer and Collector) 
+- 
+34 Nos. 
+2. AC Electoral Registration Officer – ERO 
+-  
+ 
+182 Nos. 
+3. Polling Stations (Part) -  
+ 
+ 
+ 
+ 
+56622 Nos.* 
+4. Total Number of Electors as on 17.02.2026 -  
+ 
+44,030,725* 
+   Note – Numbers may change. 
+ 
+(1) 
+Total Colour EPICs printed in the State in the last three years 
+  
+Form-6 
+Form-8 
+Total 
+2023 
+1160998 
+1338228 
+2499226 
+2024 
+1716803 
+1697797 
+3414600 
+2025 
+982368 
+1910196 
+2892564 
+Total 
+38,60,169 
+49,46,221 
+88,06,390 
+Average 
+12,86,723 
+16,48,740 
+29,35,463 
+ 
+Election Department is willing to short‐list up to 3 suppliers only (maximum) for supplying of 
+ECI specified personalised Electors’ Photo Identity Cards (EPIC) with new security features on 
+Standard-based PVC sheet/core for electors/voters. 
+The Personalized PVC EPICs shall be supplied with prescribed security features and 
+personalization details printed upon them, and hot stamping of Hologram. 
+Detailed Scope of work – 
+1. Manufacture, print and supply Coloured PVC EPIC in given specifications, security features, 
+base text contents, colour photograph, personalized with voters’ details as given below in 
+section (2) and ANNEXURE 15 and 19. Please refer BDS for quantities and delivery schedule in 
+section 6 of this bid document. 
+2. Hot stamping of Holograms on each EPIC as specified below and in ANNEXURE 15 and 19. 
+3. Print and supply Envelopes in 4 colour (CMYK) on 70 GSM Maplitho paper – layout design 
+and dimensions provided in ANNEXURE 15 and 17. Self-adhesive Address Sticker and self-
+adhesive BNPL account bar code to be printed by the selected agency and affixed on the 
+envelope in the given space (Annexure – 18). 
+4. Print and supply Welcome Letter & Voter’s Pledge on 70 GSM Maplitho paper. Welcome 
+letter with EPIC stuck on it on front side and Voter’s Pledge on the backside. Refer 
+ANNEXURE 15 and 17 for Welcome Letter layout design and dimensions & for Voter’s Pledge 
+layout design and dimensions. 
+5. Print and supply Voter Guide to be printed on 70 GSM Maplitho paper as per layout design and 
+dimensions mentioned in ANNEXURE 17. 
+ 
+NOTE: Final personalized EPIC along with Welcome Letter, Voter Guide and Voters’ Pledge will go 
+inside the Envelope and closed. The voter’s name, name of voter’s relative and address with Pin Code 
+and Assembly Constituency Number will have to be printed on white self-adhesive sticker paper and 
+affixed on the space provided on the envelope. BNPL bar code will have to be printed on white self-
+
+
+17 
+ 
+ 
+ 
+adhesive sticker paper and affixed on the envelope. 
+(2) Specifications of Card: 
+The new PVC EPIC will be horizontal in shape with following size: - 
+a) 
+Card type: 
+All new cards will be printed on a PVC sheet with a coloured photograph. Material Poly Vinyl 
+Chloride, 
+Glossy/Mat finishing (PVC) + Polyethene Terephthalate Glycol (PETG) Proposed Layering is 
+mentioned in the RFP document 
+b) Card size: 
+CR 80 (86mm x 54mm x 0.76mm) variation permissible of plus and minus 5% 
+c) Thickness: 
+760 microns (± 10%) 
+d) Lamination (Overlay) 
+Glossy/Mat finishing 
+e) Design & Layout: - 
+Indicative design provided with the bid document. The election department may alter the design, 
+colour scheme and layout at any time. 
+f) ISO Standard: - 
+CR-80 type adhering to ISO/IEC 7810 /10373 standards 
+g) Special Feature: - 
+QR Bar code with 3000+ text characters. However, the Election Department may alter the size, 
+specifications, and layout of the QR code any time before or during the currency of the contract. 
+Vendor should ensure that the size of the QR code does not exceed the designated space for the QR 
+code on the EPIC. 
+h) An indicative list of card features: - 
+ 
+Hologram: Hologram size (after stamping) : 16mm x 12mm. To be hot stamped made up of 19-23 
+Micron polyesters film of Silver shade. 
+ 
+Micro text: Text as the border of the Photograph in size 19 to 25 micron 
+ 
+Ghost image printing: Elector Photograph (Front side) 
+ 
+Guilloche pattern on the base of the card. (Three colour guilloche design) 
+ 
+Hologram hot stamping 
+ Reel/Sheet of hologram, mentioning number of Reels and hologram/will be delivered by PE to 
+vendor for hot stamping. 
+ The exact number of holograms received in the reel from hologram manufacturer must be 
+documented by the card printer as a secure document. 
+ The P.E shall get required test of holograms conducted before stamping to the EPIC. 
+ 
+i.  OTHER FEATURES 
+1. Relief tint of “Election Commission of India” in bilingual, i.e., English & Gujarati 
+2. The National Emblem is printed on the upper left-hand corner, and the Election Commission of India 
+logo is printed in colour on the upper right-hand corner. 
+3. Personalization: - 
+ 
+Front:‐ 
+ “ELECTION COMMISSION OF INDIA” in English & “ભારતન ું ચ ુંટણી પુંચ” in Gujarati on the top. 
+ “ELECTOR PHOTO IDENTITY CARD” in English & “મતદાર ફોટો ઑળખકાર્ડ” in Guajarati below 
+
+
+18 
+ 
+ 
+ 
+      “ELECTION COMMISSION OF INDIA”. 
+  EPIC number of the Elector printed in alphabets & numbers and also in “bar code” in the specified 
+place. 
+ Colour photo of the Elector 
+ Name of the elector, printed in English and Gujarati and its detail in English and Gujarati 
+ ‘Relation name’, printed in English and Gujarati and its detail in English and Gujarati 
+ “Gender” printed in English and “લ િંગ” printed in Gujarati and its value/detail in English and 
+Gujarati.  
+ “Date of birth/Age” printed, in English and “જન્મતારીખ/ઉંમર” in Gujarati and its value/detail in English 
+and Gujarati. 
+ 
+Back: ‐ 
+ “Address”, printed in English and “સરનામ ું” printed in Gujarati and its value/detail in English and 
+Gujarati.  
+ “Issue Date” in English and its value/details. 
+ Scanned signature of Electoral Registration Officer. 
+ “મતદાર નોંધણી અધધકારી” in Gujarati and its value/detail (AC Name and District Name) in Gujarati. 
+ The following would be printed at the bottom of the EPIC in English and Gujarati: ‐ 
+ 
+નોંધ/Note: 
+૧) દરેક ચ ુંટણી પહે ા કૃપા કરીને વતડમાન મતદાર યાદીમાું તમાર ું નામ હોવાની ખાતરી કરો 
+1. Before every election, please check that your name exists in current electoral roll. 
+૨) આ કાર્ડ ચ ુંટણી ધસવાયના અન્ય હેત  માટે મતદારની ઉંમરના પ રાવા તરીકે માન્ય નથી. 
+2. This card is not a proof of Age except for the purpose of election.” 
+ 
+PLEASE NOTE: All texts to be in black colour only. 
+ 
+Note: 
+The above specifications may be changed as per the guidelines of ECI. The vendor has to supply the 
+PVC cards as per the guidelines of ECI in force from time to time without extra cost. 
+ 
+3. SECURITY OF DATA 
+ 
+ 
+Standard guidelines of the Election Commission of India and Information Security (Categorized) to 
+be followed. 
+ 
+The Digital Certificate/HSM required for data encryption will be procured by the Card Printer and 
+public key to be shared with CEO. 
+ 
+Sorting of data - “Collating and sorting software, card tracking number etc.” 
+ 
+Information Security 
+ 
+The Information Security applicable to these PSP has been categorized as below. 
+ 
+I. 
+Human Resources 
+
+
+19 
+ 
+ 
+ 
+II. 
+Asset Management 
+III. 
+Access Control 
+IV. 
+Password Policy 
+V. 
+Cryptography 
+VI. 
+Physical and Environmental Security 
+VII. 
+Operations Security 
+VIII. 
+Communications Security 
+IX. 
+Information Security Incident Management 
+X. 
+Compliance 
+XI. 
+Change Management 
+ 
+ 
+SORTING OF DATA 
+ 
+ 
+The Service Provider is expected to have in place suitable/capable of collating and sorting the 
+electronic data to ensure high efficiencies in printing and dispatch of PVC Card. 
+ 
+The vendor is expected to understand the directions issued by the ECI vide its letters No.- 23/EPIC 
+Security/2021-ERS 
+dated 
+05.10.2021, 
+23/ID/2021- 
+ERS 
+dated 
+22.06.2021, 
+491/ECI/LET/FUNC/SVEEP-III/EPIC/ ENVELOPE/2021 dated 14.10.2021, 23/ID/2021- 
+ 
+ERS dated 17.01.2022 and 23/EPIC Security/2021-ERS dated 18.01.2022. Card printer shall have 
+facility of auto enveloping and will deliver the EPICs in the covers as per the letters instructions 
+so that DEO will hand over the same to the Postal Department for further distribution to the 
+concerned electors. 
+ 
+4. 
+Important Directions: 
+ 
+The supply chain method is as follows: 
+(a) Post bid evaluation and supplier selection, CEO Gujarat is going to issue the Purchase Order 
+(PO), Sign the Contract with the Authorized Signatory of the selected firm(s), supply voters’ 
+data in PDF format through secure FTP. All invoicing by the selected agencies will be 
+submitted in triplicate to CEO Gujarat for processing after obtaining due acceptance of 
+deliveries by DOP and approval of quality after being tested by the 3rd party government 
+testing laboratory. 3rd party testing labs with NABL accreditation will be selected by CEO, 
+Gujarat. All payments to be processed and released by CEO, Gujarat 
+(b) The vendor is responsible for supplying the personalized PVC EPICs AC wise to the Post office 
+at Ahmedabad, which may be sent by Speed post through the BNPL account formed between 
+CEO and Department of Posts. There should not be any lapses in this arrangement. 
+(c) CEO will place consolidated Work/Supply Order for “Printing and Supply of personalized 
+PVC EPIC Bid Security Features” within the duration of the contract period as per their need with 
+the short‐listed successful bidders called “vendors” along with relevant Data of EPIC as per 
+directed by ECI. The DEO will be responsible for providing only those EPIC data of electors which 
+are required to personalize the PVC EPICs in an appropriate format (in this DEOs should be 
+responsible and meticulously comply with the ECI guidelines/circular about data to be given on 
+appropriate media in suitable format online to the vendor). Vendors shall also be responsible for 
+collecting only those E‐Roll data of electors which are required to personalize the EPIC; 
+otherwise, immediately for extra data/incomplete data, the vendors will bring this into the 
+
+
+20 
+ 
+ 
+ 
+knowledge of DEOs to rectify. The vendor is responsible for supplying the personalized PVC 
+EPICs AC wise to the District concerned. There should not be any lapses in this arrangement. 
+The supply schedule is given as follows: 
+ 
+Date of Supply Order/Data 
+Supply of Personalized Colour 
+PVC EPICs by the vendor 
+01-15th of every month 
+10 days 
+ 
+(d) The personalized Colour PVC EPICs should be of the best quality and last long, unlike the EPIC 
+printed through desktop printing machines one by one. There should be an automated process to 
+ensure 100% accuracy. 
+(e) The vendor will deliver the Personalized Colour PVC EPICs and voter manual kit to the 
+Post office at Ahmedabad within the supply period mentioned in the Supply/Work Order, 
+and a receipt will be taken. No additional payment will be given towards packing, delivery 
+etc., of the cards. 
+(f) Chief Electoral Officer will select one random district for testing from every lot for each agency 
+and inform selected district accordingly.  
+(g) The concerned DEO acting as PE, will take out 3 random cards out of 10000 cards OR Minimum 2 
+card if the number of cards in lot is less than 10000 from each lot supplied by the vender. Same 
+procedure will be followed during both, Annual Summary Revision (ASR) and Continuous 
+Updation of Electoral Roll and get them tested/checked from Government lab or Government 
+Approved Lab or Private Lab accredited by the NATIONAL ACCREDITATION BOARD FOR 
+TESTING AND CALIBRATION LABORATORIES (NABL) selected by the CEO. 
+(h) The charges towards the testing of sample cards shall be borne by the concerning DEO. In case the 
+test report of sample card(s) failed for the supplied lot of Personalized PVC EPICs, the lot shall be 
+entirely resupplied on the cost of the bidder to the destination. This means that the lot supplied 
+should be 100% error-free, and then only processing of payment shall be started. 
+(i) The vendor will again prepare the Personalized PVC EPICs which have been used for testing, and 
+payment for only these cards sent for testing will be paid to the Vendor as per the approved rate 
+subject to the condition that the sample(s) has/have not failed otherwise whole lot shall be 
+supplied again by the vendor. 
+(j) The vendor will submit a periodical Statement of Account of Cards (indicative list of columns 
+which can be modified/added/deleted): 
+1. Sr. No. 
+2. Order received (no. date and quantity), 
+3. Data Received in an appropriate form (Intellectual Property Rights - IPR lies with this 
+Department/ECI), 
+4. Personalized PVC EPICs delivered by the vendor with consignment no., date, quantity and 
+receipt of consignment accepted at the end of post office at Ahmedabad 
+5. Non-disclosure of information agreement on letter head that vendor has not breached IPR policy 
+i.e. not copied in any form, not shown/given to any entity, not used for the purposed other than 
+the purpose mentioned in the bid etc. 
+(k) DEO will maintain a record of every Supply Order placed in the form such as (indicative list of 
+columns ‐ DEO may modify/add/delete it): 
+1. Sr. no., 
+2. Supply order no., date, and Quantity, 
+3. Date of handing over EPIC Data to the vendor, 
+4. Mentioned period of supply with the exact date, 
+5. Date of supply made by the vendor along with quantity 
+6. Late supply, if yes by how many days (SLA applicable) 
+7. Lot accepted or rejected 
+8. If rejected, then the date and number of returning the lot to the vendor along with the quantity 
+
+
+21 
+ 
+ 
+ 
+9. Remarks, if any 
+ 
+ 
+(l) DEO will get randomly selected samples tested and keep a record viz. (indicative list of columns ‐ 
+DEO may modify/add/delete it): 
+1. Sr. no. 
+2. Order no. & date 
+3. Name of Testing Lab with number of samples 
+4. Keep EPIC nos. of those samples 
+5. Date of receiving the testing report, report no. and date 
+6. Number of failed/Passed samples 
+7. Lot is rejected if even a single sample failed 
+8. Intimation letter no. and date 
+9. Replacement supply made (no., date and quantity) 
+10. Late supply, if yes by how many days (SLA applicable) 
+The vendor shall accommodate and comply with any change in the delivery point, as may be directed 
+by the Procurement Entity in future, if the need arises. 
+ 
+ 
+5. Contract Period: ‐ 
+Contract period of the project of supply of Colour PVC‐EPIC cards will be initially kept for the 
+duration as mentioned in the “Bid Data Sheet – BDS” of this bid document. 
+6. Deliverables: 
+a. CEO/DEO shall place Supply/Work Order according to the need or urgency during the contract 
+period with a reasonable supply period. DEO shall receive supply i.e. Personalized PVC EPICs 
+kept inside the envelopes along with the other documents as specified in the ECI instructions 
+No.- 
+23/ID/2021-ERS 
+dated 
+22/06/2021, 
+491/ECI/LET/FUNC/SVEEP-
+III/EPIC/ENVELOPE/2021 dated 14.10.2021, 23/ID/2021-ERS dated 17.01.2022 and 23/EPIC 
+Security/2021-ERS dated 18.01.2022. 
+b. Supply Plan: Estimated Quantity of personalisation of PVC EPIC (No guaranty of these figures of 
+Personalization of PVC EPICs which can be increased or decreased): 
+No. 
+Year 
+a. 
+2025-2026 
+40,00,000 (Forty lakh) 
+Note: Quantity may change at any time. However, all payments will be based on actual EPIC cards 
+and other materials supplied. No claim from the vendor in this regard shall be accepted. 
+c.  Replacement of defective Personalized PVC EPICs: 
+All the expenses towards replacing defective Personalized PVC EPICs to DEOs shall be borne by 
+successful short‐ listed bidders only. The vendor has to provide Personalized PVC EPICs within a 
+stipulated time as mentioned by the DEO concerned. The concerning DEOs shall safely dispose of all 
+the defective cards and rejected lot(s) of cards. The bidders will be responsible for auto enveloping 
+and handling of cards. 
+d. Management, Supervision of Supply/Coordination etc. by short‐listed bidders: 
+All the successful short‐listed bidders have to appropriately establish a setup in the State of Gujarat 
+to coordinate, track, manage, and control supplies. SPOC (Single Point of Contact) of short‐listed 
+bidders shall be intimated to all districts of their area and CEO office along with email, fax and 
+landline number etc. The successful short listed bidder for the district will supply Personalized 
+Colour PVC EPICs ERO wise to the concerned District only who placed the supply order, not to 
+other DEOs. There should not be any lapses in this regard; otherwise, the period for supply of 
+Personalized Colour PVC EPICs to the correct destination shall be counted in the delay in supply on 
+which the LD clause will be applicable. 
+
+
+22 
+ 
+ 
+ 
+e. Role of DEO for this Bid: 
+The roles and responsibilities of the DEOs (Collector), all districts shall comprise of the following: 
+ 
+The Election Department is inviting this bid on behalf of the District Election Officers to 
+minimise the total cost and early supply looking at the volume. Therefore, all DEOs of Gujarat 
+in addition to CEO, Gujarat will be acting as Procurement Entity for their district. Offers have 
+been invited centrally only to get reasonable and competitive rates for the subject matter of the 
+bid. 
+ 
+After executing the agreement, all the DEOs of the State have been delegated powers to 
+perform all (post- agreement) activities and duties as they are Procuring Entity, such as order 
+placing/processing on time, foresee requirement leading to placing the order and responsible 
+for the smooth flow of goods, from order and storage to distribution, tracking order, 
+management, monitoring, taking action, ensure orders adhere to the agreement, auditing, 
+testing/checking, grievance redressal, approve the ordering goods, finalize purchase details of 
+orders and deliveries, supervising compliance with rules and procedures, etc. (but not limited 
+to these only). 
+ 
+A sample taken out randomly from the supplied lot may be tested/checked from any 
+Government lab or Government Approved Lab or Private Lab accredited by the National 
+Accreditation Board for Testing and Calibration Laboratories (NABL). 
+ 
+All DEOs of the State of Gujarat would assist CEO, Gujarat to handle and manage this tender 
+end to end. 
+f.  For this bid, after executing the Agreement, all the DEOs of the State shall be discharging post-
+agreement jobs/activities. All the responsibilities regarding this bid shall be of all DEOs concerned. 
+ 
+FLOW CHART 
+
+
+23 
+ 
+ 
+ 
+Section-II 
+ 
+ELIGIBILITY/QUALIFICATION CRITERIA and technical evaluation   
+ 
+1). Pre – qualification criteria 
+Evaluation of pre-qualification criteria will be as per the information/response 
+provided by the bidders against Pre-qualification criteria along with the relevant 
+supporting documents. 
+ 
+Important: Service providers who do not qualify Pre-qualification Criteria(s)will not 
+be considered for further processing and are liable to be rejected. 
+A. CRITERIA FOR PRE-QUALIFICATION 
+1 Name of the bidder 
+2 Mailing address 
+3 Telephone and Fax Number 
+4 E-mail address 
+5 Name and designation of the person authorized to make commitments to the 
+Election department (Certificate of Authority to be provided) 
+6 Year of the establishment of firm 
+7 Other financial activities of the firm/company: - 
+Table – 1 
+S.No 
+Pre-Qualification Criteria 
+Supporting Documents 
+Compliance 
+(Yes/No) 
+Detailed 
+Remarks 
+1 
+Company 
+registered 
+in 
+India 
+under 
+the 
+Companies 
+Act 
+1956/Companies act, 2013. 
+Certificate 
+of 
+Incorporation 
+/ 
+Registration in the name of the bidder 
+valid as on the date of bid submission 
+  
+  
+2 
+Category 
+of 
+Bidder 
+- 
+Bidder should be “PVC 
+Card Manufacturer and 
+Security 
+Printer” 
+and 
+should have a capacity for 
+personalization 
+Visa Card or Master Card or RuPay or 
+RBI or IBA or PVC Aadhaar Card or 
+EPIC card, having ISO 27001 and ISO 
+9001 certificates. 
+  
+  
+3 
+Experience -Bidder should 
+have had the experience of 
+any kind of PVC Cards 
+with security features of 
+work orders equal to: - 
+3 completed work orders 
+of Rs 1 crore each or more    
+OR 
+2 completed work orders 
+of Rs. 2 crores each or 
+more 
+certified 
+copy 
+of 
+statutory 
+auditor 
+mentioning 
+the 
+address 
+of 
+manufacturing plant) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+
+
+24 
+ 
+ 
+ 
+OR 
+1 completed work order of 
+Rs. 3 crore during last 4 
+years ending 31.03.2026 
+4 
+Bidder in house capacity: - 
+Bidder 
+should 
+have 
+installed 
+capacity 
+to 
+manufacture personalized 
+cards on PVC core /sheet 
+with all security features 
+of not less than 25,000 per 
+day in case of continuous 
+updation throughout the 
+year and minimum of 1 
+lakh in case of annual 
+special summary revision 
+EPIC requirements. 
+Per 
+day 
+capacity 
+of 
+supply 
+of 
+personalised PVC cards 
+  
+  
+ 
+5 
+Financial 
+Turnover: 
+Average Annual turnover 
+of the Bidder during the 
+preceding 3 financial years 
+should be at least INR 8 
+crores from the business of 
+printing PVC cards with 
+security 
+features 
+for 
+Government, PSU, Banks, 
+FIs, etc. in India and / or 
+abroad. 
+Audited Balance Sheet of last 3 years 
+CA certificate with registration number 
+and seal 
+  
+  
+ 
+6 
+Financial Net Worth as on 
+31.03.26 should be positive 
+CA 
+certificate 
+with 
+registration 
+number/ seal 
+  
+  
+ 
+7 
+Mandatory undertaking 
+Bidder should 
+  
+  
+         not be insolvent, bankrupt etc. 
+  
+  
+         not have their directors being 
+convicted of any criminal offence 
+  
+  
+ 
+
+         not have any conflict of interest 
+in the procurement comply with the 
+code of integrity 
+  
+  
+ 
+
+         not have been blacklisted by any 
+Government agency. 
+  
+  
+ 
+
+         not sublet the contract 
+  
+  
+         have submitted only one bid (a 
+self-certified 
+letter 
+as 
+per 
+Self 
+Declaration). 
+  
+  
+ 
+8 
+Bidder should have the 
+facility and experience of 
+printing 
+with 
+variable 
+data and Hot stamping 
+self-certification 
+duly 
+signed 
+by 
+authorized signatory. However, the 
+same may be inspected by CEO's 
+office before final selection. 
+  
+  
+ 
+
+
+25 
+ 
+ 
+ 
+9 
+GST 
+registration 
+and 
+clearance Bidder should 
+have 
+GST 
+where 
+his 
+business is located. Should 
+have 
+TIN(income 
+tax) 
+/PAN number 
+copies of GST registration, last GST 
+return filed, TIN registration and 
+PAN. 
+  
+  
+ 
+10 
+Should have filed income 
+tax returns for the three 
+financial years (2022- 2023, 
+2023-2024 & 2024-2025) 
+Certified copies of the ITRs filed by the 
+entity for the immediately preceding 
+three   financial years   i.e. (2022- 2023, 
+2023-24 & 2024-25) 
+  
+  
+11 
+The bidder must have 
+successfully 
+completed 
+PVC card with security 
+features printing projects 
+within India during the 
+last 5 years awarded by 
+Government 
+/ 
+PSU / 
+banks 
+copy of work orders or certificate of 
+work completed with a date 
+  
+  
+12 
+The bidder should not be 
+blacklisted or debarred or 
+banned from participating 
+or carrying out business 
+with 
+the 
+ECI 
+or 
+the 
+Ministry of Electronics & 
+IT or the entire Central 
+Government at the time of 
+the submission of the bid. 
+An undertaking from the 
+bidder, in this regard, 
+should be submitted. A 
+similar ban subsequent to 
+the submission of the bid, 
+but before the award of 
+the contract shall also 
+disqualify the bidder. 
+Certificate 
+from 
+the 
+whole- 
+time 
+Company 
+Secretary 
+or 
+Statutory 
+Auditors of the bidder. 
+  
+  
+13 
+The bidder should have at 
+least 
+one 
+office 
+at 
+Ahmedabad 
+in 
+Gujarat 
+state 
+and 
+preferably 
+support centers/ logistics 
+for the entire state. If the 
+bidder is not having any 
+office in Gujarat, then 
+bidder should submit a 
+letter of undertaking to 
+open an office in Gujarat 
+withing 45 days from the 
+date of issue of work 
+order if he is awarded the 
+work, 
+The 
+copy 
+of 
+Property 
+tax 
+bill/Electricity Bill/ Telephone Bill/ 
+GST-CST 
+Registration/ 
+Lease 
+agreement should be submitted as 
+proof or undertaking letter 
+  
+  
+
+
+26 
+ 
+ 
+ 
+Note: - Above mentioned are Minimum Pre-qualification criteria, without which the firm will be 
+disqualified However, for selection in the financial bid stage, Marks will be allotted, and merit 
+will be decided as per the technical evaluation sheet given 
+ 
+ 
+ 
+
+
+27 
+ 
+ 
+ 
+1) TECHNICAL EVALUATION 
+Table – 2 
+Technical evaluation sheet 
+Sr. 
+No. 
+Criteria 
+Max. 
+Marks 
+Marks 
+Obtained 
+Documents 
+submitted 
+1 
+Capability and Profile 
+35 
+1.1 
+Infrastructure Quality 
+15 
+ 
+1. Space available, free & utilized (Minimum free space 
+required should be commensurate to store 10 days 
+production capacity.) 
+8 
+ 
+2. Space connectivity (by road, rail and air) 
+3 
+ 
+ 
+Physical security etc 
+• Round the clock security provision. 
+• CCTV surveillance Cameras at all strategic 
+locations (both inside and outside the premise) 
+with 30 days recording facilities. 
+• Entry only through biometric/Card 
+punching system. 
+4 
+1.2 
+Quality of Machines (How to meet the required 
+output per day with a working sheet) 
+10 
+ 
+(i) Automation, 
+2 
+ 
+(ii) Computerization 
+2 
+ 
+(iii) Production in volumes 
+4 
+ 
+(iv) Integration of processes 
+2 
+1.3 
+Quality/experience 
+of 
+technical 
+personnel 
+(preferably more than three years’ experience) 
+10 
+ 
+(i) Project Manager 
+3 
+ 
+(ii) IT Team 
+4 
+ 
+(iii) Operation Team 
+3 
+2 
+Past experience of the Firm (Turnover) 
+60 
+2.1 
+Average 
+Annual 
+Turnover during the 
+previous three financial years (2022-2023,2023- 
+2024 and 2024-2025) from Value of completed 
+PVC card printing projects 
+within India during the last Four years awarded 
+by Government/PSUs/Banks as on 31.03.2026: 
+20 
+ 
+i) less than 4 crores 
+10 
+ 
+ii) More than 4 crores to 8 Crores 
+15 
+ 
+(ii) More than 8 crores 
+20 
+2.2 
+Experience in years (PVC Card Printing) 
+ 
+20 
+
+
+28 
+ 
+ 
+ 
+ 
+More than 5 years, but less than 10 years 
+15 
+ 
+More than 10 years 
+20 
+2.3 
+Installed capacity of printing Colour PVC EPICs 
+20 
+25,000 -1 lakh per day 
+15 
+More than 1lakh per day 
+20 
+3 
+Presentation for Proposed Methodology 
+5 
+3.1 
+Printing, Hot Stamping, Assembling and Dispatch 
+Solution, Quality of proposed MIS 
+2 
+3.2 
+Brief profile of the firm 
+1 
+3.3 
+Physical and Data Security 
+1 
+3.4 
+Innovation and features beyond proposed requirements 
+1 
+ 
+100 
+• Bidder should submit 10 Sample PVC cards, Envelope and cover letter as per RFP technical 
+specification and ISO standards. The election department reserves the right to get it checked from 
+Government testing labs. Any deviations from specifications may result in disqualification. 
+ 
+A team of department officials may conduct inspection on the directions of the CEO to check security 
+arrangements, infrastructure, machines and equipments, personnel as per the bid document Any 
+deviations may result in immediate disqualification. 
+Note: Documentary evidence must be furnished against each of the above criteria along with an 
+index. All documents must be signed by the CS/authorized signatory of the Bidder. In the 
+documents submitted in pursuance of eligibility criteria, relevant portions should be 
+highlighted. 
+ 
+Important: 
+ 
+Method of marking and documents required 
+1. For infrastructure quality documents related to the area, address, security features duly signed by 
+the authority should be annexed. 
+ 
+1.1 Quality of machines documents related to make, model number, year of the machine should be 
+annexed. 
+1.2 Quality/experience of technical personnel. 
+documents related to qualification and years of experience of staff should be annexed. 
+2. Turnover audit reports to be annexed. Maximum 15 marks for turnover for more than 4 cr.. 
+3. Presentation Bidder must submit the presentation with photographs, videos (if required) 
+detailing the facilities (in-line with the bid requirements) of the proposed location(s) and other 
+criteria with the online bid. The presentation can be submitted in hard copy also. 
+4. All documents in support of the claims made under clause 2 (2.1, 2.2, 2.3 and 2.4) will be certified to 
+the effect that these figures pertain to PVC card printing by statutory auditor or Company 
+Secretary of the bidder’s firm. 
+5. If the bidder’s criteria under “Past experience of the firm (Turnover)” (clauses 2.2, 2.3 and 2.4) is less 
+
+
+29 
+ 
+ 
+ 
+than the minimum, then his corresponding marks will be Zero. 
+6. Man Power Qualification: 
+The bidder must submit the CV of the resource with degree certificate, last year /semester 
+marksheet and work experience/ joining letter. 
+Sr no  
+Designation/Profile 
+Qualification  
+1 
+Project Manager 
+B.E./B.Tech or Graduate in any field of Engineering. 
+Experience: 
+Minimum 5 Years experience after completion of 
+graduation/degree 
+2 
+ IT Team 
+B.E./B.Tech or Graduate in any field of Engineering. 
+Experience: 
+Minimum 3 Years experience after completion of 
+graduation/degree 
+3 
+ Operation Team 
+B.E./B.Tech or Graduate in any field of Engineering. 
+Experience: 
+Minimum 1 Year experience after completion of 
+graduation/degree 
+ 
+ 
+3) SELECTION PROCESS 
+ 
+1. EVALUATION OF PROPOSALS: The evaluation of the proposal will be done in the 
+following parts: 
+ 
+1. 
+Preliminary Scrutiny: Each proposal will be scrutinized by a Screening Committee/IT Committee 
+of the Election Division to determine whether the documents have been properly signed, all relevant 
+papers submitted, and the proposal is in order. Proposals not conforming to such requirements will 
+be prima facie rejected. 
+2. 
+Pre-Qualification: The minimum qualifying criteria mentioned in Table-1 of Section-2, will need to 
+be met to be considered for technical evaluation. 
+3. Technical Evaluation: 
+a. The bid will be evaluated based on weightings and parameters detailed in Table-2 of Section-2. 
+Based on “Evaluation Parameters,” Points shall be awarded and total Technical Score (TS) 
+computer for each bid.  
+b. In order to qualify as Technically Qualified Bidder (TBQ) bidders should have scored a 
+minimum of 60 marks. Only TQBs with a minimum of 60 marks will be considered for financial 
+Evaluation. 
+ 
+2. SELECTION OF FIRMS: 
+ 
+1. 
+The Financial Bids of only the ‘Technically Qualified Bidders’ will be opened to prepare the first list 
+of L1, L2,L3. 
+The lowest rate L1, received from a qualified bidder will be treated as the “Discovered Rate”. Minimum 
+(3) three bidder empanel under this tender subject to matching the L1 bidder rate. 
+2. Once the L1 bidder is identified, the bidder at L2 will be given first rights to match the L1 rate 
+and then second priority will be given to L3 bidders to match rate  in order to receive an order for 
+
+
+30 
+ 
+ 
+ 
+carrying out the services. If only two bidders are finally qualified and L2/L3 refuses to match his 
+rates with L1, then PE may give entire work order to L1. 
+3. If the L2 refuses to match the L1 rate, L3 will be given an opportunity and so on. In the interest of 
+time, the bidders from L2 to the highest (as the case maybe) will be asked to match the Discovered 
+Rate and expected to give their commitment within 24 hours. 
+4. In case of a tie: 
+In case of a tie between 2 bidders at the L1 level (Discovered Rate) after the opening of the 
+financial bid, no further bid will be considered for L2. The bidder with Higher Technical Score 
+will be treated as L1 (Discovered Rate) and the other as L2 (Matching L1). The remaining 
+qualifying bidders will be treated as L3 and so forth. 
+5. 
+In the condition of critical & supply capacity, order will be distributed among L1 & L2 & l3. 
+6. 
+If only one bidder qualifies after the technical evaluation, then the Election Department will have 
+the right to select the single qualified bidder or cancel the RFP. If the Election department 
+decides to continue with a single qualified bidder, the entire volume may be allocated to the 
+single qualified bidder for the contract period. 
+7. The Election department reserves the right to call for a second bid process to select a total of 
+two/three firms for the execution of the project. 
+8. Bidder needs to provide their financial bid as per the format provided in the RFP. The financial 
+evaluation shall be conducted based on the unit rate quoted by the respective bidders. 
+9. The Election department reserves the right to cancel bid/give work to L1 bidder in case L2, L3,L4 
+and so on bidder will not match the rate of L1 bidder. 
+ 
+3. Work distribution 
+1. The CEO office will distribute work among the empanel bidders. L1 bidders will get 40% work 
+from total  work, L2 & L3 bidders will get 30% work from the total work. 
+2. In case of only (2) two bidder are empanel under this tender, the work distribution, 60% work 
+will be given to L1 bidder and 40% work will be given to L2 bidders from total work. 
+3. In case of any pending /assigned work is not completed, the CEO will reserve the right to 
+distribute the work to other empanel agencies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+31 
+ 
+ 
+ 
+Section-III 
+INSTRUCTION TO BIDDERS (ITB) 
+1) Sale of Bidding/ Tender Documents 
+a) The sale of bidding documents shall commence from the date of publication of Notice Inviting 
+Bids 
+(NIB) 
+and 
+shall 
+be 
+stopped 
+one 
+day 
+prior 
+to 
+Bid's 
+opening 
+on 
+https://https://tender.nprocure.com. The complete bidding document shall also be placed on 
+the State Public Procurement Portal. The prospective bidders shall be permitted to download 
+the bidding document from the websites and pay the bidding document price while submitting 
+the 
+Bid 
+to 
+the 
+procuring 
+entity 
+through 
+the 
+online 
+method 
+(i.e. 
+on 
+https://https://tender.nprocure.com.). 
+2) Bid Prices 
+a) The prices quoted by the Bidder in the Bid Submission Sheet and the Price Schedules shall 
+conform to the requirements specified in the bid document. 
+b) Prices quoted by the Bidder shall be fixed during the Bidder’s Performance of the Contract 
+and not subject to variation on any account. A Bid submitted with an adjustable price 
+quotation shall be treated as non‐responsive and shall be rejected. 
+c) All rates quoted must be FOR destination (as mentioned in the bid) and should include all 
+incidental charges except GST, Entry Tax, or applicable prevalent tax, charges etc. which should 
+be shown separately. No cartage or transportation charges will be paid by DEO concerned, and 
+the delivery [including unloading and stacking etc.] of the Goods shall be given at the designated 
+premises as mentioned in the bid. 
+3) Pre‐bid Meeting/ Clarifications 
+a) Pre‐Bid query submission, redressal etc. management shall not be done through the nProcure 
+website. Only the date of the Pre‐Bid meeting and the responses to the queries would be available 
+on the nProcure website. 
+b) Any prospective bidders may, in writing, seek clarifications from the procuring entity in 
+respect of the bidding documents shall also be emailed to the CEO official mail 
+ceo_gujarat@eci.gov.in,  dgmapp-gil@gujarat.gov.in and not to be uploaded on the nProcure 
+website. If the soft copy of the dully filled in Pre‐ Bid query format is uploaded on the nProcure 
+website, it would not be entertained and processed. 
+c) The procuring entity also schedules a pre‐bid conference as per the details mentioned in the NIB. 
+To clarify doubts of potential bidders in respect of the procurement and the records of such 
+conference shall be intimated to all bidders where applicable, shall be published on the respective 
+websites. 
+d) Prospective bidders may attend Pre‐bid meeting. The procuring entity may clarify doubts only to 
+potential bidders in respect of the project, which is given in writing in the prescribed format 
+received within the time frame given in the bid document and a softcopy to the email address 
+given herein. Beyond prescribed time, no PBQ shall be entertained. 
+e) The period within which the bidders may seek clarifications under (a) above and the period 
+within which the procuring entity shall respond to such requests for clarifications shall be as 
+under: ‐ 
+
+
+32 
+ 
+ 
+ 
+i. 
+Last date of submitting clarifications requests by the bidder: as per bid document 
+ii. Response to clarifications by procuring entity: as per bid document 
+iii. The finalised minutes and responses, if any, shall be provided through departmental 
+website/email promptly to all bidders to which the procuring entity provided the bidding 
+documents, so as to enable those bidders to take minutes into account in preparing their bids, 
+and will also be published on the other websites as mentioned in NIB. 
+ 
+ 
+4) Changes in the Bidding Document 
+ 
+a) At any time, prior to the deadline for submission of Bids, the procuring entity may, for any 
+reason, whether on its own initiative or as a result of a request for clarification by a bidder, 
+modify the bidding documents by issuing an addendum in accordance with the provisions 
+below. 
+i) 
+In case any modification is made to the bidding document or any clarification is issued which 
+materially affects the terms contained in the bidding document, the procuring entity shall 
+publish such modification or clarification in the same manner as the publication of the initial 
+bidding document. 
+ii) 
+In case a clarification or modification is issued to the bidding document, the procuring entity 
+may, prior to the last date for submission of Bids, extend such time limit in order to allow the 
+bidders sufficient time to take into account the clarification or modification, as the case may 
+be, while submitting their Bids. 
+5) Period of Validity of Bids 
+a) Bids submitted by the bidders shall remain valid during the period specified in NIB/ bidding 
+document. The procuring entity shall reject a Bid valid for a shorter period as a non‐ responsive 
+Bid. 
+b) Prior to the expiry of the period of validity of Bids, the procuring entity, in exceptional 
+circumstances, may request the bidders to extend the bid validity period for an additional 
+specified period of time. A bidder may refuse the request, and such refusal shall be treated as a 
+withdrawal of Bid, and in such circumstances, bid security shall not be forfeited. 
+6) Submission of Bid 
+The bid is for "Short listing of print service providers for printing and personalising PVC electors 
+photo identity cards with security features". 
+a) All prospective bidders are advised to carefully go through the bid document provided on 
+the various websites as mentioned in the bid document so that they will come to know what 
+exactly is demanded. While bidders submitting their Bids electronically shall follow the 
+
+
+33 
+ 
+ 
+ 
+electronic bid submission procedure as specified 
+on the State e‐Procurement Portal, 
+https://https://tender.nprocure.com. 
+b) The bidders are required to digitally sign each page of the bid as a token of acceptance of a 
+bid by the authorised signatory, failing which the bid may be liable to be non-responsive and 
+rejected. 
+The 
+signed 
+bid 
+shall 
+be 
+uploaded 
+using 
+DSC 
+to 
+the 
+website 
+https://https://tender.nprocure.com. 
+c) All the columns viz. compliance (in Yes or No) of Eligibility Criteria, BOM, Financial Bid and 
+their necessary associated documents properly signed etc. should be duly filled in and 
+uploaded. 
+d) Technical bid containing Eligibility Criteria and technical aspects/information/documents 
+should be separately uploaded, and Financial bid shall also be uploaded separately along with 
+respective associated documents as mentioned in the bid document. 
+e) While submitting the complete Bid Document as mentioned above, instruments for tender fee 
+amount and bid security fee amount should be physically sent to the CEO Office, Gujarat on or 
+before mentioned date and time, failing which the bid may be liable to be nonresponsive and 
+rejected. 
+f) Financial bids shall be opened of only bidders qualified technically and fulfilling eligibility 
+criteria, the date of opening for which shall be intimated later on. 
+g) While uploading/submitting Technical Bid, the bidder should physically submit 10 nos. of sample 
+of Personalized PVC EPICs conforming to technical specifications as mentioned in the bid 
+document/ECI guidelines in a sealed envelope. All the samples shall be suitably numbered, e.g. 
+1/10, 2/10 ... 
+5/10 so on along with marking of bidder's name (in short) & have authorised sign (bidder's 
+name) in such a way that while they are sent for testing by PE, the bidder's annotations may 
+not create any hurdle or problem on or before mentioned date and time failing which the bid 
+may liable to be nonresponsive and rejected. Since bidders belong to the category as mentioned 
+in the Eligibility Criteria at the beginning of this Bid, therefore, with the technical bid, the bidder 
+shall submit its own declaration in favour of PE that the samples submitted with the bid as 
+well 
+as 
+supply 
+of 
+Personalized 
+PVC 
+EPICs, 
+are 
+strictly 
+conforming 
+to 
+ECI 
+standards/norms/guidelines and as specified in the bid document, otherwise those bids would 
+be rejected outrightly. 
+i) 
+The PE shall get the samples supplied separately by the bidders tested. If the result of testing any 
+one of the sample(s) attached does not conform to the specifications mentioned in the bid 
+
+
+34 
+ 
+ 
+ 
+and ECI standards/Guidelines, then the corresponding bid shall be rejected. Therefore, bidders 
+must be careful while submitting a sample of Personalized PVC EPICs with the bid. 
+j) 
+Bidders 
+shall 
+submit 
+their 
+Bids 
+through 
+electronic 
+method, 
+i.e. 
+through 
+https://https://tender.nprocure.com on or before bid submission date/time. However, to ensure 
+more clarity, bidders are also expected to send the physical complete and signed copy of the 
+entire bidding document except financial bid to the Office of the CEO, Gujarat immediately after 
+uploading the bid document on nProcure website. In any case the physical copy should reach 
+before the bid opening. If the physical copy is not delivered, bid processing will take place 
+s o l e l y based on electronic bid document uploaded on nProcure website. Bidders should ensure 
+that there is no anomaly between the electronic and physical bid document. Physical copy will be 
+referred to only if there is no clarity in the electronic document. Discretion in this regard will be 
+completely that of the DPC/CEO. 
+k) The Procuring Entity is not responsible for non-submission of bid electronically in time due to 
+any technical or non‐technical reason(s) whatsoever. Therefore, prospective bidders are 
+suggested to avoid the last-minute submission of the bid. 
+7) Opening of Bids 
+a) The Bids shall be opened by the BEC/DPC on the date and time mentioned in the NIB in the 
+presence of the Bidders or their authorised representatives who choose to be present. 
+b) Only Technical bids will be opened first. As per pre-qualification criteria, technical bids of 
+firms meeting Pre- qualification criteria will be evaluated, and marks will be allotted as per 
+the Technical evaluation criteria given. PE will evaluate Technical Bid(s) as per criteria 
+outlined in this Bid Document or Financial Rules and Guidelines of the State of Gujarat. 
+c) The Financial Bids will remain unopened until the technical bid evaluation is done. The 
+Procuring Entity will intimate the date/time of the opening of Financial Bids. 
+d) In financial evaluation, technical bids qualified will be evaluated, and final selection will be 
+done based on the lowest rate received, irrespective of the marks obtained in the technical 
+evaluation. 
+e) The committee may co‐opt experienced persons in the committee to conduct the process of Bid 
+opening. 
+f) As electronic Bidding is adopted, the specific electronic Bid opening procedure as specified 
+on the State e‐ Procurement Portal shall be followed. The Bidders may witness the electronic 
+Bid opening procedure online. 
+g) The committee shall conduct a preliminary scrutiny of the opened technical Bids to assess 
+the prima‐facie responsiveness and ensure that the: ‐ 
+ 
+bid is as per pre-qualification criteria 
+ 
+bid is accompanied by bidding document fee, bid security or bid securing declaration, 
+relevant duly filled in documents as per annexure(s) given in the Bid Document; 
+ 
+bid is valid for the period specified in the bidding document; 
+ 
+bid is unconditional and the bidder has agreed to give the required performance security 
+
+
+35 
+ 
+ 
+ 
+or performance security declaration; and other conditions, as specified in the bidding 
+document, are fulfilled. 
+ 
+any other information which the committee may consider appropriate through nProcure 
+method. 
+h) The Financial Bid shall be kept unopened and shall be opened later on and the date and 
+time intimated to the bidders who qualify in the evaluation of the technical bid. 
+8) Documents comprising the Bid, Bid submission, Formats, Price Schedules and Signing of Bids 
+a) The PE shall not consider any bid or its related documents, material, original 
+instrument(s) etc., that arrives after the deadline for submission of bid; such bid shall be 
+declared late, rejected, and returned unopened to the bidder. The offline bid shall not be 
+entertained. 
+b) All the documents should be digitally signed by the authorized signatory of the bidder, 
+as defined in the bid as the case may be. 
+c) The Bid shall be prepared according to the procedure mentioned on 
+the website https://https://tender.nprocure.com. 
+d) The Technical Bid shall contain the following: 
+i. 
+Technical Bid Submission Sheet and Technical Bid containing the duly filled in 
+Bidding Forms, pre- qualification criteria documents, documents required for 
+technical evaluation and other Declarations related to Technical Bid and Code of 
+Integrity given as specified in annexure/appendix/bid forms in the Bid Document 
+(Note: If the prescribed formats provided in the Bid Document only, are not duly 
+filled in as per the requirement of Bid Document, the bid shall be treated as 
+non‐responsive bid and lead to rejection); 
+ii. 
+proof of payment of the price of Bidding Document, Bid Security, in accordance with Bid 
+Document; 
+iii. 
+written confirmation authorizing the signatory of the Bid to commit the Bidder, in 
+accordance with Bid Document; 
+iv. 
+documentary evidence in accordance with Bid Document establishing the Bidder’s 
+eligibility to bid; 
+v. 
+samples conforming to the ECI standards/guidelines and as required in the Bid 
+Document; 
+vi. 
+any other document required in the BDS; and 
+vii. 
+others considered necessary otherwise to strengthen the Bid submitted. 
+ 
+e) The Financial Bid shall contain the following: 
+i. 
+Financial Bid Submission Sheet and the applicable Price Schedule(s) with supporting 
+
+
+36 
+ 
+ 
+ 
+relevant documents in accordance with bid document; 
+ii. 
+Any other document required in the BDS. 
+ 
+f)  CHECKLIST 
+ 
+Sr. No. 
+Category 
+Detailed description 
+Compliance 
+1. 
+Pre-
+Qualification 
+Criteria 
+Signed and scanned copy of List and 
+Supporting Documents as per Table-1 
+of Section - 2 Earnest Money Deposit 
+ 
+2. 
+Technical 
+Evaluation 
+Criteria 
+Signed and scanned copy of List and 
+Supporting Documents as per Table-2 
+of Section 2 + copy of the presentation 
+ 
+3. 
+Financial Bid 
+Financial bid filled out in the formats 
+as specified in Annexure- 9 with 
+annexure-8 and Financial Bid 
+ 
+ 
+9) Cost & Language of Bidding 
+a) The Bidder shall bear all costs associated with the preparation and submission of its Bid, and 
+the procuring entity shall not be responsible or liable for those costs, regardless of the 
+conduct or outcome of the bidding process. 
+b) The Bid and all correspondence and documents relating to the Bid exchanged by the Bidder 
+and the procuring entity shall be written only in the English Language. Supporting documents 
+and printed literature that are part of the Bid may also be in English. 
+10) Alternative/ Multiple Bids 
+Alternative/ Multiple Bids shall not be considered at all. 
+11) Bid Security/EMD 
+Every bidder, if not exempted, participating in the procurement process will be required to 
+furnish the bid security as specified in the NIB. 
+a) Bidders shall submit EMD of Rs.8,00,000/- in the form of an unconditional Bank Guarantee 
+(which should be valid for 12 months from the last date of bid submission) of any Nationalized 
+Bank including the public sector bank or Private Sector Banks or Commercial Banks or Co-
+Operative 
+Banks 
+and 
+Rural 
+Banks 
+(operating 
+in 
+India 
+having 
+branch 
+at 
+Ahmedabad/Gandhinagar) as per the G.R. no. FD/MSM/e-file/4/2023/4020/DMO dated 
+11/03/2024 issued by Finance Department or further instruction issued by Finance department 
+time to time; in the name of “Gujarat Informatics Ltd-Gandhinagar” payable at Ahmedabad and 
+must be submitted along with the covering letter.  
+b) In lieu of bid security, a bid securing declaration shall be taken from Departments of the State 
+Government, Undertakings, Corporations, Autonomous bodies, Registered Societies and 
+Cooperative Societies which are owned or controlled or managed by the State Government 
+
+
+37 
+ 
+ 
+ 
+and Government Undertakings of the Central Government. 
+c) In case of open competitive bidding, Bid security/EMD shall be about 2% of the estimated 
+value of subject matter of procurement put to bid. 
+d) Bid security/EMD instrument or cash receipt of bid security or a bid securing declaration 
+shall necessarily accompany the technical bid. 
+e) Bid Security/EMD instrument or cash receipt of Bid Security or a Bid securing declaration 
+shall necessarily accompany the sealed Bid. Any Bid not accompanied by Bid Security or 
+Bid Securing Declaration, if not exempted, shall be liable to be rejected. 
+f) Bid security/EMD of a bidder lying with the procuring entity in respect of other bids 
+awaiting decision shall not be adjusted towards bid security for the fresh bids. However, 
+the bid security originally deposited may be considered if bids are re‐invited. 
+g) The bid security/EMD may be given in the form of a banker’s cheque, demand draft or bank 
+guarantee. The bid security must remain valid for 9 Months beyond the bid's original or 
+extended validity period. 
+h) The issuer of the bid security/EMD and the confirmer, if any, of the bid security/EMD, as 
+well as the form and terms of the bid security/EMD, must be acceptable to the procuring 
+entity. 
+i) Prior to presenting a submission, a bidder may request the procuring entity to confirm the 
+acceptability of the proposed issuer of a bid security or a proposed confirmer, if 
+required. The procuring entity shall respond promptly to such a request. 
+j) The bid security/EMD of unsuccessful bidders shall be refunded soon after final acceptance 
+of the short-listed successful bid and signing of the Agreement, and submitting performance 
+security. 
+k) The Bid security/EMD taken from a bidder shall be forfeited in the following cases, namely: ‐ 
+a. when the bidder withdraws or modifies its bid after the opening of bids; 
+b. when the bidder does not execute the agreement, if any, after placement of supply/ work 
+order within the specified period; 
+c. when the bidder fails to commence the supply of the goods or service or execute work as per 
+supply/ work order within the time specified; 
+d. when the bidder does not deposit the performance security within the specified period 
+after the supply/ work order is placed; and 
+e. If the bidder breaches any provision of code of integrity prescribed for bidders specified 
+in the bidding document or as per the state rules, the CEO reserves the right to 
+terminate the contract. 
+f. 
+if the Bidder does not accept the correction of its Bid Price pursuant to the relevant 
+bidding document. [Correction of Arithmetical Errors]. 
+l) 
+Notice will be given to the bidder with a reasonable time before the bid security deposit is 
+forfeited. 
+
+
+38 
+ 
+ 
+ 
+m) No interest shall be payable on the bid security. 
+n) In the case of the successful short‐listed bidders, the amount of bid security/EMD may be 
+adjusted in arriving at the amount of the Performance Security or refunded if the successful 
+short‐listed bidders furnish the full amount of performance security. 
+o) The procuring entity shall return the bid security/EMD after the earliest of the following events, 
+namely:‐ 
+a. the expiry of the validity of bid security; 
+b. the execution of agreement for procurement and performance security is furnished by the 
+successful short‐ listed bidders; 
+c. the cancellation of the procurement process. 
+12) Deadline for the submission of Bids 
+a) Bids shall be submitted on the nProcure website up to the time and date specified in the 
+NIB or an extension issued thereof, if any. 
+b) Normally, the date of submission and opening of Bids would not be extended. In exceptional 
+circumstances or when the bidding document are required to be substantially modified as a 
+result of discussions in pre‐bid meeting/ conference or otherwise and the time with the 
+prospective bidders for preparation of Bids appears insufficient, the date may be extended by 
+the procuring entity. 
+c) If in the office of the Bids receiving and opening authority, the last date of submission or 
+opening of Bids is a non‐working day, the Bids shall be received or opened on the next 
+working day. 
+Late Bids: The Procuring Entity shall not consider any Bid that arrives after the deadline for 
+submission of Bids, in accordance with the bid document. Such Bids shall be declared late, 
+rejected, and returned unopened to the Bidder. 
+13) Lack of Competition: 
+In case a situation of lack of competition arises, the provision given in Financial Rules and 
+Guidelines of the State of Gujarat will be followed. 
+14) Clarification of Bids 
+a) To assist in the examination, evaluation, comparison and qualification of the Bids, the 
+CEO/DPC may, at its discretion, ask any Bidder for clarification regarding its Bid. The 
+committee’s request for clarification and the response of the bidder shall be through the 
+website/email. 
+b) No substantive change to qualification information or to a submission, including changes aimed 
+at making an unqualified bidder, qualified or an unresponsive submission, responsive shall be 
+
+
+39 
+ 
+ 
+ 
+sought, offered or permitted. 
+ 
+15) Evaluation & Tabulation of Technical Bids 
+a) Determination of Responsiveness 
+(i) The CEO/DPC shall determine the responsiveness of a Bid on the basis of the 
+bidding document and the provisions of pre‐qualification/ eligibility criteria of 
+the bidding document. 
+(ii) A responsive Bid is one that meets the requirements of the bidding document 
+without any material deviation, reservation, or omission (as per Financial Rules 
+and Guidelines of the State of Gujarat). 
+b) Tabulation of Technical Bids 
+     Technical Bids shall be tabulated by a Committee (DPC/CEO) constituted on behalf of 
+PE in the form of a comparative statement to evaluate the qualification of the bidders 
+against the criteria for qualification set out in the bidding document. 
+ 
+16) Evaluation & Tabulation of Financial Bids 
+Subject to the provisions of “Acceptance of Successful Bid and Award of Contract” below, the 
+procuring entity shall take the following actions for evaluation of financial Bids: ‐ 
+a) The financial Bids of the bidders who qualified in bid examination shall be opened at 
+the notified time, date and place by the DPC/CEO in the presence of the bidders or their 
+representatives who choose to be present; 
+b) the process of opening the financial Bids shall be similar to that of technical Bids. 
+c) conditional Bids are liable to be rejected; 
+d) the examination shall include all costs and all taxes and duties applicable to the bidder 
+as per the law of the Central/ State Government/ Local Authorities 
+17) Correction of Arithmetic Errors in Financial Bids 
+The DPC/CEO shall correct arithmetical errors in substantially responsive Bids, on the following 
+basis, namely: ‐ 
+a) 
+if there is a discrepancy between the unit price and the total price that is obtained by 
+multiplying the unit price and quantity, the unit price shall prevail, and the total price 
+shall be corrected unless in the opinion 
+of the DPC/CEO there is an obvious 
+misplacement of the decimal point in the unit price, in which case the total price as 
+quoted shall govern and the unit price shall be corrected; 
+b) 
+In case of the discrepancy between the quoted price in numbers and the amount in 
+words, the amount in words will prevail. 
+ 
+18) Price in the evaluation 
+1. The bidder shall quote “Cost per unit EPIC Card Hologram and all other 
+
+
+40 
+ 
+ 
+ 
+applicable char g e s incidental to the service” as per the Scope of Work 
+given.  However, the taxes shall be excluded from the cost for the purpose of 
+evaluation. Taxes should be mentioned separately in the financial bid format 
+provided in the RFP. 
+2. Bidder must quote only one cost. Cost shall be provided up to two decimal places. 
+3. Bidder shall also separately mention all the statutory taxes, levies, duties etc. 
+ 
+19) Negotiations 
+a) Except in the case of procurement by the method of single-source procurement or 
+procurement by competitive negotiations, to the extent possible, no negotiations shall be 
+conducted after the pre‐bid stage. All clarifications needed to be sought shall be sought in 
+the pre‐bid stage itself. 
+b)  Negotiations may, however, be undertaken only with the lowest or most advantageous 
+bidder when the rates are considered to be much higher than the prevailing market rates. 
+ 
+20) Procuring Entity's Right to accept any bid and to reject any or all bids 
+The Procuring Entity reserves the right to accept or reject any bid and to annul the 
+Bidding process and reject all Bids at any time prior to Contract award without 
+assigning any reasons thereof and without thereby incurring any liability to the Bidders. 
+21) Information and publication of the award 
+Information of award of contract shall be published on the State Public Procurement Portal 
+i.e. https://https://tender.nprocure.com   as well as website. 
+ 
+22) Execution of agreement 
+a. In the written intimation of acceptance of its Bid sent to the successful short‐listed 
+bidders, it shall also be asked to execute an agreement in the format given in the 
+Bidding Document on a non-judicial stamp of requisite value at his cost and deposit 
+the amount of Performance Security or a Performance Security Declaration, as 
+applicable, within a period of 7 days from the date on which the LOA or LOI is 
+dispatched to the Bidder. Letter of Acceptance (LOA) or LOI shall constitute a 
+binding contract until a formal contract is executed. 
+23) Cancellation of the procurement process 
+a) 
+If any procurement process has been cancelled, it shall not be reopened, but it shall 
+not prevent the procuring entity from initiating a new procurement process for the 
+same subject matter of procurement if required. 
+
+
+41 
+ 
+ 
+ 
+b) 
+For reasons to be recorded in writing, a procuring entity may cancel the process of 
+procurement initiated by it. 
+24) Right to vary the quantity 
+As per the provisions of the Financial Rules and Guidelines of the State of Gujarat and 
+also the necessity. 
+ 
+25) Performance Security 
+ a) The successful Bidder has to furnish a security deposit so as to guarantee his/her 
+(Bidder) performance of the contract.  
+All the successful short‐listed bidders have to execute the agreement and furnish 
+performance security. 
+b)  Prior to the execution of the agreement, Performance Security shall be solicited from the 
+successful short‐listed bidders except for Department of the State Government and 
+undertakings, corporations, 
+autonomous bodies, registered societies, co‐operative 
+societies which are owned, controlled or Managed by the State Government and 
+undertakings of Central Government. However, a Performance Security Declaration 
+shall be taken from them.  The State Government may relax the provision of 
+Performance Security in a particular procurement. 
+      The successful bidder shall furnish a Performance Security/Performance Bank 
+Guarantee equivalent to 5% of the value of the work order/contract awarded to the 
+bidder within 15 days from the date of receipt of the Notification of Award/Contract 
+Agreement."for the duration of contract period of all Nationalized Bank including the 
+public sector bank or Private Sector Banks authorized by RBI or Commercial Bank or 
+Regional Rural Banks of Gujarat or Co-Operative Bank of Gujarat (operating in India 
+having branch at Ahmedabad/Gandhinagar) as per the G.R. no. FD/MSM/e-
+file/4/2023/4020/DMO dated 11/03/2024 issued by Finance Department or further 
+instruction issued by Finance department time to time. 
+c) The performance security/PBG shall be furnished in any one of the following forms: ‐ 
+I. 
+Bank Draft or Banker's Cheque or Bank Guarantee of a scheduled bank; 
+II. 
+National Savings Certificates and any other script/ instrument under National 
+Savings Schemes for promotion of small savings issued by a Post Office in 
+Gujarat, if the same can be pledged under the relevant rules. They shall be 
+accepted at their surrender value at the time of bid and formally transferred in 
+the name of procuring entity with the approval of Head Post Master; 
+
+
+42 
+ 
+ 
+ 
+Fixed Deposit Receipt (FDR) of a scheduled bank. It shall be in the name of the 
+Chief Electoral Officer on account of the bidder and discharged by the bidder in 
+advance. The procuring entity shall ensure before accepting the FDR that the 
+bidder furnishes an undertaking from the bank to make payment/premature 
+payment of the FDR on demand to the procuring entity without the requirement of 
+consent of the bidder concerned. In the event of forfeiture of the performance 
+security, the Fixed Deposit shall be forfeited along with interest earned on such 
+Fixed Deposit. 
+d) Performance security furnished in the form specified in clause [d] mentioned just 
+above shall remain valid for a period of 60 days beyond the date of completion of all 
+contractual obligations of the bidder. 
+e) Failure of the successful short‐listed bidders to submit the above‐mentioned 
+Performance Security or sign the Contract shall constitute sufficient grounds for the 
+annulment of the award and forfeiture of the Bid Security. 
+f) Forfeiture of Performance Security: The amount of Performance Security in full or part 
+may be forfeited, including interest, if any, in the following cases: ‐ 
+I. 
+when the Bidder short‐listed does not execute the agreement in accordance 
+with the bid within the specified time period; after issue of letter of acceptance/ 
+placement of supply order; or 
+II. 
+when the Bidder short‐listed fails to commence the supply of the Goods or Related 
+Services as per supply order within the time specified; or 
+III. 
+when Bidder short‐listed fails to commence or make the complete supply of 
+the Goods or Related Services satisfactorily within the time specified; or 
+IV. 
+When any terms and conditions of the contract are breached; or 
+V. 
+Failure by the Bidder short‐listed to pay the Procuring Entity any established dues 
+under any other contract; or 
+VI. 
+if the Bidder short‐listed breaches any provision of the Code of Integrity 
+prescribed for Bidders in the Act and Rules and this Bidding Document. 
+g) Notice will be given to the bidders short‐listed with reasonable time before Performance 
+Security deposited is forfeited. The decision of PE in this regard shall be final and 
+abided by the bidder. 
+h) No interest shall be payable on the Performance Security deposited by the bidders 
+short‐listed. 
+
+
+43 
+ 
+ 
+ 
+26) Confidentiality: 
+As per the provisions of the Financial Rules and Guidelines of the State of Gujarat. 
+27) Code of Integrity for Bidders 
+As per the provisions of Financial Rules and Guidelines of the State of Gujarat. 
+28) Conflict of interest: 
+As per the provisions of Financial Rules and Guidelines of the State of Gujarat. 
+29) Interference with Procurement Process 
+ 
+A bidder, who: ‐ 
+a) withdraws from the procurement process after the opening of financial bids; 
+b) withdraws from the procurement process after being declared the successful short‐listed 
+bidders; 
+c) fails to enter into procurement contract after being declared the successful short‐listed 
+bidders; 
+d) fails to provide performance security or any other document or security required in 
+terms of the bidding documents after being declared the successful short‐listed bidders, 
+without valid grounds, shall, in addition to the recourse available in the bidding document 
+or the contract, be punished with fine which may extend to 50 lacs rupees or 10% of the 
+assessed value of procurement, whichever is less. 
+30) Grievance handling procedures during procurement process (Appeals) 
+As per the provisions of Financial Rules and Guidelines of the State of Gujarat. 
+31) Offences by Firms/ Companies 
+As per the provisions of Financial Rules and Guidelines of the State of Gujarat. 
+ 
+32) Debarment from Bidding 
+a) A bidder shall be debarred by the State Government if he has been convicted of an offence 
+(i) 
+under the Prevention of Corruption Act, 1988 (Central Act No. 49 of 1988); or 
+(ii) under the Indian Penal Code, 1860 (Central Act No. 45 of 1860) or any other law for 
+the time being in force, for causing any loss of life or property or causing a threat to 
+public health as part of the execution of a public procurement contract. 
+b. A bidder debarred under (a) above shall not be eligible to participate in a procurement 
+process of any procuring entity for a period not exceeding three years commencing from the 
+date on which he was debarred. 
+c. If a procuring entity finds that a bidder has breached the code of integrity prescribed in 
+terms of the “Code of Integrity for bidders” above, it may debar the bidder for a period not 
+
+
+44 
+ 
+ 
+ 
+exceeding three years. 
+d. Where the entire bid security or the entire performance security or any substitute thereof, as 
+the case may be, of a bidder has been forfeited by a procuring entity in respect of any 
+procurement process or procurement 
+contract, the bidder may be debarred from 
+participating in any procurement process undertaken by the procuring entity for a period 
+not exceeding three years. 
+e. The State Government or a procuring entity, as the case may be, shall not debar a bidder 
+under this section unless such bidder has been given a reasonable opportunity of being 
+heard. 
+33) Sample/ Sample Test checking (Supply): 
+(i) 
+FOR SUMMARY REVISION: - 
+ 
+Chief Electoral Officer will select one random district for testing from every lot for each 
+agency and inform selected district accordingly.  
+The concerned DEO acting as PE, will take out 3 random cards out of 10000 cards OR 
+Minimum 2 card if the number of cards in lot is less than 10000 from each lot supplied by the 
+vender. Same procedure will be followed during both, Annual Summary Revision (ASR) and 
+Continuous Updation of Electoral Roll and get them tested/checked from Government lab or 
+Government Approved Lab or Private Lab accredited by the NATIONAL ACCREDITATION 
+BOARD FOR TESTING AND CALIBRATION LABORATORIES (NABL) selected by the CEO. 
+The charges towards the testing of sample cards shall be borne by the concerning 
+DEO. In case the test report of sample card(s) failed for the supplied lot of Personalized PVC 
+EPICs, the lot shall be entirely resupplied on the cost of the bidder to the destination. This 
+means that the lot supplied should be 100% error-free, then only processing of payment 
+shall be started. 
+(ii) 
+Election Department can, at its discretion, randomly select any district of the State in each 
+quarter to get done random testing of PVC EPIC cards. This random checking will be done 
+at Headquarter level. 
+ 
+1. Sample testing: 
+a) The PSP may have in-house CQM (card Quality Manufacturing) testing labs as per ISO 
+standards or may go for government lab testing. PSP shall undertake testing of 1 sample 
+per 10,000 PVC cards printed for the following parameters/test as per ISO standards and 
+keep the testing reports for inspection of Election department: 
+
+
+45 
+ 
+ 
+ 
+Election Department reserves the right to get the random sample of the cards tested on its 
+own by CIPET or ask PSP to get the samples selected by the Election Department tested by 
+CIPET. No extra cost shall be provided to PSP for such testing. The PSP shall submit the 
+test report to Election Department on a quarterly basis: 
+ 
+In failure in sample testing conducted by CIPET (or other Government Authorised labs/ 
+testing agencies), there shall be a penalty for each non-compliance. The penalty shall be 
+assessed and levied on each instance of non-compliance of the mentioned tests on a 
+quarterly basis at the rate of 0.1% of the cost of the card (excluding taxes) for the total 
+number of cards in the quarter from which the sample has been picked. The PSP shall 
+rectify the anomaly within 10 days of intimation by CIPET and get the same tested again 
+for compliance. 
+ 
+35) ) Monitoring: 
+Regular monitoring will be done by the election department at the HQ level. 
+
+
+46 
+ 
+ 
+Section-IV 
+ 
+GENERAL TERMS AND CONDITIONS OF TENDER & CONTRACT 
+ 
+Bidders should read these conditions carefully and comply strictly while sending their bids. 
+Definitions 
+For the purpose of clarity, the following words and expressions shall have the meanings hereby 
+assigned to them: ‐ 
+a) 
+“Contract” means the Agreement entered into between the Purchaser and the successful/ 
+selected bidder, together with the Contract Documents referred to therein, including all 
+attachments, appendices, and all documents incorporated by reference therein. 
+ 
+b) “Contract Documents” means the documents listed in the Agreement, including any 
+amendments thereto. 
+ 
+c) “Contract Price” means the price payable to the successful/ selected bidder as specified in the 
+Agreement, subject to such additions and adjustments thereto or deductions therefrom, as 
+may be made pursuant to the Contract. 
+ 
+d) “Day” means a calendar day. 
+ 
+e) “Delivery” means the transfer of the Goods from the successful/ selected bidder to the 
+Purchaser in accordance with the terms and conditions set forth in the Contract. 
+ 
+f) “Completion” means the fulfilment of the related services by the successful/ selected 
+bidder in accordance with the terms and conditions set forth in the Contract. 
+g) “Goods” means all of the commodities, raw material, machinery and equipment, and/or 
+other materials that the successful/ selected bidder is required to supply to the Purchaser 
+under the Contract. 
+ 
+h) “Purchaser” means the entity purchasing the Goods and related services, as specified in the 
+bidding document. 
+ 
+i) 
+“Related Services” means the services incidental to the supply of the goods, such as insurance, 
+installation, training and initial maintenance and other similar obligations of the successful/ 
+selected bidder under the Contract. 
+ 
+j) 
+“Supplier/ Successful or Selected bidder” means the person, private or government entity, or a 
+combination of the above, whose Bid to perform the Contract has been accepted by the 
+Purchaser and is named as such in the Agreement, and includes the legal successors or 
+permitted assigns of the successful/ selected bidder. 
+k) 
+“The Site,” where applicable, means the designated project place(s) named in the bidding 
+document.  
+ 
+Note: The bidder shall be deemed to have carefully examined the conditions, specifications, size, 
+make and drawings, etc., of the goods to be supplied and related services to be rendered. If the 
+bidder has any doubts as to the meaning of any portion of these conditions or of the 
+specification, drawing, etc., he shall, before submitting the Bid and signing the contract, refer the 
+same to the procuring entity and get clarifications. 
+
+
+47 
+ 
+ 
+1) 
+Contract Documents 
+Subject to the order of precedence set forth in the Agreement, all documents forming the 
+Contract (and all parts thereof) are intended to be correlative, complementary, and 
+mutually explanatory. 
+2) 
+Interpretation 
+a) If the context so requires it, singular means plural and vice versa. 
+b) Entire Agreement: The Contract constitutes the entire agreement between the 
+Purchaser and the Supplier/ Selected Bidder and supersedes all communications, 
+negotiations and agreements (whether written or oral) of parties with respect thereto 
+made prior to the date of Contract. 
+c) Amendment: No amendment or other variation of the Contract shall be valid 
+unless it is in writing, is dated, expressly refers to the Contract, and is signed by 
+a duly authorized representative of each party thereto. 
+d) Non‐waiver: Subject to the condition (f) below, no relaxation, forbearance, delay, or 
+indulgence by either party in enforcing any of the terms and conditions of the 
+Contract or the granting of time by either party to the other shall prejudice, affect, or 
+restrict the rights of that party under the Contract, neither shall any waiver by 
+either party of any breach of Contract operate as a waiver of any subsequent or 
+continuing breach of Contract. 
+e) Any waiver of a party’s rights, powers, or remedies under the Contract must be in 
+writing, dated, and signed by an authorized representative of the party granting 
+such waiver and must specify the right and the extent to which it is being waived. 
+f) Severability: If any provision or condition of the Contract is prohibited or rendered 
+invalid or unenforceable, such prohibition, invalidity or unenforceability shall not 
+affect the validity or enforceability of any other provisions and conditions of the 
+Contract. 
+3) 
+Language 
+a) The Contract, as well as all correspondence and documents relating to the Contract 
+exchanged by the successful/ selected bidder and the Purchaser, shall be written in 
+English language only. 
+4) 
+Scope of Supply or Schedule 
+ 
+a) Subject to the provisions in the bidding document and contract, the goods and 
+related services to be supplied shall be as specified in the bidding document. 
+b) Unless otherwise stipulated in the Contract, the scope of supply shall include all 
+such items not specifically mentioned in the Contract, but that can be reasonably 
+inferred from the Contract as being required for attaining delivery and completion 
+of the goods and related services as if such items were expressly mentioned in the 
+
+
+48 
+ 
+ 
+Contract. 
+c) The successful short‐listed bidders have to supply goods within the period as 
+mentioned in the BDS. 
+ 
+5) 
+Delivery & Installation (whichever is applicable) 
+a) Subject to the conditions of the contract, the delivery of the goods and completion of the 
+related services shall be in accordance with the delivery and completion schedule 
+specified in the bidding document. The details of supply/ shipping and other 
+documents to be furnished by the successful/ selected bidder are specified in the 
+bidding document and/ or contract. 
+b) The contract for the supply can be repudiated at any time by the Chief Electoral Officer, 
+Gujarat, if the supplies are not made to his satisfaction after giving an opportunity to 
+the bidder of being heard and recording the reasons for repudiation. 
+ 
+6) Supplier’s/ Selected Bidder’s Responsibilities 
+The Supplier/ Selected Bidder shall supply all the goods and related services included in the 
+scope of supply in accordance with the provisions of the bidding document and/ or contract. 
+7) Contract Price 
+c) The Contract Price shall be paid as specified in the contract subject to any additions 
+and adjustments thereto, or deductions therefrom, as may be made pursuant to 
+the Contract. 
+d) Prices charged by the Supplier/ Selected Bidder for the Goods delivered and the Related 
+Services performed under the Contract shall not vary from the prices quoted by the 
+Supplier/ Selected Bidder in its bid. 
+8) Recoveries from Supplier/ Selected Bidder 
+e) Recoveries of liquidated damages, short supply, breakage, rejected articles shall 
+ordinarily be made from bills. 
+f) The amount may also be withheld to the extent of short supply, breakages, and rejected 
+articles and in case of failure in satisfactory replacement by the supplier along with 
+the amount of liquidated damages shall be recovered from his dues and security 
+deposit available with the department. 
+g) In case recovery is not possible, recourse will be taken under Gujarat PDR Act or any 
+other law in force. 
+9) Taxes & Duties 
+a) If applicable, the prevailing taxes, charges etc., if applicable, shall be deducted at source 
+by PE as per prevailing rates. 
+b) The successful/ selected bidder shall be entirely responsible for all taxes, stamp duties, 
+license fees, and other such levies imposed outside the country for goods supplied from 
+outside India. 
+c) For goods supplied from within India, the successful/ selected bidder shall be 
+
+
+49 
+ 
+ 
+entirely responsible for all taxes, duties, license fees, etc., incurred until the contracted 
+goods are delivered to the Purchaser. 
+d) The Service Provider shall be entirely responsible for all taxes, duties, octroi, license 
+fees, and demurrage charges etc., incurred of the contracted Services to the Purchaser. 
+If there is any reduction or increase in duties and taxes due to any reason whatsoever 
+after submission of Bid by the Bidder, the same shall be passed on to the Purchaser. 
+Bidder shall provide the cost of the 
+services and all applicable taxes separately as per the format provided in the RFP. 
+ 
+10) Copyright 
+The copyright in all drawings, design documents, source code and other materials 
+containing data and information furnished to the Purchaser by the Supplier/ Selected 
+Bidder herein shall remain vested in the Supplier/ Selected Bidder, or, if they are furnished 
+to the Purchaser directly or through the Supplier/ Selected Bidder by any third party, 
+including suppliers of materials, the copyright in such materials shall remain vested in 
+such third party. 
+11) Confidential Information 
+a) The Purchaser and the Supplier/ Selected Bidder shall keep confidential and shall 
+not, without the written consent of the other party hereto, divulge to any third 
+party any drawings, documents, data, or other information furnished directly or 
+indirectly by the other party hereto in connection with the Contract, whether 
+such information has been furnished prior to, during or following completion or 
+termination of the Contract. 
+b) The Purchaser shall not use such documents, data, and other information received 
+from the Supplier/ Selected Bidder for any purposes unrelated to the Contract. 
+Similarly, the Supplier/ Selected Bidder shall not use such documents, data, and 
+other information received from the Purchaser for any purpose other than the design, 
+procurement, or other work and services required for the performance of the 
+Contract. 
+c) The above provisions shall not in any way modify any undertaking of 
+confidentiality given by either of the parties hereto prior to the date of the Contract 
+in respect of the supply or any part thereof. 
+d) The provisions of this clause shall survive completion or termination, for whatever 
+reason, of the Contract. 
+12) Packing and Documents: 
+a) The Supplier/ Selected Bidder shall provide such packing of the Goods as is 
+required to prevent their damage or deterioration during transit to their final 
+destination, as indicated in the Contract. During transit, the packing shall be 
+sufficient to withstand, without limitation, rough handling and exposure to 
+extreme temperatures, salt and precipitation, and open storage. Packing case size 
+and weights shall take into consideration, where appropriate, the remoteness of the 
+
+
+50 
+ 
+ 
+final destination of the Goods and the absence of heavy handling facilities at all 
+points in transit. 
+b) The packing, marking, and documentation within and outside the packages shall 
+comply strictly with such special requirements as shall be expressly provided for 
+in the Contract, including additional requirements, if any, specified in the contract 
+and in any other instructions ordered by the Purchaser. 
+c) The goods will be delivered at the FOR destination, i.e. Store of the DEO of the 
+district concerned in perfect condition. 
+13) Delivery period & Extent of Quantity 
+i) The time specified for delivery shall be deemed to be the essence of the 
+contract, and the successful short‐listed bidders shall arrange supplies within 
+the period on receipt of the firm order from the DEO concerned. 
+ii) The selected bidder shall arrange supplies within the stipulated time period. 
+ 
+ 
+14) Payment Terms and Schedule: 
+a) 100% Payment shall be made as per details mentioned below by the CEO Office within a 
+month's time after receipt of the delivery acknowledgements and positive testing report 
+by the respective DEOs within a week after the date of delivery. If the DEO fails to 
+acknowledge the receipt of the EPICs within the stipulated time, all the consequences 
+shall be of the DEO concerned in person. Submission of an invoice by the successful 
+short‐listed bidder in a triplicate for payment: ‐ 
+ On complete delivery of Colour Personalized PVC cards as mentioned in NIB at the 
+stores of DEO; 
+ After acceptance of the positive testing report by DEO concerned for every supply 
+order placed; 
+ After deducting all types of penalties, due to any reason mentioned in the bid, if any. 
+b) The currency or currencies in which payments shall be made to the supplier/selected 
+bidder under this Contract shall be Indian Rupees (INR) only. 
+c) All remittance charges will be borne by the supplier/ selected bidder. 
+d) In case of disputed items, the disputed amount shall be withheld and will be paid only 
+after settlement of the dispute by the concerning CEO. 
+e) Any penalties/ liquidated damages, as applicable, for delay and non‐performance, as 
+mentioned in this bidding document, will be deducted from the due payments by the 
+concerning CEO. 
+f) Taxes, as applicable, will be deducted as per the prevalent rules and regulations by the 
+concerning CEO. 
+g) Payment shall be made to the successful short‐listed bidders by the CEO concerned after 
+all necessary formality as per rules have been fulfilled. 
+
+
+51 
+ 
+ 
+15) PENALTIES: 
+I. Risk and Cost: 
+II. Delivery of Card/Envelope/ Welcome Kit  
+Sr no  
+Particular 
+Penalty 
+1 
+The bidder delivered Card/Envelop/Welcome 
+Kit  after 10 days and before 15 days from the 
+receiving the list/file/instruction/order 
+Per day Rs 0.20 penalty for 
+each card 
+2 
+The bidder delivered Card/Envelop/Welcome 
+Kit  after 15 days from the receiving the 
+list/file/instruction/order 
+Per day Rs 0.40 penalty for 
+each card 
+3 
+The bidder delivered Card/Envelop/Welcome 
+Kit  after 25 days from the receiving the 
+list/file/instruction/order 
+Per day Rs 0.60 penalty for 
+each card 
+The maximum penalty should be applicable upto 10%. Of the contract value. 
+In case of the penalty exceeds 10% of contract value, the contract/ empanelment with CEO 
+will be cancelled. 
+In case the contractor does not commence the work as required by DEO within the 
+stipulated period, the work can be allotted to other short‐listed bidders at the risk 
+and cost (in case of difference in the cost of supply) of the contractor firm, and LD 
+clause shall be attracted to the short‐listed bidder who was placed the order & could not 
+commence the work. 
+III. Liquidated Damages (LD): 
+In case of extension in the delivery period with liquidated damages, the recovery shall 
+be made on the basis of the following percentages of the value of Stores with the 
+bidder has failed to supply/ install/ complete: ‐ 
+O delays up to one-fourth period of the prescribed delivery period: 2.5% 
+o delay exceeding one fourth but not exceeding half of the prescribed 
+period:5.0%   
+ o delay exceeding half but not exceeding three fourth of the prescribed 
+period:7.5% 
+o delay exceeding three fourth of the prescribed period: 10% 
+a) Fraction of a day in the reckoning period of delay in supplies shall be 
+eliminated if it is less than half a day. 
+b) The maximum amount of liquidated damages shall be 10% of the contract value. 
+c) If the supplier requires an extension of time in completion of contractual supply 
+on account of the occurrence of any hindrance, he shall apply in writing to the 
+authority, which has placed the supply order, for the same immediately on the 
+occurrence of the hindrance but not after the stipulated date of completion of 
+
+
+52 
+ 
+ 
+supply. 
+d) The delivery period may be extended with or without liquidated damages if the 
+delay in the supply of goods is on account of hindrances beyond the control of 
+the bidder. 
+Note:  The supply of Personalized PVC EPICs to the correct DEO (ERO wise) from the 
+incorrect DEO (in case of the Personalized PVC EPICs wrongly supplied to 
+incorrect DEO) shall also be counted as delay in supply and added to the 
+delayed period of supply, according to which the LD clause shall be applicable. 
+16) 
+Settlement of Disputes/Dispute Resolution Mechanism: If any dispute arises out of 
+the contract with regard to the interpretation, meaning and breach of the terms of the 
+contract, the matter shall be referred to "Chief Electoral Officer and Ex‐Officio Secretary 
+to the Government of Gujarat" & whose decision shall be final and abided by all 
+stakeholders. 
+17) Legal Proceedings: All legal proceedings, if necessity arises shall have to be lodged in 
+courts situated in State headquarter – Gandhinagar, Gujarat and not elsewhere by any of 
+the parties. 
+18) Force Majeure 
+a) The supplier/ selected bidder shall not be liable for forfeiture of its Performance 
+Security deposited, LD, or termination for default if and to the extent that it’s delay in 
+performance or other failures to perform its obligations under the Contract is the 
+result of an event of Force Majeure. 
+b) For purposes of this Clause, “Force Majeure” means an event or situation beyond the 
+control of the supplier/ selected bidder that is not foreseeable, is unavoidable, and its 
+origin is not due to negligence or lack of care on the part of the supplier/ selected 
+bidder. Such events may include, but not be limited to, acts of the Purchaser in its 
+sovereign capacity, wars or revolutions, fires, floods, epidemics, quarantine 
+restrictions and freight embargoes. 
+c) If a Force Majeure situation arises, the supplier/selected bidder shall promptly notify the 
+Purchaser in writing of such conditions and cause thereof within 15 days of the 
+occurrence of 
+such event. Unless otherwise directed by the purchaser, the 
+supplier/selected bidder shall continue to perform its obligations under the contract as 
+far as reasonably practical. 
+d) If the performance in whole or part or any obligation under the contract is prevented or 
+delayed by any reason of Force Majeure for a period exceeding 60 days, either party at 
+its option may terminate the contract without any financial repercussion on either side. 
+e) In case a Force Majeure situation occurs with the purchaser, the purchaser may take the 
+case with the supplier/ selected bidder on similar lines. 
+ 
+19) Termination 
+a) Termination for Default 
+1. The Chief Electoral Officer who is the Procuring Entity, without prejudice to any 
+other remedy under the provisions of the Act, the Rules or the Contract for breach 
+of Contract, by Notice of default sent to the Supplier, may terminate the Contract in 
+whole or in part: 
+
+
+53 
+ 
+ 
+i. 
+if the Supplier fails to deliver any or all of the Goods and/ or Related Services 
+within the period specified in the Contract, or within any extension thereof 
+granted by the Procuring Entity pursuant to the clause mentioned in the bid 
+document; or 
+ii. if the Supplier fails to perform any other obligation under the Contract. 
+iii. if the Supplier, in the judgment of the Procuring Entity, has breached any 
+provision of the Code of Integrity, as defined in the Act (of the state), the Rules 
+and Code of Integrity, in competing for or in executing the Contract. 
+2. In the event the Procuring Entity terminates the Contract in whole or in part, 
+pursuant to clause mentioned in Bid Document, the Procuring Entity may procure, 
+upon such terms and in such manner as it deems appropriate, the Goods and/ or 
+the Related Services similar to those undelivered or not performed, and the 
+Supplier shall be liable to the Procuring Entity for any additional costs for such 
+similar Goods or Related Services and such additional cost shall be recovered from 
+the dues of the Supplier with the Procuring Entity. 
+ 
+b) Termination of insolvency 
+ 
+The Procuring Entity may at any time terminate the Contract by giving Notice to the 
+Supplier if the Supplier becomes bankrupt or otherwise insolvent. In such event, the 
+termination will be without compensation to the Supplier, provided that such 
+termination will not prejudice or affect any right of action or remedy that has accrued 
+or will accrue thereafter to the Procuring Entity. 
+c) Termination of Convenience 
+i.     The Procuring Entity, by Notice sent to the Supplier, may terminate the Contract, in 
+whole or in part, at any time for its convenience. The Notice of termination 
+shall specify that termination is for the Procuring Entity’s convenience, the extent 
+to which performance of the Supplier under the Contract is terminated, and the 
+date upon which such termination becomes effective. 
+ii. The Goods which have been shipped or dispatched at the time of Supplier’s receipt 
+of the Notice of termination may be accepted by the DEO concerned at the 
+Contract terms and prices. 
+ 
+ 
+20) Security audit: 
+ 
+ 
+Application Security Audit: 
+In addition to inspection & testing, the SP shall also be responsible to get web application & 
+all device used in EPIC printing service security audited by STQC or CDAC or MeiTY 
+Empaneled application security Auditors at the cost of the SP and submit the Security Audit 
+Clearance Certificate issued by STQC or CDAC or MeiTY Empaneled application security 
+Auditors. 
+a) The SP must submit the test results to CEO. The SP must submit test result to CEO 
+within 45 days from the date of issuance of the Work Order. 
+b) Should any inspected or tested software fail to conform to the specifications, the CEO 
+
+
+54 
+ 
+ 
+may reject the software and the SP shall either replace/redevelop the rejected software 
+or make alterations necessary to meet specification requirements free of cost to CEO. 
+c) The SP shall comply with the instructions issued by the Election Commission of India 
+(ECI) vide letter dated 05 February 2024, along with the SOPs enclosed with this 
+document. Further, the SP shall ensure execution and maintenance of Employee Non-
+Disclosure Agreements (NDAs) in the standard format prescribed by ECI (Annexure 
+I).SP shall also implement the Security Protocol, including third-party audit of the 
+printing agency’s systems and premises, to ensure Quality Assurance (QA) and Quality 
+Control (QC), as prescribed in the enclosed SOPs, and shall submit a Compliance 
+Report accordingly. 
+
+
+55 
+ 
+ 
+Section-V-(A) 
+ 
+BIDDING FORM NO.‐1:  
+ 
+
+
+56 
+ 
+ 
+To, 
+Joint Chief Electoral Officer, 
+Office of the Chief Electoral Officer,  
+Block No. 7, 2nd Floor,  
+New Sachivalaya, Gandhinagar-382010 
+ 
+Technical Bid Submission Sheet 
+Date: NIB No.: 
+Alternative No., if permitted: 
+We, the undersigned, declare that: 
+(a) We have examined and have no reservations about the Bidding Document. 
+(b) We declare that we fulfil eligibility criteria as per the technical evaluation sheet and Pre- 
+qualification criteria in conformity with The Bidding Document and offer to supply in 
+accordance with the specifications, the delivery schedule and other requirements as 
+specified in the bidding document for Supply of Personalized PVC EPICs as per NIB. 
+(c) Our Bid shall be valid for a period as mentioned in the BDS from the date fixed for 
+the bid submission deadline in accordance with the Bidding Document, and it shall 
+remain binding upon us and may be accepted at any time before the expiration of that 
+period; 
+(d) If our Bid is accepted, we commit to provide a Performance Security in the amount of 
+percent of the Contract Price or shall submit the Performance Security Declaration, as 
+the case may be, for the due performance of the Contract; 
+(e) We are not participating, as Bidder in more than one Bid for the supply of the subject 
+Goods/Matter in this bidding process in the Bidding Document; 
+(f) Our firm for any part of the Contract has not been debarred by the State Government 
+or the Procuring Entity or regulatory authority under any applicable law; 
+(g) We understand that this Bid, together with your written acceptance thereof included in 
+your notification of award, shall constitute a binding contract between us, until a formal 
+contract is prepared and executed; 
+(h) We understand that you are not bound to accept the lowest evaluated bid or any other 
+bid that you may receive; 
+(i) We agree to permit the Government of Gujarat or the Procuring Entity or DEOs or their 
+representatives to inspect our accounts and records and other documents relating to the bid 
+submission and to have 
+them audited by auditors appointed by them; 
+(j) We declare that we have complied with and shall continue to comply with the provisions of 
+
+
+57 
+ 
+ 
+the Code of Integrity including Conflict of Interest as specified for Bidders in the Financial 
+Rules and Guidelines of the state of Gujarat and this Bidding Document during the 
+procurement process and execution of the Contract till completion of all our obligations under 
+the Contract; 
+(k) We hereby agree in principle to be short‐listed after mutual agreement. 
+ 
+ 
+Name: 
+ 
+ 
+In   the 
+capacity of:   
+ 
+ 
+ 
+ 
+Signed: 
+ 
+Date:    
+ 
+Duly authorised to sign the Bid for and on behalf of:   
+ 
+ 
+Complete Address   
+ 
+Tel: _________________Fax: ______________E‐mail: _______________ 
+
+
+58 
+ 
+ 
+ BI DDING FORM NO.‐2:  
+ 
+ 
+Manufacturer and Security Printer Certificate 
+(To be given on the letterhead of the Manufacturer) 
+ 
+Date:   
+ 
+ 
+NIB No.:    
+ 
+ 
+To, 
+ 
+Joint Chief Electoral Officer, 
+Office of the Chief Electoral 
+Officer, Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010 
+ 
+WHEREAS 
+ 
+ 
+We, who are "manufacturer and security printer" of PVC cards with security features 
+and  
+ 
+personalization 
+process 
+in 
+our 
+in‐house 
+factory(ies) 
+situated 
+at 
+……………………………………………………………. 
+and also hereby declare that the above PVC EPIC Cards, including personalization 
+to be supplied, shall be conforming to ECI standards, specification of the bid, and 
+other guidelines. 
+ 
+We also know that if our sample(s) submitted with the bid when tested does/do not 
+conform to ECI standards/guidelines/norms as mentioned in the bid document (as 
+the case may be), our bid may be liable to be rejected. 
+Name:  
+ 
+In the capacity of:   
+ 
+Signed:    
+ 
+ 
+Manufacturer’ seal:    
+ 
+    Tel:    
+Fax:   
+e‐mail:   
+
+
+59 
+ 
+ 
+ ANNEXURE‐1: PRE‐BI D QUERIES’ FORMAT {to be filled by the bidder} 
+ 
+Name of the Company/Firm:   
+ 
+ 
+ 
+ 
+Name of Person(s) Representing the Company/ Firm: 
+ 
+Name of Person 
+Designation 
+Email‐ID(s) 
+Tel. Nos. (Mo.)& Fax Nos. 
+ 
+Company/Firm Contacts: 
+ 
+Email‐ID(s) 
+Tel. Nos. (Mo.)& Fax Nos. 
+Contact Person(s) 
+Correspondence 
+Address 
+ 
+Query(ies) / Clarification(s) Sought: 
+ 
+Sr. No. 
+Bid Page 
+No. 
+Bid Clause 
+No. 
+Existing Clause Details 
+Query/ 
+Suggestion/ 
+Clarification sought 
+1. 
+2. 
+3. 
+……. 
+4. 
+……. 
+ No te:‐ 
+ 
+1. Queries must be strictly submitted only in the above prescribed format (.XLS/ .XLSX/ 
+.DOC/.DOCX) in virus-free file. Queries not submitted in the prescribed format will not be 
+considered/responded at all by the Procurement Entity. 
+2. Prospective bidder may, in writing, seek clarifications from the procuring entity in respect 
+of 
+the 
+bidding 
+document. 
+Such 
+clarifications/queries 
+shall 
+be 
+emailed 
+to 
+ceo_gujarat@eci.gov.in and dgmapp-gil@gujarat.gov.in and not to be uploaded on the 
+nProcure website. In case the soft copy of the duly filled in Pre‐Bi d query format is 
+uploaded on the nProcure website, then it would not be entertained and processed. 
+3. The Bidders can submit their queries on or before the scheduled last date after Pre‐Bid 
+Meeting to be held along with softcopy, which can be emailed to ceo_gujarat@eci.gov.in, 
+and dgmapp-gil@gujarat.gov.in  with a subject line of “ PBQ  for Short‐listi ng for Personaliz 
+ed PVC EPI Cs ”. 
+
+
+60 
+ 
+ 
+ ANNEXURE‐2: BI DDER’S AUTHORI ZATI ON C ERTI FICAT E {to be filled by the bidder} 
+(To be given on the letterhead of the Manufacturer) 
+To, 
+ 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral 
+Officer, Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010. 
+ 
+Ref: NIB No. 
+date: 
+ 
+ 
+WHEREAS 
+ 
+We, who are "manufacturers and security printer” of   
+ 
+ 
+ 
+ 
+having factory(ies) at_  
+ 
+ 
+ 
+ 
+ 
+do                                    hereby                                    authorise                                   ( Name)  
+ 
+ 
+ 
+ 
+(Contact Numbers) Mobile 
+Fax_ 
+Email  
+  
+to submit a Bid in relation to the Invitation for Bids indicated above, the purpose of 
+which is to provide the following Goods, manufactured by us and to subsequently 
+negotiate and sign the Contract: 
+"Short‐listing of Print Service Provider for supply of Personalized PVC EPICs 
+with security features" 
+ 
+ 
+We hereby extend our full guarantee/warranty in accordance with Clauses given in 
+bid document/conditions of contract, with respect to the Goods offered by the above 
+firm in reply to this Invitation for Bids. 
+Thanking you, 
+ 
+ 
+Name of the Bidder: ‐ 
+Verified Signature: 
+Authorised Signatory: ‐ 
+Name: 
+Seal of the Organization: ‐ 
+Position: 
+(Includes complete address) 
+ 
+ 
+Date: ---------------- 
+ 
+Place: -------------- 
+
+
+61 
+ 
+ 
+ 
+ 
+ 
+bidder}  
+ 
+To, 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer,  
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010. 
+ 
+Declaration by Successful Bidder 
+ 
+In relation to my/our bid submitted for "Supply of Personalized PVC EPIC cards with security 
+features" conforming 
+to specifications in 
+Bid & 
+ECI standards in
+ 
+response 
+to the NIB 
+Ref. 
+No. 
+  
+dated 
+ 
+as an Owner/ Partner/ Director/ Auth. 
+Signatory of 
+ 
+, I/ We hereby declare that: ‐ 
+a) We are eligible and possess the necessary professional, technical, financial and managerial 
+resources and competence required by the Bidding Document issued by the Procuring Entity; 
+b) We have fulfilled my/ our obligation to pay such of the taxes payable to the Union and the State 
+Government or any local authority as specified in the Bidding Document; 
+c) We are not insolvent in receivership, bankrupt or being wound up, not have my/our affairs 
+administered by a court or a judicial officer, not have its business activities suspended and 
+not the subject of legal proceedings for any of the foregoing reasons; 
+d) We do not have, and our directors and officers not have been convicted of any criminal offence 
+related 
+to 
+their 
+professional 
+conduct 
+or 
+the 
+making 
+of 
+false 
+statements 
+or 
+misrepresentations as to their qualifications to enter into a procurement contract within a 
+period of three years preceding the commencement of the procurement process, or not 
+have been otherwise disqualified pursuant to debarment proceedings; 
+e) We do not have a conflict of interest as specified in the Financial Rules and Guidelines of the 
+State of Gujarat and this bidding document which materially affects the fair competition. 
+f) We are having an unblemished record and is not declared ineligible for corrupt & fraudulent 
+practices either indefinitely or for a particular period of time by any State/ Central 
+government/ PSU/ UT. 
+g) We do not have any previous transgressions with any entity in India or any other country 
+during the last three years 
+ANNEXURE‐3: SELF‐DECLARATION (Declaration by Bidder regarding Qualifications) {to be filled by bidder} 
+
+
+62 
+ 
+ 
+h) We do not have any debarment or black‐listed by any other procuring entity 
+j) 
+We have complied and shall continue to comply with the Code of Integrity as specified in the 
+Financial Rules and Guidelines of the state of Gujarat and this Bidding Document, till 
+completion of all our obligations under the Contract will not sublet the contract if awarded to 
+us. 
+k) We agree to extend the validity of the bid submitted on the communication of the PE. 
+l) 
+We have not modified, changed etc. any word/line/para/text mentioned in the bid 
+downloaded from the website(s) as mentioned in the bid; otherwise, we know that our 
+bid shall be cancelled and rejected if the submitted bid has a deviation of word/line/ 
+para/text from the original bid. 
+ 
+m) We agree to submit appropriate Performance Security within the time period specified in the 
+bidding document; otherwise, we know that Procuring Entity has full rights to reject our bid 
+and also agree to extend the bid validity period, if any, and extend the contract period 
+unconditionally. 
+ 
+n) We have submitted only one bid. 
+ 
+o) We give our in-principle consent to be short‐listed subject to mutual agreement. We also 
+agree that there would be up to 2 short‐listed successful bidders. 
+p) During the contract period, we will collect only those EPIC data of electors by some 
+mutually agreed mechanism (CEO/DEO and us) which are required to personalize the PVC 
+EPICs otherwise immediately for extra data/incomplete data will bring this into the 
+knowledge of CEO/DEOs to rectify. 
+ 
+q) After personalisation at our manufacturing site, we shall return the personalized PVC 
+EPIC as mentioned in the NIB, along with data to the concerned DEO and get a 
+receipt. 
+ 
+r) We understand the IPR of the EPIC data given for personalization by us lies with your 
+department or ECI and will hereby undertake that the given data shall not be copied in any 
+form, not shown/given to any entity, not retained in any form, not used for the purpose 
+other than the purpose mentioned in the bid etc. The data shall be erased entirely once the 
+matter of the lot of supply is materialized/settled. 
+ 
+s) If this declaration is found to be incorrect then without prejudice to any other action that 
+may be taken as per the provisions of the applicable Act and Rules thereto prescribed by 
+Govt. of Gujarat, my/our security may be forfeited in full and our bid, to the extent accepted, 
+may be cancelled. 
+ 
+Thanking you, 
+ 
+Name 
+of 
+the 
+Bidder: 
+‐ 
+Authorised Signatory: ‐ 
+Seal 
+of 
+the 
+Bidding 
+Organization: ‐ Date: Place:  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+63 
+ 
+ 
+ 
+ 
+ 
+To
+, 
+ 
+ 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010. 
+CERTIFICATE 
+ 
+ 
+1. This is to certify that, the specifications of “Personalized PVC EPICs with security 
+features” which I/ We have mentioned in the Technical bid, and which I/ We shall 
+supply if I/ We am/ are awarded with the work, are in conformity with the 
+minimum specifications of the commodity mentioned in the bidding document and 
+that there are no deviations of any kind from the required specifications. 
+2. Also, I/ we have thoroughly read the bidding document Financial Rules and 
+Guidelines of the State of Gujarat issued and by signing this certificate, we hereby 
+submit our token of unconditional acceptance to all the terms & conditions of the 
+bidding document without any deviations. 
+3. I/ We also certify that the price I/ we have quoted is inclusive of all the cost factors 
+involved in “Supply of Personalized PVC EPICs with security features”, as 
+mentioned in the NIB, to meet the desired Standards set out in the bidding 
+Document/ECI. 
+4. I/We are “PVC Card Manufacture and Security Printer” and declare that 
+Personalized PVC EPICs supplied shall be conforming to the specifications 
+mentioned in the Bid Document and to the ECI norms/guidelines/circulars. 
+5. I/We, understand the IPR of the EPIC data given for personalization by us, lies 
+with your department or ECI and will hereby undertake that the given data shall 
+not be copied in any form, not shown/given to any entity, not retained in any form, 
+not used for the purpose other than the purpose mentioned in the bid etc. The data 
+shall be erased entirely once the matter of the lot of supply is materialized/settled. 
+Thanking you, 
+Name of the Bidder: ‐ 
+Authorised Signatory: ‐ 
+Seal 
+of 
+the 
+Organization: ‐ Date:  
+ 
+ 
+Place:   
+ 
+ 
+ANNEXURE‐4: CERTIFICATE OF CONFORMITY/ NO DEVIATION {to be filled by bidder}  
+
+
+64 
+ 
+ 
+ ANNEXURE‐5: BI LL OF MAT ERI AL (BOM)  
+ 
+ 
+ 
+ 
+S. 
+NO. 
+DESCRIPTION OF ITEM 
+ESTIMATED 
+QUANTITY TO BE 
+SUPPLIED DURING 
+THE CONTRACT 
+PERIOD 
+BIDDERS 
+ACCEPTANCE OF 
+SUPPLY AS PER 
+T&C MENTIONED 
+IN THE BID 
+DOCUMENT 
+(YES/NO)
+1. 
+SHORTLISTING OF SUPPLIERS UP TO 2 FOR 
+SUPPLY OF PERSONALIZED PVC ELECTORS’ 
+PHOTO IDENTITY CARDS (EPICS) with 
+security features CONFORMING TO ECI 
+GUIDELINES & COMPLIANCE TO THE BID. 
+40  LACS 
+PERSONALIZED 
+PVC EPICS PER 
+YEAR (Approx.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+65 
+ 
+ 
+ANNEXURE-6: BID SECURING DECLARATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+To 
+Form of Bid Securing Declaration 
+Date: ...................... [insert date (as day, month and 
+year)] 
+Bid No.: .................................................... [insert number 
+of bidding process] 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010. 
+ 
+We, the undersigned, declare that: 
+We understand that, according to your conditions, bids must be supported by a Bid‐Securing 
+Declaration. We accept that we will automatically be suspended from being eligible for bidding 
+in any contract with you, for the duration of contract starting on [insert date], if we are in breach 
+of our obligation(s) under the bid conditions, more specifically, if we: 
+a. withdraw or modify our Bid after deadline for submission of bids, during the period of 
+bid validity specified in the Bid Data Sheet (hereinafter “the BDS”); or 
+b. having been notified during the period of bid validity specified in the BDS about the 
+acceptance of our Bid by you, 
+i. 
+fail or refuse to execute the Contract Agreement within the time period specified in the 
+BDS, 
+ii. 
+fail or refuse to furnish the performance security, in accordance with the Instructions to 
+Bidders (hereinafter “the ITB”) within the time period specified in the BDS, 
+c. not accept the correction of arithmetical errors in accordance with the ITB; or 
+d. breach a provision of the Code of Integrity specified in the State Act and Rules and the ITB. 
+ 
+We understand this Bid‐Securing Declaration shall expire if we are not the successful short‐listed 
+bidders, upon the earlier of (i) our receipt of your notification to us of the name of the 
+successful short‐listed bidders; or (ii) thirty days after the expiration of our Bid. 
+Signed: 
+  
+[insert signature of person whose name and capacity are 
+shown] Name: 
+*insert complete name of person signing the Bid‐Securing 
+Declaration] In the capacity of:  *insert legal capacity of person signing the Bid‐Securing 
+Declaration+ Duly authorized to sign the bid for and on behalf of:   
+ 
+[insert complete name and address of the Bidder] Dated on**** day of *****,2026 
+signing] 
+[insert    date   of 
+Corporate Seal 
+[affix corporate seal of the bidder] 
+ 
+Note: 
+Bid Securing Declaration shall only be dully filled in by the Departments of the State 
+Government, Undertakings, Corporations, Autonomous bodies, Registered Societies and 
+Cooperative Societies which are owned or controlled or managed by the State Government 
+and Government Undertakings of the Central Government. 
+
+
+66 
+ 
+ 
+ ANNEXURE‐7:  
+Indicative Sample of PVC EPIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTE: 
+Sample of Colour Personalized PVC EPIC (Indicative only): 
+ 
+(THE ABOVE IMAGES OF PERSONALIZED PVC EPIC IS INDICATIVE ONLY AND NOT TO 
+SCALE). PERSONALIZED EPIC ON PVC CARDS/SHEETS SHOULD BE CONFORMING TO 
+THE ECI GUIDELINES AND AS SPECIFIED IN THE BID DOCUMENT STRICTLY. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+67 
+ 
+ 
+ 
+ 
+Section-V-(B) 
+(Part‐B: Financial Bid) 
+BIDDING FORM NO. 2: 
+ 
+ 
+Financial Bid Submission Sheet 
+Date:  
+NIB No.: 
+ 
+To, 
+ 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010 
+ 
+We, the undersigned, declare that: 
+(a) 
+We have examined and have no reservations to the Bidding Document 
+(b) 
+We offer to supply in conformity with the Bidding Document and in 
+accordance with the specifications, the delivery schedule and other 
+requirements as specified in the bid, Schedule of Supply, the Goods and 
+Related Services as specified in bid document: 
+(c) 
+The total Price for our Bid is:   
+ 
+(d) 
+We understand that this Bid, together with your written acceptance thereof 
+included in your notification of award, shall constitute a binding contract 
+between us until a formal contract is prepared and executed. 
+(e) 
+We give our in-principle consent to be short‐listed subject to mutual 
+agreement. We also agree that there would be up to 2 short‐listed successful 
+bidders. 
+(f) 
+We understand that you are not bound to accept the lowest evaluated bid 
+or any other bid that you may receive. 
+Name: 
+ 
+ 
+In   
+the capacity of:   
+ 
+ 
+ 
+ 
+Signed: 
+ 
+Date:    
+ 
+Duly authorised to sign the Bid for and on behalf of:   
+ 
+ 
+
+
+68 
+ 
+ 
+Complete Address   
+ 
+Tel:   
+Fax:   
+E‐mail:   
+
+
+69 
+ 
+ 
+ ANNEXURE‐8: FINANCI AL BI D C OVER LETT ER FORMAT {to be submitted by the bidder on 
+his Letter head} 
+To 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya, Gandhinagar-382010. 
+ 
+Reference: NIB No. :_ 
+Dated:  
+  
+ 
+Dear Sir, 
+ 
+We, the undersigned bidder, having read & examined in detail the Bidding Document, the receipt of which 
+is hereby duly acknowledged, I/ we, the undersigned, offer to supply/ work as mentioned in the Scope 
+of the work, Bill of Material, Technical specifications, Service Level Standards & in conformity with the 
+said bidding document for the same. 
+1. I / We undertake that the prices are in conformity with the specifications prescribed. The quote/ 
+price are inclusive of all costs likely to be incurred for executing this work. The prices are inclusive 
+of all types of govt. taxes/duties as mentioned in the financial bid (BoQ). 
+2. I / We undertake, if our bid is accepted, to deliver the goods in accordance with the delivery schedule 
+specified in the schedule of requirements. 
+3. I/ We hereby declare that in case the contract is awarded to us, we shall submit the contract 
+performance security as prescribed in the bidding document. 
+4. I / We agree to abide by this bid for a period of 180 days after the last date fixed for bid 
+submission, and it shall remain binding upon us and may be accepted at any time before the expiry of 
+that period. 
+5. Until a formal contract is prepared and executed, this bid, together with your written acceptance 
+thereof and your notification of award shall constitute a binding contract between us. 
+6. I/ We hereby declare that our bid is made in good faith, without collusion or fraud, and the 
+information contained in the bid is true and correct to the best of our knowledge and belief. 
+7.  We understand that you are not bound to accept the lowest or any bid you may receive. 
+8. We give our in-principle consent to be short‐listed subject to mutually agree. We also agree that there 
+would be up to 2 short‐listed successful bidders. The rate quoted is applicable for all the districts of the 
+State of Gujarat. 
+9. I/ We will not sublet the contract if awarded to us. 
+10. I/ We have not modified, changed etc. any word/line/para/text mentioned in the bid downloaded 
+from the website(s) as mentioned in the bid; otherwise, we know that our bid shall be cancelled 
+and rejected if the submitted bid has a deviation of word/line/para/text from the original bid. 
+11. I/ We, during the contract period, will collect only those EPIC data of electors by some mutually 
+agreed mechanism which are required to personalize the PVC EPICs; otherwise, immediately we will 
+bring this into the knowledge of CEO/DEOs for extra data/incomplete data, to rectify. 
+12. I/ We, after personalisation at our manufacturing site, shall return the personalized EPIC on PVC 
+cards along with data to the concerned DEO and get a receipt. 
+13. I/ We would be responsible to all the DEOs and other authorities of the concerned area, as per bid 
+terms & condition mentioned herein. 
+14. We understand the IPR of the EPIC data given for personalization by us lies with your department 
+or ECI and will hereby undertake that the given data shall not be copied in any form, not 
+
+
+70 
+ 
+ 
+shown/given to any entity, not retained in any form, not used for the purpose other than the purpose 
+mentioned in the bid etc. The data shall be erased entirely once the matter of the sort of supply is 
+materialized/settled. 
+15. 
+We undertake the accountability of security of data, Holograms being provided by the department, 
+and EPIC cards being printedWe agree to all the terms & conditions as mentioned in the bidding document 
+and submit that we have not submitted any deviations in this regard. We have submitted only 
+solution/goods based proposals and understand that in case of multiple bids proposed, may lead to reject 
+our bid for which we only are the responsible. 
+ 
+Date: 
+Signature 
+of 
+Authorized 
+Signatory: Name: 
+Designation: 
+ 
+ Bid Document for "Supply of PVC EPICs”  
+
+
+71 
+ 
+ 
+ANNEXURE‐9: FINANCIAL BID (BoQ) 
+Financial Bid Format (BoQ) 
+(Short‐listing of Manufacturer and Supplier of PVC Personalized Electors Photo 
+Identity Cards 
+(EPIC) with security features conforming to ECI guidelines/ 
+standards and specification in bid document.) 
+ 
+ 
+ 
+Sr. 
+No. 
+ 
+Name & 
+Description 
+of Item 
+ 
+ 
+Unit 
+ 
+ 
+Estt. 
+Qty. 
+Per 
+year. 
+ 
+Unit 
+Cost 
+in 
+INR 
+Total Cost in 
+INR without Tax 
+(this includes all 
+levies 
+& other incidental 
+charges, if any) 
+Applicable 
+Tax as on 
+date (Tax 
+Name & 
+percentage 
+Tax) 
+ 
+Applicable 
+Tax in INR 
+on Total 
+Cost 
+Total Cost 
+in INR 
+(inclusive 
+all taxes, 
+charges, 
+levies etc.) 
+A 
+B 
+C 
+D 
+E 
+F 
+G 
+H 
+I 
+1 
+Printing & Supply 
+of Personalized 
+Colour PVC 
+Elector's Photo 
+Identity Cards 
+(EPIC) with high 
+security Hologram 
+(hot stamped) 
+supplied by the 
+designated vendor 
+Per 
+card 
+40,00,000 
+units 
+(Approx.) 
+ 
+ 
+ 
+ 
+ 
+2 
+Welcome Letter 
+and Voter’s 
+Pledge (Back to 
+back) A4 size 
+One 
+21,00,000 
+units 
+(Approx) 
+ 
+ 
+ 
+ 
+ 
+3 
+Voter Guide 
+(Back to back) 
+33cm*9.5cm(2 
+page) 
+16cm*9.5cm (1 
+page) 
+12 pages (back to 
+back) Booklet 
+ 
+21,00,000 
+units 
+(Approx) 
+ 
+ 
+ 
+ 
+ 
+4 
+Envelope 
+described as 
+“EPIC Kit” to be 
+delivered to 
+respective 
+District Election 
+Officers (DEOs) 
+with other 
+security features 
+as per ECI 
+guidelines 
+ 
+40,00,000 
+units 
+(Approx.) 
+ 
+ 
+ 
+ 
+ 
+Total 
+Total Amount in figures 
+Total Amount in words 
+Note: 
+
+
+72 
+ 
+ 
+ 
+All taxes are extra as applicable at the time of invoicing. 
+ 
+The grand total of (column ‘F’) will be considered for final evaluation. 
+ 
+Bidders submitting their Bids electronically shall follow the electronic Bid submission procedure as 
+specified on the State e‐Procurement Portal https://www.gil.nprocure.com. Bidders should not fill 
+any information in the above format and submit physically otherwise the bid shall be treated 
+as nonresponsive. Bidder should submit their financial bid online on nProcure website/Portal 
+only. Up to 2 bidders will be short‐listed on the lowest rate. 
+
+
+73 
+ 
+ 
+ Annexure‐10 : PERFORMANCE SEC URI TY DECLARATION 
+ 
+ 
+ 
+Date:   
+ 
+Form 
+of 
+Performance 
+Security 
+Declaration [insert date (as day, 
+month and year)] 
+Contract Name and No.: 
+[insert name and number of Contract] 
+To, 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya, Gandhinagar-382010. 
+ 
+We, the undersigned, declare that: 
+We understand that, according to your conditions, the Contract must be supported by a 
+Performance Security Declaration as a guarantee to ensure fulfilment of our all performance 
+obligations under the Contract for "Short‐listi ng of Supplier for Supply of Personaliz ed 
+PVC El ec toral Photo I dentity Cards   (PVC EPICs)". 
+We accept that we will automatically be suspended from being eligible for bidding in any contract 
+with you for the period of time of ........... [Procuring Entity to indicate here the period of time for 
+which the Procuring Entity will declare a Bidder ineligible to be awarded a Contract if the 
+performance Security Declaration is  to  be  executed]  starting  on  the  date  that  we  receive  
+a  notification  from  you,  the [Designation of the Procuring Entity] that our Performance 
+Security Declaration is executed, if we are in breach of any of our performance obligation under 
+the conditions of the Contract. 
+We understand this Performance Security Declaration shall expire after 60 days of completion 
+of our all obligations under the Contract including Defect Liability, warranty/ Guarantee, 
+operation, maintenance, etc. in accordance with the conditions of the Contract. 
+Signed: 
+ 
+[insert signature of person whose name and capacity are 
+shown] In the capacity of: 
+[insert legal capacity of person signing the Performance Security 
+Declaration] Name: 
+ 
+ 
+[insert complete name of person signing the 
+Declaration] Duly authorized to sign the Contract for and on behalf of:   
+ 
+[insert complete name and address of the Bidder] Dated on------------------ [insert date of signing] 
+Corporate Seal 
+ 
+Note: 
+ 
+Performance Security Declaration shall only be dully filled in by the Departments of the State 
+Government, 
+Undertakings, Corporations, Autonomous bodies, Registered Societies and 
+Cooperative Societies which are owned or controlled or managed by the State Government and 
+Government Undertakings of the Central Government. 
+
+
+74 
+ 
+ 
+ANNEXURE‐11: D RAFT AGREEM ENT OF CONTRACT FORMAT  
+{to be mutually signed by selected bidder and procuring entity} 
+(This Agreement shall be executed on the non‐judicial stamp‐paper)  
+Agreement 
+ 
+An agreement made this 
+day of  
+between   
+ 
+ 
+ 
+(hereinafter called "the Security printer and Supplier" *here means short‐listed printer 
+and supplier+ ), which expression shall, where the context so admits, be deemed to  
+include his heirs successors, executors and administrators of the one 
+part and Chief Electoral Officer, Gujarat (hereinafter called "the Procuring Entity") on 
+behalf of the all DEOs (Collectors), all Districts of state of Gujarat (after execution of this 
+agreement all the DEOs of the State shall 
+be performing all jobs/grievance 
+redressal/activities etc. for this Bid during contract period), which expression shall, where 
+the context so admits, be deemed to include his successors in office and assigns) of the 
+other part. 
+ 
+WHEREAS   the   Procuring   Entity   invited    Bids    for    certain    Goods    and    
+Related    Services, viz., 
+ 
+and has accepted a Bid by 
+the Supplier for      the      supply      of      those      Goods      and      Related      Services      
+for      the      sum      of 
+  
+(amount 
+in 
+figures 
+and 
+words) (herein after “the Contract Price”). 
+NOW THIS AGREEMENT WITNESSES AS FOLLOWS: 
+1. In this Agreement words and expressions shall have the same meanings as are 
+respectively assigned to them in the Contract referred to. 
+2. The bid document issued vide even no. 
+dated 
+and work order no. dated 
+shall be dee
+3.1 The contract period is for 3years, can be extended to maximum 5 years with mutual 
+consent. (Initially contract will be made for first 3years and renewed for 2 more years 
+upon mutual consent). 
+3.2 The period of contract may also be reduced or contract can be terminated on the basis 
+of decision of CEO, Gujarat. 
+4. In consideration of the payments to be made by the Procuring Entity to the Supplier 
+as indicated in this Agreement, the Supplier hereby covenants with the Procuring 
+Entity to provide the Goods and Related Services and to remedy defects therein in 
+conformity in all respects with the provisions of the Contract. 
+5. The timelines for the prescribed Scope of Work, requirement of services and 
+deployment of technical resources shall be effected from the date of work order i.e.
+and completed by supplier within the period as specified in the bid document. 
+6. In case of extension in the delivery and/ or installation period/ completion period 
+with liquidated damages, the recovery shall be made on the basis of following 
+percentages of value of stores/ works which supplier has failed to supply/ install/ 
+complete: ‐ 
+a) 
+Delay up to one fourth period of the prescribed delivery period, successful
+installation & 
+2.5% 
+Delay exceeding one fourth but not exceeding half of the prescribed delivery
+period, 
+b) 
+successful 
+5.0% 
+
+
+75 
+ 
+ 
+c) 
+Delay  exceeding half but  not  exceeding  three fourth of  the  prescribed
+delivery  period, 
+7.5% 
+d) 
+Delay exceeding three fourth of the prescribed delivery period, 
+successful installation & completion of work. 
+10.0% 
+ 
+ 
+Note: 
+i. Fraction  of  a  day  in  reckoning  period  of  delay  in  supplies/  maintenance  
+services  shall  be eliminated if it is less than half a day. 
+ii. The maximum amount of agreed liquidated damages shall be 10%. 
+iii. If supplier requires an extension of time in completion of contractual supply on 
+account of occurrence of any hindrances, he shall apply in writing to the 
+authority which had placed the work order, for the same immediately on 
+occurrence of the hindrance but not after the stipulated date of completion of 
+supply. 
+iv. Delivery period may be extended with or without liquidated damages if the delay in 
+the supply of goods in on account of hindrances beyond the control of supplier. 
+ 
+6. The (Financial Rules and Guidelines of the State of Gujarat) promulgated, their 
+amendments issued by the State Government shall also be the part of this contract 
+agreement. 
+7. We, understand the IPR of the EPIC data given for personalization by us, lies with your 
+department or ECI and will hereby undertake that the given data shall not be copied in 
+any form, not shown/given to any entity, not retained in any form, not used for the 
+purposed other than the purpose mentioned in the bid etc. The data shall be erased entirely 
+once the matter of the lot of supply is materialized/settled. 
+8. All disputes arising out of this agreement and all questions relating to the 
+interpretation of this agreement shall be decided as per the procedure mentioned in 
+the RFP document. 
+9. The CEO concerned hereby covenants to pay the Supplier in consideration of the 
+provision of the Goods and Related Services and the remedying of defects therein, 
+the Contract Price or such other sum as may become payable under the provisions of 
+the Contract at the times and in the manner prescribed by the Contract. 
+IN WITNESS whereof the parties hereto have caused this Agreement to be 
+executed in accordance with the laws of the Central and the State Government on the 
+day, month and year first mentioned herein before. 
+ 
+Signed By: 
+Signed By: 
+()  
+Designation:,  
+Company: 
+( ) 
+Designation: 
+Office of the Chief Electoral Officer, Gujarat 
+In the presence of: 
+In the presence of: 
+() 
+Designation:  
+Company: 
+() 
+Designation: 
+Office of the Chief Electoral Officer, Gujarat 
+
+
+76 
+ 
+ 
+(  ) 
+Designation:  
+Company: 
+() 
+Designation: 
+Office of the Chief Electoral Officer, Gujarat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+77 
+ 
+ 
+ANNEXURE – 12 
+ 
+FORM OF PERFORMANCE SECURITY BANK GUARANTEE 
+(To be Stamped in accordance with Stamp 
+Act) 
+The non-judicial stamp paper should be in the name of issuing Bank 
+ 
+ 
+Ref……………….. 
+Bank 
+Guarantee 
+No…………………...... Date……………………….. 
+To 
+Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010 
+Dear Sirs, 
+ 
+1. 
+In consideration of the Election Department, Govt. of Gujarat, Chief Electoral 
+Officer Gujarat (hereinafter referred to as the „bid inviting agency and 
+purchaser‟ which expression shall 
+unless repugnant to the context or 
+meaning thereof include its successors, administrators and assigns) having 
+awarded to M/s…………………… with its Registered/Head office at 
+……………………… (hereinafter referred to as the “Supplier” which 
+expression shall unless repugnant to the context or meaning thereof, include 
+its successors, administrators, executors and assigns), a Contract by issue of 
+Notification of award No ................. dated 
+................... and the same having been acknowledged by the Supplier, resulting 
+in a Contract, bearing No………….. dated…………valued at………for………… 
+(scope of Contract) and the Supplier having agreed to provide a Contract 
+Performance Guarantee for the faithful performance of the entire Contract not 
+exceeding Rs .................... (in words & figures). 
+2. 
+We………………………………(Name & Address of Bank Branch) having its 
+Head office at ………………………………. (hereinafter referred to as the 
+„Bank‟, which expression shall, unless repugnant to the context or meaning 
+thereof, include its successors, administrators, executors and assigns) do 
+hereby guarantee and undertake to pay the amounts due and payable under 
+this guarantee without any demur, reservation, context, recourse or protest 
+and/or without any reference to the Supplier merely on a demand from the 
+Purchaser stating that the amount claimed is due by way of loss or damage 
+caused to or would be caused to or suffered by the Purchaser by reason of 
+breach by the said Supplier(s) of any of the terms or conditions contained in 
+the said Agreement or by reason of the Supplier(s)‟ failure to perform the 
+
+
+78 
+ 
+ 
+said Agreement. Any such demand made on the Bank shall be conclusive 
+and binding not withstanding any difference between the Purchaser and the 
+Supplier or any dispute pending before any Court, Tribunal, Arbitrator or 
+any other authority. We agree that the guarantee herein contained shall be 
+irrevocable and shall continue to be enforceable till the Purchaser discharges 
+this guarantee. 
+3. 
+The Purchaser shall have the fullest liberty without affecting in any way the 
+liability of the Bank under this guarantee, from time to time to extent the 
+time for performance of the Contract by the Supplier. The Purchaser shall 
+have the fullest liberty, without affecting this guarantee, to postpone from 
+time to time the exercise of any powers vested in them or of any right which 
+they might have against the Supplier, and to exercise the same at any time in 
+any manner, and either to enforce or to forbear to enforce any covenants, 
+contained or implied, in the Contract between the Purchaser and the 
+Supplier or any other course or remedy or security available to the 
+Purchaser. The Bank shall not be released of its obligations under these 
+presents by any exercise by the Purchaser of its liberty with reference to the 
+matters aforesaid or any of them or by reason of any other act of omission or 
+commission on the part of the Purchaser or any other indulgences shown by 
+the Purchaser or by any other matter or thing whatsoever which under law 
+would, but for this provision have the effect of relieving the Bank. 
+4. 
+The Bank also agrees that the Bid Inviting Agency/Purchaser at its option 
+shall be entitled to enforce this Guarantee against the Bank as a principal 
+debtor, in the first instance without proceeding against the Supplier and not 
+withstanding any security or other guarantee the Purchaser may have in 
+relation to the Supplier‟s liabilities. 
+5. 
+This guarantee will not be discharged due to the change in the constitution of 
+the Bank or the Supplier(s)/Service Provider(s). 
+6. 
+Notwithstanding anything contained hereinabove: 
+a. Our liability under this guarantee is restricted to Rs ................. (in words & 
+figures). 
+b. This Bank Guarantee will be valid up to..................... ; and 
+c. We are liable to pay the guarantee amount or any part thereof under 
+this Bank Guarantee only upon service of a written claim or demand by 
+you on or before 
+………….. 
+In witness whereof the Bank, through its authorized officer, has set its hand and 
+stamp on this……………. day of………….2025 at………… 
+ 
+WITNESS 
+………………………. 
+………………………. 
+(Signature) 
+ 
+(Signature) 
+………………………. 
+………………………. 
+
+
+79 
+ 
+ 
+(Name) 
+ 
+(Name) 
+………………………. 
+ 
+………………………. 
+(Official Address) 
+(Designation 
+with 
+Bank 
+Stamp) 
+ 
+Attorney as per Power of Attorney No ……………. Dated ……………. 
+
+
+80 
+ 
+ 
+ANNEXURE – 13 
+ 
+BANK GUARANTEE FOR BID SECURITY/EMD 
+ 
+(To be Stamped in accordance with Stamp 
+Act) 
+The non-judicial stamp paper should be in the name of issuing Bank 
+Ref………………. 
+Bank 
+Guarantee 
+No…………………...... Date………………………………………... 
+To 
+Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010 
+Dear Sirs, 
+1. In accordance with Invitation to Bid under your Specification No……………. M/s 
+…….. having its Registered/Head Office at (hereinafter called the „Bidder‟) wish to 
+participate in the said Bid or and you, as a special favour have agreed to 
+accept an irrevocable 
+and 
+unconditional Bank Guarantee for an amount 
+of…………… valid upto ………… on behalf of Bidder in lieu of the Bid deposit 
+required to be made by the Bidder, as a condition precedent for participation in 
+the said Bid. 
+2. We, the …………………. Bank at ……………… (local address) having our Head 
+office at ……………………….. guarantee and undertake to pay immediately on 
+demand by Chief Electoral Officer, Gujarat, the amount of (in words & figures) 
+without any reservation, protest, demur and recourse. Any such demand made by 
+said „Owner‟ shall be conclusive and binding onus irrespective of any dispute or 
+difference raised by the Bidder. 
+3. This guarantee will not be discharged due to the change in the constitution of the 
+Bank or the Supplier(s)/Service Provider(s). 
+4. Notwithstanding anything contained hereinabove: 
+a. Our liability under this guarantee is restricted to Rs ………………. (in 
+words & figures). 
+b. This Bank Guarantee will be valid up to.............; and 
+c. We are liable to pay the guarantee amount or any part thereof under 
+this Bank Guarantee only upon service of a written claim or demand by 
+you on or before …………. In witness whereof the Bank, through its 
+authorised officer, has set its hand and stamp on this……………. day 
+of…………..2026……….at………… 
+ 
+WITNESS 
+………………………. 
+………………………. 
+(Signature) 
+ 
+(Signature) 
+
+
+81 
+ 
+ 
+………………………. 
+………………………. 
+(Name) 
+ 
+(Name) 
+………………………. 
+………………………. 
+(Official Address) 
+(Designation 
+with 
+Bank 
+Stamp) Attorney as per Power of Attorney No ……………. Dated ……………. 
+ 
+ 
+
+
+82 
+ 
+ 
+ANNEXURE 14 
+ 
+List of Documents Submitted 
+ 
+Date 
+: 
+Bid 
+No.: 
+To 
+ 
+Joint Chief Electoral Officer 
+Office of the Chief Electoral Officer, 
+Block No. 7, 2nd Floor,  
+New Sachivalaya,  
+Gandhinagar-382010 
+ 
+We, the undersigned, declare that: 
+ 
+The following documents listed herein have been submitted – 
+ 
+Sr. No. 
+Document Type 
+Fulfilling 
+Clause No. 
+Page 
+No. 
+(Attached 
+in 
+the 
+document)
+Remarks 
+ 
+ 
+ 
+ 
+ 
+ 
+(Signature) 
+Authorized Signatory 
+Name : ……………… 
+ 
+Designation : ………………. 
+Office Seal : ……………. 
+Place 
+: 
+…………….. 
+Date:……….. 
+
+
+83 
+ 
+ 
+SELF DECLARATION (TO BE SUBMITTED PHYSICALLY ALONG WITH EMD & BID 
+PROCESSING FEES) 
+ 
+AFFIDAVIT 
+ 
+(To be submitted IN ORIGINAL on Non-Judicial Stamp Paper of Rs 100/- duly attested by First Class 
+Magistrate/ Notary public) 
+I/We, ___________________________, age______ years residing at ______________________ in capacity 
+of _______________________M/s. ___________________________________ hereby solemnly affirm that 
+ 
+All General Instructions, General Terms and Conditions, as well as Special Terms & Conditions laid 
+down on all the pages of the Tender Form, have been read carefully and understood properly by me 
+which are completely acceptable to me and I agree to abide by the same. 
+ 
+I I We have submitted following Certificates I Documents for T.E. as required as per General Terms & 
+Conditions as well as Special Terms & Conditions of the tender 
+ 
+Sr. No. 
+Name of the Document 
+1 
+ 
+2 
+ 
+ 
+All the Certificates I Permissions I Documents I Permits I Affidavits are valid and current as on date 
+and have not been withdrawn I cancelled by the issuing authority. 
+ 
+It is clearly and distinctly understood by me that the tender is liable to be rejected if on scrutiny at any 
+time, any of the required Certificates I Permissions I Documents I Permits I Affidavits is I are found to 
+be invalid I wrong I incorrect I misleading I fabricated I expired or having any defect. 
+ 
+I / We further undertake to produce on demand the original Certificate I Permission I Documents I 
+Permits for verification at any stage during the processing of the tender as well as at any time asked to 
+produce. 
+ 
+I / We also understand that failure to produce the documents in "Prescribed Proforma" (wherever 
+applicable) as well as failure to give requisite information in the prescribed Proforma may result in to 
+rejection of the tender. 
+ 
+My I Our firm has not been banned I debarred I black listed at least for three years (excluding the 
+current financial year) by any Government Department I State Government I Government of India I 
+Board I Corporation I Government Financial Institution in context to purchase procedure through 
+tender. 
+ 
+I / We confirm that I I We have meticulously filled in, checked and verified the enclosed documents I 
+certificates I permissions I permits I affidavits I information etc. from every aspect and the same are 
+enclosed in order (i.e. in chronology) in which they are supposed to be enclosed. Page numbers are 
+given on each submitted document. Important information in each document is "highlighted" with the 
+help of "marker pen" as required. 
+ 
+The above certificates/ documents are enclosed separately and not on the Proforma printed from 
+tender document. 
+ 
+
+
+84 
+ 
+ 
+I / We  say  and  submit  that  the  Permanent  Account  Number  (PAN)  given  by  the  Income  Tax  
+Department 
+ 
+is 
+____________________, 
+which 
+ 
+is 
+ 
+issued 
+ 
+on 
+ 
+the 
+ 
+name 
+ 
+of 
+___________________________ [Kindly mention here either name of the Proprietor (in case of 
+Proprietor Firm) or name of the tendering firn;1, whichever is applicable]. 
+ 
+I / We understand that giving wrong information on oath amounts to forgery and perjury, and I/We 
+am/are aware of the consequences thereof, In case any information provided by us are found to be 
+false or incorrect, you have right to reject our bid at any stage including forfeiture of our 
+EMD/PBG/cancel the award of contract. In this event, this office reserves the right to take legal action 
+on me/us. 
+ 
+I / We have physically signed &stamped all the above documents along with copy of tender 
+documents (page no. ---- to -- ). 
+ 
+I / We hereby confirm that all our quoted items meet or exceed the requirement and are absolutely 
+compliment with specification mentioned in the bid document. 
+ 
+My I Our Company has not filed any Writ Petition, Court matter and there is no court matter filed by 
+State Government and its Board Corporation, is pending against our company. 
+ 
+I / We hereby commit that we have paid all outstanding amounts of dues I taxes I cess I charges I fees 
+with interest and penalty. 
+ 
+In case of breach of any tender terms and conditions or deviation from bid specification other than 
+already specified as mentioned above, the decision of the Tender Committee for disqualification will be 
+accepted by us. 
+ 
+Whatever stated above is true and correct to the best of my knowledge and belief. 
+ 
+ 
+ 
+Date:  
+ 
+ 
+ 
+ 
+ 
+ 
+Stamp & Sign of the Tenderer 
+ 
+ 
+Place:  
+                                                                                      (Signature and seal of the Notary) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNEXURE‐15: 
+
+
+86 
+ 
+ 
+ 
+
+
+87 
+ 
+ 
+ 
+
+
+88 
+ 
+ 
+ 
+
+
+89 
+ 
+ 
+ 
+
+
+90 
+ 
+ 
+ 
+
+
+91 
+ 
+ 
+ 
+
+
+92 
+ 
+ 
+ 
+ 
+
+
+93 
+ 
+0 _.,... 
+\ ;:" 
+ 
+ 
+ 
+ 
+ 
+Selected bidder· will be required to n,c1ke delive1ytur Uie holograms tc, 2 PSP(s) ,.,),,ctHJ 
+by UIDAI (through separate RFP) without any extra cost 
+ 
+, 
+Details of the PSP Including name, location of delivery (within India), SPOC etc will be 
+shared with selected bidder only. 
+ 
+® 
+ Bidder should maintain delivery proofs duly signed by Bidder as well as receiving 
+PSP indicating Date/Time/Quantity etc. 
+"' 
+The diagrammatic representation of the UIDAI hologram for dimensions pre 
+hot stamping and post hot stamping are as under: 
+ 
+ 
+ 
+ 
+Width 
+/-1 31n11-n 
+\ 
+ 
+ 
+,J,:'\ 
+.:] 
+- \  
+- \ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Sonsor To Sanso 
+- · 
+Dlstnnco 
+_ 
+(+;-
+1
+1         ,1 ·     ·--------.  - 
+ 
+ 
+ 
+ 
+ 
+ 
+Jm:igc Slzo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---·,: 
+Dr  \ 
+.. 
+
+
+94 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ ANNEXURE‐16: 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
