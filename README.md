@@ -1,932 +1,546 @@
-# 🔍 RAG Failure Diagnosis Tool
+# 🔎 RAG Failure Diagnosis Tool
 
-### An AI-powered debugging and evaluation framework for Retrieval-Augmented Generation (RAG) systems
+**A beginner-friendly, evidence-aware debugging tool for Retrieval-Augmented Generation (RAG) systems.**
 
-A configurable, project-independent tool designed to identify potential failures in RAG pipelines, evaluate retrieved evidence, validate citations, and check whether generated answers are supported by source documents.
+This project does more than answer questions from documents. It helps investigate **why a RAG answer may be wrong**: Did the search miss the right document? Was the text split badly? Do different chunks disagree? Did the language model misunderstand the evidence?
 
-Unlike a standard RAG chatbot that focuses only on answering questions, this project also examines **how the answer was generated, whether the retrieved evidence is relevant, and what may have caused an unreliable response.**
+The current application uses **PostgreSQL + pgvector**, **Hugging Face embeddings**, a **locally served LLM through LM Studio**, and a **Streamlit dashboard**. It can also answer questions from structured tender metadata using a bounded SQL query builder.
 
----
+> **Project status:** Working local prototype. Some diagnostic results are heuristic or LLM-assisted, not guaranteed proof of correctness. The application assumes the PostgreSQL tender metadata and document chunks have already been populated; the README does not claim that the current app automatically scrapes and indexes new PDFs.
 
-## 📌 Table of Contents
+## 📌 Contents
 
-- [Project Overview](#-project-overview)
-- [Why This Project?](#-why-this-project)
-- [Key Highlights](#-key-highlights)
-- [Features](#-features)
-- [System Architecture](#-system-architecture)
-- [How RAG Works](#-how-rag-works)
-- [Fast Mode vs Exhaustive Mode](#-fast-mode-vs-exhaustive-mode)
-- [RAG Failure Diagnosis](#-rag-failure-diagnosis)
-- [Technology Stack](#-technology-stack)
-- [Project Structure](#-project-structure)
-- [Prerequisites](#-prerequisites)
-- [Installation and Setup](#-installation-and-setup)
-- [Environment Configuration](#-environment-configuration)
-- [Database Requirements](#-database-requirements)
-- [How to Run](#-how-to-run)
-- [Example Usage](#-example-usage)
-- [Understanding the Diagnostic Report](#-understanding-the-diagnostic-report)
-- [How to Adapt It to Other Projects](#-how-to-adapt-it-to-other-projects)
-- [Limitations](#-limitations)
-- [Future Improvements](#-future-improvements)
-- [Resume Description](#-resume-description)
+1. [What problem does this solve?](#-what-problem-does-this-solve)
+2. [What can it do?](#-what-can-it-do)
+3. [Tech stack in simple words](#-tech-stack-in-simple-words)
+4. [System architecture](#-system-architecture)
+5. [How a question moves through the system](#-how-a-question-moves-through-the-system)
+6. [SQL vs RAG vs Hybrid](#-sql-vs-rag-vs-hybrid)
+7. [Fast Mode vs Exhaustive Mode](#-fast-mode-vs-exhaustive-mode)
+8. [The four failure checks](#-the-four-failure-checks)
+9. [Project folder structure](#-project-folder-structure)
+10. [File-by-file explanation and connections](#-file-by-file-explanation-and-connections)
+11. [Database structure](#-database-structure)
+12. [Installation and setup](#-installation-and-setup)
+13. [Example questions](#-example-questions)
+14. [Understanding the dashboard](#-understanding-the-dashboard)
+15. [Troubleshooting](#-troubleshooting)
+16. [Current limitations and future improvements](#-current-limitations-and-future-improvements)
 
 ---
 
-## 📖 Project Overview
+## 🎯 What problem does this solve?
 
-Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with Large Language Models (LLMs).
+Imagine you ask an AI assistant:
 
-Instead of answering only from their pre-trained knowledge, RAG systems retrieve relevant information from external documents and provide that information to an LLM as context.
+> "What are the eligibility requirements for tender 12247?"
 
-However, a RAG system can still produce incorrect, incomplete, or unsupported answers.
+A normal RAG chatbot searches PDF text, selects a few paragraphs, and generates an answer. If that answer is incomplete or incorrect, it can be difficult to tell **where the problem happened**.
 
-For example:
+This project helps separate the possible causes:
 
-- The search engine retrieves irrelevant document passages.
-- The correct information exists in the database but is not included in the retrieved results.
-- The answer contains information that cannot be verified from the supplied evidence.
-- Citations are missing or refer to chunks that were not retrieved.
-- Important details are lost because documents were split into unsuitable chunks.
-- Different source passages contain conflicting information.
+| Problem | Simple meaning | Example |
+|---|---|---|
+| **Retrieval miss** | The search did not find the necessary text | The eligibility clause exists, but it was not retrieved |
+| **Chunking problem** | The document was split into unhelpful pieces | A condition begins in one chunk and ends in another |
+| **Conflicting evidence** | Retrieved passages appear to disagree | Two passages mention different experience requirements |
+| **Reasoning problem** | The LLM's answer does not match the supplied evidence | The PDF says 3 years, but the answer says 5 |
 
-This project adds a diagnostic layer to the RAG workflow. It retrieves document chunks, generates answers using an LLM, and evaluates several aspects of retrieval and answer quality.
+The goal is to make a document-question-answering pipeline **easier to inspect and debug**, not to promise that every error will be detected automatically.
 
-The goal is to make RAG systems more **transparent, debuggable, and easier to evaluate**.
+## ✨ What can it do?
 
-### Main Objectives
+- Ask questions about **tender metadata** such as titles, bid dates, and record counts.
+- Ask questions about **indexed tender PDF text** such as eligibility, technical specifications, and contract conditions.
+- Combine metadata and PDF evidence for **Hybrid** questions.
+- Search chunks using both **semantic vector similarity** and **keyword search**.
+- Choose between **Fast** and **Exhaustive** candidate retrieval.
+- Display source chunks, tender IDs, document types, and other available evidence metadata.
+- Run checks for retrieval, chunking, conflicting evidence, and reasoning.
+- Display a diagnostic summary and download a JSON report.
+- Run locally with a model served by **LM Studio**.
 
-1. Retrieve relevant document chunks using hybrid search.
-2. Generate answers grounded in retrieved source material.
-3. Evaluate the relevance of retrieved chunks.
-4. Validate citations against the retrieved evidence.
-5. Audit whether factual claims are supported by source passages.
-6. Flag potentially unsupported numerical values and dates.
-7. Measure retrieval recall when ground-truth evidence is available.
-8. Support both focused questions and comprehensive document analysis.
-9. Keep the core workflow configurable so it can be adapted to compatible document-based RAG projects.
+## 🧰 Tech stack in simple words
 
----
-
-## 🎯 Why This Project?
-
-A traditional RAG application primarily focuses on producing an answer.
-
-But when an answer is incorrect, several different problems may have caused the failure:
-
-- Was the correct document passage retrieved?
-- Did the retriever rank irrelevant passages too highly?
-- Did the LLM ignore relevant evidence?
-- Did the model invent an unsupported fact?
-- Did the citation point to the correct chunk?
-- Was the required information missing from the indexed data?
-
-Without a diagnostic workflow, identifying the source of an error can require manually inspecting the entire pipeline.
-
-This project helps investigate these questions by evaluating retrieval, citations, answer support, and potential failure causes.
-
-| Traditional RAG System | RAG Failure Diagnosis Tool |
+| Technology | What it does here |
 |---|---|
-| Retrieves document passages | Evaluates whether retrieved passages appear relevant |
-| Generates an answer | Audits factual claims against retrieved evidence |
-| May include citations | Checks whether citation IDs exist in the retrieved set |
-| May produce unsupported details | Flags some potentially unsupported numbers and dates |
-| Can miss important evidence | Supports optional ground-truth retrieval recall |
-| Usually uses a limited context | Provides an Exhaustive Mode for all indexed chunks of a selected document |
+| **Python** | Connects the components and runs the pipeline |
+| **Streamlit** | Creates the browser-based dashboard |
+| **PostgreSQL** | Stores tender metadata and indexed document chunks |
+| **pgvector** | Stores and searches embedding vectors inside PostgreSQL |
+| **Hugging Face / Sentence Transformers** | Turns a question into a numerical vector (embedding) |
+| **Nomic embedding model** | The configured embedding model; default is `nomic-ai/nomic-embed-text-v1.5` with 768 dimensions |
+| **LM Studio** | Hosts the local language model used for planning, answering, and some audits |
+| **SQLAlchemy / psycopg2** | Lets Python communicate with PostgreSQL |
+| **Reciprocal Rank Fusion (RRF)** | Combines vector-search and keyword-search rankings |
+| **JSON** | Stores or exports machine-readable reports |
 
-**Important:** These evaluations provide diagnostic signals, not guaranteed proof that an answer is correct or incorrect.
+**In simple words:** PostgreSQL is the library, embeddings help find similar meanings, LM Studio writes or evaluates answers, and Streamlit is the screen you interact with.
 
----
+## 🏗 System architecture
 
-## 🌟 Key Highlights
-
-### 1. Hybrid Retrieval
-
-Combines two retrieval techniques:
-
-- **Vector Search:** Finds passages with semantically similar meaning.
-- **Keyword Search:** Finds passages using lexical matches through PostgreSQL full-text search.
-
-The two rankings are combined using Reciprocal Rank Fusion (RRF).
-
-### 2. RAG Answer Evaluation
-
-Uses an LLM evaluator to inspect whether generated factual claims are supported by the retrieved document passages.
-
-### 3. Citation Validation
-
-Checks whether the citation IDs included in the answer correspond to chunks retrieved for that query.
-
-### 4. Fast Mode
-
-Retrieves a limited number of high-ranking chunks for ordinary questions, helping reduce the amount of context sent to the LLM.
-
-### 5. Exhaustive Mode
-
-Processes all indexed chunks associated with a selected document in batches, then combines the extracted findings into a consolidated answer with citations.
-
-### 6. Potential Failure Identification
-
-Highlights possible retrieval problems, missing citations, unsupported claims, and other issues requiring investigation.
-
-### 7. Ground-Truth Evaluation
-
-Can calculate evidence recall when the expected relevant chunk IDs are known.
-
-### 8. Configurable Architecture
-
-Database connection details, table and column names, embedding settings, LLM endpoints, and retrieval limits can be configured through environment variables.
-
----
-
-## ⚙️ Features
-
-| Feature | Description |
-|---|---|
-| Hybrid Search | Combines vector similarity and PostgreSQL full-text search |
-| Reciprocal Rank Fusion | Merges the vector and keyword rankings |
-| Semantic Embeddings | Converts questions into vectors for semantic retrieval |
-| LLM Answer Generation | Generates answers using retrieved source passages |
-| Citation Validation | Checks recognized citation IDs against retrieved chunk IDs |
-| Retrieval Evaluation | Estimates the relevance of retrieved chunks |
-| Answer Support Audit | Evaluates whether factual claims are supported by source evidence |
-| Numeric/Date Warnings | Flags some values that deserve manual verification |
-| Ground-Truth Recall | Measures retrieval recall when expected evidence IDs are provided |
-| Fast Mode | Answers questions using a limited top-k set of chunks |
-| Exhaustive Mode | Processes all indexed chunks for a selected document in batches |
-| Environment Configuration | Allows settings to be changed without hardcoding a project ID |
-
----
-
-## 🏗️ System Architecture
-
-The application follows a retrieval, generation, and evaluation workflow.
-
-```text
-                    USER QUESTION
-                          |
-                          v
-                 LOAD CONFIGURATION
-                          |
-                          v
-               DETECT DOCUMENT ID
-                    IF PRESENT
-                          |
-                          v
-                   SELECT MODE
-                    /       \
-                   /         \
-                  v           v
-             FAST MODE    EXHAUSTIVE MODE
-                  |           |
-                  v           v
-          CREATE QUERY     LOAD ALL INDEXED
-           EMBEDDING       DOCUMENT CHUNKS
-                  |           |
-                  v           v
-           VECTOR SEARCH   PROCESS IN BATCHES
-                  |           |
-                  v           v
-           KEYWORD SEARCH  EXTRACT EVIDENCE
-                  |           |
-                  v           v
-            RECIPROCAL RANK  COMBINE FINDINGS
-             FUSION (RRF)    WITH CITATIONS
-                  |           |
-                  v           |
-            SELECT TOP-K       |
-              CHUNKS           |
-                  |           |
-                  +-----+-----+
-                        |
-                        v
-                 GENERATE ANSWER
-                        |
-                        v
-                 DISPLAY SOURCES
-                        |
-                        v
-               DIAGNOSTIC MODE?
-                  /         \
-                 NO          YES
-                 |            |
-                 v            v
-          CHECK CITATIONS   EVALUATE RETRIEVAL
-          AND DISPLAY      VALIDATE CITATIONS
-          THE ANSWER       AUDIT ANSWER SUPPORT
-                           CHECK NUMBER/DATE CLAIMS
-                           CHECK GROUND-TRUTH RECALL
-                           REPORT POSSIBLE CAUSES
+```mermaid
+flowchart TD
+    U[User enters question] --> UI[app.py / Streamlit]
+    UI --> O[agent/orchestrator.py]
+    O --> P[agent/query_planner.py]
+    P --> L[LM Studio]
+    P --> D{Query route}
+    D -->|SQL| S[agent/sql_executor.py]
+    S --> DB[(PostgreSQL metadata)]
+    D -->|RAG| M[main.py retrieval pipeline]
+    D -->|Hybrid| S
+    D -->|Hybrid| M
+    M --> H[retrieval/hybrid_search.py]
+    H --> V[retrieval/vector_search.py]
+    H --> K[retrieval/keyword_search.py]
+    V --> C[(PostgreSQL + pgvector chunks)]
+    K --> C
+    V --> E[Hugging Face embeddings]
+    S --> A[agent/evidence_merger.py]
+    M --> A
+    A --> L
+    M --> X[Four diagnostic modules]
+    X --> Y[diagnostics/diagnostic_summary.py]
+    A --> R[Answer and evidence report]
+    Y --> R
+    R --> UI
 ```
 
-### Workflow Explanation
+**Note:** The RAG-only path for a single tender can use `main.py`'s original answer-generation function instead of `agent/evidence_merger.py`. The diagram is a simplified overview of the main connections.
 
-**Step 1: Receive a question**
+## 🔄 How a question moves through the system
 
-The user enters a question through the command-line interface.
+Consider:
 
-**Step 2: Identify the required document**
+> **"Give me the title, bid end date, and eligibility requirements for tender 12247."**
 
-If the question contains a recognizable document ID, the application can filter retrieval to that document.
+1. **`app.py` receives the question.** The user chooses Fast or Exhaustive Mode and optionally enters a document ID.
+2. **`agent/orchestrator.py` starts the workflow.** It coordinates the other modules.
+3. **`agent/query_planner.py` asks LM Studio to create a JSON plan.** The plan chooses `sql`, `rag`, or `hybrid`, extracts the tender ID, and identifies allowed metadata filters. It does **not** ask the model to write SQL.
+4. **`agent/sql_executor.py` handles metadata** when the plan includes SQL. It inspects the actual table columns and constructs a limited, parameterized, read-only query.
+5. **`main.py` and the retrieval modules handle PDF questions.** They look for relevant chunks using vector and keyword search.
+6. **The answer generator uses retrieved evidence.** Depending on the route, this is the existing RAG answer generator or `agent/evidence_merger.py`.
+7. **Diagnostic modules examine the RAG process** when document evidence is used.
+8. **`app.py` displays the answer, diagnostics, evidence, and JSON report.**
 
-**Step 3: Retrieve evidence**
+For a metadata-only SQL query, the application may legitimately show **0 PDF chunks**. That does not automatically mean retrieval failed; PDF retrieval was not required.
 
-Fast Mode combines vector and keyword retrieval. Exhaustive Mode loads all indexed chunks associated with the selected document.
+## 🧭 SQL vs RAG vs Hybrid
 
-**Step 4: Generate an answer**
+| Route | When to use it | Example | Main code path |
+|---|---|---|---|
+| **SQL** | Information already stored in metadata columns | "What is the bid end date of tender 12247?" | `orchestrator.py` → `sql_executor.py` → `evidence_merger.py` |
+| **RAG** | Details found inside indexed PDF text | "What eligibility documents are required?" | `orchestrator.py` → `main.py` → `retrieval/` → RAG answer + diagnostics |
+| **Hybrid** | A question needs both metadata and PDF passages | "Show the tender title, closing date, and eligibility rules" | `orchestrator.py` → SQL + retrieval → `evidence_merger.py` + diagnostics |
 
-The retrieved passages are passed to the LLM, which is instructed to answer from the supplied evidence and preserve citations.
-
-**Step 5: Evaluate the answer**
-
-When diagnostic mode is requested, additional evaluators inspect the retrieval results, citation markers, and answer claims.
-
-**Step 6: Report potential problems**
-
-The application displays diagnostic results and possible root causes that a developer can investigate.
-
----
-
-## 🧠 How RAG Works
-
-RAG stands for **Retrieval-Augmented Generation**.
-
-It combines an information retrieval system with a generative language model.
-
-### Retrieval
-
-The system searches a collection of indexed document chunks to find passages relevant to the user's question.
-
-For example, a question about eligibility requirements should retrieve passages describing eligibility conditions rather than unrelated document metadata.
-
-### Augmentation
-
-The retrieved passages are added to the prompt as context for the LLM.
-
-### Generation
-
-The LLM uses the supplied context to construct an answer and include source citations.
-
-### Diagnosis
-
-This project adds an evaluation stage that checks whether the retrieved evidence appears relevant and whether the generated answer is supported by that evidence.
-
-The system works with **already indexed document chunks**. Document ingestion, PDF extraction, OCR, chunking, and embedding generation must be handled by an upstream pipeline.
-
----
+The planner's JSON is a **request plan**, not raw SQL. The executor only accepts supported operations and validated columns. This is safer and more predictable than directly executing SQL generated by an LLM.
 
 ## ⚡ Fast Mode vs Exhaustive Mode
 
-The project supports two answering strategies.
+| Mode | What happens | Best for |
+|---|---|---|
+| **Fast** | Retrieves a limited number of candidate chunks using configured vector and keyword limits | Normal questions and faster iteration |
+| **Exhaustive** | Considers all eligible indexed candidates for retrieval ranking, which can require substantially more time and memory | Investigating possible retrieval misses |
 
-### Fast Mode — Focused Retrieval
+**Important:** Exhaustive Mode does **not** send every database chunk to the LLM. It can search/rank a much larger candidate set, while answer generation still uses a smaller number of top context chunks. It is also not a guarantee that every possible piece of evidence will be recognized as relevant.
 
-Fast Mode is intended for ordinary questions where a limited number of relevant passages should provide enough context.
+## 🩺 The four failure checks
 
-#### Workflow
+### 1. Retrieval diagnosis
 
-1. Convert the question into an embedding.
-2. Retrieve similar chunks through vector search.
-3. Retrieve keyword matches through PostgreSQL full-text search.
-4. Merge the rankings using Reciprocal Rank Fusion.
-5. Select the highest-ranking chunks.
-6. Send the selected chunks to the LLM.
-7. Generate an answer with citations.
+**Question it asks:** Did the search return the evidence that should have been found?
 
-#### Example questions
+This is especially useful when you provide **verified supporting chunk IDs** in the dashboard. Without independently known supporting evidence, the tool cannot always establish whether a missing chunk represents a true retrieval failure.
 
-- What is the purpose of this document?
-- What are the eligibility requirements?
-- What is the contract duration?
+### 2. Chunking diagnosis
 
-#### Advantages
+**Question it asks:** Were the retrieved text pieces split in a potentially problematic way?
 
-- Sends less context to the LLM.
-- Usually requires fewer tokens than exhaustive processing.
-- Suitable for specific, focused questions.
+It can flag suspicious chunk characteristics such as unusually short/long text or other configured quality indicators. These are **warnings**, not automatic proof that chunking caused an incorrect answer.
 
-#### Trade-off
+### 3. Conflict diagnosis
 
-The relevant evidence may be missed if it does not appear in the retrieved top-k results.
+**Question it asks:** Do the retrieved passages contradict one another?
 
-The default `FINAL_TOP_K` value in the example configuration is 8. Set it to 10 if you want Fast Mode to send the top 10 merged chunks.
+For example, two retrieved sections might give different eligibility conditions. The model-assisted check may flag potential contradictions, but the original documents still need human verification.
 
-### Exhaustive Mode — Comprehensive Document Analysis
+### 4. Reasoning diagnosis
 
-Exhaustive Mode is intended for questions requiring broad coverage of one document.
+**Question it asks:** Does the generated answer appear to be supported by the retrieved evidence?
 
-#### Workflow
+For example, if the answer says "5 years of experience" but the provided evidence says "3 years," the check should try to identify the mismatch. Because an LLM assists with this audit, it can also miss mistakes.
 
-1. Detect the document ID from the question.
-2. Retrieve all indexed chunks associated with that document.
-3. Divide the chunks into batches.
-4. Ask the LLM to extract relevant facts from each batch.
-5. Preserve source citations during extraction.
-6. Combine the batch findings into a consolidated answer.
+### Diagnostic summary
 
-#### Example questions
+`diagnostics/diagnostic_summary.py` collects the four checks into a more readable result: warnings, possible or confirmed failures, checks that passed, and checks that remain inconclusive.
 
-- List all eligibility requirements for this document.
-- Provide the complete list of exceptions.
-- Identify every condition mentioned in the document.
+**"No Confirmed Failure Detected" does not mean "the answer is guaranteed correct."** Likewise, diagnostic confidence describes the coverage and quality of the checks, **not** a statistical probability that the answer is right.
 
-#### Advantages
+## 📁 Project folder structure
 
-- Reviews more indexed evidence than ordinary top-k retrieval.
-- Can help uncover relevant details distributed across different chunks.
-- Supports comprehensive questions that require evidence from multiple passages.
-
-#### Trade-offs
-
-- Requires more model calls.
-- Can take longer than Fast Mode.
-- Uses more tokens.
-- May still omit details during extraction or final synthesis.
-
-**Important:** Exhaustive Mode processes all indexed chunks for the selected document. It cannot recover information missing from the original extraction or indexing pipeline.
-
----
-
-## 🔎 RAG Failure Diagnosis
-
-The diagnostic workflow is activated by adding `diagnose:` before the question.
-
-Example:
+The following reflects the current core application files. Some local setups may also include older modules, scripts, saved reports, or additional tests.
 
 ```text
-diagnose: What are the eligibility requirements?
+RAG-Failure-Diagnosis-Tool/
+│
+├── app.py                         # Streamlit user interface
+├── main.py                        # Core document-RAG pipeline
+├── config.py                      # Loads settings from .env
+├── dynamic_query.py               # Older metadata-query module; not the current UI entry point
+├── requirements.txt               # Python packages
+├── .gitignore                     # Files Git should not upload
+├── .env                           # Local secrets/settings (do NOT commit)
+│
+├── agent/
+│   ├── __init__.py
+│   ├── orchestrator.py            # Decides which components to run
+│   ├── query_planner.py           # LLM creates a structured query plan
+│   ├── sql_executor.py            # Safe metadata queries
+│   ├── evidence_merger.py         # Combines metadata and PDF evidence into an answer
+│   └── lm_studio_client.py        # Shared LM Studio API helper
+│
+├── retrieval/
+│   ├── __init__.py
+│   ├── vector_search.py           # Finds semantically similar chunks
+│   ├── keyword_search.py          # Finds matching words/phrases
+│   └── hybrid_search.py           # Combines both rankings with RRF
+│
+├── diagnostics/
+│   ├── retrieval_diagnosis.py     # Checks retrieval coverage
+│   ├── chunking_diagnosis.py      # Checks chunk quality
+│   ├── conflict_diagnosis.py      # Looks for conflicting evidence
+│   ├── reasoning_diagnosis.py     # Generates/audits RAG answers
+│   └── diagnostic_summary.py     # Combines diagnostic results
+│
+├── tests/                         # Individual diagnostic/retrieval tests
+└── reports/                       # Generated JSON reports (local output)
 ```
 
-The tool evaluates several aspects of the RAG pipeline.
+## 🧩 File-by-file explanation and connections
 
-### 1. Retrieval Relevance
+This section is intended for someone opening the project for the **first time**.
 
-The evaluator examines whether the retrieved passages appear useful for answering the question.
+### Main application files
 
-Possible overall assessments include:
+| File | What it means in simple words | Connects to |
+|---|---|---|
+| **`app.py`** | The **front desk**. Displays the question box, settings, answer, diagnostics, evidence, and download button. | Calls `agent/orchestrator.py`; reads the returned report |
+| **`main.py`** | The **RAG manager**. Retrieves document evidence, generates document answers, runs diagnostic checks, and can save reports. | Calls `retrieval/hybrid_search.py` and modules in `diagnostics/` |
+| **`config.py`** | The **settings book**. Reads `.env` for database, table, embedding, search, and model settings. | Imported by `main.py`, retrieval code, and agent modules |
+| **`requirements.txt`** | The **shopping list for Python**. Lists packages needed to run the application. | Used by `pip install -r requirements.txt` |
+| **`.env`** | The **private settings file**. Holds your database connection and local model configuration. | Read through `config.py` and some `os.getenv(...)` calls |
+| **`.gitignore`** | The **do-not-upload list**. Helps prevent `.env`, `.venv`, caches, and generated outputs from being committed. | Used by Git, not by the RAG runtime |
+| **`dynamic_query.py`** | An earlier query-routing implementation retained in the repository. | The current `app.py` uses `agent/orchestrator.py` instead |
 
-- `LIKELY_RELEVANT`
-- `MIXED_RELEVANCE`
-- `LIKELY_RETRIEVAL_FAILURE`
+### `agent/` — the decision-making and answering layer
 
-Individual chunks may be rated as `HIGH`, `MEDIUM`, or `LOW` relevance.
+| File | Simple explanation | Receives from → Sends to |
+|---|---|---|
+| **`agent/__init__.py`** | Marks `agent` as a Python package. | Enables imports like `from agent.orchestrator import ...` |
+| **`agent/orchestrator.py`** | The **traffic controller**: chooses SQL, RAG, or both, and assembles the result. | `app.py` → `query_planner.py`, `sql_executor.py`, `main.py`, `evidence_merger.py` |
+| **`agent/query_planner.py`** | The **question interpreter**: asks LM Studio for a JSON plan, such as `route=sql` and `tender_ids=[12247]`. | `orchestrator.py` → `lm_studio_client.py` |
+| **`agent/sql_executor.py`** | The **database reader**: builds restricted, parameterized SQL using validated metadata columns. | `orchestrator.py` → PostgreSQL, using the engine from `retrieval/vector_search.py` |
+| **`agent/evidence_merger.py`** | The **answer writer**: supplies structured records and selected PDF chunks to the LLM to produce an evidence-based response. | `orchestrator.py` → LM Studio API |
+| **`agent/lm_studio_client.py`** | The **LM Studio messenger**: sends chat-completion requests and reports API errors. | Used by `query_planner.py` in the current implementation |
 
-**Example:** If the question asks for a financial eligibility threshold but the retrieved chunks discuss unrelated document details, the evaluator may flag a potential retrieval problem.
+**Small implementation detail:** `evidence_merger.py` currently makes its own LM Studio HTTP request; it does not yet reuse `lm_studio_client.py`. This is a possible refactoring improvement.
 
-However, irrelevant retrieved passages do not prove that the correct evidence exists elsewhere. Additional searches or ground-truth evidence are required to confirm a retrieval miss.
+### `retrieval/` — the document search layer
 
-### 2. Citation Validation
+| File | Simple explanation | Connects to |
+|---|---|---|
+| **`retrieval/__init__.py`** | Makes the retrieval folder importable as a Python package. | Other Python modules importing `retrieval.*` |
+| **`retrieval/vector_search.py`** | The **meaning searcher**. Embeds the question and finds chunks whose vectors are similar. Also provides a database engine used elsewhere. | Hugging Face embedding model + PostgreSQL/pgvector |
+| **`retrieval/keyword_search.py`** | The **word searcher**. Looks for chunks matching terms in the question. | PostgreSQL indexed text |
+| **`retrieval/hybrid_search.py`** | The **ranking combiner**. Uses Reciprocal Rank Fusion to merge the two result lists. | Called by `main.py`; calls both search modules |
 
-The answer may include markers such as:
+**Why use both searches?** Vector search is useful when the wording differs but the meaning is similar. Keyword search helps when exact names, numbers, or technical phrases matter. Hybrid search tries to benefit from both.
 
-```text
-[DB CHUNK ID: 123]
-```
+### `diagnostics/` — the debugging layer
 
-The citation checker compares the recognized IDs against the chunks retrieved for that question.
+| File | Simple explanation | Called by |
+|---|---|---|
+| **`retrieval_diagnosis.py`** | Checks whether expected supporting chunks were retrieved. | `main.py` |
+| **`chunking_diagnosis.py`** | Flags potential problems in how text chunks were formed. | `main.py` |
+| **`conflict_diagnosis.py`** | Looks for disagreements in retrieved evidence. | `main.py` |
+| **`reasoning_diagnosis.py`** | Contains document-answer generation and reasoning/evidence auditing functions. | `main.py` |
+| **`diagnostic_summary.py`** | Collects diagnostic outcomes into one readable summary. | `main.py` and `agent/orchestrator.py` |
 
-Possible statuses:
+### `tests/` — checking individual components
 
-- `NO_CITATIONS` — No recognized citation markers were found.
-- `INVALID_CITATIONS` — At least one citation refers to a chunk outside the retrieved set.
-- `CITATIONS_PRESENT` — Recognized citations were found and their IDs belong to the retrieved set.
-
-A valid citation ID does not prove that the cited passage supports the claim. Semantic support is examined separately.
-
-### 3. Answer Support Audit
-
-The LLM evaluator compares the answer's factual claims with the supplied evidence.
-
-Possible overall assessments:
-
-- `SUPPORTED`
-- `PARTIALLY_SUPPORTED`
-- `UNSUPPORTED`
-- `NOT_EVALUABLE`
-
-At claim level, the evaluator may use:
-
-- `SUPPORTED`
-- `CONTRADICTED`
-- `NOT_FOUND`
-- `UNCLEAR`
-
-The report includes claims, evidence chunk IDs, and explanations.
-
-These are LLM-generated judgments and should be reviewed against the actual source passages.
-
-### 4. Numeric and Date Warnings
-
-The tool applies a lightweight text-matching heuristic to flag some numerical values and dates that do not appear in cited source text.
-
-This can help identify values that deserve additional review.
-
-However, different number formats, punctuation, currency symbols, or date representations may produce false positives or false negatives.
-
-**A warning does not prove that a number or date is incorrect.**
-
-### 5. Ground-Truth Retrieval Recall
-
-When expected evidence chunk IDs are known, the system can calculate retrieval recall.
-
-The formula is:
-
-```text
-Recall = Expected evidence chunks retrieved
-         ----------------------------------
-         Total expected evidence chunks
-```
-
-For example, suppose a test case has four expected evidence chunks and retrieval returns three of them.
-
-```text
-Recall = 3 / 4 = 0.75 = 75%
-```
-
-Ground-truth recall is optional because the system cannot automatically know the correct evidence for every arbitrary question.
-
-### 6. Possible Root Causes
-
-The diagnostic report combines its signals to highlight potential issues such as:
-
-- No retrieval results.
-- Missing or invalid citations.
-- Irrelevant retrieved passages.
-- Unsupported answer claims.
-- Missing expected evidence in a labeled test.
-- Numeric or date values requiring verification.
-
-These are possible root causes rather than guaranteed diagnoses.
-
----
-
-## 🛠️ Technology Stack
-
-| Technology | Purpose |
+| File | What it tests |
 |---|---|
-| Python | Application logic and orchestration |
-| PostgreSQL | Stores document chunks and metadata |
-| pgvector | Vector similarity search |
-| Sentence Transformers | Generates query embeddings |
-| Nomic Embeddings | Default configurable embedding model |
-| PostgreSQL Full-Text Search | Keyword-based retrieval |
-| Reciprocal Rank Fusion | Combines retrieval rankings |
-| LM Studio | Runs a local LLM through an API |
-| SQLAlchemy | Database connections and SQL execution |
-| Requests | Communicates with the LLM API |
-| python-dotenv | Loads environment variables |
+| `tests/test_retrieval.py` | Retrieval-related behavior |
+| `tests/test_retrieval_diagnosis.py` | Retrieval diagnosis logic |
+| `tests/test_chunking_diagnosis.py` | Chunking diagnosis logic |
+| `tests/test_conflict_diagnosis.py` | Conflict diagnosis logic |
+| `tests/test_reasoning_diagnosis.py` | Reasoning diagnosis logic |
 
-The default embedding configuration uses `nomic-ai/nomic-embed-text-v1.5`, with an expected vector dimension of 768.
+The tests are useful for checking code changes, but passing unit tests does not prove the complete live PostgreSQL + LM Studio workflow is correct.
 
-If a different embedding model is used, its output dimensions and query-prefix requirements must match the stored embeddings and model documentation.
-
----
-
-## 📁 Project Structure
-
-A recommended project layout is:
+### One-line connection map
 
 ```text
-rag-failure-diagnosis-tool/
-│
-├── rag_failure_diagnosis.py
-├── README.md
-├── requirements.txt
-├── .env
-├── .env.example
-│
-└── tests/
-    ├── test_citations.py
-    ├── test_document_id_extraction.py
-    └── test_diagnostic_cases.py
+app.py
+  └── agent/orchestrator.py
+       ├── agent/query_planner.py
+       │    └── agent/lm_studio_client.py → LM Studio
+       ├── agent/sql_executor.py → PostgreSQL metadata
+       ├── main.py
+       │    ├── retrieval/hybrid_search.py
+       │    │    ├── retrieval/vector_search.py → Hugging Face + pgvector
+       │    │    └── retrieval/keyword_search.py → PostgreSQL
+       │    ├── diagnostics/retrieval_diagnosis.py
+       │    ├── diagnostics/chunking_diagnosis.py
+       │    ├── diagnostics/conflict_diagnosis.py
+       │    └── diagnostics/reasoning_diagnosis.py
+       ├── agent/evidence_merger.py → LM Studio
+       └── diagnostics/diagnostic_summary.py
+            ↓
+       Report returned to app.py → Answer / Diagnostics / Evidence / Logs
 ```
 
-The test files shown above are suggested additions and must be created separately if they do not already exist.
+## 🗃 Database structure
 
-### File Descriptions
+This application reads **two kinds of stored information**:
 
-- `rag_failure_diagnosis.py` — Main application.
-- `.env` — Local database and model configuration; must not be committed with real credentials.
-- `.env.example` — Configuration template with placeholder values.
-- `requirements.txt` — Python dependencies.
-- `README.md` — Project documentation.
-- `tests/` — Suggested location for automated tests.
+### 1. Tender metadata: `public.gujrat_tender`
 
----
+One row represents a tender. Example fields include:
 
-## 💻 Prerequisites
+| Column | Meaning |
+|---|---|
+| `ten_id` | Tender identifier |
+| `title` | Tender title |
+| `bid_end_date_time` | Deadline for submitting bids |
+| `bid_opening_date_time` | Scheduled opening date/time |
+| `notes` | Additional notes, if available |
+| `eligibility_note` | Eligibility information stored as metadata |
+| `documents`, `data_json` | JSON-formatted source information |
 
-Before running the application, ensure you have:
+### 2. Indexed document chunks: `public.tender_chunks`
 
-- Python 3.10 or newer.
-- PostgreSQL with a table containing indexed document chunks.
-- The PostgreSQL `vector` extension enabled for vector search.
-- A compatible embedding model.
-- A running LM Studio server or another compatible OpenAI-style API endpoint.
-- A model loaded in the LLM server.
-- Valid database connection details.
-- Embedding dimensions compatible with the database vector column.
+One row represents a **piece of text** extracted from a tender document. Important fields include:
 
-The embedding model may need to be downloaded the first time the application runs.
+| Column | Meaning |
+|---|---|
+| `id` | Unique chunk identifier |
+| `tender_id` | Tender associated with the chunk |
+| `document_type` | Type of source document |
+| `document_url` | Source document link, if stored |
+| `chunk_index` | Chunk's position in its source |
+| `chunk_text` | Actual extracted text |
+| `embedding_hf` (or configured column) | Numerical vector used for semantic search |
 
----
+**Why split documents into chunks?** A PDF may contain many pages. Searching smaller passages is usually more manageable than sending an entire PDF to the LLM. However, splitting at the wrong location can hide important context, which is one reason the chunking diagnosis exists.
 
-## 🚀 Installation and Setup
+> The current application **queries pre-existing records and embeddings**. To use a new document, an upstream ingestion process must first extract its text, split it into chunks, generate compatible embeddings, and store them in the configured tables.
 
-### Step 1: Create a Project Directory
+## 🚀 Installation and setup
 
-Create a folder for the project and place `rag_failure_diagnosis.py` inside it.
+### Prerequisites
 
-### Step 2: Create a Virtual Environment
+- Python (the project has been developed with **Python 3.12**).
+- PostgreSQL with the **pgvector** extension installed.
+- Existing metadata and indexed document chunks in the configured tables.
+- LM Studio installed, with a compatible chat model loaded and its local API server running.
+- Enough local memory to load the embedding and language models.
 
-Windows PowerShell:
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Prajwal25xD/RAG-Failure-Diagnosis-Tool.git
+cd RAG-Failure-Diagnosis-Tool
+```
+
+### 2. Create and activate a virtual environment
+
+**Windows PowerShell:**
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
-macOS/Linux:
+**Git Bash on Windows:**
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
+source .venv/Scripts/activate
 ```
 
-### Step 3: Install Dependencies
+### 3. Install dependencies
 
 ```bash
-pip install python-dotenv sqlalchemy "psycopg[binary]" requests sentence-transformers
+python -m pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
-For reproducible installations, record the dependency versions that you successfully test in `requirements.txt`.
+### 4. Configure `.env`
 
-### Step 4: Configure Environment Variables
-
-Create a `.env` file in the project root.
-
-Copy the configuration template below and update it to match your own database and model server.
-
-### Step 5: Start LM Studio
-
-1. Open LM Studio.
-2. Select and load a compatible chat model.
-3. Start the local server.
-4. Confirm that the server URL matches your configuration.
-
-### Step 6: Verify the Database
-
-Ensure that the configured chunk table contains document text and embeddings, and that the database user has permission to query the table.
-
-### Step 7: Run the Application
-
-```bash
-python rag_failure_diagnosis.py
-```
-
----
-
-## 🔐 Environment Configuration
-
-Use environment variables to adapt the application to different projects.
-
-Example `.env` template:
+Create `.env` in the project root. Replace placeholders with your **own local values**:
 
 ```dotenv
-# Database connection
-DATABASE_URL=postgresql+psycopg://USER:PASSWORD@HOST:5432/DATABASE
-
-# Chunk table configuration
+# PostgreSQL connection
+DATABASE_URL=postgresql+psycopg2://YOUR_USER:YOUR_PASSWORD@localhost:5432/tender
 DB_SCHEMA=public
 CHUNKS_TABLE=tender_chunks
-
-# Required logical columns
-CHUNK_ID_COLUMN=id
 DOCUMENT_ID_COLUMN=tender_id
 CHUNK_TEXT_COLUMN=chunk_text
 EMBEDDING_COLUMN=embedding_hf
 
-# Optional metadata columns
-DOCUMENT_TYPE_COLUMN=document_type
-DOCUMENT_URL_COLUMN=document_url
-CHUNK_INDEX_COLUMN=chunk_index
+# Metadata table used for SQL queries
+RAG_TENDER_METADATA_SCHEMA=public
+RAG_TENDER_METADATA_TABLE=gujrat_tender
+RAG_TENDER_ID_COLUMN=ten_id
+RAG_SQL_MAX_ROWS=100
+RAG_SQL_TIMEOUT_MS=10000
 
-# Embedding configuration
+# Embeddings: must match stored vectors
 EMBEDDING_MODEL_NAME=nomic-ai/nomic-embed-text-v1.5
 EMBEDDING_DIMENSIONS=768
 EMBEDDING_QUERY_PREFIX=search_query:
 
-# LLM endpoint
+# LM Studio
 LM_STUDIO_BASE_URL=http://localhost:1234/v1
-LM_STUDIO_MODEL=
+LM_STUDIO_MODEL=YOUR_LOADED_MODEL_ID
 LM_STUDIO_TIMEOUT=600
 
-# Retrieval configuration
+# Search / answer settings
 VECTOR_CANDIDATE_LIMIT=30
 KEYWORD_CANDIDATE_LIMIT=30
 FINAL_TOP_K=8
-RRF_K=60
-EXHAUSTIVE_BATCH_SIZE=4
+RAG_ANSWER_CONTEXT_K=8
+RAG_PLANNER_TIMEOUT=120
+RAG_PLANNER_MAX_TOKENS=2048
 
-# Document ID detection
-DOCUMENT_ID_LABELS=document,record,tender,contract,case,project
+# Reports
+RAG_SAVE_REPORTS=true
+RAG_REPORT_DIR=reports
 ```
 
-### Configuration Notes
+**Important:** `LM_STUDIO_MODEL` must match the ID shown by your running LM Studio server. `EMBEDDING_COLUMN` and `EMBEDDING_DIMENSIONS` must match the actual PostgreSQL column and stored vectors. Do not commit `.env` to GitHub.
 
-- `DATABASE_URL` specifies the database connection.
-- `DB_SCHEMA` and `CHUNKS_TABLE` specify where the chunks are stored.
-- The column variables map the application's logical fields to your table.
-- Optional metadata columns should be configured to match the actual table; use empty values only if the script supports that field being absent.
-- `EMBEDDING_MODEL_NAME` selects the embedding model.
-- `EMBEDDING_DIMENSIONS` must match both the model output and the database vector column.
-- `EMBEDDING_QUERY_PREFIX` must match the selected model's documented query-encoding requirements.
-- `LM_STUDIO_BASE_URL` specifies the OpenAI-compatible API base URL.
-- `LM_STUDIO_MODEL` can be left blank if the application supports automatic model discovery.
-- `VECTOR_CANDIDATE_LIMIT` controls the number of vector-search candidates.
-- `KEYWORD_CANDIDATE_LIMIT` controls the number of keyword-search candidates.
-- `FINAL_TOP_K` controls the number of final chunks passed to the LLM in Fast Mode.
-- `RRF_K` controls the rank-fusion smoothing constant.
-- `EXHAUSTIVE_BATCH_SIZE` controls the number of chunks processed per exhaustive extraction call.
-- `DOCUMENT_ID_LABELS` specifies words that may introduce a document ID in a question.
+### 5. Start LM Studio
 
-The example values are starting points. Confirm that each variable is supported by your copy of the script before relying on it; configuration names must match the implementation.
+1. Load your chosen compatible chat model in LM Studio.
+2. Start the local server (commonly `http://localhost:1234`).
+3. Check the model endpoint:
 
-**Security:** Never commit a `.env` file containing real database passwords or secrets. Commit only a placeholder `.env.example`.
+```powershell
+Invoke-RestMethod http://localhost:1234/v1/models
+```
 
----
-
-## 🗄️ Database Requirements
-
-The configured table must contain indexed document chunks.
-
-At minimum, the application needs the following logical fields:
-
-| Logical Field | Purpose |
-|---|---|
-| Chunk ID | Unique identifier for each chunk |
-| Document ID | Groups chunks belonging to the same document |
-| Chunk Text | Text passage used for retrieval and generation |
-| Embedding Vector | Vector representation used for similarity search |
-
-Optional metadata may include:
-
-- Document type.
-- Source URL.
-- Chunk index.
-
-The example names in the configuration are defaults, not universal requirements.
-
-### Vector Dimension Compatibility
-
-The embedding model output dimension must match the configured PostgreSQL vector column.
-
-For example, a 768-dimensional embedding requires a compatible 768-dimensional vector column.
-
-### Full-Text Search
-
-The current retrieval approach uses PostgreSQL full-text search with `to_tsvector` and `plainto_tsquery`.
-
-The configured chunk-text column must contain searchable text.
-
-### Database Permissions
-
-The database account must have the required permissions to read the configured chunk table and execute the search queries.
-
----
-
-## ▶️ How to Run
-
-Activate your environment and run:
+### 6. Start the dashboard
 
 ```bash
-python rag_failure_diagnosis.py
+streamlit run app.py
 ```
 
-The application will display a question prompt.
+Open the local Streamlit URL shown in the terminal (usually `http://localhost:8501`).
 
-### Ordinary Question
+### 7. Optional: Run the original RAG pipeline directly
 
-```text
-Ask a question: What is the purpose of this document?
+`main.py` also contains a command-line entry point. Inspect its `--help` options before running:
+
+```bash
+python main.py --help
 ```
 
-The application retrieves evidence, generates an answer, displays source information, and checks citations.
+### 8. Optional: Run tests
 
-### Diagnostic Question
-
-```text
-Ask a question: diagnose: What are the eligibility requirements?
+```bash
+python -m pytest tests/
 ```
 
-The application generates an answer and prints the diagnostic report.
+If `pytest` is not installed, install it separately with `pip install pytest`.
 
-### Exit the Application
+## 💬 Example questions
 
-```text
-quit
-```
+Try the following in the dashboard **after verifying that the tender IDs exist**.
 
-Depending on the implementation, `exit` or `q` may also be accepted.
+| Type | Example question | Expected route |
+|---|---|---|
+| Metadata | Give me the bid end date of tender 12247. | SQL |
+| Metadata | How many tenders are stored in the database? | SQL |
+| PDF evidence | What eligibility requirements are mentioned in the PDF for tender 12247? | RAG |
+| PDF evidence | What technical specifications are required for tender 12247? | RAG |
+| Combined | Give me the title, bid end date, and eligibility requirements for tender 12247. | Hybrid |
+| Comparison | Compare eligibility requirements for two existing tender IDs. | RAG/Hybrid, depending on plan |
 
----
+The query planner determines the actual route, so these are **expected behaviors**, not guaranteed outputs.
 
-## 🧪 Example Usage
+## 🖥 Understanding the dashboard
 
-Use questions relevant to the documents in your database.
-
-### Example 1: General Question
-
-```text
-What is the purpose of this document?
-```
-
-Expected workflow:
-
-1. Search for relevant chunks.
-2. Generate an answer.
-3. Display the retrieved sources.
-4. Check citation IDs.
-
-### Example 2: Unsupported Information
-
-```text
-diagnose: What is the exact annual turnover threshold?
-```
-
-This can test whether the model acknowledges missing evidence instead of inventing a value.
-
-The diagnosis should also be checked to determine whether the retrieved chunks were irrelevant or whether the indexed collection genuinely lacks the information.
-
-### Example 3: Comprehensive Question
-
-```text
-List all eligibility requirements for document ABC123.
-```
-
-If the ID format is recognized and exhaustive-mode conditions are satisfied, the system can process all indexed chunks associated with that document in batches.
-
-### Example 4: Numeric or Date Claims
-
-```text
-diagnose: What are the important dates and monetary values?
-```
-
-The diagnostic report may flag values that deserve manual verification against the cited passages.
-
-These examples illustrate testing ideas, not guaranteed results.
-
----
-
-## 📊 Understanding the Diagnostic Report
-
-The report includes several sections.
-
-| Section | Purpose |
+| Section | What it shows |
 |---|---|
-| Retrieval Relevance | Estimates whether retrieved chunks are useful |
-| Citation Validation | Checks recognized citations against retrieved IDs |
-| Answer Support Audit | Evaluates support for factual claims |
-| Number/Date Warnings | Flags some potentially unsupported values |
-| Ground-Truth Recall | Measures expected evidence retrieval when labels are provided |
-| Possible Root Causes | Summarizes issues that may deserve investigation |
+| **Run configuration** | Fast/Exhaustive mode, optional document ID, optional verified supporting chunk IDs |
+| **Latest run** | Overall status, candidate count, context chunk count, mode, and query route |
+| **💬 Answer** | LLM-generated answer or fallback structured records |
+| **🩺 Diagnostics** | Retrieval, chunking, conflict, and reasoning findings when available |
+| **📚 Evidence** | Structured database rows and/or retrieved PDF chunks |
+| **📄 Report & logs** | JSON report, AI query plan, and execution logs |
 
-### How to Investigate a Failure
+### What do "Candidates searched" and "Context chunks" mean?
 
-1. Read the generated answer.
-2. Inspect the cited passages.
-3. Search the full indexed document if the relevant evidence is missing.
-4. If the evidence exists but was not retrieved, investigate embeddings, search queries, ranking, and filters.
-5. If the evidence was retrieved but the answer misrepresents it, investigate the prompt and generation process.
-6. If citations are missing, inspect the answer-generation instructions and citation parser.
-7. If the original document text is incomplete, investigate extraction, OCR, and chunking.
-8. Record the question, expected evidence, retrieved chunks, and observed failure as a regression test.
+- **Candidates searched:** Chunks considered by the retrieval/ranking pipeline.
+- **Context chunks:** The smaller set selected to supply evidence to the answer generator.
 
----
+For example, **17 candidates and 8 context chunks** means the search considered 17 chunks but passed 8 selected chunks into the answer context. The numbers change by query and mode.
 
-## 🔄 How to Adapt It to Other Projects
+### What does "Structured Query Complete" mean?
 
-The application is designed to avoid hardcoding a particular project or document ID.
+A metadata-oriented request completed through the structured query path. It does **not** mean the system searched PDFs or ran all four RAG diagnostics.
 
-To reuse it:
+## 🛠 Troubleshooting
 
-1. Identify a table containing indexed chunks.
-2. Configure the database schema and table name.
-3. Map the chunk ID, document ID, text, and embedding columns.
-4. Select an embedding model compatible with the stored vectors.
-5. Configure the model's embedding dimensions and query prefix.
-6. Configure the LLM API endpoint.
-7. Adjust document-ID detection for your dataset's identifier format.
-8. Test vector and keyword search separately.
-9. Create labeled evaluation cases with expected evidence IDs.
-10. Run diagnostic tests and inspect their accuracy.
+| Symptom | Likely area to check | First action |
+|---|---|---|
+| `HTTP 400` from `/chat/completions` | LM Studio request, model ID, context size, or API parameters | Inspect the **response body**; verify `/v1/models` |
+| PostgreSQL connection error | `.env`, server status, credentials, database | Check `DATABASE_URL` and whether PostgreSQL is running |
+| Metadata table not found | Metadata schema/table settings | Check `RAG_TENDER_METADATA_SCHEMA` and `RAG_TENDER_METADATA_TABLE` |
+| Vector dimension mismatch | Embedding model or database column | Confirm stored vector dimensions and `EMBEDDING_DIMENSIONS` |
+| Zero PDF chunks for SQL question | May be expected | Check the `query_plan.route` |
+| Zero chunks for PDF question | Retrieval/filter/index issue | Verify the tender has indexed chunks and the ID matches |
+| Streamlit shows previous answer after failure | Session-state clearing | Check `rag_last_report` is reset only when a new valid run starts |
+| Pipeline succeeds but answer not displayed | Dashboard rendering or report structure | Inspect `report['answer']` and `rag_last_report` |
+| Slow Exhaustive Mode | Large candidate set | Test Fast Mode first and monitor memory |
 
-### What Project-Independent Means
+### Why does an answer sometimes look correct but still need checking?
 
-The application can be adapted to compatible PostgreSQL-backed RAG systems through configuration.
+LLMs can produce convincing explanations even when the evidence is incomplete. Always inspect the **Evidence** tab and confirm that cited chunk IDs and metadata fields are actually present in the retrieved records.
 
-It is not automatically compatible with every database, arbitrary schema, or every vector store. A different database engine or retrieval backend may require a dedicated adapter.
+## ⚠️ Current limitations and future improvements
 
-Document-ID detection is also based on configurable patterns rather than a universal identifier standard.
+### Current limitations
 
----
+- The current repository focuses on **querying and diagnosing already indexed documents**, not a fully self-contained new-PDF ingestion workflow.
+- The planner can misunderstand a question or return invalid JSON.
+- The metadata executor supports a bounded set of operations; it is **not** a general-purpose SQL analytics engine.
+- PDF retrieval quality depends on extraction quality, chunking, stored embeddings, and query wording.
+- Some metadata date columns may be stored as text, limiting safe date comparisons.
+- Hybrid searches should be reviewed carefully when metadata filters need to restrict which document chunks are searched.
+- Diagnostics can be inconclusive and cannot guarantee factual correctness.
+- Exhaustive retrieval can consume significant time and memory.
+- The shared LM Studio client is not yet used by every model-calling module.
 
-## ⚠️ Limitations
+### Possible future improvements
 
-This project is a diagnostic aid, not a guaranteed correctness engine.
-
-### 1. No Automatic Document Ingestion
-
-The application expects document chunks and embeddings to exist already. PDF extraction, OCR, chunking, and indexing are handled separately.
-
-### 2. LLM Evaluators Can Be Wrong
-
-An LLM evaluator can incorrectly judge relevance or answer support. Human review and labeled test cases remain important.
-
-### 3. Retrieval Failure Is Not Always Confirmed
-
-Irrelevant retrieved chunks may indicate a retrieval problem, but the correct evidence might also be missing from the indexed collection.
-
-### 4. Citation Validation Is Syntactic
-
-A citation ID can exist in the retrieved set without actually supporting the associated claim.
-
-### 5. Numeric/Date Warnings Are Heuristic
-
-The warning mechanism may produce false positives and false negatives because text matching does not fully understand semantic equivalence.
-
-### 6. Exhaustive Mode Has Limits
-
-It processes indexed chunks, not necessarily every fact in the original document. Information lost during ingestion can remain unavailable.
-
-### 7. Ground-Truth Evaluation Requires Labels
-
-Retrieval recall cannot be measured accurately without known expected evidence IDs.
-
-### 8. Not Every Failure Type Has a Dedicated Classifier
-
-The current approach identifies possible root causes from a combination of LLM evaluations and heuristic checks. A specialized, independently validated classifier for every failure category would require additional development and testing.
+- Add a complete, configurable ingestion pipeline for new PDFs and OCR.
+- Constrain Hybrid document retrieval to the tender IDs matched by SQL metadata filters.
+- Validate every answer citation against actual retrieved chunk IDs.
+- Add automatic evaluation datasets with known correct supporting chunks.
+- Add richer dashboards for failure trends and retrieval comparisons.
+- Centralize all LM Studio requests, timeouts, and error reporting.
+- Normalize text-based dates in the metadata schema.
+- Add Docker-based deployment and CI testing.
 
 ---
 
-## 🚀 Future Improvements
+## 👨‍💻 Repository
 
-Potential improvements include:
+**GitHub:** [Prajwal25xD/RAG-Failure-Diagnosis-Tool](https://github.com/Prajwal25xD/RAG-Failure-Diagnosis-Tool)
 
-- Building a labeled RAG failure benchmark.
-- Adding automated regression tests for known failure cases.
-- Measuring Recall@K, Precision@K, Mean Reciprocal Rank, and nDCG.
-- Implementing a dedicated conflicting-evidence detector.
-- Detecting potential chunk-boundary problems using neighboring passages.
-- Adding a reranker to improve retrieval ranking.
-- Storing diagnostic reports for historical comparison.
-- Developing a dashboard to inspect evidence, citations, and failure reports.
-- Adding adapters for additional vector databases.
-- Improving structured output validation for LLM evaluators.
-- Benchmarking Fast Mode and Exhaustive Mode for latency, token usage, and answer coverage.
-- Adding document-level extraction and indexing quality checks.
-- Evaluating diagnostic accuracy against human-labeled test cases.
+### In one sentence
 
-These improvements could turn the project into a more comprehensive RAG evaluation and observability platform.
-
----
-
-## 💼 Resume Description
-
-**RAG Failure Diagnosis Tool | Python, PostgreSQL, pgvector, Sentence Transformers, LM Studio**
-
-- Developed a configurable RAG evaluation and debugging tool combining vector similarity search and PostgreSQL full-text search using Reciprocal Rank Fusion.
-- Integrated a local LLM endpoint to generate evidence-grounded answers and evaluate retrieval relevance, citation validity, and claim support.
-- Implemented Fast Mode for focused top-k retrieval and Exhaustive Mode for batched analysis of all indexed chunks associated with a selected document.
-- Added numeric/date warning heuristics and optional ground-truth evidence recall to support systematic RAG evaluation.
-
-Only include performance improvements or accuracy metrics after measuring them on a defined test set.
-
----
-
-## 🎤 Interview Explanation
-
-"I built a RAG Failure Diagnosis Tool to help investigate why a Retrieval-Augmented Generation system might return incorrect, incomplete, or unsupported answers.
-
-The tool uses hybrid retrieval, combining vector similarity search with PostgreSQL full-text search. It merges the rankings using Reciprocal Rank Fusion and sends the retrieved evidence to a locally hosted LLM through LM Studio.
-
-It supports two modes. Fast Mode retrieves a limited number of relevant chunks for normal questions, while Exhaustive Mode processes all indexed chunks for a selected document in batches to answer comprehensive questions.
-
-Beyond answering questions, the tool evaluates retrieval relevance, validates citations, audits factual claims against the retrieved evidence, and flags potentially unsupported numbers and dates. It can also measure retrieval recall when expected evidence chunks are known.
-
-The goal is to make RAG pipelines easier to debug by examining not only the generated answer, but also the evidence and potential reasons why that answer may be unreliable."
-
----
-
-## 🏁 Conclusion
-
-The RAG Failure Diagnosis Tool extends a conventional RAG workflow with diagnostic checks around retrieval and generation.
-
-Its key value is helping developers inspect retrieved evidence, validate citations, evaluate claim support, and identify potential causes of unreliable answers.
-
-The combination of **hybrid retrieval, Fast and Exhaustive modes, citation validation, answer-support auditing, and optional ground-truth evaluation** provides a foundation for systematically testing and improving RAG applications.
-
-The next step toward a production-ready evaluation platform is to build a labeled benchmark, measure diagnostic accuracy, and validate each failure category against known examples.
-
-**The objective is not merely to generate answers—it is to make RAG systems easier to inspect, evaluate, and improve.**
+**This project is a RAG chatbot with a debugging layer: it retrieves evidence, answers questions, and helps explain which stage may have caused a wrong or incomplete answer.**
