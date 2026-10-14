@@ -21,3 +21,9 @@ RAG Failure Diagnosis Tool/
 ├── config.py
 ├── main.py
 └── requirements.txt
+
+How was the RRF score calculated?
+Your configuration uses RRF_K = 60.
+\[
+RRF = \frac{1}{60+4}=0.015625
+\]

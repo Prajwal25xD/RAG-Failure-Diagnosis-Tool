@@ -1,35 +1,36 @@
 
 # ============================================================
 # RAG FAILURE DIAGNOSIS TOOL - REQUIREMENTS
+# Python 3.12
 # ============================================================
 
-# Environment variables
-python-dotenv
+# Environment configuration
+python-dotenv>=1.0,<2.0
 
-# PostgreSQL database connectivity
-sqlalchemy
-psycopg[binary]
-pgvector
+# PostgreSQL + pgvector
+SQLAlchemy>=2.0,<3.0
+psycopg2-binary>=2.9,<3.0
+pgvector>=0.4,<1.0
 
 # Hugging Face embeddings
-sentence-transformers==3.4.1
-transformers==4.48.3
-einops
+sentence-transformers>=3.4,<6.0
+transformers>=4.48,<5.0
+torch>=2.3
+einops>=0.8,<1.0
+numpy>=1.26
 
-# PDF extraction and text processing
-PyMuPDF
+# PDF extraction
+PyMuPDF>=1.24
+pdfplumber>=0.11
 
-# RAG chunking
-langchain-text-splitters
+# Text splitting and chunking
+langchain-text-splitters>=0.3,<2.0
 
-# HTTP requests to LM Studio's local API
-requests
+# LM Studio local API
+requests>=2.32,<3.0
+
+# Streamlit dashboard
+streamlit>=1.40,<2.0
 
 # Optional: Ollama integration
-ollama
-
-# ============================================================
-# OPTIONAL: WEB INTERFACE
-# Uncomment when building the Streamlit UI
-# ============================================================
- streamlit
+# ollama>=0.4

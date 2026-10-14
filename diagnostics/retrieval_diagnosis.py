@@ -1,53 +1,119 @@
+
+"""Dynamic retrieval diagnosis for RAG systems."""
+
+from typing import Any
+
+
 def diagnose_retrieval(
-    retrieved_chunks,
-    supporting_chunk_id,
-    top_k
-):
+    retrieved_chunks: list[dict[str, Any]],
+    supporting_chunk_ids: list | None = None,
+    top_k: int | None = None,
+) -> dict:
     """
-    retrieved_chunks: list of chunks returned to the LLM
-    supporting_chunk_id: ID of the known correct passage
-    top_k: number of chunks passed to the LLM
+    Diagnose retrieval using real ranked candidates.
 
+    If verified supporting IDs are unavailable, report retrieval
+    statistics without claiming a confirmed retrieval failure.
     """
 
-    retrieved_ids = [
-        chunk["chunk_id"]
-        for chunk in retrieved_chunks
-    ]
+    if top_k is None:
+        import config
+        top_k = config.FINAL_TOP_K
 
-    if supporting_chunk_id in retrieved_ids:
-        rank = retrieved_ids.index(supporting_chunk_id) + 1
+    if top_k <= 0:
+        raise ValueError("top_k must be positive.")
 
-        return {
-            "failure_type": "not_a_retrieval_failure",
-            "supporting_chunk_id": rank,
-            "recommended_fix":( "Inspect answer generation and evidence usage."
-            )
-        }
+    ranked_ids = []
 
-    return {
-        "failure_type": "retrieval_miss",
-        "supporting_chunk_rank": None,
+    for chunk in retrieved_chunks:
+        chunk_id = chunk.get("id", chunk.get("chunk_id"))
+
+        if chunk_id is None:
+            raise ValueError("Retrieved chunk has no ID.")
+
+        ranked_ids.append(str(chunk_id))
+
+    if len(ranked_ids) != len(set(ranked_ids)):
+        raise ValueError("Duplicate chunk IDs in ranked results.")
+
+    context_ids = set(ranked_ids[:top_k])
+    candidate_ids = set(ranked_ids)
+
+    result = {
+        "total_candidates": len(retrieved_chunks),
+        "context_chunk_count": min(top_k, len(retrieved_chunks)),
+        "top_k": top_k,
+        "vector_matches": sum(
+            chunk.get("vector_rank") is not None
+            for chunk in retrieved_chunks
+        ),
+        "keyword_matches": sum(
+            chunk.get("keyword_rank") is not None
+            for chunk in retrieved_chunks
+        ),
+        "failure_type": "unknown",
+        "reason": "No verified supporting evidence was provided.",
+        "recall_at_k": None,
         "recommended_fix": (
-            "Inspect the full-corpus ranking. "
-            "Test hybrid search, reranking, "
-            "or a larger top-k."
-        )
+            "Assess evidence relevance or supply verified "
+            "supporting chunk IDs."
+        ),
     }
 
-# EXAMPLE TEST
+    if not supporting_chunk_ids:
+        return result
 
-chunks = [
-    {"chunk_id": "doc_12"},
-    {"chunk_id": "doc_08"},
-    {"chunk_id": "doc_31"}
-]
+    expected_ids = {str(cid) for cid in supporting_chunk_ids}
 
-result = diagnose_retrieval(
-    retrieved_chunks=chunks,
-    supporting_chunk_id="doc_14",
-    top_k=3
-)
+    found_in_context = expected_ids & context_ids
+    found_in_candidates = expected_ids & candidate_ids
+    missing_ids = expected_ids - candidate_ids
+    ranked_out_ids = found_in_candidates - context_ids
 
-print(result)
-    
+    result["expected_chunk_ids"] = sorted(expected_ids)
+    result["found_in_context"] = sorted(found_in_context)
+    result["missing_chunk_ids"] = sorted(missing_ids)
+    result["ranked_out_chunk_ids"] = sorted(ranked_out_ids)
+    result["supporting_chunk_ranks"] = {
+        cid: ranked_ids.index(cid) + 1
+        for cid in expected_ids
+        if cid in candidate_ids
+    }
+    result["recall_at_k"] = (
+        len(found_in_context) / len(expected_ids)
+    )
+
+    if expected_ids <= context_ids:
+        result["failure_type"] = "retrieval_success"
+        result["reason"] = "All verified evidence is in the LLM context."
+        result["recommended_fix"] = "No retrieval fix required."
+
+    elif missing_ids and ranked_out_ids:
+        result["failure_type"] = "mixed_retrieval_failure"
+        result["reason"] = (
+            "Some expected evidence is missing from the candidates; "
+            "other evidence was ranked outside the LLM context."
+        )
+
+    elif missing_ids:
+        result["failure_type"] = "retrieval_miss"
+        result["reason"] = (
+            "Some verified evidence was not found among the candidates."
+        )
+
+    else:
+        result["failure_type"] = "ranking_failure"
+        result["reason"] = (
+            "Verified evidence was found but ranked outside top-k."
+        )
+
+    if result["failure_type"] != "retrieval_success":
+        result["recommended_fix"] = (
+            "Inspect indexing coverage, candidate limits, "
+            "hybrid ranking and reranking."
+        )
+
+    return result
+
+# To Run:
+# python -m tests.test_retrieval_diagnosis

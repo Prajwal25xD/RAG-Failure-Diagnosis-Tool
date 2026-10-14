@@ -1,0 +1,47 @@
+1. Retrieval modules
+File	Command
+retrieval/vector_search.py	python -m retrieval.vector_search
+retrieval/keyword_search.py	python -m retrieval.keyword_search
+retrieval/hybrid_search.py	python -m retrieval.hybrid_search
+Each of these three commands will ask you for a question, a mode (fast or exhaustive), and an optional document ID.
+
+2. Diagnostic test modules
+File	Command
+tests/test_retrieval_diagnosis.py	python -m tests.test_retrieval_diagnosis
+tests/test_chunking_diagnosis.py	python -m tests.test_chunking_diagnosis
+tests/test_conflict_diagnosis.py	python -m tests.test_conflict_diagnosis
+tests/test_reasoning_diagnosis.py	python -m tests.test_reasoning_diagnosis
+These run your individual diagnostic tests using actual retrieved PostgreSQL chunks.
+
+3. Main application
+Mode	Command
+Interactive (choose mode)	python main.py
+Fast Mode	python main.py --question "Where is cement used?" --document-id "" --mode fast
+Exhaustive Mode	python main.py --question "Where is cement used?" --document-id "" --mode exhaustive
+
+4. Configuration verification
+python -c "import config; print('Table:', config.qualified_table()); print('Embedding dimension:', config.EMBEDDING_DIMENSIONS)"
+
+
+5. All commands together — copy and run
+# Activate virtual environment
+.\.venv\Scripts\Activate.ps1
+
+# Retrieval
+python -m retrieval.vector_search
+python -m retrieval.keyword_search
+python -m retrieval.hybrid_search
+
+# Diagnostics
+python -m tests.test_retrieval_diagnosis
+python -m tests.test_chunking_diagnosis
+python -m tests.test_conflict_diagnosis
+python -m tests.test_reasoning_diagnosis
+
+# Complete pipeline
+python main.py
+
+
+Recommended testing order: First run vector_search, keyword_search, and hybrid_search in both Fast and Exhaustive modes. Then test the four diagnostic modules. Finally, run main.py in both modes.
+Before running the complete pipeline, ensure PostgreSQL is running, your Hugging Face embedding model is available, and LM Studio has loaded openai/gpt-oss-20b with its local API server started.
+Note that the individual diagnostic test scripts use their own test logic and may not prompt for Fast/Exhaustive mode. The main application is where the full mode selection is integrated.

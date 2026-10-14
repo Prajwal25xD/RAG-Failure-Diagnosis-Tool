@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "started_at": "2026-10-14T11:52:07.883667",
+    "completed_at": "2026-10-14T11:53:25.990763",
+    "mode": "fast",
+    "question": "Give me details of Tender id : 12247",
+    "document_id": null,
+    "model": "",
+    "embedding_model": "nomic-ai/nomic-embed-text-v1.5",
+    "embedding_column": "embedding_hf",
+    "candidate_count": 30,
+    "context_count": 8
+  },
+  "answer": {
+    "text": "I’m sorry, but none of the provided documents contain any information related to a tender with the ID 12247. Therefore I cannot provide details for that tender from the supplied evidence.",
+    "error": null
+  },
+  "retrieved_chunks": [
+    {
+      "id": 19570,
+      "document_id": 22736,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2026861212558.pdf",
+      "chunk_index": 86,
+      "vector_rank": 1,
+      "keyword_rank": null,
+      "rrf_score": 0.01639344262295082,
+      "chunk_text": "Ref: \nTender No HWT05082026 \n \nDear Sir, \n \nWith reference to above referred tender, I, undersigned <<Name of Signatory>>, in the capacity of <<Designation of \nSignatory>>, is authorized to give the undertaking on behalf of <<Name of the bidder>>."
+    },
+    {
+      "id": 8848,
+      "document_id": 12405,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025130113058172.pdf",
+      "chunk_index": 406,
+      "vector_rank": 2,
+      "keyword_rank": null,
+      "rrf_score": 0.016129032258064516,
+      "chunk_text": "Information regarding this tender: \na. Name & Designation: \nb. Full address of office \nc. Email ID & Contact No. \n8. We are uploading our Response to the RFP (Eligibility, technical and financial bid documents) \nas per the instructions set out in this RFP. \nYours Sincerely, \n \n(Signature) \n \nName of Authorized Signatory: Designation: \nDate: \nName of the bidder:"
+    },
+    {
+      "id": 9594,
+      "document_id": 12405,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025319155320485.pdf",
+      "chunk_index": 472,
+      "vector_rank": 3,
+      "keyword_rank": null,
+      "rrf_score": 0.015873015873015872,
+      "chunk_text": "Information regarding this tender: \na. Name & Designation: \nb. Full address of office \nc. Email ID & Contact No. \n8. We are uploading our Response to the RFP (Eligibility, technical and financial bid documents) \nas per the instructions set out in this RFP. \nYours Sincerely, \n \n(Signature) \n \nName of Authorized Signatory: Designation: \nDate: \nName of the bidder:"
+    },
+    {
+      "id": 2592,
+      "document_id": 1710,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202296152724468.pdf",
+      "chunk_index": 10,
+      "vector_rank": 4,
+      "keyword_rank": null,
+      "rrf_score": 0.015625,
+      "chunk_text": "Page 7 of 25 \n \nSection 2: Instruction to Bidders \n \n2.1 General Terms and Conditions: \n Tenders duly filled with full details shall be submitted on or before 00.00.2022 by \n1500 hours at the above address in sealed cover. If, due to any reason, holiday is \ndeclared on this day, the tender form should be sent in such a way that it reaches on \nthe next working day but within the previously set time.  \n The tenders received after the prescribed time limit shall not be taken into \nconsideration. \n The tenderer shall have to put initials at every correction made and on each page of \nthe tender. \n No conditional tenders shall be accepted and such tenders shall be treated as \nrejected.  \n The sealed cover shall be super scribed \"Tender for providing Vehicles on \nAnnual/Monthly Rate Contract” in readable red letters.  \n \n2.2 Tender Fee and EMD  \n The duly filled-in tender shall be accompanied by a demand draft towards the \npayment of EMD of Rs.24,000/- of any scheduled bank in favor of \"Gujarat \nInformatics Limited\" payable at Gandhinagar  towards the payment of EMD of the \ntender. No interest shall be paid on the deposit of the tender.  \n The tenders without accompanying demand drafts of the EMD shall be rejected.  \n No tenderer shall withdraw his rates after the tender is opened. If a tenderer does \nso, his tender deposit shall be forfeited and such tenderer shall be considered \nineligible for work/contract in future. \n The EMD of the unsuccessful bidders will be refunded within one month or after the \nL-1 bidder signs the agreement and submits the security deposit and the tender \ndeposit of the successful bidder will be refunded after submission of security deposit \nand signs of agreement. \n Necessary security deposit shall be deposited immediately within fifteen days of \nthe intimation to the tenderer whose tender has been accepted. The tender \ndeposit of the tenderer who does not do so, shall be forfeited and such tenderer"
+    },
+    {
+      "id": 16778,
+      "document_id": 22665,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202631814227432.pdf",
+      "chunk_index": 1,
+      "vector_rank": 5,
+      "keyword_rank": null,
+      "rrf_score": 0.015384615384615385,
+      "chunk_text": "representation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)\n \n\u0001बड संDया/Bid Number: GEM/2026/B/7327401\nAदनांक /Dated: 18-03-2026\n\u0001बड द&तावेज़ / Bid Document\n1 / 8"
+    },
+    {
+      "id": 2787,
+      "document_id": 1937,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2023131124018589.pdf",
+      "chunk_index": 10,
+      "vector_rank": 6,
+      "keyword_rank": null,
+      "rrf_score": 0.015151515151515152,
+      "chunk_text": "Page 7 of 25 \n \nSection 2: Instruction to Bidders \n \n2.1 General Terms and Conditions: \n Tenders duly filled with full details shall be submitted on or before 00.00.2023 by \n1500 hours at the above address in sealed cover. If, due to any reason, holiday is \ndeclared on this day, the tender form should be sent in such a way that it reaches on \nthe next working day but within the previously set time.  \n The tenders received after the prescribed time limit shall not be taken into \nconsideration. \n The tenderer shall have to put initials at every correction made and on each page of \nthe tender. \n No conditional tenders shall be accepted and such tenders shall be treated as \nrejected.  \n The sealed cover shall be super scribed \"Tender for providing Vehicles on \nAnnual/Monthly Rate Contract” in readable red letters.  \n \n2.2 Tender Fee and EMD  \n The duly filled-in tender shall be accompanied by a demand draft towards the \npayment of EMD of Rs.25,000/- of any scheduled bank in favor of \"Gujarat \nInformatics Limited\" payable at Gandhinagar  towards the payment of EMD of the \ntender. No interest shall be paid on the deposit of the tender.  \n The tenders without accompanying demand drafts of the EMD shall be rejected.  \n No tenderer shall withdraw his rates after the tender is opened. If a tenderer does \nso, his tender deposit shall be forfeited and such tenderer shall be considered \nineligible for work/contract in future. \n The EMD of the unsuccessful bidders will be refunded within one month or after the \nL-1 bidder signs the agreement and submits the security deposit and the tender \ndeposit of the successful bidder will be refunded after submission of security deposit \nand signs of agreement. \n Necessary security deposit shall be deposited immediately within fifteen days of \nthe intimation to the tenderer whose tender has been accepted. The tender \ndeposit of the tenderer who does not do so, shall be forfeited and such tenderer"
+    },
+    {
+      "id": 19710,
+      "document_id": 22750,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202681717175097.pdf",
+      "chunk_index": 1,
+      "vector_rank": 7,
+      "keyword_rank": null,
+      "rrf_score": 0.014925373134328358,
+      "chunk_text": "representation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)\n \n\u0001बड संAया/Bid Number: GEM/2026/B/7861173\n<दनांक /Dated: 17-08-2026\n\u0001बड द'तावेज़ / Bid Document\n1 / 8"
+    },
+    {
+      "id": 17477,
+      "document_id": 22695,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2026611114520518.pdf",
+      "chunk_index": 1,
+      "vector_rank": 8,
+      "keyword_rank": null,
+      "rrf_score": 0.014705882352941176,
+      "chunk_text": "representation during the tender/bid process will also be\ndisplayed to other participated bidders after log in)\n \n\u0001बड संAया/Bid Number: GEM/2026/B/7538860\n<दनांक /Dated: 11-06-2026\n\u0001बड द'तावेज़ / Bid Document\n1 / 7"
+    }
+  ],
+  "diagnostics": {
+    "retrieval": {
+      "total_candidates": 30,
+      "context_chunk_count": 8,
+      "top_k": 8,
+      "vector_matches": 30,
+      "keyword_matches": 0,
+      "failure_type": "unknown",
+      "reason": "No verified supporting evidence was provided.",
+      "recall_at_k": null,
+      "recommended_fix": "Assess evidence relevance or supply verified supporting chunk IDs."
+    },
+    "chunking": {
+      "status": "potential_issues_detected",
+      "analyzed_chunks": 8,
+      "issue_counts": {
+        "duplicate_chunk_text": 1,
+        "possible_incomplete_end": 5,
+        "possible_incomplete_start": 3
+      },
+      "chunk_reports": [
+        {
+          "chunk_id": 19570,
+          "document_id": 22736,
+          "chunk_index": 86,
+          "character_count": 239,
+          "whitespace_ratio": 0.1781,
+          "issues": [],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            19568,
+            19569,
+            19571,
+            19572
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 8848,
+          "document_id": 12405,
+          "chunk_index": 406,
+          "character_count": 349,
+          "whitespace_ratio": 0.1901,
+          "issues": [],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            8846,
+            8847,
+            8849,
+            8850
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 9594,
+          "document_id": 12405,
+          "chunk_index": 472,
+          "character_count": 349,
+          "whitespace_ratio": 0.1901,
+          "issues": [
+            "duplicate_chunk_text"
+          ],
+          "duplicate_of": 8848,
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9592,
+            9593,
+            9595,
+            9596
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 2592,
+          "document_id": 1710,
+          "chunk_index": 10,
+          "character_count": 1921,
+          "whitespace_ratio": 0.1894,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            2590,
+            2591,
+            2593,
+            2594
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 16778,
+          "document_id": 22665,
+          "chunk_index": 1,
+          "character_count": 211,
+          "whitespace_ratio": 0.1502,
+          "issues": [
+            "possible_incomplete_start",
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 3,
+          "neighbor_chunk_ids": [
+            16777,
+            16779,
+            16780
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 2787,
+          "document_id": 1937,
+          "chunk_index": 10,
+          "character_count": 1921,
+          "whitespace_ratio": 0.1894,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            2785,
+            2786,
+            2788,
+            2789
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 19710,
+          "document_id": 22750,
+          "chunk_index": 1,
+          "character_count": 211,
+          "whitespace_ratio": 0.1502,
+          "issues": [
+            "possible_incomplete_start",
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 3,
+          "neighbor_chunk_ids": [
+            19709,
+            19711,
+            19712
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 17477,
+          "document_id": 22695,
+          "chunk_index": 1,
+          "character_count": 211,
+          "whitespace_ratio": 0.1502,
+          "issues": [
+            "possible_incomplete_start",
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 3,
+          "neighbor_chunk_ids": [
+            17476,
+            17478,
+            17479
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        }
+      ],
+      "note": "Heuristic findings require inspection of source context. A missing neighbor can also indicate a document boundary."
+    },
+    "conflict": {
+      "status": "inconclusive",
+      "documents_analyzed": 7,
+      "total_conflicts": 0,
+      "document_reports": [
+        {
+          "document_id": "22736",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        },
+        {
+          "status": "insufficient_evidence",
+          "conflicts": [],
+          "summary": "The provided evidence contains only generic text from two PDF documents (Document IDs 12405) and does not include any specific details—such as title, dates, amounts, or conditions—related to Tender ID 12247. Consequently, there is no factual information available to identify or resolve any contradictions concerning that tender.",
+          "document_id": "12405",
+          "chunks_analyzed": 2
+        },
+        {
+          "document_id": "1710",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        },
+        {
+          "document_id": "22665",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        },
+        {
+          "document_id": "1937",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        },
+        {
+          "document_id": "22750",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        },
+        {
+          "document_id": "22695",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        }
+      ],
+      "note": "Conflict findings are model-generated hypotheses. Verify them against the original source documents."
+    },
+    "reasoning": {
+      "status": "supported",
+      "question": "Give me details of Tender id : 12247",
+      "generated_answer": "I’m sorry, but none of the provided documents contain any information related to a tender with the ID 12247. Therefore I cannot provide details for that tender from the supplied evidence.",
+      "chunks_analyzed": 8,
+      "findings": [],
+      "summary": "The answer correctly states that none of the retrieved documents contain information about tender ID 12247, which is consistent with the provided evidence.",
+      "recommended_fix": "None required.",
+      "note": "Reasoning findings are model-generated assessments and require source verification."
+    }
+  },
+  "diagnostic_summary": {
+    "warning_summary": {
+      "total_warnings": 9,
+      "chunking_warnings": 9,
+      "conflict_findings": 0,
+      "reasoning_findings": 0,
+      "chunking_issue_counts": {
+        "duplicate_chunk_text": 1,
+        "possible_incomplete_end": 5,
+        "possible_incomplete_start": 3
+      },
+      "reasoning_issue_counts": {}
+    },
+    "diagnostic_confidence": {
+      "level": "limited",
+      "explanation": "Some diagnostic checks are unknown or inconclusive. The overall assessment has incomplete evidence coverage.",
+      "check_coverage_percent": 50.0,
+      "total_checks": 4,
+      "passed_checks": 1,
+      "unresolved_checks": [
+        "retrieval",
+        "conflict"
+      ],
+      "flagged_checks": [
+        "chunking"
+      ],
+      "result_counts": {
+        "unknown": 1,
+        "warning": 1,
+        "inconclusive": 1,
+        "passed": 1
+      },
+      "note": "Confidence is a qualitative summary of diagnostic coverage, not a calibrated probability of correctness."
+    },
+    "check_details": {
+      "retrieval": {
+        "result": "unknown",
+        "explanation": "Retrieval cannot be evaluated without verified supporting evidence."
+      },
+      "chunking": {
+        "result": "warning",
+        "explanation": "9 potential chunking issues were reported. These are heuristic warnings."
+      },
+      "conflict": {
+        "result": "inconclusive",
+        "explanation": "The conflict analysis could not reach a conclusive result."
+      },
+      "reasoning": {
+        "result": "passed",
+        "explanation": "The LLM audit found the generated answer supported by the supplied evidence. This is not independent proof of correctness."
+      }
+    }
+  },
+  "overall_status": "no_confirmed_failure_detected"
+}

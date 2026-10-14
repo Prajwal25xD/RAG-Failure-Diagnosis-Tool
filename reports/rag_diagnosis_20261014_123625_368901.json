@@ -1,0 +1,355 @@
+{
+  "metadata": {
+    "started_at": "2026-10-14T12:34:24.501947",
+    "completed_at": "2026-10-14T12:36:25.368401",
+    "mode": "fast",
+    "question": "What are the eligibility requirements mentioned in the PDF for tender 12247?",
+    "document_id": "12247",
+    "model": "",
+    "embedding_model": "nomic-ai/nomic-embed-text-v1.5",
+    "embedding_column": "embedding_hf",
+    "candidate_count": 17,
+    "context_count": 8
+  },
+  "answer": {
+    "text": "**Eligibility requirements for tender 12247**\n\n| Requirement | Details (as stated in the bid document) | Source chunk(s) |\n|-------------|----------------------------------------|-----------------|\n| **Years of Past Experience Required** | 3 years of experience providing similar services to any Central/State Government organization or PSU. | [CHUNK ID: 5678] |\n| **MSE Exemption for Years of Experience** | Micro‑Small Enterprise (MSME) bidders are exempted from the 3‑year experience requirement, provided they meet quality and technical specifications. | [CHUNK ID: 5678] |\n| **Startup Exemption for Years of Experience** | Startup bidders are also exempted from the 3‑year experience requirement under the same conditions as MSME. | [CHUNK ID: 5678] |\n| **Experience Documentation** | Bidders must upload supporting documents (e.g., copies of relevant contracts/orders) proving their past experience when bidding. | [CHUNK ID: 5678] |\n| **Additional Experience Requirement (Technical Evaluation)** | The bidder must have experience for the number of years indicated in the bid document (ending March prior to bid opening) in providing similar services. | [CHUNK ID: 5681] |\n\nThese are the explicit eligibility criteria mentioned in the PDF for tender 12247.",
+    "error": null
+  },
+  "retrieved_chunks": [
+    {
+      "id": 5679,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 1,
+      "vector_rank": 1,
+      "keyword_rank": null,
+      "rrf_score": 0.01639344262295082,
+      "chunk_text": "Bid to RA enabled/\u0001बड से @रवस% नीलामी स95य 9कया\nYes\nRA Qualification Rule\nH1-Highest Priced Bid Elimination\nType of Bid/\u0001बड का Aकार\nTwo Packet Bid\nTime allowed for Technical Clarifications\nduring technical evaluation/तकनीक\u000f मूBयांकन के\nदौरान तकनीक\u000f 4पDीकरण हेतु अनुमत समय\n2 Days\nEvaluation Method/मूBयांकन पEित\nTotal value wise evaluation\nBid Details/\u0001बड \u0001ववरण\nEMD Detail/ईएमड\u0012 \u0001ववरण\nRequired/आवGयकता\nNo\nePBG Detail/ईपीबीजी \u0001ववरण\nRequired/आवGयकता\nNo\nSplitting/\u0001वभाजन\nBid splitting not applied/बोली \u0001वभाजन लागू नह\u0012ं 9कया गया.\nMII Compliance/एमआईआई अनुपालन\nMII Compliance/एमआईआई अनुपालन\nYes\nMSE Purchase Preference/एमएसई खर\u0012द वर\u0012यता\nMSE Purchase Preference/एमएसई खर\u0012द वर\u0012यता\nNo\n1. If the bidder is a Micro or Small Enterprise as per latest definitions under MSME rules, the bidder shall be\nexempted from the requirement of \"Bidder Turnover\" criteria and \"Experience Criteria\" subject to meeting of\nquality and technical specifications. If the bidder is OEM of the offered products, it would be exempted from the\n\"OEM Average Turnover\" criteria also subject to meeting of quality and technical specifications. In case any\nbidder is seeking exemption from Turnover / Experience Criteria, the supporting documents to prove his eligibility\nfor exemption must be uploaded for evaluation by the buyer.\n2. If the bidder is a Startup, the bidder shall be exempted from the requirement of \"Bidder Turnover\" criteria and\n\"Experience Criteria\" subject to their meeting of quality and technical specifications. If the bidder is OEM of the\noffered products, it would be exempted from the \"OEM Average Turnover\" criteria also subject to meeting of\nquality and technical specifications. In case any bidder is seeking exemption from Turnover / Experience Criteria,\nthe supporting documents to prove his eligibility for exemption must be uploaded for evaluation by the buyer. \n3. Years of Past Experience required: The bidder must have experience for number of years as indicated above in"
+    },
+    {
+      "id": 5681,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 3,
+      "vector_rank": 2,
+      "keyword_rank": null,
+      "rrf_score": 0.016129032258064516,
+      "chunk_text": "support of having provided services during each of the Financial year. \n4. Estimated Bid Value indicated above is being declared solely for the purpose of guidance on EMD amount and\nfor determining the Eligibility Criteria related to Turn Over, Past Performance and Project / Past Experience etc.\nThis has no relevance or bearing on the price to be quoted by the bidders and is also not going to have any\nimpact on bid participation. Also this is not going to be used as a criteria in determining reasonableness of\nquoted prices which would be determined by the buyer based on its own assessment of reasonableness and\nbased on competitive prices received in Bid / RA process. \n5. Reverse Auction would be conducted amongst all the technically qualified bidders except the Highest quoting\nbidder. The technically qualified Highest Quoting bidder will not be allowed to participate in RA. However, H-1\nwill also be allowed to participate in RA in following cases:\ni. If number of technically qualified bidders are only 2 or 3.\nii. If Buyer has chosen to split the bid amongst N sellers, and H1 bid is coming within N.\niii. In case Primary product of only one OEM is left in contention for participation in RA on elimination of H-1.\niv. If L-1 is non-MSE and H-1 is eligible MSE and H-1 price is coming within price band of 15% of Non-MSE L-1\nv. If L-1 is non-MII and H-1 is eligible MII and H-1 price is coming within price band of 20% of Non-MII L-1\nAdditional Qualification/Data Required/अित@रI योJयता /आवGयक डेटा\nAsset Details and its Distribution across the consignee /user locations:1723021148.pdf\nAnnual Maintenance Service - Desktops, Laptops And Peripherals - Desktop PC; Dell (\n108 )\nTechnical Specifications/तकनीक\u000f \u0001विश\u0001Dयाँ \nSpecification\nValues\nCore\nType of Asset\nDesktop PC\nMake/Brand of Assets\nDell\nStatus of Annual Maintenance Service Provider\nNeither OEM nor ASP\nPeriodicity of Preventive Maintenance Services\nMonthly\nOnsite Service Engineers Requirement\nAs Indicated in Bid"
+    },
+    {
+      "id": 5693,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 15,
+      "vector_rank": 3,
+      "keyword_rank": null,
+      "rrf_score": 0.015873015873015872,
+      "chunk_text": "In terms of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which\nshares a land border with India will be eligible to bid in this tender only if the bidder is registered with the Competent Authority. While participating in bid, Bidder has to\nundertake compliance of this and any false declaration and non-compliance of this would be a ground for immediate termination of the contract and further legal action\nin accordance with the laws./जेम क\u000f सामा*य शत0 के खंड 26 के संदभ% मT भारत के साथ भूिम सीमा साझा करने वाले देश के \u0001बडर से खर\u0012द\nपर Aितबंध के संबंध मT भारत के साथ भूिम सीमा साझा करने वाले देश का कोई भी \u0001बडर इस िन\u0001वदा मT \u0001बड देने के िलए तभी पा  होगा\nजब वह \u0001बड देने वाला स.म Aािधकार\u0012 के पास पंजीकृत हो।\u0001बड मT भाग लेते समय \u0001बडर को इसका अनुपालन करना होगा और कोई भी\nगलत घोषणा 9कए जाने व इसका अनुपालन न करने पर अनुबंध को त[काल समा\\ करने और कानून के अनुसार आगे क\u000f कानूनी कार%वाई\nका आधार होगा।\n12 / 13"
+    },
+    {
+      "id": 5680,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 2,
+      "vector_rank": 4,
+      "keyword_rank": null,
+      "rrf_score": 0.015625,
+      "chunk_text": "3. Years of Past Experience required: The bidder must have experience for number of years as indicated above in\nbid document (ending month of March prior to the bid opening) of providing similar type of services to any\nCentral / State Govt Organization / PSU. Copies of relevant contracts / orders to be uploaded along with bid in\n2 / 13"
+    },
+    {
+      "id": 5692,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 14,
+      "vector_rank": 5,
+      "keyword_rank": null,
+      "rrf_score": 0.015384615384615385,
+      "chunk_text": "10. Seeking experience from specific organization / department / institute only or from foreign / export\nexperience.\n11. Creating bid for items from irrelevant categories.\n12. Incorporating any clause against the MSME policy and Preference to Make in India Policy.\n13. Reference of conditions published on any external site or reference to external documents/clauses.\n14. Asking for any Tender fee / Bid Participation fee / Auction fee in case of Bids / Forward Auction, as the\ncase may be.\n15. Any ATC clause in contravention with GeM GTC Clause 4 (xiii)(h) will be invalid. In case of multiple L1\nbidders against a service bid, the buyer shall place the Contract by selection of a bidder amongst the L-1\nbidders through a Random Algorithm executed by GeM system.\nFurther, if any seller has any objection/grievance against these additional clauses or otherwise on any aspect of\nthis bid, they can raise their representation against the same by using the Representation window provided in\nthe bid details field in Seller dashboard after logging in as a seller within 4 days of bid publication on GeM. Buyer\nis duty bound to reply to all such representations and would not be allowed to open bids if he fails to reply to\nsuch representations.\nThis Bid is governed by the General Terms and Conditions/सामा*य िनयम और शतQ, conditons stipulated in Bid and\nService Level Agreement specific to this Service as provided in the Marketplace. However in case if any condition\nspecified in General Terms and Conditions/सामा*य िनयम और शतQ is contradicted by the conditions stipulated in\nService Level Agreement, then it will over ride the conditions in the General Terms and Conditions.\nIn terms of GeM GTC clause 26 regarding Restrictions on procurement from a bidder of a country which shares a land border with India, any bidder from a country which"
+    },
+    {
+      "id": 5678,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 0,
+      "vector_rank": 6,
+      "keyword_rank": null,
+      "rrf_score": 0.015151515151515152,
+      "chunk_text": "Bid Details/\u0001बड \u0001ववरण\nBid End Date/Time/\u0001बड बंद होने क\u000f तार\u0012ख/समय\n29-08-2024 17:00:00\nBid Opening Date/Time/\u0001बड खुलने क\u000f\nतार\u0012ख/समय\n29-08-2024 17:30:00\nBid Offer Validity (From End Date)/\u0001बड पेशकश\nवैधता (बंद होने क\u000f तार\u0012ख से)\n180 (Days)\nMinistry/State Name/मं ालय/रा!य का नाम\nGujarat\nDepartment Name/\u0001वभाग का नाम\nIndustries And Mines Department Gujarat\nOrganisation Name/संगठन का नाम\nIndustries And Mines\nOffice Name/काया%लय का नाम\nGandhinagar\nItem Category/मद केटेगर\u0012\nAnnual Maintenance Service - Desktops, Laptops and\nPeripherals - Desktop PC; Dell , Annual Maintenance Service\n- Desktops, Laptops and Peripherals - Desktop PC; Lenovo ,\nAnnual Maintenance Service - Desktops, Laptops and\nPeripherals - All In One PC; Lenovo , Annual Maintenance\nService - Desktops, Laptops and Peripherals - All In One PC;\nhp , Annual Maintenance Service - Desktops, Laptops and\nPeripherals - Printer (Monochrome , Laser , Composite\nCartridge ); Canon , Annual Maintenance Service - Desktops,\nLaptops and Peripherals - Multifunction Printer ( Ink Tank ,\nMono & Colour , High Range ); Epson , Annual Maintenance\nService - Desktops, Laptops and Peripherals - Printer ( Ink\nJet , Mono and Colour, Mid Range ); Epson , Annual\nMaintenance Service - Desktops, Laptops and Peripherals -\nScanner; Epson\nContract Period/अनुबंध अविध\n 1 Year(s)\nYears of Past Experience Required for\nsame/similar service/उ*ह\u0012ं/समान सेवाओं के िलए\nअपे-.त \u0001वगत अनुभव के वष%\n3 Year (s)\nMSE Exemption for Years Of\nExperience/अनुभव के वष0 से एमएसई छूट/\nYes\nStartup Exemption for Years Of\nExperience/अनुभव के वष0 से 4टाट%अप छूट/\nYes\nDocument required from seller/\u0001व5ेता से मांगे\nगए द4तावेज़\nExperience Criteria,Certificate (Requested in ATC)\n*In case any bidder is seeking exemption from Experience /\nTurnover Criteria, the supporting documents to prove his\neligibility for exemption must be uploaded for evaluation by\nthe buyer\n \nBid Number/बोली 5मांक (\u0001बड सं8या):\nGEM/2024/B/5169001\nDated/9दनांक : 08-08-2024\nBid Document/ \u0001बड द4तावेज़\n1 / 13"
+    },
+    {
+      "id": 5691,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 13,
+      "vector_rank": 7,
+      "keyword_rank": null,
+      "rrf_score": 0.014925373134328358,
+      "chunk_text": "Disclaimer/अ4वीकरण\nThe additional terms and conditions have been incorporated by the Buyer after approval of the Competent\nAuthority in Buyer Organization, whereby Buyer organization is solely responsible for the impact of these clauses\non the bidding process, its outcome, and consequences thereof including any eccentricity / restriction arising in\nthe bidding process due to these ATCs and due to modification of technical specifications and / or terms and\nconditions governing the bid. If any clause(s) is / are incorporated by the Buyer regarding following, the bid and\nresultant contracts shall be treated as null and void and such bids may be cancelled by GeM at any stage of\nbidding process without any notice:-\n1. Definition of Class I and Class II suppliers in the bid not in line with the extant Order / Office Memorandum\nissued by DPIIT in this regard.\n2. Seeking EMD submission from bidder(s), including via Additional Terms & Conditions, in contravention to\nexemption provided to such sellers under GeM GTC.\n3. Publishing Custom / BOQ bids for items for which regular GeM categories are available without any\nCategory item bunched with it.\n4. Creating BoQ bid for single item.\n5. Mentioning specific Brand or Make or Model or Manufacturer or Dealer name.\n6. Mandating submission of documents in physical form as a pre-requisite to qualify bidders.\n7. Floating / creation of work contracts as Custom Bids in Services.\n8. Seeking sample with bid or approval of samples during bid evaluation process. (However, in bids for\nattached categories, trials are allowed as per approved procurement policy of the buyer nodal Ministries)\n9. Mandating foreign / international certifications even in case of existence of Indian Standards without\nspecifying equivalent Indian Certification / standards.\n10. Seeking experience from specific organization / department / institute only or from foreign / export\nexperience.\n11. Creating bid for items from irrelevant categories."
+    },
+    {
+      "id": 5690,
+      "document_id": 12247,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202488145348280.pdf",
+      "chunk_index": 12,
+      "vector_rank": 8,
+      "keyword_rank": null,
+      "rrf_score": 0.014705882352941176,
+      "chunk_text": "1\nGamit Kunalkumar\nGovindbhai\n382010,Block No 5, 4th Floor,\nNew Sachivalay, Sector - 10\n1\nNumber of\nResident engineers\n: 0\nNumber of\ntechnicians : 0\nS.No./5.\nसं.\nConsignee\nReporting/Officer/\nपरे\u0001षती/@रपो9टMग\nअिधकार\u0012\nAddress/पता\nNumber of\neach Asset\nfor AMC\nAdditional\nRequirement/अित@रI\nआवGयकता\nBuyer Added Bid Specific Terms and Conditions/5ेता Oारा जोड़\u0012 गई \u0001बड क\u000f \u0001वशेष शतQ\n1. Generic\nOPTION CLAUSE: The buyer can increase or decrease the contract quantity or contract duration up to 25\npercent at the time of issue of the contract. However, once the contract is issued, contract quantity or\ncontract duration can only be increased up to 25 percent. Bidders are bound to accept the revised\nquantity or duration\n2. Buyer Added Bid Specific ATC\nBuyer Added text based ATC clauses\nThe bidder must have one service center in Ahmedabad / Gandhinagar. Document should be sub\nmitted\nISO 9001: 2000 or Higher version certificate. Document must be submitted.\n.\n3. Buyer Added Bid Specific ATC\nBuyer uploaded ATC document Click here to view the file.\n4. Generic\nBidder financial standing: The bidder should not be under liquidation, court receivership or similar\nproceedings, should not be bankrupt. Bidder to upload undertaking to this effect with bid.\n5. Certificates\nBidder's offer is liable to be rejected if they don't upload any of the certificates / documents sought in the\nBid document, ATC and Corrigendum if any.\n6. Service & Support\nDedicated /toll Free Telephone No. for Service Support : BIDDER/OEM  must have  Dedicated/toll Free\nTelephone No. for Service Support.\n7. Service & Support\nEscalation Matrix For Service Support : Bidder/OEM must provide  Escalation Matrix of Telephone Numbers\nfor Service Support.\n11 / 13"
+    }
+  ],
+  "diagnostics": {
+    "retrieval": {
+      "total_candidates": 17,
+      "context_chunk_count": 8,
+      "top_k": 8,
+      "vector_matches": 17,
+      "keyword_matches": 0,
+      "failure_type": "unknown",
+      "reason": "No verified supporting evidence was provided.",
+      "recall_at_k": null,
+      "recommended_fix": "Assess evidence relevance or supply verified supporting chunk IDs."
+    },
+    "chunking": {
+      "status": "potential_issues_detected",
+      "analyzed_chunks": 8,
+      "issue_counts": {
+        "possible_incomplete_end": 7,
+        "possible_incomplete_start": 1
+      },
+      "chunk_reports": [
+        {
+          "chunk_id": 5679,
+          "document_id": 12247,
+          "chunk_index": 1,
+          "character_count": 1968,
+          "whitespace_ratio": 0.1498,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 3,
+          "neighbor_chunk_ids": [
+            5678,
+            5680,
+            5681
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5681,
+          "document_id": 12247,
+          "chunk_index": 3,
+          "character_count": 1985,
+          "whitespace_ratio": 0.166,
+          "issues": [
+            "possible_incomplete_start",
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            5679,
+            5680,
+            5682,
+            5683
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5693,
+          "document_id": 12247,
+          "chunk_index": 15,
+          "character_count": 998,
+          "whitespace_ratio": 0.1952,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 3,
+          "neighbor_chunk_ids": [
+            5691,
+            5692,
+            5694
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5680,
+          "document_id": 12247,
+          "chunk_index": 2,
+          "character_count": 337,
+          "whitespace_ratio": 0.178,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            5678,
+            5679,
+            5681,
+            5682
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5692,
+          "document_id": 12247,
+          "chunk_index": 14,
+          "character_count": 1839,
+          "whitespace_ratio": 0.1659,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            5690,
+            5691,
+            5693,
+            5694
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5678,
+          "document_id": 12247,
+          "chunk_index": 0,
+          "character_count": 1988,
+          "whitespace_ratio": 0.1532,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 2,
+          "neighbor_chunk_ids": [
+            5679,
+            5680
+          ],
+          "previous_chunk_found": false,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5691,
+          "document_id": 12247,
+          "chunk_index": 13,
+          "character_count": 1973,
+          "whitespace_ratio": 0.1566,
+          "issues": [],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            5689,
+            5690,
+            5692,
+            5693
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 5690,
+          "document_id": 12247,
+          "chunk_index": 12,
+          "character_count": 1721,
+          "whitespace_ratio": 0.1607,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            5688,
+            5689,
+            5691,
+            5692
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        }
+      ],
+      "note": "Heuristic findings require inspection of source context. A missing neighbor can also indicate a document boundary."
+    },
+    "conflict": {
+      "status": "no_conflict_detected",
+      "documents_analyzed": 1,
+      "total_conflicts": 0,
+      "document_reports": [
+        {
+          "status": "no_conflict_detected",
+          "conflicts": [],
+          "summary": "All provided evidence consistently describes the eligibility requirements for tender 12247. The documents state that bidders must have a minimum of three years of past experience, with exemptions available for Micro‑Small Enterprises (MSE) and Startups regarding turnover and experience criteria. They also require supporting documentation for any claimed exemption. No contradictory dates, amounts or conditions were found across the chunks.",
+          "document_id": "12247",
+          "chunks_analyzed": 8
+        }
+      ],
+      "note": "Conflict findings are model-generated hypotheses. Verify them against the original source documents."
+    },
+    "reasoning": {
+      "status": "supported",
+      "question": "What are the eligibility requirements mentioned in the PDF for tender 12247?",
+      "generated_answer": "**Eligibility requirements for tender 12247**\n\n| Requirement | Details (as stated in the bid document) | Source chunk(s) |\n|-------------|----------------------------------------|-----------------|\n| **Years of Past Experience Required** | 3 years of experience providing similar services to any Central/State Government organization or PSU. | [CHUNK ID: 5678] |\n| **MSE Exemption for Years of Experience** | Micro‑Small Enterprise (MSME) bidders are exempted from the 3‑year experience requirement, provided they meet quality and technical specifications. | [CHUNK ID: 5678] |\n| **Startup Exemption for Years of Experience** | Startup bidders are also exempted from the 3‑year experience requirement under the same conditions as MSME. | [CHUNK ID: 5678] |\n| **Experience Documentation** | Bidders must upload supporting documents (e.g., copies of relevant contracts/orders) proving their past experience when bidding. | [CHUNK ID: 5678] |\n| **Additional Experience Requirement (Technical Evaluation)** | The bidder must have experience for the number of years indicated in the bid document (ending March prior to bid opening) in providing similar services. | [CHUNK ID: 5681] |\n\nThese are the explicit eligibility criteria mentioned in the PDF for tender 12247.",
+      "chunks_analyzed": 8,
+      "findings": [],
+      "summary": "All factual claims in the generated answer are directly supported by the supplied evidence.",
+      "recommended_fix": "None required.",
+      "note": "Reasoning findings are model-generated assessments and require source verification."
+    }
+  },
+  "diagnostic_summary": {
+    "warning_summary": {
+      "total_warnings": 8,
+      "chunking_warnings": 8,
+      "conflict_findings": 0,
+      "reasoning_findings": 0,
+      "chunking_issue_counts": {
+        "possible_incomplete_end": 7,
+        "possible_incomplete_start": 1
+      },
+      "reasoning_issue_counts": {}
+    },
+    "diagnostic_confidence": {
+      "level": "limited",
+      "explanation": "Some diagnostic checks are unknown or inconclusive. The overall assessment has incomplete evidence coverage.",
+      "check_coverage_percent": 75.0,
+      "total_checks": 4,
+      "passed_checks": 2,
+      "unresolved_checks": [
+        "retrieval"
+      ],
+      "flagged_checks": [
+        "chunking"
+      ],
+      "result_counts": {
+        "unknown": 1,
+        "warning": 1,
+        "passed": 2
+      },
+      "note": "Confidence is a qualitative summary of diagnostic coverage, not a calibrated probability of correctness."
+    },
+    "check_details": {
+      "retrieval": {
+        "result": "unknown",
+        "explanation": "Retrieval cannot be evaluated without verified supporting evidence."
+      },
+      "chunking": {
+        "result": "warning",
+        "explanation": "8 potential chunking issues were reported. These are heuristic warnings."
+      },
+      "conflict": {
+        "result": "passed",
+        "explanation": "No conflicts were detected in the analyzed evidence."
+      },
+      "reasoning": {
+        "result": "passed",
+        "explanation": "The LLM audit found the generated answer supported by the supplied evidence. This is not independent proof of correctness."
+      }
+    }
+  },
+  "overall_status": "no_confirmed_failure_detected"
+}

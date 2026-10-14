@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "started_at": "2026-10-14T11:17:10.189980",
+    "completed_at": "2026-10-14T11:18:34.179322",
+    "mode": "fast",
+    "question": "Where does Cement used.?",
+    "document_id": null,
+    "model": "",
+    "embedding_model": "nomic-ai/nomic-embed-text-v1.5",
+    "embedding_column": "embedding_hf",
+    "candidate_count": 31,
+    "context_count": 8
+  },
+  "answer": {
+    "text": "**Places where cement is used (according to the supplied documents)**  \n\n| Use / application | Evidence |\n|-------------------|----------|\n| **RCC (reinforced cement concrete) for trenches and pipe protection** – a bed of cement concrete (≈ 75 mm thick) is laid on PVC sheets before laying PLB HDPE ducts, then wrapped with MS weld mesh and poured again to form the required cross‑section. | [CHUNK 9023] |\n| **Curing of RCC** – after concreting in trenches, the surface must be cured with sufficient water so that it hardens properly. | [CHUNK 9024] |\n| **RCC for pipes and ducts** – the State/SIA may order that PLB HDPE ducts be encased in reinforced cement concrete as required by site conditions. | [CHUNK 9796], [CHUNK 9795] |\n| **Cement for RCC poles** – Portland cement (ordinary or rapid hardening) is used to make RCC poles, complying with IS:269; the mix ratio is 1:2:3 (cement:sand:aggregate). | [CHUNK 8956] |\n| **Pre‑cast concrete slabs and joint chambers** – pre‑cast slabs for joint chambers are made of cement concrete mix 1:2:4 (cement, coarse sand, stone aggregate) reinforced with steel wire fabric. The joint chamber itself is filled and back‑filled with the same mix. | [CHUNK 9811], [CHUNK 9039] |\n| **Route / joint indicators** – the pit for fixing indicators is concreting in a 1:2:4 cement concrete mix to form the indicator base. | [CHUNK 9811] |\n| **Plastering of internal surfaces** – internal surfaces and edges are plastered with cement mortar (ratio 1:3, cement:sand). | [CHUNK 9039] |\n\nThese entries show that cement is used throughout the project for:\n* forming protective concrete beds around ducts,\n* curing and strengthening RCC structures,\n* manufacturing RCC poles,\n* creating pre‑cast slabs and joint chambers,\n* constructing route/joint indicators, and\n* plastering internal surfaces.",
+    "error": null
+  },
+  "retrieved_chunks": [
+    {
+      "id": 9024,
+      "document_id": 12405,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025130113058172.pdf",
+      "chunk_index": 582,
+      "vector_rank": 11,
+      "keyword_rank": 2,
+      "rrf_score": 0.03021353930031804,
+      "chunk_text": "[SIGN OF BIDDER]                                                                                                                Page 349 of 440 \n \nThe strength of RCC is dependent on proper curing therefore, it is imperative that water content \nof RCC mix does not drain out into the surrounding soil. Portions where cement concreting has \nbeen carried out shall be cured with sufficient amount of water for reasonable time to harden the \nsurface. After curing, refilling of the balance depth of the trench has to be carried out with \nexcavated soil. \nThe PLB HDPE Ducts/RCC/GI Pipes shall be laid only in trenches accepted by State/SIA or his \nrepresentative. The PIA shall exercise due care to ensure that the PLB HDPE Ducts are not \nsubjected to any damage or strain. \nWater present in the trench at the time of laying the PLB HDPE Ducts shall be pumped out by the \nPIA before laying the pipes in the trench to ensure that no mud or water gets into the pipes, thus \nchoking it. \nIn case of nallahs, which are dry for nine months in a year, the PLB HDPE Ducts shall be laid \ninside the RCC Pipes laid at a minimum depth of 165 cm, as instructed by the State/SIA. The \nmechanical protection shall extend at least 5 meters beyond the bed of nallah on either side. \nNotwithstanding anything contained in clauses referred above, the State/SIA may order, based on \nspecial site requirements, that the PLB HDPE Ducts may be encased in reinforced cement \nconcrete, as detailed, ibid. While laying the pipes, a gap of 2 M is kept at convenient locations \napprox. 200 m apart and at the bends and turns, which will be used as manholes during OF cable \npulling. Ends of the PLB HDPE Ducts at the manholes shall be sealed using end caps after tying \nthe PP rope to the end caps to avoid choking of the pipes. In a similar manner, manholes shall be \nkept while approaching bridges, road crossings etc., as instructed by the State/SIA. The location \nof the manholes will be decided by the State/SIA"
+    },
+    {
+      "id": 9023,
+      "document_id": 12405,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025130113058172.pdf",
+      "chunk_index": 581,
+      "vector_rank": 1,
+      "keyword_rank": null,
+      "rrf_score": 0.01639344262295082,
+      "chunk_text": "Cement of a reputed company, 2: Coarse Sand, 4: Graded Coarse Stone aggregate of 20 mm \nnominal size, reinforced with MS weld mesh. As the RCC is cast at site, it is imperative to ensure \nthat special care is taken to see that proper curing arrangements are made with adequate supply \nof water. The PIA shall invariably use mechanical mixer at site for providing RCC protection, to \nensure consistency of the mix. \nFor carrying out concreting work in trenches, yellow PVC sheets of width not less than 1.0 M and \nof weight not less than 1 kg. Per 8 sq. meters shall be spread and nailed on sides of the trench to \nform trapezoidal section for concreting in the cleaned trench, to avoid seepage of water into the \nsoil. \nA bed of cement concrete mixture of appropriate width and 75 mm thickness shall be laid on the \nPVC sheet, before laying PLB HDPE ducts. The PLB HDPE Ducts shall then be laid above this \nbed of concrete. After laying the PLB HDPE Ducts, MS weld mesh is wrapped around and tied \nand concrete mix is poured to form the cross sectional dimensions as instructed by the State/SIA."
+    },
+    {
+      "id": 9796,
+      "document_id": 12405,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025319155320485.pdf",
+      "chunk_index": 674,
+      "vector_rank": null,
+      "keyword_rank": 1,
+      "rrf_score": 0.01639344262295082,
+      "chunk_text": "[SIGN OF BIDDER]                                                                                                                Page 397 of 487 \n \nIn case of nallahs, which are dry for nine months in a year, the PLB HDPE Ducts shall be laid \ninside the RCC Pipes laid at a minimum depth of 165 cm, as instructed by the State/SIA. The \nmechanical protection shall extend at least 5 meters beyond the bed of nallah on either side. \nNotwithstanding anything contained in clauses referred above, the State/SIA may order, based on \nspecial site requirements, that the PLB HDPE Ducts may be encased in reinforced cement \nconcrete, as detailed, ibid. While laying the pipes, a gap of 2 M is kept at convenient locations \napprox. 200 m apart and at the bends and turns, which will be used as manholes during OF cable \npulling. Ends of the PLB HDPE Ducts at the manholes shall be sealed using end caps after tying \nthe PP rope to the end caps to avoid choking of the pipes. In a similar manner, manholes shall be \nkept while approaching bridges, road crossings etc., as instructed by the State/SIA. The location \nof the manholes will be decided by the State/SIA \n \nWarning Tap : \nWarning tap to be laid in trench as per industry standard. Warning tape to be laid in dense area \nwhere in route markers installation at regular intervals are not practically feasible. \n \nLaying Protection Pipes on Bridges and Culverts: \n \nIn case trenching and pipe laying is not possible on the culverts, the pipes shall be laid on the \nsurface of the culverts/bridges after due permission from the State/SIA. Of late the bridge \nconstruction authorities are providing channel ducts on the footpaths on the bridges for various \nservices. The RCC/DWC/ G.I. Pipes can be laid in these ducts for pulling cables. However, for \nlaying cables on existing bridges, where duct arrangement does not exist, one of the following \nmethods may be adopted."
+    },
+    {
+      "id": 4432,
+      "document_id": 12179,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/202422913615665.pdf",
+      "chunk_index": 73,
+      "vector_rank": 2,
+      "keyword_rank": null,
+      "rrf_score": 0.016129032258064516,
+      "chunk_text": "38\n \n \n \n(iv) \nCement Concrete Foot Path Road: means the surface on Footpath / Road covered \nwith CC (Cement Concrete) with or without compacted strata below the surface, \nirrespective of thickness of cement concrete. \n \n5.1.2.2 Road Crossings: \n(i) \"Tarmac or Asphalt Road\" means the road surface, which is metaled by \nasphalt/tarmac normally having compacted strata below the metaled surface, \nirrespective of thickness of asphalt/tarmac. \n(ii) Kharanja Road: means road covered with various types of bricks with or without \ncompacted strata below the tiled road surface, irrespective of thickness of bricks. \n(iii) Tiled/CC Road: means road made of tiles of any type/stone slabs/bricks or CC road \nnormally having compacted strata below the tiled/CC surface, irrespective of \nthickness of tiles/CC. \n(iv) RCC Road: means the surface made of cement concrete duly reinforced with steel \nbars normally having compacted strata below RCC, irrespective of thickness of \nRCC. \n(v) WBM road: means water bound mecadam surface made of stone, metal and \ngravel and rolled with road roller. At road crossings, the trenches shall be so dug \nthat top of RCC pipe shall be at one-meter depth from ground level. \n \n5.1.2.3 Excavation of Trenches \nBefore excavation of trenches the route should be marked for trenching. Care should be \ntaken to see that the route of the trench to excavate is reasonably straight avoiding the \nexisting underground service. \n \nThe Bidder should take trial pits to locate the underground services before \ncommencement of actual trenching. These trial pits shall be 30 cms. wide, 120 cms. deep \nand 120 cms. long at right angles to the proposed trench at an interval of 20 to 50 Mtrs \nalong the proposed cable route. If a slab is encountered, the same may be removed and \ntrial pits may be made. \n \nIn city areas, the trench will normally follow the footpath or the road except where it \nmay have to come to the edge of carriage way or cutting across roads with the specific"
+    },
+    {
+      "id": 8956,
+      "document_id": 12405,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025130113058172.pdf",
+      "chunk_index": 514,
+      "vector_rank": 3,
+      "keyword_rank": null,
+      "rrf_score": 0.015873015873015872,
+      "chunk_text": "[SIGN OF BIDDER]                                                                                                                Page 306 of 440 \n \nconform strictly to the requirement of relevant INDIANSTANDARDS and latest \naddition of IS using the best quality of materials and workmanship. The Cement \nused in the manufacture of RCC Poles shall be of good quality and confirming \nto the relevant ISS either ordinary or rapid hardening Portland cement \nconforming to IS: 269. Aggregate used for the manufacture of RCC Poles shall \nconfirm to IS: \n383. Reinforcing bars and wires used in the manufacture of RCC Poles shall be \nas below: - \ni) \nMild steel and medium tensile steel bars and hard drawn steel wire \nconfirming to IS- 432/1960 \nii) \nThe steel of Tor-50 grades conforming to latest edition of IS: 1786 \niii) \nQuality of MS Rounds used for stirrups shall comply with the \nrequirements of IS:226 \n \nThe reinforcing bars used shall be of required length as per drawing and no joint \nshall be allowed. All joints and stirrups shall be welded properly. If no welded, \nthe lap length shall not be less than 40 times the  diameter of  the bars. The  \ncover  of concrete  over the reinforcement shall be 30mm under normal working \nconditions and shall not be under any circumstances less than 20mm. \nThe sand shall be of the quality fit for use in RCC works i.e., river sand and \nsieved and free from alkaline/acidic materials. The ratio of cement concrete shall \nbe 1:2:3 and shall comply with the requirements of IS:456. \nThe standards adopted for various materials manufacture shall be as follows: \ni) \nThe RCC poles shall conform to the requirement of IS:785/1964 \nii) \nThe quality of concrete shall be to the requirements of IS:456/1964 \niii) \nThe testing of proto-type poles shall be as per requirements of \nIS:2905/1966 \n \nThe RCC Poles shall be manufactured as per the drawing mentioned below. \nThe poles shall take working load 115 Kgs for 8.0/7.0 meters, long RCC pole"
+    },
+    {
+      "id": 9811,
+      "document_id": 12405,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025319155320485.pdf",
+      "chunk_index": 689,
+      "vector_rank": 4,
+      "keyword_rank": null,
+      "rrf_score": 0.015625,
+      "chunk_text": "pre-cast slab should be made of cement concrete mix of 1:2:4 (1: cement, 2: coarse sand, 4: stone \naggregate 6 mm nominal size) reinforced with steel wire fabric 75 x 25 mm mesh of weight not \nless than 7.75 Kg per sq. Meter. The joint chamber is filled with clean sand before closing. Back \nfilling of joint chamber pit with excavated soil shall be carried out in the end \nFixing of Route Indicators / Joint Indicators \n \nPits shall be dug 50 cm to 100 cm towards jungle side at every Manhole and Jointing chamber for \nfixing of Route/Joint Indicator. In addition, Route Indicators are also required to be placed where \nO.F. Cable changes directions like road crossing etc. \nThe pits for fixing the indicator shall be dug for a size of 60 cm x 60 cm and 75 cm (depth). \n \nThe indicator shall be secured in upright position by ramming with stone and murrum up to a depth \nof 60 cm and concreting in the ratio of 1:2:4 (1: cement, 2: coarse sand, 4 stone aggregate 20 mm \nnominal size) for the remaining portion of 15 cm. Necessary curing shall be carried out for the \nconcreted structure with sufficient amount of water for reasonable time to harden the structure. \nRCC/Pre cast Route Indicators"
+    },
+    {
+      "id": 9039,
+      "document_id": 12405,
+      "document_type": "bid_document",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025130113058172.pdf",
+      "chunk_index": 597,
+      "vector_rank": 5,
+      "keyword_rank": null,
+      "rrf_score": 0.015384615384615385,
+      "chunk_text": "should be plastered on all internal surfaces and top edges with cement mortar of 1:3 (1: cement, \n3: coarse sand), 12 mm thick finished with a floating coat of complete cement as per standard. \nPre-cast RCC slab with two handles to facilitate easy lifting, of size 0.7 m x 1.4 m and of thickness \nof 5 cm having one handle for each half in centre and word '’OFC' engraved on it are to be used \nto cover the joint chamber. Two numbers of such slabs are required for one joint chamber. This \npre-cast slab should be made of cement concrete mix of 1:2:4 (1: cement, 2: coarse sand, 4: stone \naggregate 6 mm nominal size) reinforced with steel wire fabric 75 x 25 mm mesh of weight not \nless than 7.75 Kg per sq. Meter. The joint chamber is filled with clean sand before closing. Back \nfilling of joint chamber pit with excavated soil shall be carried out in the end \nFixing of Route Indicators / Joint Indicators \n \nPits shall be dug 50 cm to 100 cm towards jungle side at every Manhole and Jointing chamber for \nfixing of Route/Joint Indicator. In addition, Route Indicators are also required to be placed where \nO.F. Cable changes directions like road crossing etc."
+    },
+    {
+      "id": 9795,
+      "document_id": 12405,
+      "document_type": "rfp",
+      "document_url": "https://gil.gujarat.gov.in/tendercms/TenderDocs/2025319155320485.pdf",
+      "chunk_index": 673,
+      "vector_rank": 6,
+      "keyword_rank": null,
+      "rrf_score": 0.015151515151515152,
+      "chunk_text": "soil. \nA bed of cement concrete mixture of appropriate width and 75 mm thickness shall be laid on the \nPVC sheet, before laying PLB HDPE ducts. The PLB HDPE Ducts shall then be laid above this \nbed of concrete. After laying the PLB HDPE Ducts, MS weld mesh is wrapped around and tied \nand concrete mix is poured to form the cross sectional dimensions as instructed by the State/SIA. \nThe strength of RCC is dependent on proper curing therefore, it is imperative that water content \nof RCC mix does not drain out into the surrounding soil. Portions where cement concreting has \nbeen carried out shall be cured with sufficient amount of water for reasonable time to harden the \nsurface. After curing, refilling of the balance depth of the trench has to be carried out with \nexcavated soil. \nThe PLB HDPE Ducts/RCC/GI Pipes shall be laid only in trenches accepted by State/SIA or his \nrepresentative. The PIA shall exercise due care to ensure that the PLB HDPE Ducts are not \nsubjected to any damage or strain. \nWater present in the trench at the time of laying the PLB HDPE Ducts shall be pumped out by the \nPIA before laying the pipes in the trench to ensure that no mud or water gets into the pipes, thus \nchoking it."
+    }
+  ],
+  "diagnostics": {
+    "retrieval": {
+      "total_candidates": 31,
+      "context_chunk_count": 8,
+      "top_k": 8,
+      "vector_matches": 30,
+      "keyword_matches": 2,
+      "failure_type": "unknown",
+      "reason": "No verified supporting evidence was provided.",
+      "recall_at_k": null,
+      "recommended_fix": "Assess evidence relevance or supply verified supporting chunk IDs."
+    },
+    "chunking": {
+      "status": "potential_issues_detected",
+      "analyzed_chunks": 8,
+      "issue_counts": {
+        "possible_incomplete_end": 4,
+        "possible_incomplete_start": 3
+      },
+      "chunk_reports": [
+        {
+          "chunk_id": 9024,
+          "document_id": 12405,
+          "chunk_index": 582,
+          "character_count": 1852,
+          "whitespace_ratio": 0.2355,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9022,
+            9023,
+            9025,
+            9026
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 9023,
+          "document_id": 12405,
+          "chunk_index": 581,
+          "character_count": 1083,
+          "whitespace_ratio": 0.19,
+          "issues": [],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9021,
+            9022,
+            9024,
+            9025
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 9796,
+          "document_id": 12405,
+          "chunk_index": 674,
+          "character_count": 1775,
+          "whitespace_ratio": 0.2339,
+          "issues": [],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9794,
+            9795,
+            9797,
+            9798
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 4432,
+          "document_id": 12179,
+          "chunk_index": 73,
+          "character_count": 1949,
+          "whitespace_ratio": 0.1822,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            4430,
+            4431,
+            4433,
+            4434
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 8956,
+          "document_id": 12405,
+          "chunk_index": 514,
+          "character_count": 1824,
+          "whitespace_ratio": 0.2364,
+          "issues": [
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            8954,
+            8955,
+            8957,
+            8958
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 9811,
+          "document_id": 12405,
+          "chunk_index": 689,
+          "character_count": 1178,
+          "whitespace_ratio": 0.1916,
+          "issues": [
+            "possible_incomplete_start",
+            "possible_incomplete_end"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9809,
+            9810,
+            9812,
+            9813
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 9039,
+          "document_id": 12405,
+          "chunk_index": 597,
+          "character_count": 1150,
+          "whitespace_ratio": 0.1916,
+          "issues": [
+            "possible_incomplete_start"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9037,
+            9038,
+            9040,
+            9041
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        },
+        {
+          "chunk_id": 9795,
+          "document_id": 12405,
+          "chunk_index": 673,
+          "character_count": 1202,
+          "whitespace_ratio": 0.1898,
+          "issues": [
+            "possible_incomplete_start"
+          ],
+          "neighbor_count": 4,
+          "neighbor_chunk_ids": [
+            9793,
+            9794,
+            9796,
+            9797
+          ],
+          "previous_chunk_found": true,
+          "next_chunk_found": true
+        }
+      ],
+      "note": "Heuristic findings require inspection of source context. A missing neighbor can also indicate a document boundary."
+    },
+    "conflict": {
+      "status": "inconclusive",
+      "documents_analyzed": 2,
+      "total_conflicts": 0,
+      "document_reports": [
+        {
+          "status": "no_conflict_detected",
+          "conflicts": [],
+          "summary": "The evidence consistently describes various uses of cement across multiple construction contexts—such as RCC poles, pre‑cast slabs, and concrete beds for HDPE ducts—but does not present any contradictory statements about the locations or purposes of cement application.",
+          "document_id": "12405",
+          "chunks_analyzed": 7
+        },
+        {
+          "document_id": "12179",
+          "status": "insufficient_evidence",
+          "chunks_analyzed": 1,
+          "conflicts": [],
+          "summary": "Fewer than two chunks available for comparison."
+        }
+      ],
+      "note": "Conflict findings are model-generated hypotheses. Verify them against the original source documents."
+    },
+    "reasoning": {
+      "status": "supported",
+      "question": "Where does Cement used.?",
+      "generated_answer": "**Places where cement is used (according to the supplied documents)**  \n\n| Use / application | Evidence |\n|-------------------|----------|\n| **RCC (reinforced cement concrete) for trenches and pipe protection** – a bed of cement concrete (≈ 75 mm thick) is laid on PVC sheets before laying PLB HDPE ducts, then wrapped with MS weld mesh and poured again to form the required cross‑section. | [CHUNK 9023] |\n| **Curing of RCC** – after concreting in trenches, the surface must be cured with sufficient water so that it hardens properly. | [CHUNK 9024] |\n| **RCC for pipes and ducts** – the State/SIA may order that PLB HDPE ducts be encased in reinforced cement concrete as required by site conditions. | [CHUNK 9796], [CHUNK 9795] |\n| **Cement for RCC poles** – Portland cement (ordinary or rapid hardening) is used to make RCC poles, complying with IS:269; the mix ratio is 1:2:3 (cement:sand:aggregate). | [CHUNK 8956] |\n| **Pre‑cast concrete slabs and joint chambers** – pre‑cast slabs for joint chambers are made of cement concrete mix 1:2:4 (cement, coarse sand, stone aggregate) reinforced with steel wire fabric. The joint chamber itself is filled and back‑filled with the same mix. | [CHUNK 9811], [CHUNK 9039] |\n| **Route / joint indicators** – the pit for fixing indicators is concreting in a 1:2:4 cement concrete mix to form the indicator base. | [CHUNK 9811] |\n| **Plastering of internal surfaces** – internal surfaces and edges are plastered with cement mortar (ratio 1:3, cement:sand). | [CHUNK 9039] |\n\nThese entries show that cement is used throughout the project for:\n* forming protective concrete beds around ducts,\n* curing and strengthening RCC structures,\n* manufacturing RCC poles,\n* creating pre‑cast slabs and joint chambers,\n* constructing route/joint indicators, and\n* plastering internal surfaces.",
+      "chunks_analyzed": 8,
+      "findings": [],
+      "summary": "All factual claims made in the answer are directly supported by at least one of the provided evidence chunks.",
+      "recommended_fix": "None required.",
+      "note": "Reasoning findings are model-generated assessments and require source verification."
+    }
+  },
+  "overall_status": "potential_chunking_issue"
+}
